@@ -9,4 +9,5 @@ We develop a multi-agent simulation in which LLMs, acting as agents representing
 We implement this simulation framework with both GPT-4o and Claude-3.5, and apply it for Chicago and Houston. 
 Our findings suggest that LLM agents are capable of approximating plausible collective preferences and responding to local context, while also displaying model-specific behavioral biases and modest divergences from optimization-based benchmarks. These capabilities underscore both promise and limitations of LLMs as tools for solving the alignment problem in transportation decision-making. 
 
-![Uploading framework.png…]()
+
+<img width="3694" height="1526" alt="image" src="https://github.com/user-attachments/assets/66780e72-af67-4cf7-a167-f31a410cb473" />
