@@ -1,0 +1,16 @@
+{
+  "community_area": "Sunnyside",
+  "thinking": {
+    "disposable_income": "Sunnyside has a median household income of approximately $33,000, significantly below Houston's average, with about 35% of residents living below the poverty line.",
+    "discretionary_consumption": "Given the low income levels, residents have limited discretionary spending capacity and are particularly sensitive to additional taxes and transportation costs.",
+    "accessibility": "The neighborhood has limited public transit options with longer travel times, while about 20% of households lack vehicle access, making both transit affordability and service quality crucial issues.",
+    "decision_rationale": "1. Prioritized policies with lower transit fares ($0.75) to maintain accessibility for transit-dependent residents. 2. Balanced lower sales tax rates (0.5-1.0%) to minimize impact on limited discretionary income. 3. Considered moderate driving fees ($0.50) to improve transit service without overly burdening car-dependent households. 4. Selected proposals that reduce transit travel times to under 57 minutes. 5. Avoided highest tax/fee combinations that would disproportionately impact low-income residents."
+  },
+  "vote": [
+    1,
+    0,
+    7,
+    8,
+    16
+  ]
+}

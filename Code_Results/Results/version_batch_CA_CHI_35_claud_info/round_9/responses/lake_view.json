@@ -1,0 +1,16 @@
+{
+  "community_area": "Lake View",
+  "thinking": {
+    "disposable_income": "Lake View is a relatively affluent area with median income of $100,625 and 50.2% of households making over $100,000. This suggests residents have higher disposable income and can better absorb transportation costs compared to other areas.",
+    "discretionary_consumption": "With high per capita income ($87,044), residents likely have significant discretionary spending. However, the high cost of living in Lake View means transportation costs still impact overall consumption patterns.",
+    "accessibility": "The area has excellent transit access with 36.9% using transit for commuting. 39.6% of households don't own vehicles, indicating strong transit dependency. The high density and mixed-use nature of Lake View makes both transit and driving viable options.",
+    "decision_rationale": "1. Prioritized policies that improve transit times given high transit usage (36.9%) and car-free households (39.6%). 2. Moderate fare increases acceptable given higher incomes. 3. Support for driving fees to fund transit improvements since only 24.8% drive alone. 4. Higher sales tax tolerable due to higher disposable incomes. 5. Balanced approach considering both transit and driving improvements since area has mixed transportation needs."
+  },
+  "vote": [
+    26,
+    23,
+    14,
+    20,
+    11
+  ]
+}

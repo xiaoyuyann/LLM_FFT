@@ -1,0 +1,16 @@
+{
+  "community_area": "Loop",
+  "thinking": {
+    "disposable_income": "The Loop is a relatively wealthy area with 61.3% of households earning over $100,000 annually. However, there's income diversity with about 20% earning under $50,000. This suggests most residents can absorb higher transportation costs, but policies should still consider lower-income residents.",
+    "discretionary_consumption": "Given the high income levels, residents likely have significant discretionary spending. The 1-1.5% sales tax impact would be notable given higher consumption levels, but manageable for most residents. The area has high retail density, so sales tax affects local shopping.",
+    "accessibility": "The Loop has excellent transit access and walkability, reflected in low car ownership (50.5% no vehicle) and travel patterns (20.6% transit, 27.3% walk/bike, only 21.3% drive alone). Most residents have multiple transportation options and aren't car-dependent.",
+    "decision_rationale": "1. Given high transit usage and low car dependency, prioritize policies that improve transit service while discouraging driving. 2. Higher income levels mean community can tolerate higher fees/taxes for better service. 3. Large walking/biking population benefits from reduced car traffic. 4. Selected policies balance service improvements with moderate cost increases. 5. Ranked proposals that combine higher driving fees with moderate transit fares to encourage mode shift while maintaining transit affordability."
+  },
+  "vote": [
+    23,
+    14,
+    20,
+    11,
+    2
+  ]
+}

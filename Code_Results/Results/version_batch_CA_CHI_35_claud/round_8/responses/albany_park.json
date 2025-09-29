@@ -1,0 +1,16 @@
+{
+  "community_area": "Albany Park",
+  "thinking": {
+    "disposable_income": "Albany Park has a median household income of around $53,000, lower than Chicago's average. About 16% of residents live below poverty level, indicating many residents have limited disposable income",
+    "discretionary_consumption": "Given the moderate-to-low income levels, residents are price-sensitive to both transit fares and sales taxes. Many households need to carefully budget discretionary spending",
+    "accessibility": "Well-served by CTA Brown Line, multiple bus routes, and major arterial roads. About 36% of residents use public transit for commuting, 45% drive, indicating balanced modal split. Many residents rely on both transit and driving",
+    "decision_rationale": "1. Prioritize lower transit fares and moderate taxes given income constraints. 2. Balance driving fees to improve transit service without overly burdening drivers. 3. Consider high transit usage rate in community. 4. Focus on proposals that reduce transit travel time while keeping costs manageable. 5. Selected proposals 10, 11, 19, 20, and 13 as they offer good balance of improved transit times, moderate costs, and reasonable driving conditions"
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "McKinley Park",
+  "thinking": {
+    "disposable_income": "McKinley Park is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, as these can impact their overall budget for other essential and discretionary expenses.",
+    "discretionary_consumption": "The community has a balanced level of discretionary consumption, with residents spending on a mix of necessities and non-essential goods. Any increase in transportation costs could reduce their ability to spend on discretionary items.",
+    "accessibility": "McKinley Park has decent access to public transit, but improvements in transit times and services could benefit the community. Many residents rely on both driving and public transit, so policies that improve transit times without significantly increasing costs are preferred.",
+    "decision_rationale": "Given the community's moderate disposable income and balanced discretionary consumption, policies that maintain or reduce transit fares and driving fees while slightly increasing sales tax are preferred. This approach minimizes the impact on residents' budgets while potentially improving transit services. Policies with a lower fare and moderate driving fee are prioritized to encourage transit use and reduce congestion. The selected policies aim to balance cost, transit time improvements, and overall accessibility."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

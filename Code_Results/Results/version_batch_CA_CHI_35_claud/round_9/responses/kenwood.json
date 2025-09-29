@@ -1,0 +1,16 @@
+{
+  "community_area": "Kenwood",
+  "thinking": {
+    "disposable_income": "Kenwood has a mixed-income population with a median household income around $45,000, though there are also affluent areas. About 20% of residents live below poverty line, so transportation costs are significant for many residents",
+    "discretionary_consumption": "Significant variation in discretionary spending power across neighborhood. Many residents are price-sensitive to both transit fares and sales tax increases. Higher-income areas have more flexibility in transportation choices",
+    "accessibility": "Well-served by CTA buses and Green Line, with good access to downtown. About 35% of residents rely on public transit for commuting. Relatively high car ownership rates compared to surrounding South Side communities. Close to Lake Shore Drive for drivers",
+    "decision_rationale": "1. Prioritize balanced policies that maintain transit affordability while improving service quality, given mixed income levels. 2. Lower transit fares preferred due to significant transit-dependent population. 3. Moderate driving fees acceptable as many residents have means to absorb costs. 4. Avoid highest sales tax options due to impact on local businesses and lower-income residents. 5. Selected policies that reduce transit travel times while keeping fares accessible"
+  },
+  "vote": [
+    11,
+    10,
+    4,
+    13,
+    1
+  ]
+}

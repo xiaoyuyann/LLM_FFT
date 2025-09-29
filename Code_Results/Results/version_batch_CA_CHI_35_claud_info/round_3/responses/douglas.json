@@ -1,0 +1,16 @@
+{
+  "community_area": "Douglas",
+  "thinking": {
+    "disposable_income": "Douglas has a relatively low median income of $43,528, with 54.3% of households earning less than $50,000 annually. This suggests limited disposable income for many residents, making them sensitive to additional transportation costs.",
+    "discretionary_consumption": "With a high percentage of low-income households, discretionary spending is likely limited. Higher sales taxes would significantly impact household budgets, especially considering 34.8% earn less than $25,000 annually.",
+    "accessibility": "44.4% of households have no vehicle, and 26.4% use transit for commuting. The community heavily relies on public transportation, with relatively high transit usage and walking/biking (8.4%). The mean commute time is 31.8 minutes.",
+    "decision_rationale": "1. Prioritized lower transit fares due to high transit dependency and low income levels. 2. Favored lower sales tax rates to protect discretionary spending of low-income households. 3. Supported moderate driving fees to improve transit service without overly burdening the 40.3% who drive alone. 4. Balanced travel time improvements with cost considerations. 5. Selected proposals that reduce transit travel time while keeping fares affordable."
+  },
+  "vote": [
+    1,
+    10,
+    4,
+    13,
+    19
+  ]
+}

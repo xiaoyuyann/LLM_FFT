@@ -1,0 +1,16 @@
+{
+  "community_area": "Langwood",
+  "thinking": {
+    "disposable_income": "Langwood has a median household income of around $45,000, which is below Houston's median, indicating residents are price-sensitive to transportation costs.",
+    "discretionary_consumption": "With modest income levels and significant housing costs, residents have limited discretionary spending capacity and are sensitive to both sales tax increases and transportation fees.",
+    "accessibility": "Langwood is car-dependent with limited transit access, located near Highway 290, and most residents rely on personal vehicles for commuting and daily activities.",
+    "decision_rationale": "1. Given car dependency and modest incomes, prioritize proposals with lower sales tax to preserve purchasing power. 2. Accept moderate driving fees to improve transit service while keeping fares low for those who need it. 3. Balance between travel time improvements and cost impacts. 4. Focus on proposals that don't overly burden drivers while still funding transit improvements. 5. Selected proposals that maintain reasonable transit fares for lower-income residents who depend on public transportation."
+  },
+  "vote": [
+    0,
+    2,
+    7,
+    6,
+    10
+  ]
+}

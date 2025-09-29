@@ -1,0 +1,16 @@
+{
+  "community_area": "Near North Side",
+  "thinking": {
+    "disposable_income": "The Near North Side is a relatively wealthy area with median income of $121,562 and 58.8% of households making over $100,000. This suggests residents have significant disposable income and can absorb moderate increases in transportation costs",
+    "discretionary_consumption": "With high per capita income ($118,674), residents likely have substantial discretionary spending. A higher sales tax would impact this spending, but the community can generally afford it for improved services",
+    "accessibility": "The area has excellent transit access with diverse transportation modes - 45.6% have no vehicle, 18.9% use transit, and 27.6% walk/bike. This suggests strong interest in transit service quality improvements",
+    "decision_rationale": "1. Given high incomes but heavy transit/walking usage, prioritized policies that improve transit times while accepting moderate cost increases. 2. Large car-free population suggests preference for transit improvements over driving optimizations. 3. High discretionary spending means sales tax impact is less concerning than service quality. 4. Selected policies that balance transit improvement with moderate rather than maximum fees to maintain affordability. 5. Considered that 20.9% still drive alone, so avoided most punitive driving fees"
+  },
+  "vote": [
+    23,
+    14,
+    22,
+    13,
+    20
+  ]
+}

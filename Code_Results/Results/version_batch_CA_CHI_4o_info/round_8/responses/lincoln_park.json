@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Park",
+  "thinking": {
+    "disposable_income": "Lincoln Park has a high median household income of $134,277 and a per capita income of $109,538, indicating a relatively high level of disposable income compared to other areas.",
+    "discretionary_consumption": "With 44.8% of households earning $150,000 and over, residents likely have significant discretionary spending power. However, a portion of the population (11.4%) earns less than $25,000, which should be considered when evaluating fare and fee impacts.",
+    "accessibility": "Lincoln Park has a high percentage of residents using transit (33.4%) and a significant portion working from home (24%). Car ownership is moderate, with 32.3% of households having no vehicle. This suggests a strong reliance on public transit and non-driving modes.",
+    "decision_rationale": "Given the high reliance on transit and the community's ability to absorb some cost increases, proposals that improve transit times and maintain reasonable costs are prioritized. A balance between fare, tax, and driving fees is crucial to ensure accessibility and affordability. Proposals with lower fares and moderate taxes are preferred to support transit improvements while considering the impact on lower-income residents. Driving fees are acceptable if they significantly reduce car travel times, benefiting both drivers and transit users by reducing congestion."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

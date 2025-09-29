@@ -1,0 +1,16 @@
+{
+  "community_area": "Independence Heights",
+  "thinking": {
+    "disposable_income": "Independence Heights has a median household income of approximately $33,000, significantly below Houston's average, indicating limited disposable income for transportation costs.",
+    "discretionary_consumption": "With about 35% of residents living below poverty level, discretionary spending is very limited and residents are highly sensitive to additional taxes and fees.",
+    "accessibility": "The neighborhood has moderate bus service coverage but limited rail access, with about 25% of households lacking vehicle access, making affordable transit options crucial.",
+    "decision_rationale": "1. Prioritized lower transit fares ($0.75) due to low income levels and high transit dependency. 2. Favored lower sales tax rates (0.5-1.0%) to minimize impact on essential purchases. 3. Considered moderate driving fees ($0.50) as compromise between revenue needs and cost burden. 4. Selected proposals that reduce transit travel times to improve accessibility. 5. Balanced need for service improvements with community's limited ability to pay additional costs."
+  },
+  "vote": [
+    7,
+    0,
+    6,
+    8,
+    1
+  ]
+}

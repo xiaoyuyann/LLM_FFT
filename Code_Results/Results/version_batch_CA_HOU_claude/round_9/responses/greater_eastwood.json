@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Eastwood",
+  "thinking": {
+    "disposable_income": "Greater Eastwood has a moderate median household income around $53,000, with about 20% of residents living below poverty level, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "The neighborhood has moderate discretionary spending capacity, with many working-class families needing to carefully budget transportation costs against other essential expenses.",
+    "accessibility": "The area has good access to downtown via multiple bus routes and the East End light rail line, with about 20% of residents using public transit for commuting, while most households own at least one car.",
+    "decision_rationale": "1) Prioritized proposals with lower transit fares ($0.75) to support transit-dependent residents 2) Favored moderate sales tax (1%) to balance transit funding with household budgets 3) Supported moderate driving fees ($0.50) to encourage transit use without overly burdening drivers 4) Considered travel time improvements for both transit and car users 5) Selected proposals that provide good transit service while maintaining affordability for working families"
+  },
+  "vote": [
+    7,
+    8,
+    16,
+    0,
+    1
+  ]
+}

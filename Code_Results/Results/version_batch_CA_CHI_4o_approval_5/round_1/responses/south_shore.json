@@ -1,0 +1,16 @@
+{
+  "community_area": "South Shore",
+  "thinking": {
+    "disposable_income": "South Shore has a moderate to low average disposable income, which means residents are sensitive to increases in costs related to transportation, such as fares and fees.",
+    "discretionary_consumption": "Given the moderate to low disposable income, discretionary consumption is limited. Residents prioritize essential spending, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "South Shore has moderate access to public transit, but improvements in transit times could enhance accessibility. Many residents rely on public transit, so policies that improve transit efficiency without significantly increasing costs are favorable.",
+    "decision_rationale": "Considering the moderate to low disposable income and reliance on public transit, policies with lower fares and moderate driver fees are preferred to encourage transit use and reduce congestion. A lower sales tax is also preferred to minimize the impact on discretionary spending. Therefore, policies that balance lower fares and moderate driver fees with reasonable transit times are prioritized."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

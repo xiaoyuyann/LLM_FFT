@@ -1,0 +1,16 @@
+{
+  "community_area": "West Town",
+  "thinking": {
+    "disposable_income": "West Town has a relatively high median household income around $95,000, with many young professionals and families. Residents have significant disposable income compared to city average, making them somewhat less sensitive to moderate fee/tax increases",
+    "discretionary_consumption": "Area has high discretionary spending at local businesses, restaurants, and entertainment. Residents frequently make both essential and non-essential trips. Higher sales tax would impact discretionary purchases but most households can absorb moderate increases",
+    "accessibility": "Well-served by CTA Blue Line, multiple bus routes, and bike lanes. Good mix of transit and driving options. Many residents use multiple transportation modes. Area has high walkability and bikeability scores. Close to downtown with relatively short commute times",
+    "decision_rationale": "1. Prioritized balanced proposals that improve transit service while keeping costs moderate, given area's mixed-mode usage and ability to absorb some cost increases. 2. Favored options with moderate driver fees to reduce congestion while maintaining reasonable driving costs. 3. Selected proposals with moderate sales tax (1%) that can fund transit improvements without overly impacting local business spending. 4. Preferred lower transit fares to encourage transit use given good existing service. 5. Balanced travel time improvements against cost increases, knowing residents value both time savings and cost efficiency"
+  },
+  "vote": [
+    13,
+    14,
+    10,
+    11,
+    4
+  ]
+}

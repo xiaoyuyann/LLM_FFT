@@ -1,0 +1,16 @@
+{
+  "community_area": "Roseland",
+  "thinking": {
+    "disposable_income": "Roseland has a relatively low median household income compared to other areas in Chicago, which means residents are more sensitive to increases in costs such as transit fares and driver fees.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, so any increase in transportation costs could significantly impact their ability to spend on other necessities.",
+    "accessibility": "Roseland has moderate access to public transit, but improvements in transit times could significantly benefit residents who rely on public transportation for commuting and accessing services.",
+    "decision_rationale": "Given the economic constraints of Roseland residents, the priority is to minimize costs while improving transit efficiency. Lower fares and taxes are preferred to reduce the financial burden. However, some increase in driver fees is acceptable if it leads to significant improvements in transit times, as this could encourage a shift from driving to transit, reducing congestion and emissions. The selected proposals balance these considerations by offering lower fares and moderate driver fees, with a focus on reducing transit times."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

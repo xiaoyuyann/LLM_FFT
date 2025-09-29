@@ -1,0 +1,16 @@
+{
+  "community_area": "East Side",
+  "thinking": {
+    "disposable_income": "East Side is a working-class community with median household income around $47,000, below Chicago's average. Many residents work in manufacturing and industrial jobs, with significant budget constraints",
+    "discretionary_consumption": "Limited discretionary spending capacity due to lower income levels. Residents are price-sensitive to additional taxes and fees. Many households need to carefully budget for basic necessities",
+    "accessibility": "Heavy reliance on both cars and public transit. Located on far South Side with some transit access via CTA buses and South Shore Line. Many residents commute to industrial jobs, some requiring car access. Limited walkability to amenities",
+    "decision_rationale": "1. Prioritize lower taxes and fees due to limited disposable income. 2. Need balance between transit and driving options since community uses both modes. 3. Favor proposals with lower transit fares to help transit-dependent residents. 4. Consider moderate driving fees to improve transit service without excessive burden. 5. Focus on options that reduce transit travel times to improve access to jobs"
+  },
+  "vote": [
+    9,
+    0,
+    3,
+    10,
+    12
+  ]
+}

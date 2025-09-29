@@ -1,0 +1,16 @@
+{
+  "community_area": "South Deering",
+  "thinking": {
+    "disposable_income": "South Deering has a median household income of approximately $31,200, which is significantly lower than Chicago's median. About 32% of residents live below poverty level, indicating limited disposable income for most residents",
+    "discretionary_consumption": "Given the low median income and high poverty rate, residents have very limited discretionary spending capacity. Many households spend a large portion of their income on basic necessities, making them particularly sensitive to any additional taxes or fees",
+    "accessibility": "The area is relatively isolated and transit-dependent, with limited access to retail and services. About 24% of households don't own vehicles. The area is served by several bus routes but has no L train service, resulting in longer transit times. Many residents rely on public transit for work commutes",
+    "decision_rationale": "1. Given low incomes, prioritize proposals with lower fares and taxes to preserve disposable income. 2. Consider proposals that improve transit times since many residents are transit-dependent. 3. Moderate driving fees are acceptable as they can fund transit improvements while affecting a smaller portion of residents. 4. Balance between service improvements and cost burden. 5. Selected proposals 0, 9, 1, 18, and 10 as they combine low fares ($0.75) with varying levels of funding through sales tax and driving fees, providing improved service while maintaining affordability for transit-dependent residents"
+  },
+  "vote": [
+    0,
+    9,
+    1,
+    18,
+    10
+  ]
+}

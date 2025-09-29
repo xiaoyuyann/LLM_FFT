@@ -1,0 +1,16 @@
+{
+  "community_area": "West Pullman",
+  "thinking": {
+    "disposable_income": "West Pullman is a community with a relatively lower median household income compared to the city average. This means that residents are more sensitive to increases in costs, whether through transit fares, driver fees, or sales taxes.",
+    "discretionary_consumption": "Given the lower disposable income, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "West Pullman has moderate access to public transit, but many residents rely on driving due to the spread-out nature of the area and the need to access jobs and services outside the community. Reducing travel time and costs for both transit and driving is crucial.",
+    "decision_rationale": "The goal is to balance affordability with improved transit services. Lower fares and driver fees are prioritized to minimize the financial burden on residents. A moderate sales tax is acceptable if it significantly improves transit services, as long as it doesn't overly burden residents' budgets. Proposals that reduce travel time for both transit and driving are favored to improve accessibility and quality of life."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

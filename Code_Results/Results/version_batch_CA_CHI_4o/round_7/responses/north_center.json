@@ -1,0 +1,16 @@
+{
+  "community_area": "North Center",
+  "thinking": {
+    "disposable_income": "North Center is a relatively affluent community with a higher median household income compared to the city average. Residents generally have more disposable income, which allows for some flexibility in absorbing additional costs from transportation policies.",
+    "discretionary_consumption": "The community has a high level of discretionary consumption, with residents spending on dining, entertainment, and other non-essential goods and services. This suggests that while residents can absorb some additional costs, they may prefer policies that do not significantly impact their discretionary spending.",
+    "accessibility": "North Center has good access to public transit, with several CTA bus routes and the Brown Line serving the area. Car ownership is also common, and the community benefits from relatively short travel times to downtown and other key areas.",
+    "decision_rationale": "Given the community's higher income and discretionary spending, policies that slightly increase costs but significantly improve transit times and reduce congestion are favorable. A moderate sales tax is acceptable if it leads to better transit services. Lower transit fares are preferred to encourage public transit use, but a reasonable driving fee is acceptable to reduce congestion. The focus is on balancing cost with improved service and reduced travel times."
+  },
+  "vote": [
+    13,
+    10,
+    14,
+    19,
+    22
+  ]
+}

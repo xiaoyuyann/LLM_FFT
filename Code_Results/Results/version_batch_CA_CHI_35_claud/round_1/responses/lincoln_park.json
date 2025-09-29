@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Park",
+  "thinking": {
+    "disposable_income": "Lincoln Park is one of Chicago's most affluent neighborhoods with median household income over $115,000. Residents have high disposable income and can generally afford higher transportation costs",
+    "discretionary_consumption": "High levels of discretionary spending on retail, dining, and entertainment. The community has significant retail corridors and residents tend to make frequent trips for shopping and leisure activities",
+    "accessibility": "Well-served by public transit with multiple L lines (Brown, Purple, Red) and bus routes. High car ownership rates but also high walkability and biking infrastructure. Many residents commute downtown for work",
+    "decision_rationale": "1. Given high incomes, can tolerate higher taxes/fees to fund better transit service. 2. Many residents use mix of driving and transit, so balanced improvements to both modes is valuable. 3. Reducing congestion through driver fees would benefit neighborhood streets. 4. Higher transit investment justified by existing high transit usage. 5. Ranked proposals that balance travel time improvements across modes while accepting moderate cost increases. 6. Prioritized options with 1.0-1.5% tax rates to fund robust transit service. 7. Selected proposals with moderate to high driver fees to manage congestion"
+  },
+  "vote": [
+    23,
+    14,
+    26,
+    20,
+    11
+  ]
+}

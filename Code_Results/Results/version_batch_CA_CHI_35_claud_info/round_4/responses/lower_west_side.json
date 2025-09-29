@@ -1,0 +1,16 @@
+{
+  "community_area": "Lower West Side",
+  "thinking": {
+    "disposable_income": "Median household income is $69,810, with about 37.7% households earning less than $50,000. This suggests moderate disposable income but significant population segment that may be price-sensitive to transportation costs",
+    "discretionary_consumption": "Given the income distribution and average household size of 2.4, many families likely have limited discretionary spending. Higher sales taxes would impact household budgets, especially for lower-income residents",
+    "accessibility": "Mixed transportation profile with 43.8% driving alone, 24.5% using transit, and 23.8% no vehicle households. Good balance of transit and driving needs to be considered. Location provides decent access to downtown and other areas",
+    "decision_rationale": "1. Prioritized lower sales tax (0.5%) to protect discretionary spending power. 2. Balanced fare structures around $1.25 to maintain transit service quality without overburdening transit-dependent residents. 3. Moderate driving fees ($0.50) to improve transit times without excessive impact on driving households. 4. Selected proposals that reduce transit travel times to benefit the 24.5% transit users. 5. Considered the significant no-vehicle population (23.8%) needing affordable transit options"
+  },
+  "vote": [
+    4,
+    1,
+    13,
+    10,
+    7
+  ]
+}

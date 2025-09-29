@@ -1,0 +1,16 @@
+{
+  "community_area": "North Lawndale",
+  "thinking": {
+    "disposable_income": "North Lawndale has a relatively low median household income compared to other areas in Chicago, which means residents have limited disposable income.",
+    "discretionary_consumption": "Due to lower income levels, discretionary spending is limited, and residents are sensitive to increases in costs related to transportation, taxes, and fees.",
+    "accessibility": "North Lawndale has moderate access to public transit, but improvements in transit services could significantly benefit the community by reducing travel times and increasing access to employment and services.",
+    "decision_rationale": "Given the limited disposable income, it is crucial to minimize additional financial burdens on residents. Therefore, lower transit fares and driver fees are preferred. However, improving transit accessibility and reducing travel times is also important. Balancing these factors, proposals with lower fares and moderate driver fees that significantly reduce travel times are prioritized. A moderate sales tax is acceptable if it leads to better transit services, as long as it does not overly burden residents. The selected proposals aim to provide a balance between affordability and improved transit services."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

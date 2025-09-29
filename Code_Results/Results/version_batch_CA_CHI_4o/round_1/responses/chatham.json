@@ -1,0 +1,16 @@
+{
+  "community_area": "Chatham",
+  "thinking": {
+    "disposable_income": "Chatham has a moderate level of disposable income, with many residents working in middle-income jobs. The community is sensitive to changes in transportation costs, as a significant portion of income is allocated to essential expenses.",
+    "discretionary_consumption": "Discretionary consumption in Chatham is limited, with residents prioritizing essential goods and services. Any increase in transportation costs could significantly impact the ability to spend on non-essential items.",
+    "accessibility": "Chatham has moderate accessibility to resources and services. Public transit is a crucial mode of transportation for many residents, but driving is also common. Improvements in transit times could benefit the community, but not at the expense of significantly higher costs.",
+    "decision_rationale": "Given the moderate disposable income and limited discretionary consumption, Chatham residents would benefit from policies that balance lower costs with improved transit times. A lower transit fare and moderate driver fees could encourage more transit use, reducing congestion and emissions. However, a high sales tax would disproportionately affect residents' ability to spend on other necessities. Therefore, proposals with lower fares and moderate driver fees, combined with a reasonable sales tax, are prioritized. The goal is to improve transit efficiency without imposing excessive financial burdens on the community."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

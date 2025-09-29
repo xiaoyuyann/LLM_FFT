@@ -1,0 +1,16 @@
+{
+  "community_area": "Kenwood",
+  "thinking": {
+    "disposable_income": "Kenwood has a median income of $58,052 and a per capita income of $55,311. A significant portion of the population earns less than $25,000, indicating a need to consider affordability in transportation costs.",
+    "discretionary_consumption": "With 27.4% of households earning less than $25,000, affordability is crucial. The community may be sensitive to increases in transit fares and driver fees, as these could impact their ability to spend on other necessities.",
+    "accessibility": "33.1% of households do not own a vehicle, and 23.1% use transit, highlighting the importance of maintaining affordable and efficient public transportation options. The community also has a significant portion of residents working from home, which may reduce daily transportation needs.",
+    "decision_rationale": "Given the high percentage of residents without vehicles and those using transit, policies that improve transit times without significantly increasing costs are prioritized. Lower fares and moderate driver fees are preferred to balance affordability and service improvement. A lower sales tax is also favored to minimize the impact on discretionary spending. The selected policies aim to reduce travel times for both transit and driving, while keeping costs manageable for the community."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

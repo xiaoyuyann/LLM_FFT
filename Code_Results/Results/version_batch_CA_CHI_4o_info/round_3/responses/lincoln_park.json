@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Park",
+  "thinking": {
+    "disposable_income": "Lincoln Park has a high median household income of $134,277 and a per capita income of $109,538, indicating a relatively high level of disposable income compared to other areas.",
+    "discretionary_consumption": "With 44.8% of households earning $150,000 and over, residents likely have significant discretionary spending power. However, 11.4% of households earn less than $25,000, suggesting some income diversity.",
+    "accessibility": "Lincoln Park has a high percentage of residents using transit (33.4%) and a significant portion working from home (24.0%). Car ownership is moderate, with 32.3% of households having no vehicle, indicating a reliance on public transit and non-car modes of transportation.",
+    "decision_rationale": "Given the high reliance on public transit and the relatively high disposable income, policies that improve transit times and maintain or reduce costs are prioritized. A lower transit fare is beneficial for the significant portion of the population using transit. A moderate sales tax is acceptable given the high income levels, as it supports better transit services. Driver fees are considered to reduce congestion and improve transit times, which is beneficial for the community's transit users. The selected policies balance improved transit service with reasonable costs, considering the community's income diversity and transportation preferences."
+  },
+  "vote": [
+    11,
+    10,
+    14,
+    13,
+    19
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "community_area": "South Shore",
+  "thinking": {
+    "disposable_income": "South Shore has a moderate to low average disposable income, with many residents relying on public transportation for commuting. The community is sensitive to increases in costs that could impact their overall budget for essential and discretionary spending.",
+    "discretionary_consumption": "The community's discretionary consumption is limited, with a significant portion of income allocated to essential expenses. Any increase in transportation costs could reduce the ability to spend on non-essential goods and services.",
+    "accessibility": "South Shore has decent access to public transportation, but improvements in transit times and reliability could significantly benefit the community. Many residents depend on public transit, so policies that enhance transit services without significantly increasing costs are preferred.",
+    "decision_rationale": "Given the community's reliance on public transit and sensitivity to cost increases, policies with lower fares and moderate taxes are preferred. A balance between improving transit services and maintaining affordability is crucial. Policies with higher driver fees are acceptable if they lead to reduced congestion and improved transit times, benefiting the majority of residents who use public transit."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19,
+    20
+  ]
+}

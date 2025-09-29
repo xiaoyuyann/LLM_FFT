@@ -1,0 +1,16 @@
+{
+  "community_area": "Edison Park",
+  "thinking": {
+    "disposable_income": "Edison Park has a relatively high median income of $120,024 and a per capita income of $57,872. A significant portion of the population earns over $100,000, indicating a strong disposable income base.",
+    "discretionary_consumption": "With a high income level, residents likely have substantial discretionary spending. However, a notable portion of the population earns less than $50,000, so affordability of transit and driving fees is still a consideration.",
+    "accessibility": "The majority of residents drive alone (69.1%), with only 8.4% using transit. Car ownership is high, with 61% owning two or more vehicles. This suggests that while transit improvements are beneficial, driving remains the primary mode of transportation.",
+    "decision_rationale": "Given the high car ownership and preference for driving, policies that reduce driving time and cost are prioritized. However, improving transit is also important to provide alternatives and reduce congestion. A balance between low transit fares and moderate driver fees is ideal to encourage transit use without overly burdening drivers. A lower sales tax is preferred to maintain discretionary spending. Therefore, proposals with moderate driver fees, lower transit fares, and lower sales taxes are prioritized."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    4
+  ]
+}

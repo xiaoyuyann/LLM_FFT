@@ -1,0 +1,16 @@
+{
+  "community_area": "Avalon Park",
+  "thinking": {
+    "disposable_income": "Avalon Park is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, as these can impact their overall budget for other essential and discretionary expenses.",
+    "discretionary_consumption": "The community has a balanced level of discretionary consumption, with residents spending on a mix of necessities and non-essential goods. Any increase in transportation costs could reduce their ability to spend on discretionary items.",
+    "accessibility": "Avalon Park has moderate access to public transit, with some reliance on personal vehicles. Improving transit times and reducing congestion are important, but cost increases must be carefully considered to avoid burdening residents.",
+    "decision_rationale": "Given the community's moderate income and balanced discretionary spending, policies that maintain or slightly reduce transit fares while improving transit times are preferred. A moderate sales tax is acceptable if it significantly enhances transit services. Driver fees should be considered if they effectively reduce congestion and improve transit times without excessively increasing costs for drivers. The selected policies aim to balance cost, accessibility, and service improvement."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Uptown",
+  "thinking": {
+    "disposable_income": "Uptown has a mixed-income population with median household income around $53,000. About 23% of residents live below poverty level. Many residents are cost-sensitive and rely on public transportation.",
+    "discretionary_consumption": "Given the income levels, many residents have limited discretionary spending. Higher sales taxes would impact household budgets significantly. The area has many renters and working-class families who need to carefully manage transportation costs.",
+    "accessibility": "Uptown has excellent transit access with Red Line L, multiple bus routes, and is relatively walkable. About 35% of households don't own cars. The area has high transit usage for commuting. Many residents rely on transit to access jobs downtown and other areas.",
+    "decision_rationale": "1. Prioritize low transit fares and moderate taxes given income constraints and high transit reliance. 2. Support some driving fees to improve transit service and reduce congestion. 3. Balance between transit improvement and cost burden. 4. Consider proposals that reduce transit travel times. 5. Favor options that maintain transit affordability while generating revenue for service improvements. Selected proposals optimize these factors while keeping costs manageable for lower-income residents."
+  },
+  "vote": [
+    10,
+    11,
+    1,
+    19,
+    20
+  ]
+}

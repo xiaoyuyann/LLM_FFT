@@ -1,0 +1,16 @@
+{
+  "community_area": "Pullman",
+  "thinking": {
+    "disposable_income": "Pullman is a community with a moderate to low average income level. Residents are sensitive to changes in transportation costs, as these can significantly impact their disposable income.",
+    "discretionary_consumption": "Given the moderate to low income levels, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could reduce their ability to spend on non-essential items.",
+    "accessibility": "Pullman has moderate access to public transit, but improvements in transit times could significantly benefit residents who rely on public transportation. Car ownership is not as high as in other areas, so transit improvements are crucial.",
+    "decision_rationale": "The decision-making process focuses on minimizing costs while improving transit times. Lower fares and taxes are preferred to maintain disposable income, but some increase in driver fees is acceptable if it leads to better transit services and reduced congestion. The goal is to find a balance that improves transit accessibility without significantly increasing the financial burden on residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

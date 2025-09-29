@@ -1,0 +1,16 @@
+{
+  "community_area": "O'Hare",
+  "thinking": {
+    "disposable_income": "O'Hare is a community with a moderate to high disposable income, given its proximity to the airport and associated employment opportunities.",
+    "discretionary_consumption": "Residents likely have a moderate level of discretionary consumption, with spending on travel, dining, and other services being significant due to the area's connectivity and economic activity.",
+    "accessibility": "O'Hare has excellent accessibility to resources and services, primarily due to its location near a major airport and associated transit options, though transit times can be lengthy.",
+    "decision_rationale": "Given the community's moderate to high disposable income, a slightly higher sales tax could be acceptable if it significantly improves transit times. Reducing car travel time is also important due to the high volume of traffic around the airport. Therefore, proposals that balance a moderate fare and tax with reduced travel times are prioritized. The community would benefit from improved transit services to reduce congestion and emissions, while maintaining reasonable costs for both transit users and drivers."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

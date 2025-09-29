@@ -1,0 +1,16 @@
+{
+  "community_area": "Douglas",
+  "thinking": {
+    "disposable_income": "Douglas has a median household income lower than the city average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, leaving less room for discretionary consumption.",
+    "accessibility": "Douglas has moderate access to public transit, with several bus and train lines, but travel times are relatively long compared to driving.",
+    "decision_rationale": "Given the limited disposable income, lower transit fares and driver fees are prioritized to minimize financial burden. A lower sales tax is also preferred to preserve discretionary spending. However, improving transit times is crucial for accessibility, so some trade-off with slightly higher fees is acceptable if it significantly reduces travel time. The selected proposals balance affordability with improved transit efficiency, considering the community's reliance on public transportation and limited income."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

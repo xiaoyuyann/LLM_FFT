@@ -1,0 +1,16 @@
+{
+  "community_area": "Douglas",
+  "thinking": {
+    "disposable_income": "Douglas is a community with a moderate to low average disposable income. Residents are sensitive to increases in costs related to transportation, as it can significantly impact their overall budget.",
+    "discretionary_consumption": "The community has limited discretionary consumption, meaning that any increase in transportation costs could reduce spending on other essential goods and services.",
+    "accessibility": "Douglas has moderate access to public transit, but improvements in transit times could significantly benefit the community. Many residents rely on public transportation, so lower fares and improved services are crucial.",
+    "decision_rationale": "Given the moderate to low disposable income and limited discretionary consumption, policies with lower transit fares and minimal increases in sales tax are preferred. Additionally, reducing travel times for both transit and driving is important. Therefore, policies that offer a balance between lower fares, reasonable sales tax, and improved transit times are prioritized. Policies with higher driver fees are acceptable if they significantly improve transit times, as this could encourage a shift from driving to transit, benefiting the community by reducing congestion and emissions."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

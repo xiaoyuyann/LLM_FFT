@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Heights",
+  "thinking": {
+    "disposable_income": "Washington Heights has a moderate to low average disposable income, with many residents relying on public transportation for commuting. The community is sensitive to changes in transportation costs.",
+    "discretionary_consumption": "The community's discretionary consumption is limited, with a significant portion of income allocated to essential expenses. Any increase in transportation costs could impact the ability to spend on non-essential goods and services.",
+    "accessibility": "Washington Heights has decent access to public transportation, but travel times are relatively long. Improving transit efficiency and reducing costs would benefit the community significantly.",
+    "decision_rationale": "Given the moderate to low disposable income and reliance on public transit, proposals with lower fares and moderate taxes are prioritized. Reducing travel time is also important, but not at the expense of significantly higher costs. A balance between affordability and improved transit service is crucial. Proposals with a $0.75 fare and moderate driver fees are preferred to encourage a shift from driving to transit, reducing congestion and emissions. A 1% sales tax is acceptable if it results in better transit services without overly burdening residents."
+  },
+  "vote": [
+    10,
+    11,
+    13,
+    19,
+    20
+  ]
+}

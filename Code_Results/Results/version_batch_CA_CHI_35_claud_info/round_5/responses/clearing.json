@@ -1,0 +1,16 @@
+{
+  "community_area": "Clearing",
+  "thinking": {
+    "disposable_income": "Clearing has a median household income of $73,778, with 33.5% of households making $100,000+. However, 32.8% earn less than $50,000, indicating a mix of income levels that need consideration for transportation costs",
+    "discretionary_consumption": "With a moderate median income and varied household sizes (average 2.8), residents have moderate discretionary spending power. Higher transportation costs could significantly impact the 32.8% lower-income households",
+    "accessibility": "74.1% drive alone to work, 6.9% use transit, and 92% of households own at least one car. Mean commute time is 31.9 minutes, suggesting good car accessibility but room for transit improvement",
+    "decision_rationale": "1. Prioritize policies that maintain reasonable driving costs since majority drive. 2. Consider moderate tax rates to balance transit improvement with household budget impact. 3. Support policies that reduce commute times for both drivers and transit users. 4. Avoid highest driving fees due to car-dependent nature of community. 5. Balance transit improvement needs with affordability for lower-income residents"
+  },
+  "vote": [
+    21,
+    13,
+    4,
+    10,
+    3
+  ]
+}

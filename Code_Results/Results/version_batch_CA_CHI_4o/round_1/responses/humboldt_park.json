@@ -1,0 +1,16 @@
+{
+  "community_area": "Humboldt Park",
+  "thinking": {
+    "disposable_income": "Humboldt Park has a median household income lower than the city average, indicating limited disposable income. Residents are sensitive to increases in costs, whether through fares, fees, or taxes.",
+    "discretionary_consumption": "With limited disposable income, discretionary spending is constrained. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Humboldt Park has moderate access to public transit, but travel times are longer compared to driving. Improving transit efficiency and affordability is crucial for residents who rely on it.",
+    "decision_rationale": "Given the community's limited disposable income, proposals with lower fares and taxes are preferred to minimize financial strain. However, improving transit efficiency is also important to reduce travel times. Balancing these factors, proposals with moderate driver fees are considered to encourage a shift from driving to transit, potentially reducing congestion and emissions. The selected proposals aim to enhance transit service while keeping costs manageable for residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

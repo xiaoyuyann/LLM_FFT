@@ -1,0 +1,16 @@
+{
+  "community_area": "West Garfield Park",
+  "thinking": {
+    "disposable_income": "West Garfield Park has a median income of $36,360 and a per capita income of $18,503. A significant portion of the population earns less than $25,000, indicating limited disposable income.",
+    "discretionary_consumption": "With 42.2% of households earning less than $25,000, discretionary spending is likely constrained. Any increase in transportation costs could significantly impact the community's ability to spend on other necessities.",
+    "accessibility": "38.7% of households do not have a vehicle, and 27.9% of residents use transit. Improving transit accessibility and affordability is crucial for this community, as a large portion relies on public transportation.",
+    "decision_rationale": "Given the community's low income and high reliance on public transit, policies that minimize fare increases and support transit improvements are prioritized. A lower sales tax is preferred to avoid further financial strain. Driver fees are considered to reduce congestion and improve transit times, benefiting the significant transit-using population. The selected policies aim to balance affordability, transit efficiency, and minimal impact on discretionary spending."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Calumet Heights",
+  "thinking": {
+    "disposable_income": "The median income in Calumet Heights is $68,436, with a per capita income of $39,867. A significant portion of the population earns less than $50,000, indicating a moderate level of disposable income.",
+    "discretionary_consumption": "With 20.6% of households earning less than $25,000, a substantial portion of the community may have limited discretionary spending. The community needs to balance transportation costs with other essential expenses.",
+    "accessibility": "52.3% of residents drive alone, while 19.5% use transit. Car ownership is relatively high, with 80.6% of households owning at least one vehicle. Accessibility to resources is moderately reliant on both driving and transit.",
+    "decision_rationale": "Given the moderate disposable income and the need to balance costs, proposals with lower fares and moderate taxes are preferred. Reducing travel time is also important to improve accessibility. Proposals with a higher driver fee can encourage transit use, reducing congestion and emissions. The community's reliance on both driving and transit suggests a need for balanced policies that do not overly burden either mode."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

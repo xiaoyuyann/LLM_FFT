@@ -1,0 +1,16 @@
+{
+  "community_area": "Morgan Park",
+  "thinking": {
+    "disposable_income": "Morgan Park has a mixed income profile with median income of $71,683. About 39.5% of households earn less than $50,000, while 34.7% earn over $100,000. This suggests careful consideration of fare and tax impacts across income levels.",
+    "discretionary_consumption": "With per capita income of $39,283, residents have moderate discretionary spending power. Higher sales taxes would impact all residents, particularly the 39.5% lower-income households who have less flexible budgets.",
+    "accessibility": "88.7% of households have at least one vehicle, with 64.9% driving alone to work. Only 9.5% use transit, suggesting heavy car dependency. However, maintaining transit affordability is important for the 11.3% of households without vehicles.",
+    "decision_rationale": "1. Prioritized lower sales tax (0.5%) to protect discretionary spending power across income levels. 2. Moderate driving fees ($0.50) to improve transit without overly burdening the car-dependent majority. 3. Varied transit fares based on service improvements. 4. Selected proposals that balance travel time improvements with cost impacts. 5. Considered the needs of both drivers (73.8% drive/carpool) and transit users (9.5%)."
+  },
+  "vote": [
+    4,
+    1,
+    7,
+    13,
+    10
+  ]
+}

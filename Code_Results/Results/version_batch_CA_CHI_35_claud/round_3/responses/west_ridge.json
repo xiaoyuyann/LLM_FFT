@@ -1,0 +1,16 @@
+{
+  "community_area": "West Ridge",
+  "thinking": {
+    "disposable_income": "West Ridge has a median household income of around $54,000, slightly below Chicago's median. About 19% of residents live below poverty level. The community has a significant immigrant population with varying income levels",
+    "discretionary_consumption": "Given the moderate income levels and high cost of living in Chicago, residents have limited discretionary spending. Many households need to carefully budget for transportation costs alongside other essential expenses",
+    "accessibility": "The area has moderate transit access with several bus routes and proximity to Red Line stations. Car ownership is relatively high at about 75% of households. Many residents commute to work using both public transit and private vehicles. The community has a mix of transit-dependent and car-dependent residents",
+    "decision_rationale": "1. Prioritize proposals with lower sales tax (0.5-1.0%) to preserve discretionary income for mixed-income population. 2. Balance moderate transit fares ($1.25) with service improvements to help transit-dependent residents. 3. Support modest driving fees ($0.50) to improve transit without overly burdening drivers. 4. Focus on proposals that reduce transit travel times to benefit commuters. 5. Consider proposals that maintain reasonable driving costs for car-dependent households. Selected proposals 4, 13, 10, 1, and 3 as they best balance these factors for West Ridge's mixed transportation needs"
+  },
+  "vote": [
+    4,
+    13,
+    10,
+    1,
+    3
+  ]
+}

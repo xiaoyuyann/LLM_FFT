@@ -1,0 +1,16 @@
+{
+  "community_area": "Near South Side",
+  "thinking": {
+    "disposable_income": "The Near South Side has a high median household income of $124,558 and a per capita income of $94,087, indicating a relatively affluent community with significant disposable income.",
+    "discretionary_consumption": "With 43.7% of households earning $150,000 and over, the community likely has a high level of discretionary consumption. The impact of transit fares and driver fees on disposable income is less significant compared to lower-income areas.",
+    "accessibility": "22.7% of residents use transit, and 41.9% drive alone. The community has a balanced use of transit and driving, with a significant portion of residents working from home. Accessibility improvements in transit could benefit a substantial portion of the population.",
+    "decision_rationale": "Given the high income levels, the community can absorb higher transit fares and driver fees if they result in better services and reduced travel times. A lower sales tax is preferred to maintain discretionary spending. Proposals with moderate to high driver fees and transit fares, combined with lower sales taxes, are prioritized to improve transit services and reduce congestion, benefiting both transit users and drivers."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

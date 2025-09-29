@@ -1,0 +1,16 @@
+{
+  "community_area": "Meyerland",
+  "thinking": {
+    "disposable_income": "Meyerland is a middle to upper-middle-class neighborhood with a relatively high disposable income compared to other areas in Houston.",
+    "discretionary_consumption": "Residents in Meyerland have a moderate to high level of discretionary consumption, often spending on housing, education, and leisure activities.",
+    "accessibility": "Meyerland has decent accessibility to resources and services, with a mix of car and transit options, though car travel is more prevalent due to convenience and speed.",
+    "decision_rationale": "Given the higher disposable income, Meyerland residents can afford a moderate increase in sales tax and transit fares if it results in significantly improved transit services. However, the community values efficient car travel due to its convenience. Therefore, proposals that reduce car travel time and improve transit times without drastically increasing costs are preferred. A balance between maintaining reasonable costs and improving transit efficiency is crucial. Proposals with a moderate sales tax (1%) and a mix of fare and driving fees that lead to reduced travel times are prioritized."
+  },
+  "vote": [
+    11,
+    10,
+    3,
+    19,
+    13
+  ]
+}

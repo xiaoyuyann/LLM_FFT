@@ -1,0 +1,16 @@
+{
+  "community_area": "Roseland",
+  "thinking": {
+    "disposable_income": "The median income in Roseland is $49,808, with a significant portion of the population earning less than $50,000. This suggests limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With a per capita income of $24,754, residents have limited discretionary spending. Policies that minimize additional costs, such as lower fares and taxes, would be beneficial to maintain their current consumption levels.",
+    "accessibility": "A significant portion of the community relies on driving (53.9%) and transit (20.1%) for commuting. Improving transit times and maintaining affordable fares are crucial for accessibility, especially for the 25.9% of households without a vehicle.",
+    "decision_rationale": "Given the limited disposable income and reliance on both driving and transit, the community would benefit from policies that reduce travel time and cost. Lower fares and moderate driver fees can improve transit services and reduce congestion, benefiting both drivers and transit users. A lower sales tax is preferred to minimize the impact on discretionary consumption. The selected policies balance these factors, prioritizing reduced travel times and costs while considering the community's financial constraints."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

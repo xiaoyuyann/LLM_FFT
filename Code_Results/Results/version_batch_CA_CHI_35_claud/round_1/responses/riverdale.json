@@ -1,0 +1,16 @@
+{
+  "community_area": "Riverdale",
+  "thinking": {
+    "disposable_income": "Riverdale has one of the lowest median household incomes in Chicago at around $13,795. About 45% of households live below the poverty line, making residents highly sensitive to any cost increases.",
+    "discretionary_consumption": "Very limited discretionary spending capacity due to high poverty rates. Most income goes to basic necessities. Any additional transportation costs or sales tax would significantly impact already strained household budgets.",
+    "accessibility": "High transit dependency with about 35% of households having no vehicle access. The area is served by CTA buses and the Metra Electric line but faces longer travel times and limited service frequency. Many residents rely on public transit to access jobs and essential services.",
+    "decision_rationale": "1. Given very low incomes, prioritize lowest combined costs (fare + tax). 2. Need good transit service due to high transit dependency. 3. Lower fares are critical for frequent transit users. 4. Driving fees less impactful since car ownership is low. 5. Selected policies balance maintaining transit service while minimizing costs to low-income residents. Ranked proposals that keep fares low ($0.75) and moderate tax rates to sustain basic service. Driving fees acceptable as most residents use transit."
+  },
+  "vote": [
+    0,
+    9,
+    1,
+    10,
+    18
+  ]
+}

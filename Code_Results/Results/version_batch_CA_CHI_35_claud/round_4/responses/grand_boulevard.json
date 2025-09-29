@@ -1,0 +1,16 @@
+{
+  "community_area": "Grand Boulevard",
+  "thinking": {
+    "disposable_income": "Grand Boulevard has a lower median household income around $30,000, with about 39% of residents living below poverty level. This indicates limited disposable income and high sensitivity to cost increases.",
+    "discretionary_consumption": "Given the income levels, discretionary spending is limited. Many residents rely on essential purchases and are price-sensitive to both sales tax increases and transportation costs.",
+    "accessibility": "The area has good transit access with Green and Red Line stations. About 42% of households don't own vehicles and rely heavily on public transit. The community has relatively high transit dependency.",
+    "decision_rationale": "1. Given low incomes, prioritize proposals with lower fares and taxes to preserve disposable income. 2. High transit dependency means transit service quality is crucial. 3. Lower driving fees are less impactful since car ownership is low. 4. Proposal 0 ranks first with lowest tax/fare burden while maintaining service. 5. Proposals 9 and 1 balance moderate taxes with low fares. 6. Proposals 3 and 10 provide reasonable transit times with manageable cost increases."
+  },
+  "vote": [
+    0,
+    9,
+    1,
+    3,
+    10
+  ]
+}

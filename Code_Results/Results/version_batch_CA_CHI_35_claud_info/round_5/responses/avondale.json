@@ -1,0 +1,16 @@
+{
+  "community_area": "Avondale",
+  "thinking": {
+    "disposable_income": "Mixed-income community with 43.5% making $100k+ but also 32.6% under $50k. About 15.6% are low-income (<$25k), suggesting need to be mindful of transit costs",
+    "discretionary_consumption": "Given the income distribution, many residents have moderate to high discretionary spending power, but significant portion needs to watch transportation costs. Sales tax impact varies significantly across income groups",
+    "accessibility": "Good mix of transportation options - 19.8% no car, 48.2% one car. 21.5% use transit and 49.7% drive alone for commuting. Need balance between transit service quality and costs",
+    "decision_rationale": "1. Prioritize proposals balancing moderate taxes with improved transit times given mixed income levels. 2. Consider high transit usage (21.5%) and car-free households (19.8%). 3. Moderate driving fees acceptable as 72.9% have 1+ cars. 4. Lower fares important for lower-income residents. 5. Selected proposals that reduce transit times without excessive cost burden. Ranked based on best overall benefit-cost ratio for community's mixed needs"
+  },
+  "vote": [
+    11,
+    20,
+    13,
+    4,
+    1
+  ]
+}

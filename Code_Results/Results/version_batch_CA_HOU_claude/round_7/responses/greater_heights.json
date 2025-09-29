@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Heights",
+  "thinking": {
+    "disposable_income": "Greater Heights residents have relatively high disposable income with median household income around $110,000, indicating capacity to absorb moderate transportation cost increases.",
+    "discretionary_consumption": "The neighborhood has high discretionary spending power evidenced by numerous boutique shops, restaurants, and entertainment venues, suggesting residents can manage higher taxes and fees.",
+    "accessibility": "The area has good road access but limited transit options, with most residents relying on cars while having interest in better transit connectivity to downtown and other employment centers.",
+    "decision_rationale": "1) Prioritized balanced proposals that improve transit service while keeping driving viable given current car dependency. 2) Selected moderate tax rates (1.0-1.5%) that can fund transit improvements without excessive burden on high discretionary spending. 3) Favored proposals with $0.75-$1.25 transit fares to encourage ridership. 4) Included modest driving fees ($0.50-$1.00) to manage congestion while reflecting ability to pay. 5) Focused on options that reduce both transit and driving times significantly from current levels."
+  },
+  "vote": [
+    17,
+    8,
+    20,
+    11,
+    19
+  ]
+}

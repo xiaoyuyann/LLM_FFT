@@ -1,0 +1,16 @@
+{
+  "community_area": "South Shore",
+  "thinking": {
+    "disposable_income": "South Shore has a median household income of approximately $31,000, significantly below Chicago's median. About 32% of households live below poverty level, indicating limited disposable income for many residents",
+    "discretionary_consumption": "Given the low median income, discretionary spending is limited. Many households spend a large portion of income on necessities like housing and transportation. Higher taxes or fees would significantly impact household budgets",
+    "accessibility": "South Shore has good transit access with Metra Electric and CTA bus routes. About 35% of households don't own vehicles and rely on public transit. The area has relatively high transit dependency compared to city average",
+    "decision_rationale": "1. Given low incomes, prioritize low transit fares and taxes to maintain affordability. 2. Support policies that improve transit service while keeping costs low for transit-dependent residents. 3. Moderate driving fees acceptable to fund transit improvements since many residents use transit. 4. Balance between service improvements and cost burden on low-income households. 5. Consider policies that reduce travel times for both transit and car users while maintaining affordability"
+  },
+  "vote": [
+    0,
+    9,
+    1,
+    10,
+    3
+  ]
+}

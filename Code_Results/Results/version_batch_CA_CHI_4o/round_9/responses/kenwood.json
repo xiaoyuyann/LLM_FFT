@@ -1,0 +1,16 @@
+{
+  "community_area": "Kenwood",
+  "thinking": {
+    "disposable_income": "Kenwood is a diverse community with a mix of middle to upper-middle-income residents. The disposable income varies, but many residents have a moderate level of disposable income.",
+    "discretionary_consumption": "Residents in Kenwood have a moderate level of discretionary consumption, with spending on housing, education, and leisure activities being significant.",
+    "accessibility": "Kenwood has good access to public transportation, with several bus routes and proximity to the Metra Electric Line. Car ownership is moderate, and many residents rely on public transit for commuting.",
+    "decision_rationale": "Given the moderate disposable income and reliance on public transit, policies with lower transit fares and moderate driver fees are preferred to maintain affordability. A moderate sales tax is acceptable if it significantly improves transit services. Reducing travel time is also a priority to enhance accessibility. Therefore, proposals with lower fares and moderate driver fees, which also reduce travel times, are prioritized. The tradeoff between fare, tax, and driver fee is balanced to ensure affordability while improving transit services."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

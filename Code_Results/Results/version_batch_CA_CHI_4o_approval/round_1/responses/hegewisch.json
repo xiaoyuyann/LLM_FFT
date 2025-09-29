@@ -1,0 +1,16 @@
+{
+  "community_area": "Hegewisch",
+  "thinking": {
+    "disposable_income": "Hegewisch is a working-class neighborhood with moderate disposable income levels. Residents are sensitive to increases in costs, whether through taxes, fares, or fees.",
+    "discretionary_consumption": "The community has limited discretionary consumption, with a focus on essential goods and services. Any increase in transportation costs could significantly impact their budget for other necessities.",
+    "accessibility": "Hegewisch has limited public transit options, making car travel a necessity for many residents. Improving transit times could benefit those who rely on public transportation, but not at the expense of significantly higher costs.",
+    "decision_rationale": "Given the moderate income levels and limited discretionary spending, policies with lower fares and taxes are preferred to minimize financial strain. However, improving transit times is also important. Therefore, policies that balance lower costs with improved transit times are prioritized. A moderate increase in driver fees is acceptable if it significantly reduces car travel time, as this could benefit those who drive. The focus is on maintaining affordability while enhancing transit efficiency."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

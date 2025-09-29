@@ -1,0 +1,16 @@
+{
+  "community_area": "West Ridge",
+  "thinking": {
+    "disposable_income": "West Ridge has a median income of $68,091 and a per capita income of $32,132. The income distribution shows a significant portion of the population earning less than $50,000, which suggests that affordability is a key concern for many residents.",
+    "discretionary_consumption": "With a diverse income distribution, a substantial portion of the community may have limited discretionary spending. Policies that increase costs significantly could impact their ability to spend on other necessities.",
+    "accessibility": "The community has a high percentage of residents who drive alone (59.2%), but also a notable portion using transit (12.5%). Improving transit times and affordability could benefit those who rely on public transportation, while also potentially reducing congestion for drivers.",
+    "decision_rationale": "Given the income distribution and transportation preferences, the community would benefit from policies that balance affordability with improved transit services. Lower fares and moderate driver fees could encourage more transit use, reducing congestion and emissions. A moderate sales tax is acceptable if it significantly improves transit services. The selected policies aim to reduce travel times for both transit and driving, while keeping costs manageable for residents."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

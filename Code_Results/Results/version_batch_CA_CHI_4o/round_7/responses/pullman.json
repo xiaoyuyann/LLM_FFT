@@ -1,0 +1,16 @@
+{
+  "community_area": "Pullman",
+  "thinking": {
+    "disposable_income": "Pullman is a community with a moderate level of disposable income. Many residents are working-class, and affordability is a key concern.",
+    "discretionary_consumption": "The community has limited discretionary spending, with a significant portion of income going towards essential expenses like housing, food, and transportation.",
+    "accessibility": "Pullman has moderate access to public transit, with some reliance on driving. Improving transit times could benefit residents who rely on public transportation.",
+    "decision_rationale": "Given the moderate disposable income, lower transit fares and driver fees are preferred to minimize the financial burden on residents. A lower sales tax is also favored to maintain discretionary spending. However, improving transit times is crucial for accessibility. Therefore, proposals that balance lower costs with improved transit times are prioritized. Proposals with a $0.75 fare and moderate driver fees are preferred, as they offer a good balance of affordability and improved transit service. A 1% sales tax is acceptable if it significantly improves transit times, but a 1.5% tax is too burdensome."
+  },
+  "vote": [
+    10,
+    11,
+    1,
+    19,
+    20
+  ]
+}

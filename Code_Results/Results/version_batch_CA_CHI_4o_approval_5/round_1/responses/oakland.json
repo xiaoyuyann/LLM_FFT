@@ -1,0 +1,16 @@
+{
+  "community_area": "Oakland",
+  "thinking": {
+    "disposable_income": "Oakland is a community with moderate to low disposable income levels. Residents are sensitive to increases in costs, whether through taxes, transit fares, or driving fees.",
+    "discretionary_consumption": "Given the moderate to low disposable income, discretionary consumption is limited. Residents prioritize essential goods and services, and any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Oakland has moderate accessibility to resources and services. Public transit is a crucial mode of transportation for many residents, and improvements in transit services could enhance accessibility.",
+    "decision_rationale": "Considering the moderate to low disposable income, it is important to keep costs low for residents. Therefore, proposals with lower transit fares and driving fees are preferred. However, some increase in sales tax might be acceptable if it significantly improves transit services and reduces travel time. Proposals with a $0.75 transit fare and a $0.5 driving fee are prioritized, as they offer a balance between affordability and improved transit services. A moderate sales tax of 1% is acceptable if it leads to better transit services. Proposals with a $1.0 driving fee are less favorable due to the higher cost burden on drivers."
+  },
+  "vote": [
+    1,
+    10,
+    13,
+    19,
+    22
+  ]
+}

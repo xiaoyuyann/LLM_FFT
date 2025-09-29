@@ -1,0 +1,16 @@
+{
+  "community_area": "Bridgeport",
+  "thinking": {
+    "disposable_income": "Bridgeport has a moderate level of disposable income, with a mix of working-class and middle-class residents. The community is sensitive to changes in transportation costs, as a significant portion of income is allocated to essential expenses.",
+    "discretionary_consumption": "Residents in Bridgeport have limited discretionary spending, with a focus on essential goods and services. Any increase in transportation costs could impact their ability to spend on non-essential items.",
+    "accessibility": "Bridgeport has decent access to public transportation, with several bus lines and proximity to the CTA Red Line. However, travel times by transit are longer compared to driving, making efficient transit options important for the community.",
+    "decision_rationale": "Given the moderate disposable income and limited discretionary spending, it is crucial to keep transportation costs low while improving transit efficiency. A lower fare and moderate driver fee can encourage transit use, reduce congestion, and improve travel times. A moderate sales tax is acceptable if it significantly enhances transit services. The selected proposals balance these factors by offering reduced travel times and reasonable costs, ensuring that residents can maintain their current consumption levels while benefiting from improved transit services."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Grand Boulevard",
+  "thinking": {
+    "disposable_income": "The median income in Grand Boulevard is $43,048, with a significant portion of the population earning less than $25,000. This suggests limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With a high percentage of households earning less than $25,000, discretionary spending is likely constrained. Policies that minimize additional costs, such as lower fares and taxes, would be beneficial.",
+    "accessibility": "Approximately 21.4% of residents use transit, and 49.3% drive alone. Improving transit times and maintaining affordability is crucial, as a significant portion of the population relies on public transportation.",
+    "decision_rationale": "Given the community's limited disposable income and reliance on transit, policies with lower fares and moderate taxes are prioritized. Reducing travel time for both transit and driving is also important. The selected policies aim to balance affordability with improved transit services, considering the community's economic constraints and transportation needs."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

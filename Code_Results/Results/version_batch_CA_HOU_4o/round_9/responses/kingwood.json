@@ -1,0 +1,16 @@
+{
+  "community_area": "Kingwood",
+  "thinking": {
+    "disposable_income": "Kingwood is a relatively affluent area with higher than average disposable income compared to other Houston neighborhoods.",
+    "discretionary_consumption": "Residents in Kingwood have a higher level of discretionary consumption, often spending on leisure, dining, and other non-essential goods and services.",
+    "accessibility": "Kingwood has limited public transit options, with most residents relying on personal vehicles for commuting and accessing services.",
+    "decision_rationale": "Given Kingwood's higher disposable income and reliance on personal vehicles, the community would benefit from policies that improve transit times without significantly increasing costs. A lower transit fare and moderate driver fee could encourage some residents to switch to transit, reducing congestion. However, a higher sales tax would be less favorable due to its impact on discretionary spending. Therefore, proposals with lower fares and moderate driver fees, combined with a moderate sales tax, are prioritized to balance improved transit service with minimal impact on disposable income."
+  },
+  "vote": [
+    1,
+    3,
+    8,
+    10,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "North Center",
+  "thinking": {
+    "disposable_income": "North Center is an affluent area with median household income around $110,000, significantly above Chicago's average. Residents have relatively high disposable income and can generally afford higher transportation costs",
+    "discretionary_consumption": "Area has high discretionary spending power, with many residents spending on dining, entertainment, and retail. Higher sales tax would have moderate impact but not severely constrain spending habits",
+    "accessibility": "Well-served by Brown Line, multiple bus routes, and major arterial roads. 76% of residents commute by car or transit. Good mix of transit and driving options with relatively high car ownership. Area has many local amenities within walking/biking distance",
+    "decision_rationale": "1. Given high income levels, can prioritize time savings over cost savings. 2. Strong existing transit infrastructure means improvements will be well-utilized. 3. Higher driver fees acceptable as most can afford it and it will reduce congestion. 4. Moderate tax increase reasonable given community's ability to pay. 5. Prefer balanced proposals that improve both transit and driving times. Selected proposals that combine moderate-to-high driver fees with moderate fares and taxes to optimize travel times while maintaining service quality"
+  },
+  "vote": [
+    14,
+    23,
+    5,
+    13,
+    22
+  ]
+}

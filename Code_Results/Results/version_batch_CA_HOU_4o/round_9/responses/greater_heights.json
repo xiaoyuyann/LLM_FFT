@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Heights",
+  "thinking": {
+    "disposable_income": "Greater Heights is a relatively affluent area with a higher than average disposable income compared to other Houston neighborhoods.",
+    "discretionary_consumption": "Residents in Greater Heights tend to have higher discretionary spending on dining, entertainment, and retail, reflecting their higher disposable income.",
+    "accessibility": "The neighborhood has good accessibility to resources and services, with a mix of transit options and a high rate of car ownership, but transit times are longer compared to driving.",
+    "decision_rationale": "Given the higher disposable income, residents can afford a moderate increase in sales tax and transit fares if it results in significantly improved transit services. The focus is on reducing transit times to make it a more viable option compared to driving, which is currently faster. A moderate driver fee is acceptable if it leads to reduced congestion and emissions. Therefore, proposals with a balance of moderate sales tax, reasonable transit fare, and a driver fee that significantly reduces transit time are prioritized."
+  },
+  "vote": [
+    11,
+    3,
+    19,
+    13,
+    5
+  ]
+}

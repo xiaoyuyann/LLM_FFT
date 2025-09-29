@@ -1,0 +1,16 @@
+{
+  "community_area": "Riverdale",
+  "thinking": {
+    "disposable_income": "Riverdale has relatively low income levels with median income of $41,144 and 58.2% of households making less than $50,000. About 33.8% make less than $25,000, indicating limited disposable income for many residents",
+    "discretionary_consumption": "Given the low income levels, residents have limited discretionary spending capacity. Higher sales taxes and transportation costs would significantly impact household budgets and reduce spending on other essential needs",
+    "accessibility": "67.9% drive alone and 12.9% use transit for commuting. 19.4% have no vehicle access. Mean commute time is 33.8 minutes. The community needs both affordable transit options and reasonable driving costs",
+    "decision_rationale": "1. Prioritize lowest sales tax (0.5%) to minimize impact on limited discretionary income. 2. Keep transit fares low ($0.75-$1.25) given significant transit-dependent population. 3. Moderate driving fees ($0.50) to improve transit service while not overly burdening majority who drive. 4. Balance between transit time improvements and cost increases. 5. Selected proposals that reduce both transit and driving times while keeping costs manageable for low-income residents"
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

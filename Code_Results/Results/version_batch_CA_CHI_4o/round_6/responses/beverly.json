@@ -1,0 +1,16 @@
+{
+  "community_area": "Beverly",
+  "thinking": {
+    "disposable_income": "Beverly is a middle to upper-middle-class neighborhood with a relatively high disposable income compared to other areas in Chicago. Residents can afford moderate increases in transportation costs but still value cost-effectiveness.",
+    "discretionary_consumption": "Residents in Beverly have a moderate to high level of discretionary consumption, spending on dining, entertainment, and other non-essential goods. They are likely to be sensitive to changes in disposable income due to increased transportation costs.",
+    "accessibility": "Beverly has good access to public transportation, including Metra train services, which are frequently used by residents for commuting. However, many residents also rely on cars for convenience and flexibility.",
+    "decision_rationale": "Given Beverly's relatively high disposable income and reliance on both public transit and cars, the community would benefit from policies that improve transit times without significantly increasing costs. A balance between fare, tax, and driving fees is crucial. Lower fares and moderate driving fees can encourage transit use, reducing congestion and emissions. A moderate sales tax is acceptable if it leads to better transit services. The community would prefer policies that reduce travel time for both transit and driving, as time savings are highly valued."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

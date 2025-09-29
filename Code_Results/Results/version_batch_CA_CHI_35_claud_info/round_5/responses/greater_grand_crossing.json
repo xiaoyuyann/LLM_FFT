@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Grand Crossing",
+  "thinking": {
+    "disposable_income": "The community has relatively low income levels with 58.6% households earning less than $50,000 annually and median income of $39,908. This suggests limited disposable income and high sensitivity to transportation costs.",
+    "discretionary_consumption": "With low median income and high percentage of low-income households, discretionary spending is likely very limited. Higher sales taxes would significantly impact household budgets and consumption abilities.",
+    "accessibility": "36.5% of households have no vehicle, and 29.5% rely on transit for commuting. Combined with 52.5% who drive alone, the community needs both affordable transit and reasonable driving costs. Transit accessibility is crucial for many residents.",
+    "decision_rationale": "1. Prioritized proposals with lower transit fares ($0.75) given high transit dependency and low incomes. 2. Favored lower sales tax (0.5%) to protect limited discretionary income. 3. Moderate driving fees ($0.50) balance improved transit service without overly burdening drivers. 4. Considered travel time improvements for both transit and driving. 5. Selected proposals that minimize overall cost burden while maintaining service quality."
+  },
+  "vote": [
+    1,
+    0,
+    10,
+    4,
+    9
+  ]
+}

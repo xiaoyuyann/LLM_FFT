@@ -1,0 +1,16 @@
+{
+  "community_area": "Gage Park",
+  "thinking": {
+    "disposable_income": "Gage Park has a median income of $50,112 and a per capita income of $19,524. A significant portion of the population earns less than $50,000, indicating limited disposable income.",
+    "discretionary_consumption": "With 21.3% of households earning less than $25,000 and 28.6% earning between $25,000 and $49,999, discretionary spending is likely constrained. High transit fares or driver fees could significantly impact these households.",
+    "accessibility": "59.6% of residents drive alone, while 17.9% use transit. Car ownership is moderate, with 20.5% of households having no vehicle. Accessibility improvements in transit could benefit a significant portion of the population.",
+    "decision_rationale": "Given the limited disposable income and the need for affordable transportation, proposals with lower transit fares and moderate driver fees are prioritized. A lower sales tax is preferred to minimize the impact on discretionary consumption. Proposals that reduce travel time for both transit and driving are favored to improve accessibility. The selected proposals balance affordability, accessibility, and the potential for improved transit services."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

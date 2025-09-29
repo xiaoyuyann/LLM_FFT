@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Inwood",
+  "thinking": {
+    "disposable_income": "Greater Inwood has a median household income of approximately $45,000, which is lower than Houston's average, indicating residents are more sensitive to transportation costs and taxes.",
+    "discretionary_consumption": "With modest income levels and higher poverty rates than city average, residents have limited discretionary spending capacity and are particularly sensitive to sales tax increases.",
+    "accessibility": "The area has moderate transit access with some bus routes but is largely car-dependent, with about 80% of residents commuting by car and facing significant travel times to employment centers.",
+    "decision_rationale": "1) Prioritized policies with lower sales tax (0.5%) to minimize impact on limited discretionary income, 2) Favored moderate transit fares ($0.75-$1.25) to keep transit affordable while maintaining service quality, 3) Supported moderate driving fees ($0.50) to improve transit without overly burdening car-dependent residents, 4) Balanced travel time improvements with cost impacts, 5) Considered the high car dependency rate in the neighborhood while ensuring transit remains viable for transit-dependent residents."
+  },
+  "vote": [
+    0,
+    2,
+    7,
+    10,
+    16
+  ]
+}

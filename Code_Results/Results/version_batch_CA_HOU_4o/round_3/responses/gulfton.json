@@ -1,0 +1,16 @@
+{
+  "community_area": "Gulfton",
+  "thinking": {
+    "disposable_income": "Gulfton is a lower-income neighborhood with many residents working in low-wage jobs, meaning disposable income is limited.",
+    "discretionary_consumption": "Residents in Gulfton have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "Gulfton has moderate access to public transit, but many residents rely on it due to lower car ownership rates.",
+    "decision_rationale": "Given the limited disposable income and reliance on public transit, proposals with lower transit fares and moderate sales taxes are prioritized to minimize financial burden while improving transit services. Lower driving fees are also considered to encourage a shift from driving to transit, reducing congestion and emissions. The top-ranked proposals balance affordability with improved transit accessibility, considering the community's economic constraints and transportation needs."
+  },
+  "vote": [
+    0,
+    7,
+    2,
+    10,
+    1
+  ]
+}

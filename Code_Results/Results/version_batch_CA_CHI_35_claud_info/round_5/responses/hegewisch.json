@@ -1,0 +1,16 @@
+{
+  "community_area": "Hegewisch",
+  "thinking": {
+    "disposable_income": "Median income is $58,647, with 45.6% households earning less than $50,000. This suggests moderate to limited disposable income for many residents, making them sensitive to additional transportation costs and taxes",
+    "discretionary_consumption": "Given the income distribution and household sizes, many families likely have limited discretionary spending capacity. A significant portion of income goes to essential needs, making residents sensitive to any additional taxes or fees",
+    "accessibility": "The area shows high car dependency with 87.4% of households having at least one vehicle and 65.2% driving alone to work. Only 10.8% use transit, suggesting limited transit accessibility. The community needs balanced policies that don't overly burden drivers while improving transit service",
+    "decision_rationale": "1. Prioritized proposals with lower sales tax (0.5%) due to limited disposable income. 2. Favored moderate driving fees ($0.50) over high fees ($1.00) given high car dependency. 3. Selected proposals with lower transit fares ($0.75-$1.25) to support transit-dependent residents. 4. Balanced travel time improvements with cost impacts. 5. Considered the large proportion of working-class and middle-income households who would be sensitive to cost increases"
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    3
+  ]
+}

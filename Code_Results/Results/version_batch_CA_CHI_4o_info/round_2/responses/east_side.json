@@ -1,0 +1,16 @@
+{
+  "community_area": "East Side",
+  "thinking": {
+    "disposable_income": "The median household income is $61,898, with a significant portion of households earning between $25,000 and $49,999. This suggests moderate disposable income, with a need to balance costs carefully.",
+    "discretionary_consumption": "With 41.8% of households earning less than $50,000, there is limited room for increased expenses. Any policy that significantly increases costs could impact discretionary spending on essentials.",
+    "accessibility": "68.4% of residents drive alone, indicating a high reliance on cars. Only 7.7% use transit, suggesting that improvements in transit could benefit a small but important segment of the population. The mean commute time is 36.4 minutes, indicating potential benefits from reduced travel times.",
+    "decision_rationale": "Given the high reliance on driving, policies that reduce car travel time and costs are prioritized. However, transit improvements are also considered to support the minority who rely on it. A balance between low taxes, reasonable fares, and moderate driving fees is sought to minimize financial impact while improving service. The community's moderate income levels necessitate careful consideration of cost increases, especially in sales tax and transit fares. Policies that offer significant reductions in travel time without substantial cost increases are preferred."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

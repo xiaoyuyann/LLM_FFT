@@ -1,0 +1,16 @@
+{
+  "community_area": "Medical Center",
+  "thinking": {
+    "disposable_income": "The Medical Center area has relatively high median household income due to concentration of medical professionals, though there is income diversity among service workers and students.",
+    "discretionary_consumption": "Residents have moderate to high discretionary spending capacity but face high costs of living in the area, particularly housing and transportation expenses.",
+    "accessibility": "The area has excellent transit connectivity with multiple bus routes and light rail, good walkability, but also experiences heavy traffic congestion due to large numbers of workers and patients accessing medical facilities.",
+    "decision_rationale": "1) Prioritized policies that reduce congestion given the critical nature of medical access 2) Favored moderate transit fares to maintain accessibility for service workers while funding improvements 3) Supported higher driving fees to manage traffic and encourage transit use 4) Considered moderate sales tax to fund transit without overly burdening residents 5) Selected policies balancing travel time improvements with reasonable costs across modes"
+  },
+  "vote": [
+    20,
+    11,
+    17,
+    8,
+    3
+  ]
+}

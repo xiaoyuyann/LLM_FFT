@@ -1,0 +1,16 @@
+{
+  "community_area": "Near West Side",
+  "thinking": {
+    "disposable_income": "Mixed income levels with significant student and young professional population. Median household income around $71,000, higher than city average but with notable income diversity due to presence of universities, medical district, and mixed housing types",
+    "discretionary_consumption": "Moderate to high discretionary spending capacity. Active commercial areas along Madison, Halsted, and Roosevelt. High density of restaurants, entertainment venues, and retail indicating strong consumer base",
+    "accessibility": "Excellent transit access with multiple CTA L lines (Blue, Green, Pink), bus routes, and Metra stations. High walkability score. Close to downtown and major employment centers. Good road network but experiences heavy congestion during peak hours",
+    "decision_rationale": "1. Prioritize policies that balance transit improvement with moderate costs given mixed income levels\n2. Consider high transit usage due to student/professional population and excellent existing service\n3. Value driving time improvements due to significant commuter population\n4. Factor in impact of sales tax on local businesses and residents\n5. Selected policies 14, 23, 11, 20, 13 as they offer best balance of reduced transit times, moderate fees, and improved driving conditions\n6. Policy 14 ranked first for optimal balance of costs and benefits with 1% tax\n7. Lower ranked choices provide incremental tradeoffs between costs and service improvements"
+  },
+  "vote": [
+    14,
+    23,
+    11,
+    20,
+    13
+  ]
+}

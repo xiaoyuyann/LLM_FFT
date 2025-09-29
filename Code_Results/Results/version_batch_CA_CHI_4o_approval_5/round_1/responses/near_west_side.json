@@ -1,0 +1,16 @@
+{
+  "community_area": "Near West Side",
+  "thinking": {
+    "disposable_income": "The Near West Side has a diverse population with varying income levels, but generally, it includes a mix of middle-income and some higher-income residents due to its proximity to downtown Chicago.",
+    "discretionary_consumption": "Residents in the Near West Side have moderate to high discretionary spending, with access to a variety of dining, entertainment, and shopping options. However, affordability remains a concern for some segments of the population.",
+    "accessibility": "The Near West Side is well-served by public transit, including several CTA train lines and bus routes, making it relatively easy for residents to access other parts of the city. Car ownership is moderate, with some residents relying on driving for convenience.",
+    "decision_rationale": "Given the community's moderate to high disposable income and good access to public transit, policies that improve transit efficiency and reduce travel time are prioritized. A balance between fare affordability and transit service quality is crucial. Lower fares and moderate driver fees are preferred to encourage transit use while maintaining affordability. A moderate sales tax is acceptable if it significantly enhances transit services. Therefore, proposals with lower fares, moderate driver fees, and reasonable travel times are prioritized."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

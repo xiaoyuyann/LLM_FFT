@@ -1,0 +1,16 @@
+{
+  "community_area": "Bridgeport",
+  "thinking": {
+    "disposable_income": "Bridgeport is a diverse community with a mix of income levels, but generally has a moderate disposable income. Residents are sensitive to increases in costs, whether through taxes, fares, or fees.",
+    "discretionary_consumption": "The community has a moderate level of discretionary consumption. Residents prioritize essential goods and services, and any increase in transportation costs could impact their ability to spend on non-essential items.",
+    "accessibility": "Bridgeport has decent access to public transit, with several bus lines and proximity to the CTA Red Line. However, driving is also common, and many residents rely on both modes of transportation.",
+    "decision_rationale": "Given the moderate disposable income and discretionary consumption, policies with lower fares and taxes are preferred to minimize financial strain. However, improving transit times is also important to enhance accessibility. Therefore, policies that balance lower costs with improved transit times are prioritized. A moderate driver fee is acceptable if it significantly reduces car travel time and improves transit service, as this could encourage a shift to public transit, reducing congestion and emissions."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

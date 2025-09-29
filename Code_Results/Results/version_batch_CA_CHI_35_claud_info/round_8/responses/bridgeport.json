@@ -1,0 +1,16 @@
+{
+  "community_area": "Bridgeport",
+  "thinking": {
+    "disposable_income": "Bridgeport has a median household income of $72,159, with a diverse income distribution. About 33.8% of households earn less than $50,000, while 34.4% earn over $100,000. This suggests varying levels of sensitivity to transportation costs across the community.",
+    "discretionary_consumption": "Given the income distribution and average household size of 2.4, many residents have moderate discretionary spending power. Higher sales taxes would impact all residents, but particularly the 33.8% of households earning below $50,000 who have less flexible budgets.",
+    "accessibility": "The community shows mixed transportation patterns: 48.3% drive alone, 16% use transit, and 17.8% have no vehicle. With 45.6% having one vehicle, many households could switch between modes depending on costs and service quality.",
+    "decision_rationale": "1. Prioritized proposal 11 as it offers good transit times with lower fare ($0.75) while using driver fees to improve service. 2. Selected proposal 13 as second choice for balanced approach with moderate tax and fare. 3. Chose proposal 10 third for its lower fare and moderate driver fee. 4. Ranked proposal 4 fourth as it maintains low tax burden while improving transit. 5. Selected proposal 14 fifth as it offers good transit times though with higher costs. The ranking considers the community's mixed income levels and significant car-dependent population while protecting lower-income transit users."
+  },
+  "vote": [
+    11,
+    13,
+    10,
+    4,
+    14
+  ]
+}

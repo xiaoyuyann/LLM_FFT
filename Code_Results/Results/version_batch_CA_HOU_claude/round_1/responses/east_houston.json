@@ -1,0 +1,16 @@
+{
+  "community_area": "East Houston",
+  "thinking": {
+    "disposable_income": "East Houston has a relatively low median household income around $35,000, with many residents living paycheck to paycheck and sensitive to additional transportation costs.",
+    "discretionary_consumption": "Limited discretionary spending capacity with most income going to basic necessities, making residents particularly vulnerable to increased taxes and fees.",
+    "accessibility": "The area has moderate transit access but many residents rely on personal vehicles due to dispersed job locations and limited frequent bus service.",
+    "decision_rationale": "1. Prioritized lower transit fares ($0.75) to help transit-dependent residents while keeping sales tax moderate (1%) to balance revenue needs and tax burden. 2. Moderate driving fees ($0.50) to encourage transit use without overly burdening drivers. 3. Avoided highest tax/fee combinations that would strain low-income households. 4. Selected policies that reduce transit travel times to improve accessibility. 5. Balanced need for transit system funding with community's limited ability to pay higher costs."
+  },
+  "vote": [
+    7,
+    8,
+    0,
+    1,
+    16
+  ]
+}

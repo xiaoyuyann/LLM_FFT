@@ -1,0 +1,16 @@
+{
+  "community_area": "Braeswood",
+  "thinking": {
+    "disposable_income": "Braeswood is an affluent area with median household income above $100,000, indicating residents have substantial disposable income and can generally afford higher transportation costs.",
+    "discretionary_consumption": "Residents have significant discretionary spending power and typically engage in high levels of retail and service consumption, making them somewhat less sensitive to sales tax increases.",
+    "accessibility": "The neighborhood has good road access via Loop 610 and Braeswood Boulevard, with moderate transit service through METRO buses, and most households own multiple vehicles.",
+    "decision_rationale": "1) Given high car ownership and income levels, policies with moderate driving fees are acceptable if they improve transit service 2) Higher sales tax is less burdensome given high discretionary spending 3) Moderate transit fares are acceptable to ensure service quality 4) Prioritized policies that reduce car travel times since driving is dominant mode 5) Selected balanced options that improve both transit and driving conditions without extreme costs in any category"
+  },
+  "vote": [
+    20,
+    11,
+    17,
+    8,
+    3
+  ]
+}

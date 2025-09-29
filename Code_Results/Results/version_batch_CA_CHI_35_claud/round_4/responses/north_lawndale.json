@@ -1,0 +1,16 @@
+{
+  "community_area": "North Lawndale",
+  "thinking": {
+    "disposable_income": "North Lawndale has one of the lowest median household incomes in Chicago at around $25,000, with 43% of residents living below poverty level. This indicates very limited disposable income for most residents",
+    "discretionary_consumption": "Given the low income levels, residents have minimal discretionary spending capacity. Most income goes to essential needs, making them highly sensitive to any additional transportation costs or taxes",
+    "accessibility": "The area has moderate transit access with Pink Line stations and bus routes, but 40% of households don't own vehicles. Many residents are transit-dependent and face long commute times to jobs and services",
+    "decision_rationale": "1. Given high poverty rates, prioritize lowest transit fares ($0.75) to maintain accessibility\n2. Keep sales tax low (0.5-1.0%) due to limited discretionary income\n3. Support moderate driving fees ($0.50-$1.00) to improve transit service without overly burdening drivers\n4. Balance between improved transit times and affordability\n5. Selected proposals that reduce transit travel times while keeping costs manageable for low-income residents"
+  },
+  "vote": [
+    2,
+    1,
+    11,
+    10,
+    20
+  ]
+}

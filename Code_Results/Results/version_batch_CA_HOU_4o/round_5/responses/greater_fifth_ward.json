@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Fifth Ward",
+  "thinking": {
+    "disposable_income": "The Greater Fifth Ward has a relatively low average disposable income compared to other neighborhoods in Houston.",
+    "discretionary_consumption": "Residents in the Greater Fifth Ward have limited discretionary spending, prioritizing essential goods and services.",
+    "accessibility": "The neighborhood has moderate access to public transit, but many residents rely on it due to lower car ownership rates.",
+    "decision_rationale": "Given the low disposable income, minimizing costs for residents is crucial. Lower transit fares and driver fees are preferred to reduce the financial burden on residents. A lower sales tax is also favored to maintain affordability of goods and services. Improved transit times are beneficial, but not at the expense of significantly higher costs. Therefore, proposals with lower fares and fees, and moderate improvements in transit times, are prioritized."
+  },
+  "vote": [
+    0,
+    7,
+    2,
+    10,
+    1
+  ]
+}

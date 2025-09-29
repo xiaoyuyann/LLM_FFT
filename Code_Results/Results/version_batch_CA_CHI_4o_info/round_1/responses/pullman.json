@@ -1,0 +1,16 @@
+{
+  "community_area": "Pullman",
+  "thinking": {
+    "disposable_income": "The median income in Pullman is $54,755, with a significant portion of households earning less than $50,000. This suggests a moderate level of disposable income, with a need to be cautious about additional expenses.",
+    "discretionary_consumption": "Given the income distribution, a substantial portion of the community may have limited discretionary spending. Policies that increase costs significantly could impact their ability to spend on other necessities.",
+    "accessibility": "With 17.6% of residents using transit and 64% driving alone, both modes of transportation are important. However, a notable 16.1% of households do not own a vehicle, indicating a reliance on public transit.",
+    "decision_rationale": "The decision prioritizes policies that balance lower costs with improved transit times, considering the community's moderate income levels and reliance on both driving and transit. Lower fares and moderate driver fees are preferred to maintain affordability while improving transit service. A lower sales tax is favored to minimize the impact on discretionary spending. The top-ranked proposals offer a mix of reduced travel times and costs, benefiting both drivers and transit users without imposing significant financial burdens."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "South Lawndale",
+  "thinking": {
+    "disposable_income": "South Lawndale has a relatively low median household income compared to the city average, which means residents are sensitive to increases in costs, whether through fares, fees, or taxes.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "South Lawndale has moderate access to public transit, but improvements in transit times could greatly benefit residents who rely on it for commuting. Car ownership is lower than average, so transit improvements are crucial.",
+    "decision_rationale": "The primary goal is to minimize costs while improving transit times, as many residents rely on public transportation. A lower fare is preferred to keep transit affordable. A moderate driver fee is acceptable if it significantly reduces car travel time, as this could encourage more people to use transit, reducing congestion. A lower sales tax is preferred to minimize the impact on disposable income. Therefore, proposals with lower fares and moderate driver fees, which also improve transit times, are prioritized."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

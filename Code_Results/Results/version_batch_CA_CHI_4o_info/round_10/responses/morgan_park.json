@@ -1,0 +1,16 @@
+{
+  "community_area": "Morgan Park",
+  "thinking": {
+    "disposable_income": "Morgan Park has a median household income of $71,683 and a per capita income of $39,283. A significant portion of the population earns between $25,000 and $99,999, indicating a moderate level of disposable income. However, 18.5% of households earn less than $25,000, suggesting that affordability is a concern for a portion of the community.",
+    "discretionary_consumption": "With a diverse income distribution, discretionary spending varies. The community must balance transportation costs with other essential expenses. A lower transit fare and driving fee would benefit lower-income households, while a moderate sales tax could support better transit services without overly burdening the community.",
+    "accessibility": "Morgan Park has a high percentage of residents who drive alone (64.9%), with only 9.5% using transit. Improving transit accessibility and reducing travel time could encourage more residents to switch from driving to transit, reducing congestion and emissions. However, the community's reliance on cars suggests that driving fees should be carefully considered.",
+    "decision_rationale": "Given the community's income distribution and transportation preferences, the ideal policy would lower transit fares to make public transportation more accessible, while also considering moderate driving fees to reduce congestion. A balanced sales tax rate would ensure adequate funding for transit improvements without significantly impacting discretionary spending. The selected policies prioritize reducing travel time and costs for both transit users and drivers, while also considering the community's financial constraints."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    4,
+    22
+  ]
+}

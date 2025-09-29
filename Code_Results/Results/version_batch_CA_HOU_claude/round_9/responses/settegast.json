@@ -1,0 +1,16 @@
+{
+  "community_area": "Settegast",
+  "thinking": {
+    "disposable_income": "Settegast is one of Houston's lowest-income neighborhoods with a median household income around $27,000, significantly below the city average, indicating very limited disposable income.",
+    "discretionary_consumption": "With nearly 40% of residents living below poverty level and high unemployment rates, discretionary spending is extremely limited and most income goes to basic necessities.",
+    "accessibility": "The neighborhood has limited public transit access with few bus routes, high transit dependency due to lower car ownership rates (many households without vehicles), and relatively long commute times to jobs and services.",
+    "decision_rationale": "1) Prioritized proposals with lowest transit fares ($0.75) to maintain affordability for transit-dependent residents 2) Favored lower sales tax rates (0.5-1.0%) to minimize impact on limited household budgets 3) Supported moderate driving fees ($0.50-$1.00) to fund transit improvements while not overly burdening car-owning residents 4) Weighted improved transit travel times heavily given high transit reliance 5) Balanced need for transit service improvements with community's limited ability to pay higher taxes and fees"
+  },
+  "vote": [
+    1,
+    0,
+    8,
+    7,
+    17
+  ]
+}

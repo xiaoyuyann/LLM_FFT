@@ -1,0 +1,21 @@
+{
+  "community_area": "Lincoln Park",
+  "thinking": {
+    "disposable_income": "Lincoln Park is a relatively affluent community with higher than average disposable income levels, allowing residents to absorb moderate increases in costs such as transit fares and driver fees.",
+    "discretionary_consumption": "Residents in Lincoln Park have a higher level of discretionary consumption, meaning they can afford to spend more on non-essential goods and services. This suggests a capacity to handle slight increases in sales tax if it results in improved transit services.",
+    "accessibility": "Lincoln Park has good accessibility to resources and services, with a well-connected public transit system. However, reducing travel times and improving transit services would be beneficial, especially if it encourages a shift from driving to public transit.",
+    "decision_rationale": "Given the higher disposable income and discretionary consumption, Lincoln Park can support moderate increases in transit fares and driver fees if they lead to significant improvements in transit times and services. A balanced approach with a moderate sales tax increase is acceptable if it results in better transit infrastructure. Proposals with a $0.75 fare and a $0.5 driver fee are preferred as they offer a good balance between cost and service improvement. A 1% sales tax is acceptable, but 1.5% is less favorable unless it results in substantial transit time reductions."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    13,
+    14,
+    19,
+    20,
+    22,
+    23
+  ]
+}

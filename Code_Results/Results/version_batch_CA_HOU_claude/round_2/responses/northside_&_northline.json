@@ -1,0 +1,16 @@
+{
+  "community_area": "Northside/Northline",
+  "thinking": {
+    "disposable_income": "Northside/Northline has a median household income of approximately $36,000, which is significantly lower than Houston's median, indicating limited disposable income for most residents.",
+    "discretionary_consumption": "With a high percentage of working-class families and a poverty rate above city average, residents have minimal discretionary spending capacity and are sensitive to additional taxes and fees.",
+    "accessibility": "The area has good METRO bus service and light rail access along North Main, but many residents rely on personal vehicles due to dispersed employment locations and limited transit coverage in some parts.",
+    "decision_rationale": "1) Prioritized proposals with lower transit fares ($0.75) to support transit-dependent residents 2) Favored moderate sales tax (1%) to balance transit funding with household budget impacts 3) Selected moderate driving fees ($0.50) to improve transit service without overly burdening car-dependent workers 4) Considered travel time improvements for both transit and car users 5) Ranked proposals that offer best combined benefits for mixed-mode transportation needs of working-class community"
+  },
+  "vote": [
+    7,
+    0,
+    16,
+    8,
+    1
+  ]
+}

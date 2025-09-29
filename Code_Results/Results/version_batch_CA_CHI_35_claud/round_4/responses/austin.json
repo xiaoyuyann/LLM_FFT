@@ -1,0 +1,16 @@
+{
+  "community_area": "Austin",
+  "thinking": {
+    "disposable_income": "Austin has a median household income of approximately $33,000, significantly below Chicago's average. About 30% of residents live below poverty level, indicating limited disposable income for most residents",
+    "discretionary_consumption": "Given the low median income, residents have very limited discretionary spending capacity. Many households struggle with basic necessities, making them highly sensitive to any additional taxes or fees",
+    "accessibility": "Austin has good access to public transit with Green Line L and multiple bus routes. However, 65% of households own cars due to need for job access across wider metro area. Many residents are transit-dependent",
+    "decision_rationale": "1. Given low incomes, prioritize lowest combined cost burden (fares+tax+fees). 2. Need balance of transit and driving options since many residents use both. 3. Favor proposals with low transit fares to help transit-dependent residents. 4. Consider moderate driving fees to improve transit service without excessive burden. 5. Avoid highest tax rates due to impact on limited discretionary spending. Selected proposals balance these factors while maintaining reasonable travel times for both modes"
+  },
+  "vote": [
+    0,
+    9,
+    3,
+    1,
+    10
+  ]
+}

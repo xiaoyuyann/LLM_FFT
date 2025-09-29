@@ -1,0 +1,16 @@
+{
+  "community_area": "East Side",
+  "thinking": {
+    "disposable_income": "The median household income in East Side is $61,898, with a significant portion of households earning between $25,000 and $74,999. This suggests a moderate level of disposable income, with some households potentially sensitive to increases in transportation costs.",
+    "discretionary_consumption": "Given the income distribution, a substantial portion of the community may prioritize affordability in transportation to maintain their discretionary spending on other essentials and non-essentials.",
+    "accessibility": "With 68.4% of residents driving alone and only 7.7% using transit, the community heavily relies on cars. However, the mean commute time is 36.4 minutes, indicating potential benefits from reduced travel times. Improving transit could attract more users if it becomes more time-efficient and cost-effective.",
+    "decision_rationale": "The East Side community values affordability and efficiency in transportation. Proposals that reduce travel time and maintain or lower costs are prioritized. Given the high car ownership and reliance on driving, proposals with moderate driver fees and lower transit fares are preferred to encourage a shift to transit without significantly impacting disposable income. A balanced approach with moderate sales tax is also considered to support transit improvements without overly burdening household budgets."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

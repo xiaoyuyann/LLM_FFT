@@ -1,0 +1,16 @@
+{
+  "community_area": "South Park",
+  "thinking": {
+    "disposable_income": "South Park has a relatively low disposable income compared to other neighborhoods in Houston.",
+    "discretionary_consumption": "Residents in South Park have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "South Park has moderate access to public transit, but many residents rely on driving due to the limited reach and frequency of transit services.",
+    "decision_rationale": "Given the low disposable income and limited discretionary spending, it is crucial to minimize additional financial burdens on residents. Therefore, lower transit fares and driving fees are prioritized to ensure affordability. Additionally, reducing travel times is important to improve accessibility and quality of life. The selected policies aim to balance affordability with improved transit services, considering the neighborhood's reliance on both driving and public transit."
+  },
+  "vote": [
+    0,
+    7,
+    10,
+    2,
+    13
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Gage Park",
+  "thinking": {
+    "disposable_income": "Gage Park is a working-class neighborhood with a median household income below the city average. Residents have limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "Given the lower disposable income, discretionary spending is limited. Residents prioritize essential goods and services, so policies that minimize additional financial burdens are preferred.",
+    "accessibility": "Gage Park has moderate access to public transit, with several bus routes and a nearby train station. However, transit times are relatively long, and many residents rely on driving for convenience.",
+    "decision_rationale": "The decision prioritizes policies that reduce costs for both transit users and drivers, while also considering the impact on travel times. Lower fares and driver fees are preferred to minimize financial strain. A moderate sales tax is acceptable if it significantly improves transit services, as this could benefit the community by reducing travel times and improving accessibility. The top-ranked policies balance these factors, aiming to enhance transit efficiency without imposing excessive costs on residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

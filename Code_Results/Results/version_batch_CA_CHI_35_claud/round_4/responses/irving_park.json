@@ -1,0 +1,16 @@
+{
+  "community_area": "Irving Park",
+  "thinking": {
+    "disposable_income": "Irving Park has a median household income of approximately $71,000, placing it in the middle-upper range for Chicago. About 10% of residents live below poverty level, indicating most residents have moderate disposable income",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity. The community has a mix of working and middle-class households with varied consumption patterns. Higher sales taxes would have a moderate impact on household budgets",
+    "accessibility": "The area has good transit access with Blue Line, Metra, and multiple bus routes. Car ownership is high at about 80% of households. The community is well-connected for both transit and driving, with many residents using both modes",
+    "decision_rationale": "1. Prioritize balanced policies that don't overly burden either drivers or transit users given mixed-mode usage. 2. Moderate tax rates preferred due to middle-income demographics. 3. Lower transit fares beneficial for working-class residents while maintaining service quality. 4. Some driving fees acceptable to improve transit without excessive impact. 5. Selected policies that reduce travel times while keeping costs reasonable for both modes"
+  },
+  "vote": [
+    13,
+    10,
+    4,
+    19,
+    22
+  ]
+}

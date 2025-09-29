@@ -1,0 +1,16 @@
+{
+  "community_area": "Archer Heights",
+  "thinking": {
+    "disposable_income": "Archer Heights has a mixed income profile with 46.3% households earning less than $50,000 annually, indicating significant budget constraints for many residents. However, 29.5% earn over $100,000, showing some economic diversity",
+    "discretionary_consumption": "Given the high percentage of lower-income households, many residents would be sensitive to increased taxes and fees. The average household size of 3.1 suggests multiple transit users per household, making fare costs particularly important",
+    "accessibility": "76.4% of households own at least one vehicle, with drive alone (58.7%) and carpooling (19.4%) being dominant commute modes. Transit usage is moderate at 13.1%, suggesting some transit dependency but primarily car-oriented travel patterns",
+    "decision_rationale": "1. Prioritize proposals with lower transit fares ($0.75) to support transit-dependent residents and large households. 2. Moderate tax rates (1%) balance revenue needs with household budget impacts. 3. Include some driving fees to improve transit service without excessive burden on drivers. 4. Consider proposals that reduce transit travel times to make it more competitive with driving. 5. Balance between proposals that benefit both drivers and transit users given the mixed transportation profile"
+  },
+  "vote": [
+    11,
+    10,
+    9,
+    1,
+    2
+  ]
+}

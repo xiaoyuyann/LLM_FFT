@@ -1,0 +1,16 @@
+{
+  "community_area": "Mid-West",
+  "thinking": {
+    "disposable_income": "Mid-West has a moderate median household income around $55,000, with about 20% of residents living below poverty level, indicating varied but generally constrained disposable income levels.",
+    "discretionary_consumption": "The area has mixed-income households with moderate discretionary spending capacity, though many residents are price-sensitive to additional taxes and fees.",
+    "accessibility": "The neighborhood has good road access but limited transit options, with most residents relying on personal vehicles, though there is growing demand for better transit connectivity to major employment centers.",
+    "decision_rationale": "1) Prioritized proposals with lower sales tax (0.5-1.0%) to protect discretionary income 2) Favored moderate transit fares ($0.75-$1.25) to keep transit affordable while maintaining service quality 3) Supported moderate driving fees ($0.50) to encourage transit use without overly burdening car-dependent residents 4) Selected proposals that achieve meaningful travel time improvements for both modes 5) Balanced revenue generation for transit improvements with household budget impacts"
+  },
+  "vote": [
+    7,
+    2,
+    10,
+    3,
+    0
+  ]
+}

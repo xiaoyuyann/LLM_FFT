@@ -1,0 +1,16 @@
+{
+  "community_area": "Fondren Gardens",
+  "thinking": {
+    "disposable_income": "Fondren Gardens is a lower-middle income neighborhood with a median household income around $35,000, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "Residents have modest discretionary spending capacity, with many households being cost-sensitive to transportation expenses and sales taxes.",
+    "accessibility": "The neighborhood has limited transit service with longer travel times, while most residents rely on personal vehicles for commuting and accessing services.",
+    "decision_rationale": "1) Given limited income, prioritize lower transit fares and sales tax burden. 2) Many residents drive, so moderate driving fees are acceptable if they improve transit. 3) Focus on proposals that reduce transit travel time to increase accessibility. 4) Balance between improved service and cost burden. 5) Selected proposals 0, 7, 2, 16, and 10 as they offer good compromises between lower costs and improved transit times while maintaining reasonable driving conditions."
+  },
+  "vote": [
+    0,
+    7,
+    2,
+    16,
+    10
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Greenspoint",
+  "thinking": {
+    "disposable_income": "Greater Greenspoint has a relatively low median household income around $35,000, with many residents living below the poverty line and facing significant financial constraints.",
+    "discretionary_consumption": "Residents have limited discretionary spending capacity, with a high proportion of income going to essential needs like housing and transportation.",
+    "accessibility": "The area has moderate transit access with bus services but high car dependency, with about 75% of residents commuting by car and facing significant transportation costs relative to their income.",
+    "decision_rationale": "1) Prioritized lower transit fares ($0.75) to make public transit more affordable for low-income residents. 2) Favored lower sales tax rates (0.5-1.0%) to minimize impact on essential purchases. 3) Considered moderate driving fees ($0.50) to encourage transit use while not overly burdening car-dependent residents. 4) Balanced travel time improvements with cost impacts. 5) Selected proposals that provide the best combination of affordability and service improvements for this lower-income community."
+  },
+  "vote": [
+    7,
+    0,
+    6,
+    8,
+    10
+  ]
+}

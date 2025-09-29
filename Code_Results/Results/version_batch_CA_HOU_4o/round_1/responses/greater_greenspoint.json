@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Greenspoint",
+  "thinking": {
+    "disposable_income": "Greater Greenspoint has a relatively low to moderate disposable income, with many residents working in service and retail sectors.",
+    "discretionary_consumption": "Discretionary consumption is limited, with residents prioritizing essential goods and services over luxury items.",
+    "accessibility": "The area has moderate accessibility to resources and services, with a reliance on both public transit and personal vehicles for commuting and daily activities.",
+    "decision_rationale": "Given the lower disposable income, minimizing costs for both transit and driving is crucial. A lower transit fare and driving fee are preferred to ensure affordability. Additionally, a moderate sales tax is acceptable if it significantly improves transit services, as many residents rely on public transportation. Reducing travel time is also important to improve accessibility and quality of life. Therefore, proposals with lower fares and fees, moderate sales tax, and reduced travel times are prioritized."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

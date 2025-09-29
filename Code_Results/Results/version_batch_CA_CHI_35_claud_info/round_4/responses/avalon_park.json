@@ -1,0 +1,16 @@
+{
+  "community_area": "Avalon Park",
+  "thinking": {
+    "disposable_income": "Median income is $54,139, with 45.5% households earning less than $50,000. This suggests limited disposable income for many residents, making them sensitive to additional transportation costs and taxes.",
+    "discretionary_consumption": "With a significant portion of households in lower income brackets and 23.6% having no vehicle, discretionary spending is likely constrained. Additional transportation costs would impact other essential spending.",
+    "accessibility": "24.1% use transit and 23.6% have no vehicle, indicating significant transit dependency. 58.5% drive alone, showing balanced need for both transit and driving options. Current transit travel times are significantly higher than driving times.",
+    "decision_rationale": "1. Prioritize lower transit fares ($0.75) due to high transit dependency and lower incomes. 2. Moderate tax rate (1%) to balance service improvements with tax burden. 3. Support moderate driving fees ($0.50) to improve transit service without overly burdening drivers. 4. Focus on proposals that reduce transit travel time gap. 5. Consider proposals that maintain reasonable driving costs for the 58.5% who drive."
+  },
+  "vote": [
+    11,
+    10,
+    20,
+    19,
+    2
+  ]
+}

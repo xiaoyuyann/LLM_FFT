@@ -1,0 +1,16 @@
+{
+  "community_area": "West Elsdon",
+  "thinking": {
+    "disposable_income": "West Elsdon is a working-class community with median household income around $53,000, lower than Chicago average. Many residents work in service and industrial jobs, making them sensitive to transportation costs and taxes",
+    "discretionary_consumption": "Limited discretionary spending capacity due to moderate income levels. Higher sales taxes would significantly impact household budgets. Many families need to carefully balance transportation costs with other essential expenses",
+    "accessibility": "High car dependency with about 90% of households owning vehicles. Limited direct transit access with only bus services. Many residents commute to jobs in other parts of the city. Average commute times are significant factor",
+    "decision_rationale": "1. Given high car ownership and limited transit options, policies with lower driving fees are preferred\n2. Lower sales tax (0.5%) prioritized due to limited discretionary income\n3. Moderate transit fares ($1.25) balance revenue needs with affordability\n4. Focus on options that maintain reasonable car travel times given dependency\n5. Selected policies that don't overly burden working families with multiple fees"
+  },
+  "vote": [
+    3,
+    0,
+    4,
+    6,
+    9
+  ]
+}

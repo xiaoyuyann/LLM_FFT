@@ -1,0 +1,16 @@
+{
+  "community_area": "East Houston",
+  "thinking": {
+    "disposable_income": "East Houston has a moderate to low disposable income, with many residents working in blue-collar jobs.",
+    "discretionary_consumption": "Residents in East Houston have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "Public transit is a crucial mode of transportation for many residents, but current services are limited and often require long travel times.",
+    "decision_rationale": "Given the moderate to low disposable income, it is important to minimize additional financial burdens on residents. Therefore, lower transit fares and driving fees are preferred. However, improving transit accessibility and reducing travel times is also crucial. A balance between affordable costs and improved services is necessary. Proposals with lower fares and moderate taxes that significantly reduce travel times are prioritized. The decision also considers the potential for reduced congestion and emissions, which can improve overall quality of life."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "McKinley Park",
+  "thinking": {
+    "disposable_income": "McKinley Park is a middle-income community with a mix of working-class and middle-class residents. The disposable income is moderate, and residents are sensitive to increases in transportation costs.",
+    "discretionary_consumption": "The community has a moderate level of discretionary consumption. Residents prioritize essential goods and services, and any increase in transportation costs could impact their ability to spend on non-essential items.",
+    "accessibility": "McKinley Park has decent access to public transit, with several bus routes and a nearby CTA Orange Line station. However, driving is also common due to the community's proximity to major roads and highways.",
+    "decision_rationale": "Given the moderate disposable income and sensitivity to cost increases, proposals with lower fares and taxes are preferred. However, improving transit times is also important to encourage public transit use and reduce congestion. Balancing these factors, proposals with a moderate tax rate and lower fares, combined with a reasonable driving fee to reduce congestion, are prioritized. The community values efficient transit options without significantly increasing costs."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

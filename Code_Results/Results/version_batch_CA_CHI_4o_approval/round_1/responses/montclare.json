@@ -1,0 +1,16 @@
+{
+  "community_area": "Montclare",
+  "thinking": {
+    "disposable_income": "Montclare is a middle-income community with a moderate level of disposable income. Residents are sensitive to increases in costs, whether through taxes, fares, or fees.",
+    "discretionary_consumption": "The community has a balanced discretionary consumption pattern, with residents spending on essentials and some non-essential goods and services. Any increase in transportation costs could impact their ability to maintain this balance.",
+    "accessibility": "Montclare has moderate accessibility to resources and services. Public transit is used by a portion of the community, but many residents rely on driving due to the suburban nature of the area.",
+    "decision_rationale": "Given the moderate disposable income and balanced discretionary consumption, policies with lower fares and taxes are preferred to minimize financial strain. However, improving transit times is also important to enhance accessibility. Therefore, policies that offer a balance between cost and improved transit times are prioritized. A moderate driver fee is acceptable if it significantly reduces car travel time and improves transit service, as this could encourage a shift from driving to transit, reducing congestion and emissions."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Austin",
+  "thinking": {
+    "disposable_income": "Austin has a median household income of approximately $33,000, significantly below Chicago's average. About 27% of households live below poverty level, indicating limited disposable income for most residents",
+    "discretionary_consumption": "Given the low median income, residents have very limited discretionary spending capacity. Many households struggle with basic necessities, making them highly sensitive to any additional taxes or fees",
+    "accessibility": "Austin has good access to CTA Blue Line and Green Line, multiple bus routes, but 65% of workers still depend on cars for commuting. Many residents need both transit and car access for work and essential services",
+    "decision_rationale": "1. Prioritize lowest combined cost burden (sales tax + fares/fees) due to low income levels. 2. Consider both transit and driving improvements as community uses both modes heavily. 3. Favor proposals with low transit fares ($0.75) to help transit-dependent residents. 4. Moderate driving fees ($0.50) acceptable if they improve overall service. 5. Lower sales tax preferred (0.5%-1.0%) to minimize impact on essential purchases. Selected proposals balance these factors while improving both transit and driving times"
+  },
+  "vote": [
+    1,
+    10,
+    4,
+    13,
+    19
+  ]
+}

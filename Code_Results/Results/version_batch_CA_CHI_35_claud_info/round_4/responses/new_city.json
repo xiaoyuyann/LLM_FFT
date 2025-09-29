@@ -1,0 +1,16 @@
+{
+  "community_area": "New City",
+  "thinking": {
+    "disposable_income": "New City has relatively low income levels with median income of $40,959 and 57.8% of households making less than $50,000. This suggests high sensitivity to costs from fares, fees, and taxes.",
+    "discretionary_consumption": "With low per capita income ($21,622) and large household sizes (2.9 average), discretionary spending is likely limited. A 1% sales tax would cost about $216 annually per person, which is significant for this population.",
+    "accessibility": "24.5% of households have no vehicle, and 17.9% use transit for commuting. However, 68.2% drive alone or carpool, indicating a mixed reliance on both transit and cars. Good transit access is important but driving costs impact many residents.",
+    "decision_rationale": "1. Given low incomes, prioritize proposals with lower taxes and fares while still improving service. 2. Need balance between transit improvements and driving costs since community uses both modes significantly. 3. Proposal 10 ranks first as it offers good transit improvements with moderate costs. 4. Proposal 1 second as it maintains low tax with improved transit times. 5. Proposal 9 third for low fares/tax. 6. Proposal 4 fourth balances costs/benefits. 7. Proposal 3 fifth as backup with minimal cost increase."
+  },
+  "vote": [
+    10,
+    1,
+    9,
+    4,
+    3
+  ]
+}

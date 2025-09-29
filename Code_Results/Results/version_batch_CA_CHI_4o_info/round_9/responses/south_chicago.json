@@ -1,0 +1,16 @@
+{
+  "community_area": "South Chicago",
+  "thinking": {
+    "disposable_income": "The median income in South Chicago is $43,936, with a significant portion of the population earning less than $25,000. This indicates limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With a per capita income of $22,912, residents have limited discretionary spending. High transit fares or driver fees could significantly impact their ability to spend on other necessities.",
+    "accessibility": "23.7% of residents use transit, and 31.6% have no vehicle, indicating a reliance on public transportation. Policies that improve transit times and affordability are crucial for accessibility.",
+    "decision_rationale": "Given the community's limited disposable income and reliance on public transit, policies with lower fares and moderate taxes are prioritized. Reducing transit times is also important, but not at the expense of significantly higher costs. A balance between affordability and improved service is key. Policies with a $0.75 fare and moderate driver fees are preferred to encourage transit use and reduce congestion, while keeping costs manageable for residents."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    1
+  ]
+}

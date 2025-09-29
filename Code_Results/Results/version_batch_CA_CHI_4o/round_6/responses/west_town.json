@@ -1,0 +1,16 @@
+{
+  "community_area": "West Town",
+  "thinking": {
+    "disposable_income": "West Town is a diverse community with a mix of income levels, but generally has a moderate to high disposable income due to its gentrification and proximity to downtown Chicago.",
+    "discretionary_consumption": "Residents in West Town tend to have higher discretionary spending on dining, entertainment, and retail, reflecting the area's vibrant cultural and social scene.",
+    "accessibility": "West Town has good access to public transit, including buses and the 'L' train, and is also bike-friendly. However, traffic congestion can be an issue for drivers.",
+    "decision_rationale": "Given the moderate to high disposable income, residents can afford a slightly higher transit fare if it results in better service and reduced travel time. A moderate sales tax is acceptable if it significantly improves transit services. Reducing car travel time is also important due to congestion issues. Therefore, proposals that balance a moderate fare and tax with improved transit times and reduced car travel times are prioritized. Proposals with a higher driver fee are considered if they significantly reduce car travel time and improve transit service, as this could encourage a shift from driving to transit, reducing congestion and emissions."
+  },
+  "vote": [
+    13,
+    14,
+    10,
+    19,
+    22
+  ]
+}

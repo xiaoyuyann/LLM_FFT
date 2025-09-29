@@ -1,0 +1,16 @@
+{
+  "community_area": "West Elsdon",
+  "thinking": {
+    "disposable_income": "West Elsdon has a median household income of $64,441, with 40.5% of households earning less than $50,000 annually. The per capita income of $27,703 suggests moderate disposable income levels, making residents sensitive to cost increases",
+    "discretionary_consumption": "Given the income distribution and average household size of 3.3, many families likely have limited discretionary spending capacity. Higher taxes or transportation costs would significantly impact household budgets, especially for the 40.5% lower-income households",
+    "accessibility": "76.1% of residents drive (59.6% alone, 16.5% carpool), while 12.9% use transit. 86.5% of households own at least one vehicle, indicating high car dependency. The mean commute time of 36.3 minutes suggests significant transportation needs",
+    "decision_rationale": "1. Given moderate incomes and high car dependency, prioritize proposals with lower driving fees and taxes. 2. With significant transit usage (12.9%), maintain reasonable transit service while keeping fares affordable. 3. Balance between driving costs and transit improvements since most households own cars but need transit options. 4. Consider proposals that reduce commute times without excessive cost burden. 5. Favor options that don't overly impact discretionary spending through high taxes"
+  },
+  "vote": [
+    3,
+    0,
+    9,
+    12,
+    4
+  ]
+}

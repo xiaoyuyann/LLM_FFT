@@ -1,0 +1,16 @@
+{
+  "community_area": "Portage Park",
+  "thinking": {
+    "disposable_income": "Middle-income neighborhood with median household income around $65,000. Many working families with moderate disposable income. About 10% poverty rate indicates some economic constraints",
+    "discretionary_consumption": "Moderate discretionary spending capacity. Residents are price-sensitive but can afford some additional transportation costs. Many households have significant retail spending in local commercial districts",
+    "accessibility": "Mixed transit access - served by Blue Line and multiple bus routes but not as extensive as downtown areas. High car ownership rates (80%+ households). Many residents commute by car to work. Good road network with access to expressways",
+    "decision_rationale": "1. Prioritize balanced options that don't overly burden drivers while improving transit\n2. Moderate tax rates preferred given middle-income status\n3. Lower transit fares beneficial for transit-dependent residents\n4. Some driving fees acceptable to fund improvements if balanced with benefits\n5. Selected proposals that reduce transit travel times without excessive costs\n6. Ranked proposals with 1% tax higher as they balance revenue needs and affordability\n7. Preferred proposals that reduce both car and transit travel times"
+  },
+  "vote": [
+    13,
+    10,
+    4,
+    14,
+    22
+  ]
+}

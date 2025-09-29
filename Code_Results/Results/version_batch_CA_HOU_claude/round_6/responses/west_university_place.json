@@ -1,0 +1,16 @@
+{
+  "community_area": "West University Place",
+  "thinking": {
+    "disposable_income": "West University Place residents have very high disposable incomes with a median household income over $250,000, making them less sensitive to transportation costs and taxes.",
+    "discretionary_consumption": "The neighborhood has high discretionary spending power with significant retail activity and luxury consumption, suggesting residents can absorb higher taxes and fees without major lifestyle impacts.",
+    "accessibility": "The area has excellent road access, high car ownership rates, and moderate transit access through nearby light rail and bus routes, with most residents preferring to drive.",
+    "decision_rationale": "1) Given high incomes, prioritize policies that reduce travel times over cost savings 2) Support higher driver fees to reduce congestion since residents can afford it 3) Favor moderate-to-high tax rates to fund transit improvements 4) Accept higher fares since transit is not primary mode 5) Balance between maximum time savings and avoiding extreme fee combinations 6) Selected policies 23, 20, 17, 14, and 11 in descending order as they provide best travel time improvements through various combinations of higher taxes and fees while maintaining reasonable cost structures"
+  },
+  "vote": [
+    23,
+    20,
+    17,
+    14,
+    11
+  ]
+}

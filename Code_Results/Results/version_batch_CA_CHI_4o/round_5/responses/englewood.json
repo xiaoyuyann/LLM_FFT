@@ -1,0 +1,16 @@
+{
+  "community_area": "Englewood",
+  "thinking": {
+    "disposable_income": "Englewood has a relatively low median household income compared to other areas in Chicago, which means residents have limited disposable income.",
+    "discretionary_consumption": "Due to lower income levels, discretionary spending is limited, and residents are sensitive to increases in costs related to transportation, taxes, and fees.",
+    "accessibility": "Englewood has moderate access to public transit, but improvements in transit services could significantly benefit residents who rely on public transportation for commuting and accessing essential services.",
+    "decision_rationale": "Given the limited disposable income and sensitivity to cost increases, proposals with lower fares and taxes are prioritized. However, improving transit times is also crucial for accessibility. Balancing these factors, proposals with moderate taxes and fares, but significant improvements in transit times, are preferred. The goal is to enhance transit service without imposing a heavy financial burden on residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Hobby Area",
+  "thinking": {
+    "disposable_income": "The Greater Hobby Area has a moderate disposable income, with many residents working in blue-collar and service jobs.",
+    "discretionary_consumption": "Residents in the Greater Hobby Area have limited discretionary spending, prioritizing essential goods and services.",
+    "accessibility": "The area has moderate accessibility to resources and services, with a reliance on both public transit and personal vehicles for commuting.",
+    "decision_rationale": "Given the moderate disposable income and limited discretionary spending, it is crucial to minimize additional financial burdens on residents. Lower transit fares and driving fees are preferred to keep transportation affordable. A moderate sales tax is acceptable if it significantly improves transit services, as many residents rely on public transportation. Reducing travel times for both transit and driving is also a priority to improve accessibility and quality of life. Therefore, proposals with lower fares and fees, moderate sales tax, and reduced travel times are ranked higher."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

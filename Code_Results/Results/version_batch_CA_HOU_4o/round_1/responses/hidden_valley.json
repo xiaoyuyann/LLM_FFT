@@ -1,0 +1,16 @@
+{
+  "community_area": "Hidden Valley",
+  "thinking": {
+    "disposable_income": "Hidden Valley has a moderate to low disposable income, with many residents working in blue-collar jobs.",
+    "discretionary_consumption": "Residents have limited discretionary spending, prioritizing essential goods and services over luxury items.",
+    "accessibility": "The neighborhood has moderate access to public transit, but many residents rely on personal vehicles due to the limited reach and frequency of transit services.",
+    "decision_rationale": "Given the moderate to low disposable income, it is crucial to minimize additional financial burdens on residents. Therefore, lower transit fares and driving fees are preferred to keep transportation affordable. A moderate sales tax is acceptable if it significantly improves transit services, as better transit can reduce reliance on personal vehicles and lower overall transportation costs. The selected policies balance affordability with improved transit times, aiming to enhance accessibility without imposing excessive costs on residents."
+  },
+  "vote": [
+    7,
+    10,
+    2,
+    19,
+    13
+  ]
+}

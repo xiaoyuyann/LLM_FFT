@@ -1,0 +1,16 @@
+{
+  "community_area": "Fuller Park",
+  "thinking": {
+    "disposable_income": "Fuller Park is one of the lower-income neighborhoods in Chicago, with many residents having limited disposable income. This means that any increase in costs, whether through transit fares, driver fees, or sales taxes, could significantly impact residents' budgets.",
+    "discretionary_consumption": "Given the limited disposable income, discretionary consumption is likely low. Residents prioritize essential expenses, and any additional costs from transportation policies could reduce their ability to spend on non-essential goods and services.",
+    "accessibility": "Fuller Park has limited access to resources and services, and public transit is a crucial mode of transportation for many residents. Improving transit services without significantly increasing costs is important to maintain accessibility for the community.",
+    "decision_rationale": "Considering the economic constraints of Fuller Park residents, policies with lower transit fares and minimal driver fees are preferred to keep transportation affordable. A lower sales tax is also favored to minimize the impact on residents' overall consumption. Therefore, proposals with a $0.75 transit fare, a 0.5% sales tax, and a $0.5 driver fee are prioritized as they offer a balance between improving transit services and maintaining affordability. Proposals with a $1.25 fare are also considered if they offer significant reductions in travel time, as this could improve accessibility without a substantial cost increase."
+  },
+  "vote": [
+    1,
+    2,
+    4,
+    10,
+    11
+  ]
+}

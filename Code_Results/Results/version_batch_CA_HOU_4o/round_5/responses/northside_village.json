@@ -1,0 +1,16 @@
+{
+  "community_area": "Northside Village",
+  "thinking": {
+    "disposable_income": "Northside Village has a moderate to low disposable income, with many residents relying on affordable transportation options.",
+    "discretionary_consumption": "The community has limited discretionary consumption, prioritizing essential goods and services over luxury items.",
+    "accessibility": "Northside Village has moderate accessibility to resources and services, with a significant portion of the population relying on public transit.",
+    "decision_rationale": "Given the moderate to low disposable income, it is crucial to keep transit fares affordable while improving service efficiency. A lower sales tax is preferred to minimize the impact on discretionary spending. The community benefits from reduced travel times, especially for transit, as many residents rely on it. Therefore, proposals with lower fares and moderate driver fees are prioritized to encourage transit use and reduce congestion, while keeping the sales tax at a manageable level."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Garfield Ridge",
+  "thinking": {
+    "disposable_income": "Garfield Ridge has a median household income of around $71,000, higher than Chicago's average. Many residents are middle-class working families with moderate disposable income. The area has a relatively high rate of homeownership, indicating stable finances but also significant housing expenses.",
+    "discretionary_consumption": "Residents have moderate discretionary spending power. Many households own cars and have regular transportation expenses. The community has a mix of retail and service establishments that residents frequent, suggesting regular local spending patterns.",
+    "accessibility": "The area has good road access being near Midway Airport and major highways. Transit access is moderate with CTA Orange Line at the eastern edge and some bus routes. Car ownership and usage rates are high, with most households owning at least one vehicle. Many residents commute by car to work.",
+    "decision_rationale": "1. Prioritize proposals with lower sales tax (0.5-1.0%) due to moderate disposable income and regular local spending. 2. Consider moderate driving fees ($0.50) as many residents drive but could benefit from reduced congestion. 3. Support moderate transit fares ($1.25) to maintain service quality while keeping transit affordable. 4. Balance between car and transit improvements as both modes are important. 5. Avoid highest tax/fee combinations to protect discretionary spending power."
+  },
+  "vote": [
+    4,
+    13,
+    10,
+    1,
+    3
+  ]
+}

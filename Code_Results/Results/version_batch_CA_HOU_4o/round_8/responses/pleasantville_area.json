@@ -1,0 +1,16 @@
+{
+  "community_area": "Pleasantville Area",
+  "thinking": {
+    "disposable_income": "Pleasantville Area has a relatively low disposable income compared to other neighborhoods in Houston.",
+    "discretionary_consumption": "Residents in Pleasantville Area have limited discretionary consumption, focusing primarily on essential goods and services.",
+    "accessibility": "The neighborhood has moderate accessibility to resources and services, with a reliance on both public transit and personal vehicles.",
+    "decision_rationale": "Given the lower disposable income, it is crucial to minimize additional financial burdens on residents. Therefore, proposals with lower transit fares and driving fees are prioritized. Additionally, improving transit times is important to enhance accessibility and reduce reliance on personal vehicles. A moderate sales tax is acceptable if it significantly improves transit services. The selected proposals balance these factors by offering reduced travel times and costs, while considering the financial constraints of the community."
+  },
+  "vote": [
+    1,
+    7,
+    10,
+    2,
+    8
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Irving Park",
+  "thinking": {
+    "disposable_income": "Irving Park is a middle-income community with a mix of working-class and middle-class residents. The disposable income is moderate, allowing for some discretionary spending but with sensitivity to increases in living costs.",
+    "discretionary_consumption": "Residents in Irving Park have moderate discretionary consumption, with spending on dining, entertainment, and retail. However, any increase in transportation costs could impact their ability to spend on these activities.",
+    "accessibility": "Irving Park has good access to public transit, including CTA buses and the Blue Line, making transit a viable option for many residents. Car ownership is also common, but congestion can be an issue during peak hours.",
+    "decision_rationale": "Given the moderate disposable income and discretionary consumption, proposals with lower fares and moderate taxes are preferred to minimize the financial burden on residents. Improving transit times is also important to encourage public transit use and reduce congestion. Therefore, proposals with a balance of lower fares, moderate taxes, and reasonable driving fees are prioritized. The goal is to enhance transit service without significantly increasing costs for residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

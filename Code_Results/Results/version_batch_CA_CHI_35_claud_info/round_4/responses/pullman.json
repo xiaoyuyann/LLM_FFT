@@ -1,0 +1,16 @@
+{
+  "community_area": "Pullman",
+  "thinking": {
+    "disposable_income": "Pullman has a median income of $54,755, with 45.8% households earning less than $50,000. The community has limited disposable income, making them sensitive to cost increases in transportation and sales tax",
+    "discretionary_consumption": "Given the income distribution and average household size of 2.1, discretionary spending is moderate to low. About 22.7% of households earn less than $25,000, suggesting many residents would be significantly impacted by increased costs",
+    "accessibility": "64% drive alone and 17.6% use transit for commuting. 16.1% have no vehicle, while 49.8% have one vehicle. The community needs balanced policies that maintain both driving and transit accessibility",
+    "decision_rationale": "1. Prioritize proposals with lower sales tax (0.5%) to protect discretionary spending. 2. Moderate transit fares ($1.25) to maintain affordability while supporting service quality. 3. Consider modest driving fees ($0.50) to improve transit without overly burdening drivers. 4. Balance travel time improvements with cost impacts. 5. Account for significant transit-dependent population (16.1% no vehicle)"
+  },
+  "vote": [
+    4,
+    1,
+    13,
+    10,
+    3
+  ]
+}

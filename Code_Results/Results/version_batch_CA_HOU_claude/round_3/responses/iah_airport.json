@@ -1,0 +1,16 @@
+{
+  "community_area": "IAH Airport",
+  "thinking": {
+    "disposable_income": "The IAH Airport area has moderate to low disposable income levels with median household income below Houston's average, as many residents work in airport-related service jobs.",
+    "discretionary_consumption": "Residents have limited discretionary spending capacity and are sensitive to additional taxes and transportation costs given their income levels.",
+    "accessibility": "The area is heavily car-dependent due to its suburban location, with limited public transit options despite proximity to the airport, and most residents rely on personal vehicles for commuting.",
+    "decision_rationale": "1) Prioritized policies with lower sales tax (0.5%) to minimize impact on limited discretionary income 2) Favored moderate driving fees ($0.50) over high fees ($1.00) since most residents are car-dependent 3) Supported lower transit fares ($0.75-$1.25) to make public transit more accessible 4) Balanced travel time improvements with cost burden on residents 5) Selected policies that provide modest transit improvements without excessive financial strain on the community"
+  },
+  "vote": [
+    0,
+    2,
+    7,
+    4,
+    10
+  ]
+}

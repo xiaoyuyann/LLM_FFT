@@ -1,0 +1,16 @@
+{
+  "community_area": "Eldridge / West Oaks",
+  "thinking": {
+    "disposable_income": "Eldridge/West Oaks is an affluent area with median household income around $85,000, indicating relatively high disposable income and ability to absorb transportation costs.",
+    "discretionary_consumption": "Residents have significant discretionary spending power with high retail activity in the area including Memorial City Mall and CityCentre, suggesting they can tolerate higher taxes and fees.",
+    "accessibility": "The area is car-dependent with limited transit options, most residents rely on personal vehicles for commuting and accessing services, with the nearest park-and-ride being Addicks.",
+    "decision_rationale": "1) Given high car dependency, prioritize proposals with lower driving fees to minimize impact on majority of residents. 2) Higher sales tax is acceptable due to high discretionary spending power. 3) Higher transit fares are acceptable since transit usage is low. 4) Focus on proposals that reduce car travel times since most residents drive. 5) Balance between maintaining car accessibility while gradually improving transit service."
+  },
+  "vote": [
+    18,
+    15,
+    21,
+    6,
+    12
+  ]
+}

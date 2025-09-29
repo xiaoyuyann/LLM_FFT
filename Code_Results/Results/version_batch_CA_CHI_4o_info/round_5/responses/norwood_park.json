@@ -1,0 +1,16 @@
+{
+  "community_area": "Norwood Park",
+  "thinking": {
+    "disposable_income": "Norwood Park has a relatively high median income of $107,122 and a per capita income of $49,303. A significant portion of the population earns $150,000 and over, indicating a strong disposable income base.",
+    "discretionary_consumption": "With a high median income, residents likely have a substantial amount of discretionary income. However, the community should still be mindful of additional costs from transit fares, sales taxes, and driving fees, as these can impact overall consumption.",
+    "accessibility": "The majority of residents drive alone (71.1%), with a smaller percentage using transit (7.3%). This suggests that while transit improvements could benefit some, the community is heavily reliant on cars. Accessibility improvements should focus on reducing car travel time and enhancing transit options.",
+    "decision_rationale": "Given the high car ownership and reliance on driving, policies that reduce car travel time and improve transit efficiency are prioritized. A balance between low transit fares and moderate driver fees is ideal to encourage transit use without overly burdening drivers. A moderate sales tax is acceptable given the community's income levels, as it supports transit improvements. The selected policies aim to reduce travel time for both modes while maintaining reasonable costs, considering the community's high reliance on driving and potential for increased transit use."
+  },
+  "vote": [
+    14,
+    11,
+    13,
+    10,
+    19
+  ]
+}

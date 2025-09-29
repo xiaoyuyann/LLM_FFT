@@ -1,0 +1,16 @@
+{
+  "community_area": "Westchase",
+  "thinking": {
+    "disposable_income": "Westchase residents have relatively high disposable income with median household income around $65,000, indicating capacity to absorb moderate transportation costs.",
+    "discretionary_consumption": "The area has significant discretionary spending at retail centers and restaurants, suggesting residents can manage higher sales tax impacts.",
+    "accessibility": "Westchase has good road infrastructure and moderate transit access with multiple bus routes, but is primarily car-dependent with 85% of residents commuting by car.",
+    "decision_rationale": "1) Given high car dependency, prioritize proposals with lower driving fees while accepting moderate sales tax to improve transit. 2) Current transit usage is low, so very high fares won't significantly impact most residents. 3) Moderate sales tax can fund transit improvements without overly burdening retail spending. 4) Slight preference for proposals that reduce car travel times given majority car commuting. 5) Selected proposals balance maintaining affordable driving costs while funding transit improvements through sales tax and higher fares."
+  },
+  "vote": [
+    18,
+    21,
+    12,
+    9,
+    6
+  ]
+}

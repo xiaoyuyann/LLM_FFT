@@ -1,0 +1,16 @@
+{
+  "community_area": "Albany Park",
+  "thinking": {
+    "disposable_income": "Mixed-income community with 31.3% earning under $50k, 29.3% middle income ($50k-$100k), and 39.3% earning over $100k. This suggests varying levels of sensitivity to transportation costs and taxes",
+    "discretionary_consumption": "Given the income distribution, about one-third of residents may have limited discretionary spending power and would be sensitive to fare increases and sales tax. Higher-income households (39.3%) have more flexibility to absorb increased costs",
+    "accessibility": "Good mix of transportation options with 23.7% using transit and 45.5% driving alone. 19.1% have no vehicle, making transit accessibility crucial. The area has relatively high transit usage compared to city average",
+    "decision_rationale": "1. Prioritize policies that maintain affordable transit fares due to significant transit-dependent population. 2. Consider moderate driving fees to improve transit service without overly burdening drivers. 3. Prefer lower sales tax rates due to large proportion of lower/middle-income residents. 4. Balance between transit improvement and cost burden on residents. 5. Selected policies that reduce transit travel times while keeping fares accessible"
+  },
+  "vote": [
+    11,
+    10,
+    4,
+    13,
+    1
+  ]
+}

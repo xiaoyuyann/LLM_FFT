@@ -1,0 +1,16 @@
+{
+  "community_area": "Burnside",
+  "thinking": {
+    "disposable_income": "Burnside has a median household income of approximately $31,000, significantly below Chicago's average. About 30% of residents live below poverty level, indicating limited disposable income for most residents",
+    "discretionary_consumption": "Given the low income levels, residents have very limited discretionary spending capacity. Most income goes to essential needs like housing, food, and basic transportation. Higher sales taxes would significantly impact household budgets",
+    "accessibility": "Burnside is primarily served by bus routes and the Metra Electric line. Car ownership is lower than city average due to economic constraints. Many residents rely heavily on public transit for work commutes and daily activities. The community has limited access to retail and services within walking distance",
+    "decision_rationale": "1. Prioritize low transit fares due to high transit dependency and low incomes in the area. 2. Favor lower sales tax rates (0.5-1.0%) to protect limited discretionary spending. 3. Support moderate driving fees to improve transit service without overly burdening car-dependent trips. 4. Balance between transit time improvements and cost burden on residents. 5. Selected proposals that offer best transit time improvements while keeping fares affordable"
+  },
+  "vote": [
+    1,
+    10,
+    2,
+    11,
+    4
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Edgewater",
+  "thinking": {
+    "disposable_income": "Edgewater has a median income of $67,796, with a diverse income distribution. About 38% earn less than $50,000, while 32.9% earn over $100,000. The per capita income of $51,717 suggests moderate disposable income levels",
+    "discretionary_consumption": "Given the income distribution and high cost of living in Chicago, many residents have limited discretionary spending. The 38% lower-income households are particularly sensitive to additional taxes and fees",
+    "accessibility": "The community shows balanced transit (33.2%) and driving (33%) usage for commuting. High proportion (38.8%) of households have no vehicles, indicating strong reliance on public transit. The area has good transit accessibility with multiple bus routes and Red Line access",
+    "decision_rationale": "1. Prioritized policies that balance transit improvement with moderate cost burden, given the mixed-income population. 2. Favored proposals with lower transit fares due to high transit dependency. 3. Supported moderate driving fees to improve transit service without overly burdening drivers. 4. Considered moderate tax rates to maintain service quality while protecting discretionary spending. 5. Selected options that reduce transit travel times to benefit the large car-free population"
+  },
+  "vote": [
+    11,
+    20,
+    19,
+    10,
+    1
+  ]
+}

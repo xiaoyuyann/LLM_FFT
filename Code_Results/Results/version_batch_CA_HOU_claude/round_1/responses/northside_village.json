@@ -1,0 +1,16 @@
+{
+  "community_area": "Northside Village",
+  "thinking": {
+    "disposable_income": "Northside Village has a relatively low median household income around $35,000, with many residents living below the poverty line and being cost-sensitive to transportation expenses.",
+    "discretionary_consumption": "Limited discretionary spending capacity with most income going to basic necessities, making residents particularly sensitive to both sales tax increases and transportation costs.",
+    "accessibility": "The neighborhood has decent bus service and light rail access along the Red Line, but many residents rely on personal vehicles due to work locations and schedule needs, with about 75% of residents commuting by car.",
+    "decision_rationale": "1) Prioritized proposals with lower transit fares ($0.75) to help transit-dependent residents while keeping sales tax moderate. 2) Considered moderate driving fees ($0.50) to improve transit service without overly burdening car-dependent workers. 3) Avoided highest tax rates (1.5%) due to impact on limited discretionary income. 4) Balanced travel time improvements with cost burden on low-income residents. 5) Selected proposals that provide meaningful transit improvements while minimizing combined financial impact of taxes, fares, and fees."
+  },
+  "vote": [
+    7,
+    0,
+    16,
+    8,
+    10
+  ]
+}

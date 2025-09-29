@@ -1,0 +1,16 @@
+{
+  "community_area": "West University Place",
+  "thinking": {
+    "disposable_income": "West University Place residents have high disposable incomes with a median household income over $250,000, making them less sensitive to transit fares and driving fees.",
+    "discretionary_consumption": "The neighborhood has very high discretionary spending capacity with significant retail and dining expenditures, so even higher sales taxes would have minimal impact on quality of life.",
+    "accessibility": "The area has excellent road access, high car ownership rates, and limited transit dependency, though it benefits from proximity to major employment centers and the Texas Medical Center.",
+    "decision_rationale": "1) Given high incomes, prioritize policies that reduce travel times over cost savings. 2) Higher driving fees acceptable since residents can afford them and they reduce congestion. 3) Higher sales tax tolerable due to high discretionary spending. 4) Prefer moderate transit fares to maintain service quality while keeping transit competitive. 5) Focus on options that provide the best car travel times since most residents drive."
+  },
+  "vote": [
+    23,
+    20,
+    17,
+    14,
+    11
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Humboldt Park",
+  "thinking": {
+    "disposable_income": "Median household income is $51,105 and per capita income is $25,358, with 49% of households earning less than $50k annually. This indicates limited disposable income for many residents, making them sensitive to transportation costs.",
+    "discretionary_consumption": "With high percentage of low-income households, discretionary spending is likely limited. Higher sales taxes would significantly impact household budgets, especially considering 25% of households earn less than $25k annually.",
+    "accessibility": "20.1% use transit for work commutes, 25% have no vehicles, and 40.8% have one vehicle. Mean commute time is 35.7 minutes. The community needs affordable and efficient transit options while balancing costs for drivers.",
+    "decision_rationale": "1. Prioritize lower transit fares ($0.75) due to high transit dependency and low incomes. 2. Moderate driving fees ($0.50) to improve transit service without overly burdening drivers. 3. Lower sales tax (0.5-1.0%) to minimize impact on household budgets. 4. Balance between transit time improvements and cost increases. 5. Consider high percentage of both transit users and drivers in the community."
+  },
+  "vote": [
+    1,
+    10,
+    19,
+    4,
+    13
+  ]
+}

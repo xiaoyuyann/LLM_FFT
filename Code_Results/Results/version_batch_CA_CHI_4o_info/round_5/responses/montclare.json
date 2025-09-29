@@ -1,0 +1,16 @@
+{
+  "community_area": "Montclare",
+  "thinking": {
+    "disposable_income": "The median income in Montclare is $69,038, with a per capita income of $33,574. A significant portion of the population earns less than $50,000, indicating a need to consider affordability in transportation costs.",
+    "discretionary_consumption": "With 20.3% of households earning less than $25,000, a large portion of the community may have limited discretionary spending. Therefore, policies that minimize additional costs are preferable.",
+    "accessibility": "The majority of residents (74.9%) drive alone, with only 4.4% using transit. This suggests a reliance on cars, but improvements in transit could encourage a shift, especially if transit becomes more time-efficient and affordable.",
+    "decision_rationale": "Given the high car ownership and reliance on driving, policies that reduce driving time and costs are important. However, improving transit accessibility and affordability could benefit lower-income residents and reduce congestion. A balance between low transit fares, moderate sales tax, and driver fees that encourage transit use without overly burdening drivers is ideal. The selected policies aim to improve transit times and affordability while considering the community's income distribution and current travel habits."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

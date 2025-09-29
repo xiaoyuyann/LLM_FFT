@@ -1,0 +1,16 @@
+{
+  "community_area": "Englewood",
+  "thinking": {
+    "disposable_income": "Englewood is a community with relatively low disposable income, with many residents living below the poverty line. This means that any increase in costs, whether through transit fares, driver fees, or sales taxes, can significantly impact residents' ability to afford other necessities.",
+    "discretionary_consumption": "Given the low disposable income, discretionary consumption is limited. Residents prioritize essential goods and services, and any additional financial burden from transportation costs could further limit their ability to spend on non-essential items.",
+    "accessibility": "Englewood has limited access to resources and services, with many residents relying on public transit for commuting and accessing essential services. Improving transit times and affordability is crucial for enhancing accessibility and quality of life in the community.",
+    "decision_rationale": "The decision prioritizes policies that minimize financial burden while improving transit accessibility. Lower fares and driver fees are preferred to keep transportation affordable. A moderate sales tax is acceptable if it significantly improves transit services. The focus is on reducing travel times and costs for transit users, as many residents rely on public transportation. The selected policies aim to balance affordability with improved transit efficiency, considering the community's economic constraints and reliance on public transit."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    11
+  ]
+}

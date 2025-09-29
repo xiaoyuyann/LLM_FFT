@@ -1,0 +1,16 @@
+{
+  "community_area": "Beverly",
+  "thinking": {
+    "disposable_income": "Beverly is a middle to upper-middle-class neighborhood with relatively high disposable income compared to other areas in Chicago. Residents can afford moderate increases in taxes and fees if it results in better services.",
+    "discretionary_consumption": "Residents in Beverly have a moderate to high level of discretionary consumption. They value quality of life improvements and are willing to invest in better services if it enhances their living standards.",
+    "accessibility": "Beverly has decent access to public transportation, but many residents rely on cars for commuting. Improving transit times and services could encourage more residents to use public transportation.",
+    "decision_rationale": "Given Beverly's higher disposable income, a moderate increase in sales tax and driving fees is acceptable if it significantly improves transit services. Lower transit fares are preferred to encourage public transportation use. Proposals with a balance of moderate tax, reasonable fare, and driving fees that improve transit times are prioritized. Proposals 10, 11, 13, 14, and 19 offer a good balance of improved transit times and costs, aligning with the community's ability to absorb moderate cost increases while enhancing service quality."
+  },
+  "vote": [
+    10,
+    11,
+    13,
+    14,
+    19
+  ]
+}

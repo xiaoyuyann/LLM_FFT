@@ -1,0 +1,16 @@
+{
+  "community_area": "Near West Side",
+  "thinking": {
+    "disposable_income": "Near West Side has mixed income levels with median household income around $71,000, higher than city average. Large student population from UIC and medical district workers. About 25% of households earn over $100,000 while 27% earn under $25,000",
+    "discretionary_consumption": "Significant discretionary spending capacity for many residents but also substantial low-income population. High concentration of restaurants, entertainment venues, and retail. Active commercial corridors along Madison, Halsted, and Roosevelt",
+    "accessibility": "Excellent transit access with Blue/Pink/Green Lines, multiple bus routes, and proximity to Loop. High walkability score. Good road network with easy access to expressways. Mixed car ownership rates - lower among students but higher among professionals",
+    "decision_rationale": "1. Prioritize balanced policies that maintain transit affordability while improving service given mixed income demographics. 2. Consider policies with moderate driving fees to manage congestion given dense urban environment. 3. Favor moderate tax rates to support transit while not overly burdening lower-income residents. 4. Value reduced transit travel times given high transit usage. 5. Selected policies 20, 11, 14, 23, 2 as they offer best balance of improved transit times, reasonable fares/fees, and manageable tax impacts for diverse population"
+  },
+  "vote": [
+    20,
+    11,
+    14,
+    23,
+    2
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Austin",
+  "thinking": {
+    "disposable_income": "Austin is a community with a median household income lower than the city average, indicating limited disposable income.",
+    "discretionary_consumption": "Residents in Austin have limited discretionary spending due to lower income levels, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Austin has moderate access to public transit, but many residents rely on driving due to the need to access jobs and services outside the community. Improving transit times could benefit those who rely on public transportation.",
+    "decision_rationale": "Given the limited disposable income, it is crucial to keep costs low for both transit and driving. However, improving transit times is also important to enhance accessibility. A balance between low fares, reasonable taxes, and driver fees that encourage transit use without overly burdening drivers is ideal. Proposals with lower fares and moderate driver fees are prioritized to improve transit times while keeping costs manageable. Higher sales taxes are less favorable due to their impact on overall consumption."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

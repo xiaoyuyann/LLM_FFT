@@ -1,0 +1,16 @@
+{
+  "community_area": "Ashburn",
+  "thinking": {
+    "disposable_income": "The median income in Ashburn is $78,060, with a per capita income of $28,910. A significant portion of the population earns between $50,000 and $149,999, indicating a moderate level of disposable income.",
+    "discretionary_consumption": "With a diverse income distribution, discretionary spending varies. A 1% sales tax would cost approximately $200 annually for a household spending $20,000, which is a consideration for lower-income households.",
+    "accessibility": "67.6% of residents drive alone, while 11.4% use transit. Car ownership is high, with 92.3% of households owning at least one vehicle. This suggests a reliance on driving, but transit improvements could benefit the 11.4% using public transport.",
+    "decision_rationale": "Given the high car ownership and reliance on driving, policies that reduce driving time and improve transit are prioritized. Lower fares and moderate driver fees are preferred to balance costs and benefits. A lower sales tax is favored to minimize impact on discretionary spending. The top-ranked proposals aim to reduce travel time for both drivers and transit users while keeping costs manageable for the community."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

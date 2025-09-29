@@ -1,0 +1,16 @@
+{
+  "community_area": "West Town",
+  "thinking": {
+    "disposable_income": "West Town is a relatively affluent area with median income of $128,717 and 59.2% of households earning over $100,000. This suggests residents have significant disposable income and can absorb moderate increases in transportation costs",
+    "discretionary_consumption": "With high per capita income ($82,088), residents likely have substantial discretionary spending. A sales tax increase would affect this but wouldn't be severely burdensome given the income levels",
+    "accessibility": "The area has diverse transportation usage: 35.1% drive alone, 23.2% use transit, and 8.8% walk/bike. 75.2% of households have at least one vehicle, while 20.2% have no vehicle. Good mix of transit and driving accessibility needed",
+    "decision_rationale": "1. Given high incomes, prioritize time savings over cost savings. 2. Balance needs of both drivers (39.3%) and transit users (23.2%). 3. Higher tax rates acceptable given income levels to fund better service. 4. Moderate driving fees to reduce congestion. 5. Prefer policies that improve both transit and driving times. Selected policies that optimize travel times while keeping costs reasonable for mixed-mode community"
+  },
+  "vote": [
+    23,
+    14,
+    20,
+    26,
+    11
+  ]
+}

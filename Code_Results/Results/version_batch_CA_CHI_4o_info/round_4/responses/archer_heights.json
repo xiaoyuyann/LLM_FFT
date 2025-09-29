@@ -1,0 +1,16 @@
+{
+  "community_area": "Archer Heights",
+  "thinking": {
+    "disposable_income": "The community has a significant portion of households earning less than $50,000, with 21.2% earning less than $25,000 and 25.1% earning between $25,000 and $49,999. This suggests limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "Given the income distribution, a large portion of the community likely prioritizes essential spending over discretionary consumption. Policies that minimize additional financial burdens are preferable.",
+    "accessibility": "With 58.7% driving alone and 13.1% using transit, improving transit accessibility and affordability is crucial. However, a significant portion of the community relies on cars, so policies should also consider driving costs and times.",
+    "decision_rationale": "1. Proposal 10 offers a balance with a low fare ($0.75) and moderate driving fee ($0.5), reducing car travel time significantly while keeping transit affordable. 2. Proposal 11 further reduces car travel time with a slightly higher driving fee, maintaining low transit fare. 3. Proposal 13 maintains the current fare with a moderate driving fee, improving transit time and slightly reducing car travel time. 4. Proposal 19 offers a low fare and moderate driving fee, with a higher tax, balancing improved transit times and costs. 5. Proposal 14 maintains the current fare with a higher driving fee, offering significant improvements in transit time and car travel time."
+  },
+  "vote": [
+    10,
+    11,
+    13,
+    19,
+    14
+  ]
+}

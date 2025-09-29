@@ -1,0 +1,16 @@
+{
+  "community_area": "Lower West Side",
+  "thinking": {
+    "disposable_income": "The median income is $69,810, with a per capita income of $36,151. A significant portion of the population earns less than $50,000, indicating a need to consider affordability in transportation costs.",
+    "discretionary_consumption": "With 18.4% earning less than $25,000 and 19.3% earning between $25,000 and $49,999, a large segment of the community may have limited discretionary spending. Thus, lower transit fares and driver fees are preferable to maintain disposable income for other necessities.",
+    "accessibility": "24.5% of the community uses transit, and 23.8% have no vehicle, highlighting the importance of affordable and efficient public transportation. Reducing transit times and maintaining low fares are crucial for accessibility.",
+    "decision_rationale": "Given the community's income distribution and reliance on public transit, policies that minimize costs while improving transit efficiency are prioritized. Lower fares and moderate driver fees can encourage transit use, reduce congestion, and improve travel times. A balance between tax rates and service improvements is necessary to ensure affordability and accessibility."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

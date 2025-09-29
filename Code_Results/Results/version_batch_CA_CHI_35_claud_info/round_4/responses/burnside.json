@@ -1,0 +1,16 @@
+{
+  "community_area": "Burnside",
+  "thinking": {
+    "disposable_income": "Burnside has a relatively low median income of $46,711, with over 53% of households making less than $50,000 annually. This suggests limited disposable income and high sensitivity to cost increases.",
+    "discretionary_consumption": "Given the income distribution, most residents have limited discretionary spending capacity. Any increase in transportation costs or sales tax would significantly impact their ability to spend on other necessities.",
+    "accessibility": "High transit dependency with 38.7% of households having no vehicle. 27.6% use transit for commuting, while 40.3% drive alone. The community needs balanced policies that maintain both transit and driving affordability.",
+    "decision_rationale": "1. Prioritized proposals with lower sales tax (0.5%) to minimize impact on limited discretionary income. 2. Favored lower transit fares ($0.75-$1.25) due to high transit usage and no-vehicle households. 3. Considered moderate driving fees ($0.50) to improve transit service without overly burdening drivers. 4. Selected proposals that reduce transit travel time while keeping costs manageable. 5. Balanced the needs of both transit users and drivers given the mixed-mode usage in the community."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    3
+  ]
+}

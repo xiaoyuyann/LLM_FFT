@@ -1,0 +1,16 @@
+{
+  "community_area": "Hunterwood",
+  "thinking": {
+    "disposable_income": "Hunterwood has a moderate disposable income level, with many residents working in blue-collar and service jobs.",
+    "discretionary_consumption": "Residents in Hunterwood tend to have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "Hunterwood has moderate accessibility to public transit, but many residents rely on personal vehicles due to limited transit options and longer travel times.",
+    "decision_rationale": "Given the moderate disposable income and limited discretionary spending, it is crucial to minimize additional financial burdens on residents. Lower transit fares and driving fees are preferred to keep transportation affordable. A moderate sales tax is acceptable if it significantly improves transit services, reducing travel times and potentially encouraging a shift from driving to transit. The selected policies aim to balance affordability with improved transit efficiency, considering the community's reliance on both transit and personal vehicles."
+  },
+  "vote": [
+    1,
+    7,
+    10,
+    16,
+    19
+  ]
+}

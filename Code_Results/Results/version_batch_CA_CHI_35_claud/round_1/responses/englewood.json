@@ -1,0 +1,16 @@
+{
+  "community_area": "Englewood",
+  "thinking": {
+    "disposable_income": "Englewood has one of the lowest median household incomes in Chicago at around $20,000 annually. Many residents live below poverty level and have very limited disposable income. Cost sensitivity is extremely high.",
+    "discretionary_consumption": "Given the low income levels, discretionary spending is minimal. Most household income goes to basic necessities. Even small increases in transportation costs or sales tax would significantly impact residents' ability to meet basic needs.",
+    "accessibility": "High transit dependency with lower car ownership rates compared to city average. Many residents rely on public transit for access to jobs, healthcare, and essential services. Current transit service is limited with longer travel times. Walking and bus are primary modes.",
+    "decision_rationale": "1. Prioritize lowest combined costs (fare + tax) given very low incomes. 2. Focus on improved transit service/times since many depend on it. 3. Avoid high driving fees since they would burden essential workers who must drive. 4. Balance between service improvements and affordability. 5. Consider proposals that reduce transit travel time without excessive cost burden. Selected proposals 0, 9, 3, 18, 21 as they maintain low fares/taxes while providing some transit improvements."
+  },
+  "vote": [
+    0,
+    9,
+    3,
+    18,
+    21
+  ]
+}

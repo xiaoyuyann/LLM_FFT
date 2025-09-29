@@ -1,0 +1,16 @@
+{
+  "community_area": "West University Place",
+  "thinking": {
+    "disposable_income": "West University Place is one of Houston's most affluent neighborhoods with a median household income over $250,000, indicating high disposable income and less price sensitivity to transportation costs.",
+    "discretionary_consumption": "Residents have significant discretionary spending power with high-end retail, dining, and services in the area, suggesting they can absorb higher taxes and fees with minimal impact on quality of life.",
+    "accessibility": "The neighborhood has excellent car accessibility to major employment centers and amenities, with good street networks but limited transit options, making driving the dominant mode of transportation.",
+    "decision_rationale": "1) Given high incomes, prioritize policies that reduce travel times over cost savings 2) Support higher driver fees to reduce congestion since most residents drive 3) Favor moderate sales tax to maintain services without excessive burden 4) Accept higher transit fares since fewer residents rely on transit 5) Balance between travel time improvements and reasonable cost increases given the affluent demographic"
+  },
+  "vote": [
+    23,
+    20,
+    17,
+    14,
+    11
+  ]
+}

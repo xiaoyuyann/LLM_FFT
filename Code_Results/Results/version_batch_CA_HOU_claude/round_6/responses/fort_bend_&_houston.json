@@ -1,0 +1,16 @@
+{
+  "community_area": "Fort Bend Houston",
+  "thinking": {
+    "disposable_income": "Fort Bend Houston has relatively high median household income around $65,000-70,000, with many middle-class and upper-middle-class households having significant disposable income.",
+    "discretionary_consumption": "Residents have moderate to high discretionary spending capacity, with many households able to afford private vehicles and handle moderate increases in transportation costs.",
+    "accessibility": "The area is primarily car-dependent with limited transit access, though some residents use park-and-ride services to commute downtown, and improving transit service could benefit both car and transit users.",
+    "decision_rationale": "1) Prioritized policies that balance moderate tax rates with improved transit service since residents can afford some cost increases, 2) Favored proposals with moderate driving fees to reduce congestion while not overly burdening car-dependent residents, 3) Selected fare levels that would maintain transit affordability while generating revenue for service improvements, 4) Considered that reduced travel times would benefit both drivers and transit users in this car-oriented community, 5) Aimed for proposals that would incrementally shift behavior while respecting current auto-oriented patterns."
+  },
+  "vote": [
+    20,
+    11,
+    19,
+    10,
+    3
+  ]
+}

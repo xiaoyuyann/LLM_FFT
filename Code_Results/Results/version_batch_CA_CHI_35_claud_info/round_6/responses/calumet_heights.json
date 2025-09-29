@@ -1,0 +1,16 @@
+{
+  "community_area": "Calumet Heights",
+  "thinking": {
+    "disposable_income": "Median income is $68,436, with a diverse income distribution. About 36.7% earn less than $50,000, while 30.1% earn over $100,000. Per capita income of $39,867 suggests moderate disposable income levels",
+    "discretionary_consumption": "Given the income distribution, many households have limited discretionary spending capacity. Higher sales taxes and transportation costs would significantly impact the 36.7% of households earning under $50,000",
+    "accessibility": "19.4% have no vehicle, while 47.9% have one vehicle. Transit usage is significant at 19.5%, with 52.3% driving alone. The community needs balanced transportation options that don't overly burden either drivers or transit users",
+    "decision_rationale": "1. Prioritize lower sales tax (0.5%) to protect discretionary spending power. 2. Balance transit fares and driving fees to maintain accessibility for both modes. 3. Consider the significant transit-dependent population (19.4% no vehicle). 4. Support policies that reduce transit travel times without excessive costs. 5. Account for the large driving population while encouraging transit use through moderate incentives"
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    3
+  ]
+}

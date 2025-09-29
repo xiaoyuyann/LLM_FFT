@@ -1,0 +1,16 @@
+{
+  "community_area": "Gage Park",
+  "thinking": {
+    "disposable_income": "Gage Park is a working-class community with median household income around $41,000, significantly below Chicago's average. Many residents work in service and manufacturing sectors, with about 18% of families below poverty level",
+    "discretionary_consumption": "Limited discretionary spending capacity due to low income levels. Residents are price-sensitive to both transit fares and sales taxes. Many households spend significant portion of income on basic necessities",
+    "accessibility": "High transit dependency with about 20% of households without vehicles. Located along Orange Line and multiple bus routes, but some areas have limited transit access. Many residents commute to jobs in other parts of the city",
+    "decision_rationale": "1. Prioritize low transit fares due to high transit dependency and low income levels. 2. Prefer lower sales tax rates as residents have limited discretionary income. 3. Support moderate driving fees to improve transit service without overly burdening car-dependent households. 4. Balance between transit service improvements and cost burden on residents. 5. Consider policies that reduce transit travel times to improve job accessibility"
+  },
+  "vote": [
+    10,
+    1,
+    9,
+    11,
+    4
+  ]
+}

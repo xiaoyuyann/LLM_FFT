@@ -1,0 +1,16 @@
+{
+  "community_area": "Austin",
+  "thinking": {
+    "disposable_income": "Austin has a relatively low median income of $40,086 and a per capita income of $23,403. A significant portion of the population earns less than $25,000, indicating limited disposable income.",
+    "discretionary_consumption": "With a large portion of the population earning below $25,000, discretionary spending is likely constrained. High transit fares or driver fees could significantly impact the community's ability to spend on other necessities.",
+    "accessibility": "30.6% of households do not own a vehicle, and 23.7% of residents use transit to commute. This suggests a reliance on public transportation, making transit affordability and efficiency crucial for accessibility.",
+    "decision_rationale": "Given the low disposable income and high reliance on public transit, policies with lower transit fares and moderate driver fees are prioritized to maintain affordability and improve transit efficiency. A lower sales tax is preferred to minimize the impact on discretionary spending. The selected policies aim to balance improved transit services with affordability, considering the community's economic constraints and transportation needs."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

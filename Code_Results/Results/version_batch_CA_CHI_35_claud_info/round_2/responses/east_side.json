@@ -1,0 +1,16 @@
+{
+  "community_area": "East Side",
+  "thinking": {
+    "disposable_income": "Median household income is $61,898, which is moderate. 41.8% of households earn less than $50,000 annually, suggesting many families need to be cost-conscious. The per capita income of $25,646 indicates limited disposable income for many residents.",
+    "discretionary_consumption": "With a significant portion of households in lower-to-middle income brackets, discretionary spending is likely limited. Higher sales taxes or transportation costs would notably impact household budgets. The average household size of 3.2 suggests higher household expenses.",
+    "accessibility": "90.5% of households own at least one vehicle, with 53.4% owning 2 or more vehicles. 68.4% drive alone to work, while only 7.7% use transit. The mean commute time is 36.4 minutes, suggesting significant travel needs.",
+    "decision_rationale": "1. Prioritize lower sales tax (0.5%) to protect discretionary income for predominantly working-class families. 2. Given high car dependency, avoid highest driving fees. 3. Balance moderate transit fares with service improvements since most residents drive. 4. Consider proposals that reduce commute times without excessive cost burden. 5. Select options that maintain reasonable driving costs while gradually improving transit service."
+  },
+  "vote": [
+    4,
+    1,
+    3,
+    0,
+    7
+  ]
+}

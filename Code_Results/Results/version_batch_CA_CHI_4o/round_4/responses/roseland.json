@@ -1,0 +1,16 @@
+{
+  "community_area": "Roseland",
+  "thinking": {
+    "disposable_income": "Roseland has a relatively low median household income compared to the city average, which means residents have limited disposable income.",
+    "discretionary_consumption": "With limited disposable income, discretionary spending is constrained, making cost-sensitive policies more favorable.",
+    "accessibility": "Roseland has moderate access to public transit, but improvements in transit times could significantly benefit residents who rely on public transportation.",
+    "decision_rationale": "Given the limited disposable income, policies with lower fares and taxes are prioritized to minimize financial burden. However, improving transit times is also crucial for accessibility. Therefore, policies that balance lower costs with improved transit times are preferred. A moderate driver fee is acceptable if it significantly reduces car travel time, as this could encourage a shift to public transit, reducing congestion and emissions."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

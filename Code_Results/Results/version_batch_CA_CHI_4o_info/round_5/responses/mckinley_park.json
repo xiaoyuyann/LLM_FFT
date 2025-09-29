@@ -1,0 +1,16 @@
+{
+  "community_area": "McKinley Park",
+  "thinking": {
+    "disposable_income": "The median income in McKinley Park is $70,411, with a per capita income of $32,106. A significant portion of the population earns between $25,000 and $149,999, indicating a moderate level of disposable income.",
+    "discretionary_consumption": "With a diverse income distribution, a substantial portion of the community may be sensitive to increases in transit fares and driver fees, as these could impact their ability to spend on other necessities and discretionary items.",
+    "accessibility": "51.5% of residents drive alone, while 21.7% use transit. The community has a moderate reliance on transit, suggesting that improvements in transit services could benefit a significant portion of the population. However, a large percentage also relies on driving, indicating the need to balance transit improvements with driving costs.",
+    "decision_rationale": "Given the community's moderate income levels and reliance on both driving and transit, the ideal policy would improve transit times without significantly increasing costs. Lower fares and moderate driver fees could encourage transit use, reducing congestion and emissions. A lower sales tax would minimize the impact on discretionary spending. Therefore, proposals with lower fares and moderate driver fees, combined with a balanced sales tax, are prioritized."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

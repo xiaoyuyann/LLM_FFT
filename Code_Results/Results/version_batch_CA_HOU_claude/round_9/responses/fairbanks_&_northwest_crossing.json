@@ -1,0 +1,16 @@
+{
+  "community_area": "Fairbanks / Northwest Crossing",
+  "thinking": {
+    "disposable_income": "The neighborhood has a median household income of around $45,000, which is below Houston's median, indicating residents are price-sensitive to transportation costs.",
+    "discretionary_consumption": "With modest income levels and higher cost of living concerns, residents have limited discretionary spending capacity and are sensitive to both sales tax increases and transportation fees.",
+    "accessibility": "The area has limited transit service with longer travel times, and most residents rely heavily on personal vehicles for commuting and daily activities.",
+    "decision_rationale": "1. Prioritized policies with lower sales tax (0.5%) to minimize impact on overall purchasing power. 2. Favored moderate driving fees ($0.50) over high fees ($1.00) to balance revenue generation with affordability. 3. Selected proposals with lower transit fares ($0.75-$1.25) to encourage transit use while keeping it affordable. 4. Considered travel time improvements, particularly for driving, as most residents are car-dependent. 5. Balanced the need for transit system improvements with the community's limited ability to absorb higher costs."
+  },
+  "vote": [
+    0,
+    2,
+    7,
+    10,
+    4
+  ]
+}

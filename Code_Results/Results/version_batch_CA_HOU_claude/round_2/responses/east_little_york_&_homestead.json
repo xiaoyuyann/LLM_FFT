@@ -1,0 +1,16 @@
+{
+  "community_area": "East Little York / Homestead",
+  "thinking": {
+    "disposable_income": "The median household income in East Little York / Homestead is relatively low at around $35,000, with many residents living on fixed or limited incomes.",
+    "discretionary_consumption": "Residents have limited discretionary spending capacity, with a significant portion of income going to basic necessities like housing, food, and transportation.",
+    "accessibility": "The area has moderate transit access with bus routes but many residents rely on personal vehicles, with average commute times being significant and car ownership rates relatively high despite economic constraints.",
+    "decision_rationale": "1. Prioritized lower transit fares ($0.75) to make public transit more affordable for low-income residents. 2. Favored lower sales tax rates (0.5-1.0%) to minimize impact on household budgets. 3. Considered moderate driving fees ($0.50) to improve transit service without overly burdening drivers. 4. Balanced travel time improvements with cost impacts. 5. Selected proposals that provide the best combination of affordability and service improvements for both transit and car users."
+  },
+  "vote": [
+    0,
+    7,
+    2,
+    10,
+    6
+  ]
+}

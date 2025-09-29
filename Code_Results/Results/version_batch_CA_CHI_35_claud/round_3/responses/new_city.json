@@ -1,0 +1,16 @@
+{
+  "community_area": "New City",
+  "thinking": {
+    "disposable_income": "New City has a low median household income around $33,000, significantly below Chicago's average. About 32% of residents live below poverty level, indicating limited disposable income for most residents",
+    "discretionary_consumption": "Given the low income levels, residents have very limited discretionary spending capacity. Higher taxes or transportation costs would significantly impact their ability to afford basic necessities",
+    "accessibility": "The area has moderate transit access with bus routes and proximity to Orange Line. Car ownership is lower than city average due to economic constraints. Many residents rely on public transit for work commutes and daily activities",
+    "decision_rationale": "1. Given low income levels, prioritize lowest transit fares and taxes to preserve disposable income\n2. Need balance between transit service quality and affordability\n3. Support some driving fees to improve transit service without directly burdening transit users\n4. Avoid highest tax rates that would strain limited discretionary spending\n5. Focus on proposals that reduce transit travel times to improve access to opportunities"
+  },
+  "vote": [
+    1,
+    10,
+    4,
+    13,
+    19
+  ]
+}

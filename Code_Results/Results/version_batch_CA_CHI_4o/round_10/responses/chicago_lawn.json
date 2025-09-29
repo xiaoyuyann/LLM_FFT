@@ -1,0 +1,16 @@
+{
+  "community_area": "Chicago Lawn",
+  "thinking": {
+    "disposable_income": "Chicago Lawn is a working-class neighborhood with a median household income lower than the city average. Residents are sensitive to increases in costs, whether through taxes, fares, or fees.",
+    "discretionary_consumption": "Given the lower disposable income, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Chicago Lawn has moderate access to public transit, with several bus routes and a nearby train station. However, transit times are relatively long, and many residents rely on driving for faster commutes.",
+    "decision_rationale": "The community needs to balance affordability with improved transit services. Lower fares and taxes are preferred to minimize financial strain, but some increase in driver fees is acceptable if it significantly reduces travel times and improves transit efficiency. The goal is to enhance transit accessibility without disproportionately impacting residents' budgets. Proposals with lower fares and moderate driver fees are prioritized, as they offer a compromise between cost and service improvement."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

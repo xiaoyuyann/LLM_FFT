@@ -1,0 +1,16 @@
+{
+  "community_area": "Avondale",
+  "thinking": {
+    "disposable_income": "Mixed-income community with 43.5% making $100k+ but also 32.6% under $50k. About 15.6% are low-income (<$25k), suggesting sensitivity to cost increases",
+    "discretionary_consumption": "Given the income distribution, many households have moderate to high discretionary spending capacity, but a significant portion may be cost-sensitive to both transit fares and sales tax increases",
+    "accessibility": "Mixed transportation needs - 19.8% no vehicle, 48.2% one vehicle. 49.7% drive alone, 21.5% use transit, suggesting need to balance both transit and driving improvements",
+    "decision_rationale": "1. Prioritize proposals balancing moderate tax/fare/fees due to mixed income levels. 2. Consider high transit usage (21.5%) and car dependency (49.7% drive alone). 3. Focus on proposals that improve both transit and driving times without excessive cost burden. 4. Account for significant no-vehicle population (19.8%). 5. Selected proposals 13, 4, 10, 21, and 1 as they offer balanced improvements in both transit and driving times while maintaining moderate cost increases"
+  },
+  "vote": [
+    13,
+    4,
+    10,
+    21,
+    1
+  ]
+}

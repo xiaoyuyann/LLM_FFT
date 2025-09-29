@@ -1,0 +1,16 @@
+{
+  "community_area": "Uptown",
+  "thinking": {
+    "disposable_income": "Uptown has mixed income levels with median household income around $53,000. About 20% of residents live below poverty line. Many residents are cost-sensitive when it comes to transportation expenses.",
+    "discretionary_consumption": "Significant portion of residents have limited discretionary spending. Higher sales taxes would impact local businesses and resident purchasing power. Many residents rely on careful budgeting of transportation costs.",
+    "accessibility": "Well-served by CTA Red Line, multiple bus routes, and Lake Shore Drive. 45% of households don't own cars. High transit dependency. Dense, walkable neighborhood with many local amenities. Good mix of transit and driving options.",
+    "decision_rationale": "1. Prioritize lower transit fares due to high transit dependency and lower incomes. 2. Moderate sales tax to balance revenue needs with impact on discretionary spending. 3. Support driving fees to improve transit service while maintaining reasonable car access. 4. Focus on proposals that reduce transit travel times to benefit large transit-dependent population. 5. Consider balance of costs across modes given mixed-income population."
+  },
+  "vote": [
+    11,
+    10,
+    13,
+    14,
+    9
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Minnetex",
+  "thinking": {
+    "disposable_income": "Minnetex has relatively low median household income with many residents living below poverty level, making them particularly sensitive to transportation costs.",
+    "discretionary_consumption": "Limited discretionary spending capacity due to lower income levels, with residents needing to carefully budget for essential needs including transportation.",
+    "accessibility": "The area has limited transit service coverage and high car dependency, with many residents relying on personal vehicles despite the financial burden.",
+    "decision_rationale": "1) Prioritized proposals with lower sales tax (0.5%) to minimize impact on limited disposable income 2) Favored lower transit fares ($0.75) to make public transit more affordable for cost-sensitive residents 3) Accepted moderate driving fees ($0.50) as compromise to improve transit service while not overly burdening car-dependent residents 4) Sought balance between improved transit times and manageable costs 5) Ranked proposals that offered best combined improvement in both transit and driving times while keeping total costs reasonable"
+  },
+  "vote": [
+    0,
+    2,
+    7,
+    10,
+    16
+  ]
+}

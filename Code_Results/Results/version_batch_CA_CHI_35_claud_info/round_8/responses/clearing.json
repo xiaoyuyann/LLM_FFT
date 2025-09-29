@@ -1,0 +1,16 @@
+{
+  "community_area": "Clearing",
+  "thinking": {
+    "disposable_income": "Clearing has a median household income of $73,778, with 33.5% of households making over $100,000. However, 32.8% make under $50,000, indicating significant income diversity. The per capita income of $33,089 suggests moderate disposable income levels.",
+    "discretionary_consumption": "With a mix of income levels, many households have moderate discretionary spending power. Higher sales taxes would impact the 32.8% lower-income households more significantly. The community shows high car ownership (91.2% have at least one vehicle) suggesting significant transportation spending.",
+    "accessibility": "The area is heavily car-dependent with 74.1% driving alone to work and only 6.9% using transit. Mean commute time is 31.9 minutes. Most households (55.2%) have 2+ vehicles, indicating strong preference for car accessibility.",
+    "decision_rationale": "1. Given high car dependency, prefer policies with lower driving fees. 2. Lower sales tax preferred due to mixed income levels. 3. Higher transit fares acceptable since few use transit. 4. Focus on reducing car travel times since majority drive. 5. Balance between maintaining car accessibility while gradually improving transit service. Selected policies that minimize impact on driving costs while maintaining reasonable transit improvements."
+  },
+  "vote": [
+    3,
+    0,
+    9,
+    12,
+    6
+  ]
+}

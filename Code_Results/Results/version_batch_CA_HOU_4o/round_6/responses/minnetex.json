@@ -1,0 +1,16 @@
+{
+  "community_area": "Minnetex",
+  "thinking": {
+    "disposable_income": "Minnetex has a relatively low to moderate disposable income, with many residents working in blue-collar jobs.",
+    "discretionary_consumption": "Discretionary consumption is limited, with residents prioritizing essential goods and services over luxury items.",
+    "accessibility": "Public transit options are limited, and many residents rely on personal vehicles for commuting, though transit improvements could benefit those without cars.",
+    "decision_rationale": "Given the limited disposable income, minimizing costs is crucial. A lower transit fare and driving fee are preferred to reduce the financial burden on residents. However, improving transit times is also important to enhance accessibility for those without cars. Balancing these factors, proposals with lower fares and fees, and moderate tax rates that improve transit times, are prioritized. The selected proposals aim to reduce travel costs while improving transit efficiency, considering the community's reliance on both transit and personal vehicles."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

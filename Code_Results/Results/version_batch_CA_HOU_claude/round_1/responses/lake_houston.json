@@ -1,0 +1,16 @@
+{
+  "community_area": "Lake Houston",
+  "thinking": {
+    "disposable_income": "Lake Houston residents have relatively high median household incomes around $90,000-100,000, with most households having significant disposable income for transportation costs.",
+    "discretionary_consumption": "The area's residents have moderate to high discretionary spending capacity, with many households able to afford private vehicles and higher transportation costs.",
+    "accessibility": "Lake Houston is a suburban area heavily dependent on private vehicles, with limited public transit options and longer average commute times to major employment centers.",
+    "decision_rationale": "1. Given the car-dependent nature of Lake Houston, policies that minimize driving costs while still improving transit are preferred. 2. The higher income levels mean residents can tolerate moderate sales tax increases if they reduce congestion. 3. Lower transit fares are less critical since most residents drive. 4. Moderate driving fees are acceptable if they significantly reduce congestion. 5. Selected policies balance maintaining reasonable driving costs while funding transit improvements through sales tax."
+  },
+  "vote": [
+    6,
+    15,
+    18,
+    9,
+    12
+  ]
+}

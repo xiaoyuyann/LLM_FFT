@@ -1,0 +1,16 @@
+{
+  "community_area": "West Pullman",
+  "thinking": {
+    "disposable_income": "West Pullman has a relatively lower median household income compared to the city average, which means residents are more sensitive to changes in costs related to transportation.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, so any increase in transportation costs could significantly impact their ability to spend on other necessities.",
+    "accessibility": "West Pullman has moderate access to public transit, but improvements in transit times could significantly benefit residents who rely on public transportation for commuting and accessing services.",
+    "decision_rationale": "Given the lower income levels, minimizing costs is crucial. Therefore, proposals with lower fares and taxes are preferred. However, improving transit times is also important to enhance accessibility. Balancing these factors, proposals with lower fares and moderate driver fees are prioritized to encourage a shift from driving to transit, reducing congestion and emissions while keeping costs manageable for residents."
+  },
+  "vote": [
+    10,
+    1,
+    13,
+    4,
+    19
+  ]
+}

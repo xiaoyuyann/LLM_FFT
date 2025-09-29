@@ -1,0 +1,16 @@
+{
+  "community_area": "South Chicago",
+  "thinking": {
+    "disposable_income": "South Chicago has a median household income of approximately $31,000, which is significantly below Chicago's median. Many residents live on tight budgets with limited disposable income. About 32% of households live below the poverty line.",
+    "discretionary_consumption": "Given the low median income, discretionary spending is limited. Residents are price-sensitive to both transit fares and sales taxes. Many households spend a significant portion of income on basic necessities, leaving little room for additional transportation costs.",
+    "accessibility": "The area has moderate transit access with bus routes and Metra Electric service, but many residents rely on public transit due to lower car ownership rates (about 30% of households don't have vehicles). Average commute times are higher than city average, with many residents traveling to jobs outside the neighborhood.",
+    "decision_rationale": "1. Given low incomes, prioritize lower fares and taxes to preserve disposable income. 2. Many residents are transit-dependent, so maintaining affordable transit access is crucial. 3. Lower sales tax (0.5%) options preferred due to impact on household budgets. 4. Some driving fee acceptable to improve transit service without directly burdening transit users. 5. Balance between travel time improvements and costs, favoring options that don't overburden low-income residents."
+  },
+  "vote": [
+    1,
+    0,
+    4,
+    10,
+    3
+  ]
+}

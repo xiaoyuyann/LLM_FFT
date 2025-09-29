@@ -1,0 +1,16 @@
+{
+  "community_area": "West Englewood",
+  "thinking": {
+    "disposable_income": "West Englewood has a very low median income of $29,234, with 69.5% of households earning less than $50,000. This indicates extremely limited disposable income for transportation costs",
+    "discretionary_consumption": "With 42.1% of households earning less than $25,000, discretionary spending is severely constrained. Higher sales taxes or transportation costs would significantly impact basic needs spending",
+    "accessibility": "32.7% of households have no vehicle, and 25.9% rely on transit. The community needs affordable transit options while maintaining reasonable service levels. Current transit travel times are more than double driving times",
+    "decision_rationale": "1. Given very low incomes, prioritized lowest fare ($0.75) and tax (0.5%) options first\n2. Selected proposals that reduce transit travel time while keeping costs low\n3. Moderate driving fees ($0.50) help fund transit improvements without excessive burden\n4. Avoided highest tax/fare combinations due to poverty levels\n5. Balanced need for service improvements with community's limited ability to pay"
+  },
+  "vote": [
+    1,
+    2,
+    0,
+    4,
+    10
+  ]
+}

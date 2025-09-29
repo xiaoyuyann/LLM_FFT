@@ -1,0 +1,16 @@
+{
+  "community_area": "Avondale",
+  "thinking": {
+    "disposable_income": "Avondale has a median household income of approximately $57,000, which is slightly below Chicago's median. About 15% of residents live below poverty level, suggesting moderate financial constraints for many households",
+    "discretionary_consumption": "Given the moderate income levels, residents have limited discretionary spending. Higher sales taxes would impact household budgets significantly. Many residents need to balance essential expenses with transportation costs",
+    "accessibility": "Avondale has good access to CTA Blue Line and multiple bus routes. About 32% of residents use public transit for commuting, while 55% drive. The area has a mix of transit-dependent and car-dependent households",
+    "decision_rationale": "1. Prioritize lower sales tax (0.5%) to protect discretionary spending power. 2. Balance moderate transit fares ($1.25) with service quality improvements. 3. Support modest driving fees ($0.50) to reduce congestion while not overly burdening drivers. 4. Focus on proposals that reduce transit travel times to benefit significant transit-using population. 5. Consider mixed-mode transportation needs of community"
+  },
+  "vote": [
+    4,
+    1,
+    13,
+    7,
+    10
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Riverdale",
+  "thinking": {
+    "disposable_income": "Riverdale has a median income of $41,144 and a per capita income of $19,721. A significant portion of the population earns less than $25,000, indicating limited disposable income.",
+    "discretionary_consumption": "With a large percentage of households earning below $50,000, discretionary spending is likely constrained. Any increase in transportation costs could significantly impact the community's ability to spend on other necessities.",
+    "accessibility": "A majority of residents drive alone (67.9%), but a notable portion (12.9%) relies on transit. The mean commute time is 33.8 minutes, suggesting a need for efficient transportation options. Car ownership is moderate, with 19.4% of households having no vehicle.",
+    "decision_rationale": "Given the limited disposable income, policies with lower fares and taxes are preferred to minimize financial strain. However, improving transit times is also crucial for those relying on public transportation. Balancing these factors, proposals with moderate taxes and fares, and higher driver fees to encourage transit use, are prioritized. This approach aims to enhance transit services while considering the community's financial constraints."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

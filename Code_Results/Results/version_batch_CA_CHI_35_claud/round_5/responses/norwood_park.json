@@ -1,0 +1,16 @@
+{
+  "community_area": "Norwood Park",
+  "thinking": {
+    "disposable_income": "Norwood Park is an upper-middle-class area with median household income around $82,000. Residents have relatively high disposable income and car ownership rates. Many households can afford multiple vehicles.",
+    "discretionary_consumption": "Residents have significant discretionary spending capacity. The area has high rates of homeownership and retail spending. A sales tax increase would have a moderate but manageable impact on household budgets.",
+    "accessibility": "The area is served by the Blue Line and Metra, but many residents rely heavily on cars. The community is somewhat car-dependent due to its location and suburban character. Good road access but moderate transit coverage.",
+    "decision_rationale": "1. Given high car dependency, avoid highest driving fees to prevent excessive burden on residents. 2. Moderate tax increase acceptable given income levels to improve transit. 3. Higher transit fares acceptable as residents have means to pay. 4. Prioritize policies that reduce car travel times given heavy car usage. 5. Balance between maintaining car accessibility while funding transit improvements. Selected policies that maintain reasonable driving costs while investing in transit through moderate tax increases and fares."
+  },
+  "vote": [
+    13,
+    4,
+    22,
+    16,
+    7
+  ]
+}

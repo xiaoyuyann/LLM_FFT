@@ -1,0 +1,16 @@
+{
+  "community_area": "Clearing",
+  "thinking": {
+    "disposable_income": "Clearing is a middle-class community with median household income around $65,000. Many residents work in transportation and logistics sectors due to proximity to Midway Airport. The area has moderate disposable income levels, making residents somewhat sensitive to cost increases",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity. The community has a mix of homeowners and renters, with significant spending on transportation due to high car ownership rates and commuting needs",
+    "accessibility": "The area is car-dependent with moderate transit access. Located near Midway Airport with good road connections but limited rail service. Many residents rely on cars for work commutes and daily errands. The Orange Line serves the northern edge but much of the area requires bus connections",
+    "decision_rationale": "1. Prioritize policies that balance driving efficiency with moderate costs given high car dependency\n2. Consider moderate transit improvements without excessive tax burden\n3. Support policies with lower sales tax given middle-class status\n4. Favor proposals that reduce congestion around airport area\n5. Select options that don't overly burden car-dependent commuters while gradually improving transit"
+  },
+  "vote": [
+    4,
+    13,
+    3,
+    10,
+    21
+  ]
+}

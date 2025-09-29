@@ -1,0 +1,16 @@
+{
+  "community_area": "East Side",
+  "thinking": {
+    "disposable_income": "The East Side community area has a moderate to low disposable income, with many residents working in blue-collar jobs. This means that any increase in costs, whether through transit fares, sales taxes, or driving fees, could significantly impact their budget.",
+    "discretionary_consumption": "Given the moderate to low disposable income, discretionary consumption is limited. Residents prioritize essential goods and services, so any policy that increases their cost of living could reduce their ability to spend on non-essential items.",
+    "accessibility": "The East Side has moderate accessibility to resources and services. Public transit is a crucial mode of transportation for many residents, but driving is also common. Policies that improve transit times without significantly increasing costs would be beneficial.",
+    "decision_rationale": "Considering the community's moderate to low disposable income and limited discretionary consumption, policies with lower transit fares and minimal sales tax increases are preferred. Additionally, reducing travel times for both transit and driving is important. Therefore, policies that balance lower costs with improved transit times are prioritized. A moderate driving fee is acceptable if it significantly reduces travel times, as this could encourage a shift from driving to transit, reducing congestion and emissions."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Hyde Park",
+  "thinking": {
+    "disposable_income": "Hyde Park shows significant income diversity with 43.6% earning under $50K and 31.3% earning over $100K. The large student population from University of Chicago contributes to lower income brackets, while faculty and professionals represent higher income brackets",
+    "discretionary_consumption": "Given the mixed income levels and high proportion of students, many residents are price-sensitive to both transit fares and sales tax. The 43.4% of households without vehicles suggests high reliance on discretionary spending for transit",
+    "accessibility": "The area has excellent transit access with multiple bus routes and Metra/CTA stations. 22.5% use transit for commuting, 29.4% walk/bike, and only 25.8% drive. The high no-vehicle rate (43.4%) indicates strong transit dependency",
+    "decision_rationale": "1. Prioritize lower transit fares due to high transit usage and student population. 2. Moderate sales tax preferred given mixed income levels. 3. Support higher driving fees as most residents don't drive. 4. Balance between transit service quality and affordability needed. 5. Proposals that reduce transit travel time weighted heavily given high transit usage"
+  },
+  "vote": [
+    11,
+    20,
+    2,
+    10,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Calumet Heights",
+  "thinking": {
+    "disposable_income": "Calumet Heights is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, but they can accommodate slight increases if it leads to better services.",
+    "discretionary_consumption": "The community has a balanced discretionary consumption pattern, with residents spending on essentials and some non-essential goods. They are likely to be cautious about policies that significantly reduce their disposable income.",
+    "accessibility": "Calumet Heights has moderate accessibility to resources and services. Public transit is a crucial mode of transportation for many residents, but driving is also common. Improvements in transit times and services would be beneficial.",
+    "decision_rationale": "Given the community's moderate income and reliance on both transit and driving, policies that improve transit times without significantly increasing costs are preferred. A lower fare and moderate driver fee can encourage transit use, reduce congestion, and improve service quality. A moderate sales tax is acceptable if it leads to better transit services. Therefore, policies with a balance of lower fares, moderate driver fees, and reasonable sales tax rates are prioritized."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Fuller Park",
+  "thinking": {
+    "disposable_income": "The majority of households in Fuller Park have an income of less than $25,000, indicating limited disposable income. This suggests that any increase in transportation costs, whether through fares, fees, or taxes, could significantly impact residents' financial situations.",
+    "discretionary_consumption": "With a high percentage of low-income households, discretionary spending is likely minimal. Residents may prioritize essential goods and services, making them sensitive to any additional financial burdens from transportation policies.",
+    "accessibility": "A significant portion of the community relies on driving alone (49.3%) and transit (18.7%) for commuting. However, 58% of households do not own a vehicle, indicating a reliance on public transit. Improving transit accessibility and affordability is crucial for this community.",
+    "decision_rationale": "Given the low income and high reliance on public transit, policies that minimize costs while improving transit services are prioritized. Lower fares and moderate taxes are preferred to ensure affordability. Driver fees are considered to reduce congestion and improve transit times, benefiting those who rely on public transportation. The selected policies aim to balance cost savings with improved transit efficiency, considering the community's financial constraints and transportation needs."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    22
+  ]
+}

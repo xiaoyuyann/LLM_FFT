@@ -1,0 +1,16 @@
+{
+  "community_area": "Morgan Park",
+  "thinking": {
+    "disposable_income": "Morgan Park has a moderate level of disposable income, with a mix of middle-income families and some lower-income households. The community is sensitive to changes in transportation costs, as these can impact their overall budget for other essential and discretionary spending.",
+    "discretionary_consumption": "Residents in Morgan Park have a balanced discretionary consumption pattern, spending on essentials like housing and food, as well as on leisure and entertainment. Any increase in transportation costs could reduce their ability to spend on non-essential items.",
+    "accessibility": "Morgan Park has decent access to public transit, but many residents rely on driving due to the suburban nature of the area. Reducing travel time and improving transit services could encourage more residents to use public transportation, but cost is a significant factor.",
+    "decision_rationale": "Given the moderate disposable income and reliance on both driving and transit, the community would benefit from policies that reduce travel time without significantly increasing costs. Lower fares and moderate driver fees could encourage transit use, while a lower sales tax would minimize the impact on discretionary spending. Therefore, proposals with lower fares and moderate driver fees, combined with a lower sales tax, are prioritized. The goal is to balance improved transit services with affordability, ensuring that residents can maintain their current consumption patterns without significant financial strain."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    4,
+    22
+  ]
+}

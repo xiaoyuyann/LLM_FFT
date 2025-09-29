@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Park",
+  "thinking": {
+    "disposable_income": "Washington Park has a median income of $26,014 and a per capita income of $19,948. A significant portion of the population earns less than $25,000, indicating limited disposable income.",
+    "discretionary_consumption": "With nearly half of the population earning less than $25,000, discretionary spending is likely constrained. Any increase in transportation costs could significantly impact the ability to spend on other necessities.",
+    "accessibility": "42.8% of households do not own a vehicle, and 32.3% of residents use transit. Improving transit accessibility and affordability is crucial for this community, as many rely on it for commuting.",
+    "decision_rationale": "Given the limited disposable income and high reliance on public transit, proposals with lower transit fares and moderate sales taxes are prioritized. Reducing transit fares can alleviate financial burdens, while moderate sales taxes ensure transit services are adequately funded. Proposals with higher driving fees are favored to encourage a shift from driving to transit, reducing congestion and emissions. The selected proposals balance affordability, accessibility, and service quality."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

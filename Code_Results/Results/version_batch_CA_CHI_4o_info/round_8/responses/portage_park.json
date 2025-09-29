@@ -1,0 +1,16 @@
+{
+  "community_area": "Portage Park",
+  "thinking": {
+    "disposable_income": "Portage Park has a median income of $85,473 and a per capita income of $38,488. A significant portion of the population earns over $100,000, indicating a relatively high disposable income compared to other areas.",
+    "discretionary_consumption": "With a substantial portion of the population earning over $100,000, there is likely a higher level of discretionary consumption. However, 30.8% of households earn less than $50,000, indicating a need to balance affordability for lower-income residents.",
+    "accessibility": "62.9% of residents drive alone, and 14% use transit. The mean commute time is 37.1 minutes. Car ownership is high, with 89.9% of households owning at least one vehicle, suggesting a reliance on driving but also a significant transit user base.",
+    "decision_rationale": "Given the high car ownership and reliance on driving, policies that reduce driving time and costs are favorable. However, with a notable transit user base, improving transit times and maintaining affordable fares is also important. Balancing the sales tax impact on discretionary spending is crucial, especially for lower-income households. Therefore, proposals that offer a moderate sales tax, reduced driving times, and improved transit times with reasonable fares are prioritized."
+  },
+  "vote": [
+    13,
+    14,
+    10,
+    11,
+    4
+  ]
+}

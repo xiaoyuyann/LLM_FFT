@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Grand Crossing",
+  "thinking": {
+    "disposable_income": "The median income is $39,908, with a significant portion of the population earning less than $25,000. This indicates limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With a high percentage of households earning below $50,000, discretionary spending is likely constrained. Policies that minimize additional costs, such as lower fares and taxes, are preferable.",
+    "accessibility": "A significant portion of the population relies on transit (29.5%) and a notable percentage has no vehicle (36.5%). Improving transit accessibility and affordability is crucial for this community.",
+    "decision_rationale": "Given the community's limited disposable income and reliance on public transit, policies with lower fares and moderate taxes are prioritized. Reducing travel time is also important, but not at the expense of significantly higher costs. The selected policies aim to balance affordability with improved transit service, considering the community's economic constraints and transportation needs."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

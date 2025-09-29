@@ -1,0 +1,16 @@
+{
+  "community_area": "West Elsdon",
+  "thinking": {
+    "disposable_income": "West Elsdon is a middle-income community with a significant portion of the population working in blue-collar jobs. The community has a moderate level of disposable income, which means that any increase in transportation costs could impact their budget for other essential expenses.",
+    "discretionary_consumption": "Residents in West Elsdon have limited discretionary spending due to their income levels. They prioritize essential goods and services, so any increase in transportation costs could reduce their ability to spend on non-essential items.",
+    "accessibility": "West Elsdon has moderate access to public transit, with some residents relying on it for commuting. However, many residents also use personal vehicles due to the convenience and time savings. Improving transit times could encourage more residents to switch from driving to public transit.",
+    "decision_rationale": "Given the community's moderate disposable income and limited discretionary spending, it is important to minimize additional costs while improving transit services. Lower fares and moderate driver fees can encourage transit use without significantly impacting residents' budgets. A moderate sales tax is acceptable if it leads to better transit services, as long as it doesn't overly burden the community. The focus is on balancing cost with improved transit times to benefit both transit users and drivers."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "IAH Airport",
+  "thinking": {
+    "disposable_income": "The IAH Airport super neighborhood has a moderate disposable income, with many residents working in airport-related jobs and service industries.",
+    "discretionary_consumption": "Discretionary consumption is moderate, with residents spending on essential services and some leisure activities, but with a focus on affordability.",
+    "accessibility": "The area has good accessibility to the airport and surrounding commercial areas, but public transit options are limited, making driving a common choice for residents.",
+    "decision_rationale": "Given the moderate disposable income, it is important to keep costs low for both transit and driving. Reducing travel time is also a priority to improve accessibility. A lower sales tax is preferred to minimize the impact on discretionary spending. Therefore, proposals with lower fares and driving fees, and moderate travel times are prioritized. Proposal 1 offers the lowest fare and driving fee with reduced travel times, making it the top choice. Proposal 8 offers a balance of low fare and driving fee with significant travel time reduction. Proposal 3 provides a moderate fare and driving fee with good travel time improvements. Proposal 10 offers a balance of fare and fee with reduced travel times. Proposal 19, while having a higher tax, offers significant travel time reductions, making it a viable option."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

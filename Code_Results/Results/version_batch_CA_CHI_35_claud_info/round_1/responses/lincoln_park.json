@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Park",
+  "thinking": {
+    "disposable_income": "Lincoln Park is an affluent area with median household income of $134,277 and 61.3% of households making over $100,000. This suggests residents have significant disposable income and can absorb moderate increases in transportation costs",
+    "discretionary_consumption": "With high per capita income ($109,538), residents likely have substantial discretionary spending. A sales tax increase would affect this but would be manageable given the wealth levels",
+    "accessibility": "The area has high transit usage (33.4%) and low car dependency (32.3% no vehicle, 47.8% one vehicle). Good mix of transportation options with significant walk/bike share (9.3%). Many residents work from home (24%)",
+    "decision_rationale": "1. Given high transit usage and income levels, policies that improve transit service while moderately increasing costs are preferred. 2. Higher driver fees are acceptable as most residents don't rely heavily on cars. 3. Sales tax increases can be absorbed given high discretionary income. 4. Prioritized proposals that reduce transit travel times significantly. 5. Balanced improved service with moderate cost increases since many residents use multiple modes"
+  },
+  "vote": [
+    23,
+    26,
+    14,
+    20,
+    11
+  ]
+}

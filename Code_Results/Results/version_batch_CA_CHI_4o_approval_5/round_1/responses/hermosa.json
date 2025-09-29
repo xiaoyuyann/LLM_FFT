@@ -1,0 +1,16 @@
+{
+  "community_area": "Hermosa",
+  "thinking": {
+    "disposable_income": "Hermosa is a working-class neighborhood with moderate to low disposable income levels. Residents are sensitive to increases in costs, whether through taxes, fares, or fees.",
+    "discretionary_consumption": "Given the moderate to low disposable income, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Hermosa has moderate access to public transit, with some reliance on driving. Improving transit times could benefit residents, but not at a high cost. Balancing transit improvements with affordability is crucial.",
+    "decision_rationale": "The goal is to select policies that improve transit times without significantly increasing costs for residents. Lower fares and moderate taxes are preferred to maintain affordability. Driver fees are acceptable if they lead to significant transit improvements and reduced congestion. The selected policies aim to balance cost, transit efficiency, and accessibility improvements."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

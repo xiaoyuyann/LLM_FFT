@@ -1,0 +1,16 @@
+{
+  "community_area": "Northside / Northline",
+  "thinking": {
+    "disposable_income": "The Northside / Northline neighborhood has a relatively lower disposable income compared to other areas in Houston.",
+    "discretionary_consumption": "Residents in this area have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "The neighborhood has moderate access to public transit, but many residents rely on driving due to the longer transit times.",
+    "decision_rationale": "Given the lower disposable income, it is crucial to minimize costs for both transit users and drivers. A lower fare and driving fee are prioritized to ensure affordability. The neighborhood would benefit from reduced travel times, so proposals that significantly decrease transit times are favored. A moderate sales tax is acceptable if it leads to better transit services, but it should not overly burden residents. Therefore, proposals with a balance of lower fares, moderate sales tax, and reduced travel times are ranked higher."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

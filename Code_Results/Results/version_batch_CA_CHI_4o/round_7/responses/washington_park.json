@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Park",
+  "thinking": {
+    "disposable_income": "Washington Park has a relatively low median household income compared to other areas in Chicago, which means residents have limited disposable income.",
+    "discretionary_consumption": "Due to lower income levels, discretionary spending is limited, and residents are sensitive to increases in transportation costs that could impact their ability to afford other necessities.",
+    "accessibility": "Washington Park has moderate access to public transit, but improvements in transit times could significantly benefit residents who rely on public transportation for commuting and accessing services.",
+    "decision_rationale": "Given the limited disposable income, it is crucial to minimize costs for residents while improving transit accessibility. Lower fares and taxes are preferred to reduce the financial burden. However, some increase in driver fees is acceptable if it leads to significant improvements in transit times, as many residents rely on public transportation. The selected proposals balance these considerations by offering reduced transit times and maintaining affordability."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Minnetex",
+  "thinking": {
+    "disposable_income": "Minnetex is a lower-income neighborhood, with many residents having limited disposable income.",
+    "discretionary_consumption": "Residents in Minnetex prioritize essential spending, with limited room for discretionary consumption.",
+    "accessibility": "Public transit options are limited, and many residents rely on personal vehicles for commuting, though transit improvements could benefit those without cars.",
+    "decision_rationale": "Given the lower disposable income in Minnetex, minimizing costs for both transit users and drivers is crucial. A lower transit fare and driving fee are prioritized to reduce the financial burden on residents. Additionally, a moderate sales tax is preferred to balance funding for transit improvements without significantly impacting residents' purchasing power. The selected policies aim to improve transit times and accessibility while keeping costs manageable for the community."
+  },
+  "vote": [
+    0,
+    7,
+    10,
+    2,
+    6
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "East Garfield Park",
+  "thinking": {
+    "disposable_income": "East Garfield Park has a relatively low median household income compared to other areas in Chicago, which means residents have limited disposable income.",
+    "discretionary_consumption": "With limited disposable income, discretionary spending is constrained. Residents prioritize essential expenses, making affordability of transportation a key concern.",
+    "accessibility": "East Garfield Park has moderate access to public transit, but travel times are longer compared to driving. Improving transit efficiency and affordability is crucial for residents who rely on it.",
+    "decision_rationale": "Given the limited disposable income, proposals with lower transit fares and moderate sales taxes are prioritized to minimize financial burden. Reducing travel time is also important to improve accessibility. Proposals with higher driver fees are considered to encourage transit use and reduce congestion, but they must balance with the community's financial constraints. The selected proposals aim to enhance transit service while keeping costs manageable for residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

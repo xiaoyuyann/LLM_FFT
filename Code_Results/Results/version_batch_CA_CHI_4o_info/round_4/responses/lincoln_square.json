@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Square",
+  "thinking": {
+    "disposable_income": "Lincoln Square has a relatively high median income of $90,569 and a per capita income of $57,351, indicating a community with a good level of disposable income. A significant portion of the population earns over $100,000, suggesting that the community can absorb moderate increases in taxes or fees without severe financial strain.",
+    "discretionary_consumption": "With a high percentage of households earning over $100,000, discretionary spending is likely robust. However, 25.7% of households earn less than $50,000, so policies should consider affordability for lower-income residents.",
+    "accessibility": "Lincoln Square has a diverse mode of transportation usage, with 26% using transit and 39.1% driving alone. The community has a relatively high percentage of households without a vehicle (21.6%), indicating a reliance on public transit. Improving transit times and maintaining affordability is crucial for accessibility.",
+    "decision_rationale": "Given the community's reliance on both transit and driving, policies that improve transit times while keeping costs reasonable are prioritized. A balance between transit fare, sales tax, and driving fees is essential to ensure accessibility and affordability. Proposals with lower transit fares and moderate driving fees are preferred to encourage transit use and reduce congestion. The community's higher income levels allow for some flexibility in accepting higher sales taxes if it results in better transit services. The top-ranked proposals reflect a balance of improved transit times, reasonable costs, and support for transit infrastructure through sales tax."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

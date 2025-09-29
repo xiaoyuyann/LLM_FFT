@@ -1,0 +1,16 @@
+{
+  "community_area": "Montclare",
+  "thinking": {
+    "disposable_income": "Montclare has a median income of $69,038, with about 38.3% of households making less than $50,000. The per capita income of $33,574 suggests moderate disposable income levels, making residents somewhat sensitive to cost increases",
+    "discretionary_consumption": "With a significant portion of households in lower-to-middle income brackets, discretionary spending capacity is limited. Higher sales taxes would impact household budgets, especially for the 38.3% making under $50,000",
+    "accessibility": "The area is heavily car-dependent with 74.9% driving alone and 87.3% of households having at least one vehicle. Only 4.4% use transit, suggesting limited transit accessibility or convenience. The high car ownership (52.3% having 2+ vehicles) indicates strong preference for driving",
+    "decision_rationale": "1. Given high car dependency, prefer policies with lower driving fees and moderate transit improvements. 2. Lower sales tax preferred due to income constraints. 3. Moderate transit fares to balance service quality with affordability. 4. Focus on reducing car travel times without excessive cost burden. 5. Selected policies that minimize impact on majority driving population while gradually improving transit"
+  },
+  "vote": [
+    3,
+    0,
+    9,
+    4,
+    12
+  ]
+}

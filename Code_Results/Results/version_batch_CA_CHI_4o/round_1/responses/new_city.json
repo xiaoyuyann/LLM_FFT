@@ -1,0 +1,16 @@
+{
+  "community_area": "New City",
+  "thinking": {
+    "disposable_income": "New City has a median household income lower than the city average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "Residents in New City have limited discretionary spending, prioritizing essential goods and services. Any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Public transit is a crucial mode of transportation for New City residents, with many relying on it for commuting to work and accessing essential services. Car ownership is lower than average, making affordable and efficient transit options vital.",
+    "decision_rationale": "Given the limited disposable income and reliance on public transit, proposals with lower transit fares and moderate sales taxes are prioritized. Reducing travel time is also important to improve accessibility and quality of life. Proposals with higher driver fees are considered as they may reduce congestion and improve transit services, benefiting the majority who rely on public transit. Balancing these factors, the top proposals are selected to minimize costs while enhancing transit efficiency and accessibility."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

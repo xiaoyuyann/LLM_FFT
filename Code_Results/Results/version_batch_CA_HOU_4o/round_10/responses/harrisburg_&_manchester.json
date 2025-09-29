@@ -1,0 +1,16 @@
+{
+  "community_area": "Harrisburg / Manchester",
+  "thinking": {
+    "disposable_income": "Harrisburg / Manchester has a relatively low to moderate disposable income, with many residents working in industrial and service sectors.",
+    "discretionary_consumption": "The community has limited discretionary consumption, with a significant portion of income spent on essentials like housing, food, and transportation.",
+    "accessibility": "The area has moderate accessibility to resources and services, with public transit being a crucial mode of transportation for many residents due to lower car ownership rates.",
+    "decision_rationale": "Given the lower disposable income and reliance on public transit, proposals with lower transit fares and moderate sales taxes are prioritized to minimize financial burden while improving transit services. Proposals with higher driver fees are also considered to encourage a shift from driving to transit, reducing congestion and emissions. The selected proposals aim to balance affordability with improved transit efficiency and accessibility."
+  },
+  "vote": [
+    1,
+    7,
+    10,
+    3,
+    11
+  ]
+}

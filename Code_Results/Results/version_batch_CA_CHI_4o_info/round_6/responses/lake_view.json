@@ -1,0 +1,16 @@
+{
+  "community_area": "Lake View",
+  "thinking": {
+    "disposable_income": "Lake View has a relatively high median income of $100,625 and a per capita income of $87,044. A significant portion of the population earns over $150,000, indicating a strong disposable income base.",
+    "discretionary_consumption": "With a high income level, residents likely have substantial discretionary spending. However, a notable portion of the population earns less than $50,000, so affordability of transit and driving fees is still a consideration.",
+    "accessibility": "Lake View has a high percentage of residents using transit (36.9%) and a significant portion without vehicle access (39.6%). This suggests a strong reliance on public transportation, making transit accessibility and affordability crucial.",
+    "decision_rationale": "Given the high reliance on public transit and the community's income distribution, policies that improve transit times and maintain affordability are prioritized. A lower transit fare and moderate driver fees can encourage transit use and reduce congestion. A moderate sales tax is acceptable due to the community's higher income, which can support better transit services. The top-ranked proposals balance these factors by offering reduced transit times and reasonable costs, both for transit users and drivers."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

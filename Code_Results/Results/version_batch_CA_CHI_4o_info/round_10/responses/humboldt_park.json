@@ -1,0 +1,16 @@
+{
+  "community_area": "Humboldt Park",
+  "thinking": {
+    "disposable_income": "Humboldt Park has a median household income of $51,105 and a per capita income of $25,358. A significant portion of the population earns less than $50,000, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With 49% of households earning less than $50,000, discretionary spending is likely constrained. High transit fares or driver fees could significantly impact these households' budgets.",
+    "accessibility": "25% of households do not own a vehicle, and 20.1% of residents use transit to commute. Improving transit accessibility and affordability is crucial for this community. The mean commute time is 35.7 minutes, suggesting a need for efficient transit options.",
+    "decision_rationale": "Given the community's limited disposable income and reliance on transit, policies with lower transit fares and moderate driver fees are prioritized to enhance affordability and accessibility. A lower sales tax is preferred to minimize the impact on discretionary spending. Reducing car travel time is also important, as 52.9% of residents drive alone. The selected policies aim to balance these factors, improving transit service while considering the financial constraints of residents."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

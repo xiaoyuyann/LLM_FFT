@@ -1,0 +1,16 @@
+{
+  "community_area": "Montclare",
+  "thinking": {
+    "disposable_income": "Montclare is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, as these can impact their overall budget for other essential and discretionary expenses.",
+    "discretionary_consumption": "The community has a balanced level of discretionary consumption, with spending on housing, food, and other essentials taking precedence. Any increase in transportation costs could reduce the ability to spend on non-essential goods and services.",
+    "accessibility": "Montclare has moderate accessibility to resources and services. Public transit options are available but not as extensive as in more central areas. Many residents rely on driving for convenience and time efficiency.",
+    "decision_rationale": "Given the community's moderate income and reliance on both driving and transit, the focus is on minimizing costs while improving transit efficiency. Lower fares and moderate driver fees are preferred to balance the budget impact and improve transit times. A lower sales tax is also favored to maintain disposable income for other expenses. The selected proposals aim to reduce travel time and costs for both transit users and drivers, while ensuring that the community's financial burden is minimized."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

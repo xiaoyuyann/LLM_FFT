@@ -1,0 +1,16 @@
+{
+  "community_area": "South Shore",
+  "thinking": {
+    "disposable_income": "South Shore has a moderate to low average disposable income, with many residents relying on public transportation for commuting. The community is sensitive to changes in transportation costs.",
+    "discretionary_consumption": "Discretionary spending is limited, with a significant portion of income allocated to essential expenses. Any increase in transportation costs could impact the ability to spend on non-essential goods and services.",
+    "accessibility": "Public transportation is a crucial mode of transport in South Shore, with many residents depending on it for access to jobs, education, and services. Improving transit times and maintaining affordable fares are important for the community.",
+    "decision_rationale": "Given the community's reliance on public transportation and sensitivity to cost changes, the priority is to maintain or reduce transit fares while improving service times. A lower sales tax is preferred to minimize the impact on disposable income. Driver fees are acceptable if they significantly improve transit times, as they may encourage a shift from driving to public transit, reducing congestion and emissions. The selected proposals balance these factors, aiming to enhance transit accessibility and affordability while considering the community's economic constraints."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

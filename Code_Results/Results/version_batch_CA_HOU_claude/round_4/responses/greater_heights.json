@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Heights",
+  "thinking": {
+    "disposable_income": "Greater Heights residents have relatively high disposable income with median household income around $110,000, indicating capacity to absorb moderate transportation cost increases.",
+    "discretionary_consumption": "The neighborhood has high discretionary spending power evidenced by numerous boutique shops, restaurants and entertainment venues, suggesting residents can manage higher sales tax impacts.",
+    "accessibility": "The area has good road networks and moderate transit access with multiple bus routes, though most residents (80%+) commute by car given the inner loop location and established street grid.",
+    "decision_rationale": "1) Prioritized policies that modestly increase driving fees to reduce congestion while keeping sales tax moderate, given high car usage but also ability to afford fees. 2) Favored proposals with middle-range transit fares ($1.25) to support service quality while maintaining affordability. 3) Preferred 1% sales tax as optimal balance between transit funding and consumption impact. 4) Selected proposals showing significant travel time improvements for both modes. 5) Ranked higher those policies demonstrating balanced approach between car and transit optimization."
+  },
+  "vote": [
+    11,
+    10,
+    3,
+    8,
+    19
+  ]
+}

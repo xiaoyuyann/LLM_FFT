@@ -1,0 +1,16 @@
+{
+  "community_area": "West Ridge",
+  "thinking": {
+    "disposable_income": "West Ridge is a diverse community with a mix of middle-income and lower-income households. The disposable income varies, but many residents are sensitive to increases in living costs.",
+    "discretionary_consumption": "Residents in West Ridge have moderate discretionary spending. They prioritize essential goods and services, and any increase in transportation costs could impact their ability to spend on non-essential items.",
+    "accessibility": "West Ridge has decent access to public transit, but many residents also rely on driving. Improving transit times could benefit those who depend on public transportation, but increased costs could be burdensome.",
+    "decision_rationale": "Given the community's sensitivity to cost increases, policies with lower fares and moderate taxes are preferred. Reducing transit times is beneficial, but not at the expense of significantly higher costs. A balance between improving transit service and maintaining affordability is crucial. Policies with a moderate driving fee could encourage a shift to public transit, reducing congestion and emissions, which aligns with community interests."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

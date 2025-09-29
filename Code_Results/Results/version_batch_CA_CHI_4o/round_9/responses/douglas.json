@@ -1,0 +1,16 @@
+{
+  "community_area": "Douglas",
+  "thinking": {
+    "disposable_income": "Douglas is a community with a moderate to low average disposable income. Many residents rely on public transportation for commuting, and any increase in transportation costs could significantly impact their budget.",
+    "discretionary_consumption": "Given the moderate to low disposable income, discretionary spending is limited. Residents prioritize essential goods and services, and any additional costs from transportation could reduce their ability to spend on non-essential items.",
+    "accessibility": "Douglas has decent access to public transportation, with several bus and train lines serving the area. However, travel times are relatively long, and improvements in transit efficiency could benefit the community.",
+    "decision_rationale": "The decision-making process focused on minimizing costs for residents while improving transit efficiency. Lower fares and moderate driver fees were prioritized to encourage public transit use and reduce congestion. A lower sales tax was preferred to minimize the impact on discretionary spending. The selected proposals aim to balance affordability with improved transit services, considering the community's reliance on public transportation and limited disposable income."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

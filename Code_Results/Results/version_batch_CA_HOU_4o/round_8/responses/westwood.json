@@ -1,0 +1,16 @@
+{
+  "community_area": "Westwood",
+  "thinking": {
+    "disposable_income": "Westwood has a moderate to low disposable income, with many residents working in service and blue-collar jobs.",
+    "discretionary_consumption": "Residents in Westwood have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "Westwood has moderate accessibility to public transit, but many residents rely on personal vehicles due to limited transit options and longer travel times.",
+    "decision_rationale": "Given the moderate to low disposable income in Westwood, policies with lower transit fares and driving fees are preferred to minimize the financial burden on residents. A lower sales tax is also favored to preserve discretionary spending. However, improving transit times is crucial to encourage public transit use and reduce reliance on personal vehicles. Therefore, the selected policies balance lower costs with improved transit times, considering the community's financial constraints and need for better transit services."
+  },
+  "vote": [
+    1,
+    0,
+    7,
+    10,
+    3
+  ]
+}

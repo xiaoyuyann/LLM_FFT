@@ -1,0 +1,16 @@
+{
+  "community_area": "Chatham",
+  "thinking": {
+    "disposable_income": "Chatham has a median household income of approximately $34,962, significantly below Chicago's median. About 23% of residents live below poverty level, indicating limited disposable income for many households",
+    "discretionary_consumption": "Given the lower income levels, residents have limited discretionary spending capacity. Many households spend a significant portion of income on essential needs, making them sensitive to additional transportation costs and taxes",
+    "accessibility": "Chatham has good access to public transit with Red Line stations and multiple bus routes. About 33% of households don't own vehicles and rely on public transit. The community has a high proportion of transit-dependent residents",
+    "decision_rationale": "1. Prioritize lower transit fares due to limited disposable income and high transit dependency\n2. Favor moderate driving fees to improve transit service while not overly burdening car-dependent residents\n3. Support lower sales tax rates to protect discretionary spending power\n4. Balance travel time improvements with cost burden\n5. Selected proposals that offer best combination of affordable transit access and service quality"
+  },
+  "vote": [
+    1,
+    10,
+    0,
+    9,
+    4
+  ]
+}

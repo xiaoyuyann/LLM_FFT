@@ -1,0 +1,16 @@
+{
+  "community_area": "Clearing",
+  "thinking": {
+    "disposable_income": "Clearing is a middle-class community with median household income around $65,000. Many residents work in transportation and logistics sectors due to proximity to Midway Airport. About 15% of households live below poverty level",
+    "discretionary_consumption": "Moderate discretionary spending capacity. Many households own cars and have significant transportation expenses. Higher sales taxes would impact household budgets but not severely given income levels",
+    "accessibility": "Strong car dependency with 85% of households owning vehicles. Limited transit access with few bus routes and distance from L trains. Close to Midway Airport and major highways. Most residents drive for work and errands",
+    "decision_rationale": "1. Given high car ownership and limited transit access, policies with lower driving fees are preferred. 2. Moderate sales tax (1%) can help fund transit improvements without excessive burden. 3. Higher transit fares acceptable since most residents drive. 4. Focus on reducing car travel times since most commute by car. 5. Balance between maintaining affordable driving costs while gradually improving transit service"
+  },
+  "vote": [
+    12,
+    3,
+    15,
+    21,
+    9
+  ]
+}

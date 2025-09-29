@@ -1,0 +1,16 @@
+{
+  "community_area": "Irving Park",
+  "thinking": {
+    "disposable_income": "Irving Park is a middle-income community with a mix of working-class and middle-class residents. The disposable income is moderate, allowing for some discretionary spending but with sensitivity to increases in living costs.",
+    "discretionary_consumption": "Residents in Irving Park have moderate discretionary consumption. They spend on essentials and have some room for leisure and non-essential goods, but significant increases in costs could impact their spending habits.",
+    "accessibility": "Irving Park has decent access to public transit, with several bus lines and the Blue Line providing connectivity. However, driving is also common due to the community's layout and the need for flexibility in commuting.",
+    "decision_rationale": "Given the moderate disposable income, it is important to keep costs low for both transit and driving. A lower transit fare and driving fee are preferred to maintain affordability. However, improving transit times is also crucial to encourage public transit use and reduce congestion. A balance between a reasonable sales tax and improved transit service is necessary. Therefore, proposals with lower fares and fees, moderate sales tax, and improved transit times are prioritized. The top choice is proposal 10, which offers a low fare and moderate driving fee with a 1% tax, improving transit time significantly. Proposal 13 is next, with a similar structure but slightly higher fare. Proposal 19 offers a low fare and moderate fee with a 1.5% tax, providing good transit time improvements. Proposal 1 is chosen for its low fare and moderate fee with a 0.5% tax, offering a good balance. Finally, proposal 4 is selected for its moderate fare and fee with a 0.5% tax, providing a reasonable improvement in transit time."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    1,
+    4
+  ]
+}

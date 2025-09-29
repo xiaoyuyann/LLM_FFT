@@ -1,0 +1,16 @@
+{
+  "community_area": "Hyde Park",
+  "thinking": {
+    "disposable_income": "Hyde Park is a diverse community with a mix of students, professionals, and long-term residents. The presence of the University of Chicago contributes to a relatively higher average disposable income compared to some other areas in Chicago.",
+    "discretionary_consumption": "Residents in Hyde Park have a moderate to high level of discretionary consumption, with spending on education, dining, and cultural activities being significant. The community values access to quality services and amenities.",
+    "accessibility": "Hyde Park has good access to public transportation, including buses and the Metra train, which connects residents to downtown Chicago and other areas. Car ownership is moderate, and many residents rely on public transit for commuting.",
+    "decision_rationale": "Given the community's reliance on public transit and the importance of maintaining affordable transportation options, proposals with lower transit fares are prioritized. However, the community can support a moderate increase in sales tax if it significantly improves transit services. Proposals with higher driving fees are also considered as they can reduce congestion and improve transit times. Balancing these factors, the selected proposals aim to enhance transit accessibility while considering the community's financial capacity."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

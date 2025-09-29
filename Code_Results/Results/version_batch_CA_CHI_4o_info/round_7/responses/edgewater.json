@@ -1,0 +1,16 @@
+{
+  "community_area": "Edgewater",
+  "thinking": {
+    "disposable_income": "Edgewater has a median income of $67,796 and a per capita income of $51,717. A significant portion of the population earns less than $50,000, indicating a need to consider affordability in transportation costs.",
+    "discretionary_consumption": "With a diverse income distribution, a substantial portion of the community may be sensitive to increases in transportation costs, which could impact their ability to spend on other necessities.",
+    "accessibility": "Edgewater has a high percentage of residents using transit (33.2%) and a significant portion without vehicles (38.8%). This suggests a strong reliance on public transportation, making transit affordability and efficiency crucial.",
+    "decision_rationale": "Given the high reliance on public transit and the income distribution, policies that lower transit fares and improve transit times are prioritized. A moderate sales tax is acceptable if it significantly enhances transit services. Driver fees are less impactful due to lower car ownership, but they can help reduce congestion and improve transit times. The selected policies aim to balance affordability, improved transit service, and minimal impact on discretionary spending."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

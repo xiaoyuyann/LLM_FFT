@@ -1,0 +1,16 @@
+{
+  "community_area": "West Elsdon",
+  "thinking": {
+    "disposable_income": "West Elsdon is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, as these can impact their overall budget for essential and discretionary spending.",
+    "discretionary_consumption": "The community has a balanced level of discretionary consumption, with residents spending on a mix of necessities and non-essential goods. Any increase in transportation costs could reduce their ability to spend on other goods and services.",
+    "accessibility": "West Elsdon has moderate accessibility to resources and services. Public transit is a crucial mode of transportation for many residents, but driving is also common. Reducing travel times and improving transit services are important for the community.",
+    "decision_rationale": "Given the community's moderate disposable income and balanced discretionary consumption, policies that maintain or reduce transit fares and driving fees are preferred to minimize financial strain. A lower sales tax is also favored to preserve disposable income. Improving transit times is important, but not at the expense of significantly higher costs. Therefore, proposals with lower fares and fees, and moderate tax rates, that also offer improved transit times, are prioritized."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Hegewisch",
+  "thinking": {
+    "disposable_income": "The median income in Hegewisch is $58,647, with a per capita income of $31,457. A significant portion of the population earns less than $25,000, indicating a need to consider affordability in transportation costs.",
+    "discretionary_consumption": "With 27.6% of households earning less than $25,000, there is limited discretionary income. Therefore, policies that minimize additional costs, such as lower fares and taxes, are preferable to ensure residents can maintain their current consumption levels.",
+    "accessibility": "65.2% of residents drive alone, while only 10.8% use transit. This suggests a reliance on cars, but improving transit could benefit those without vehicles (12.6% of households). Policies that reduce travel time and improve transit service could encourage more transit use.",
+    "decision_rationale": "Given the community's income distribution and reliance on driving, policies that balance lower costs with improved transit times are prioritized. Lower fares and moderate driver fees can encourage transit use without significantly impacting disposable income. A moderate sales tax is acceptable if it results in better transit services, as long as it doesn't overly burden low-income households. The selected policies aim to reduce travel time for both drivers and transit users while keeping costs manageable."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

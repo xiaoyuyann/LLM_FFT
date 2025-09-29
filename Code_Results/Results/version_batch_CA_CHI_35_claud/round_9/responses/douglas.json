@@ -1,0 +1,16 @@
+{
+  "community_area": "Douglas",
+  "thinking": {
+    "disposable_income": "Douglas has a median household income of approximately $35,000, significantly below Chicago's average. About 30% of residents live below poverty level, indicating limited disposable income for many households",
+    "discretionary_consumption": "Given the low median income, residents have limited discretionary spending capacity. Many households spend a large portion of income on essential needs, making them sensitive to additional taxes and transportation costs",
+    "accessibility": "Douglas has good transit access with Green Line stations and multiple bus routes. About 45% of households don't own cars. Many residents rely on public transit for work commutes and daily activities. The area has relatively good proximity to downtown Chicago",
+    "decision_rationale": "1. Given low income levels, prioritize proposals with lower transit fares and taxes to preserve disposable income. 2. High transit dependency means better transit service is crucial. 3. Lower driving fees acceptable since many residents don't drive. 4. Policy 9 ranked first as it offers low transit fare while maintaining decent service. 5. Policy 0 second as it minimizes tax burden. 6. Policy 3 third as it balances fare and service. 7. Policy 10 fourth as it improves transit time with moderate costs. 8. Policy 1 fifth as it offers low fare with reasonable transit time"
+  },
+  "vote": [
+    9,
+    0,
+    3,
+    10,
+    1
+  ]
+}

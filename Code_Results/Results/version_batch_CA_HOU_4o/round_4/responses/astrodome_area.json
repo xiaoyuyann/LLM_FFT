@@ -1,0 +1,16 @@
+{
+  "community_area": "Astrodome Area",
+  "thinking": {
+    "disposable_income": "The Astrodome Area has a moderate level of disposable income, with a mix of middle-income households and some lower-income residents.",
+    "discretionary_consumption": "Residents in the Astrodome Area have a balanced discretionary consumption pattern, with spending on essentials and some leisure activities.",
+    "accessibility": "The Astrodome Area has decent accessibility to resources and services, with a reliance on both public transit and personal vehicles for commuting and daily activities.",
+    "decision_rationale": "Given the moderate disposable income, it is important to keep costs manageable for both transit users and drivers. Lower fares and moderate driver fees are preferred to encourage transit use while not overly burdening drivers. A moderate sales tax is acceptable if it significantly improves transit services, as this can enhance accessibility and reduce travel times. The selected policies aim to balance cost, accessibility, and service improvement, considering the community's reliance on both transit and driving."
+  },
+  "vote": [
+    8,
+    10,
+    19,
+    11,
+    22
+  ]
+}

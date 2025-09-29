@@ -1,0 +1,16 @@
+{
+  "community_area": "Montclare",
+  "thinking": {
+    "disposable_income": "Montclare has a median income of $69,038, with about 38.3% of households making less than $50,000 annually. This suggests moderate disposable income levels, making residents somewhat sensitive to cost increases.",
+    "discretionary_consumption": "Given the income distribution and average household size of 2.9, many families likely have limited discretionary spending capacity. Higher taxes and fees would impact their consumption abilities, especially for the 38.3% lower-income households.",
+    "accessibility": "The community heavily relies on cars (74.9% drive alone) with high vehicle ownership (87.3% have at least one car). Only 4.4% use transit, suggesting limited transit accessibility or convenience. Current transit times are significantly higher than driving times.",
+    "decision_rationale": "1. Prioritized proposals with lower sales tax (0.5%) to protect discretionary spending. 2. Given high car dependency, favored moderate driving fees to improve transit without overly burdening drivers. 3. Selected proposals with moderate transit fares ($1.25) to balance transit service quality with affordability. 4. Considered travel time improvements for both modes given mixed transportation needs. 5. Balanced revenue generation for transit improvements with cost burden on residents."
+  },
+  "vote": [
+    4,
+    1,
+    13,
+    10,
+    3
+  ]
+}

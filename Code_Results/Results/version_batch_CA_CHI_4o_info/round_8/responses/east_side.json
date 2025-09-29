@@ -1,0 +1,16 @@
+{
+  "community_area": "East Side",
+  "thinking": {
+    "disposable_income": "The median household income in East Side is $61,898, with a significant portion of households earning between $25,000 and $49,999. This suggests a moderate level of disposable income, with some households potentially sensitive to increases in transportation costs.",
+    "discretionary_consumption": "With a per capita income of $25,646, residents may have limited discretionary spending. A higher sales tax or increased transit fares could impact their ability to spend on other necessities or leisure activities.",
+    "accessibility": "The majority of residents (68.4%) drive alone, indicating a reliance on personal vehicles. Only 7.7% use transit, suggesting that improvements in transit could benefit a smaller portion of the population. However, reducing driving times could benefit the majority.",
+    "decision_rationale": "Given the community's reliance on driving and moderate income levels, proposals that reduce driving time without significantly increasing costs are prioritized. A lower sales tax is preferred to minimize the impact on discretionary spending. Proposals with moderate transit fares and driver fees are considered to balance improved transit services with affordability. The top-ranked proposals aim to reduce driving time while keeping costs manageable for both drivers and transit users."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

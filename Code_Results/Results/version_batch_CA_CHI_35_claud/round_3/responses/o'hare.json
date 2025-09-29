@@ -1,0 +1,16 @@
+{
+  "community_area": "O'Hare",
+  "thinking": {
+    "disposable_income": "O'Hare has a median household income above city average, with many residents working in aviation and hospitality industries. The area has relatively high disposable income due to stable employment from the airport and surrounding businesses",
+    "discretionary_consumption": "Residents have moderate to high discretionary spending capacity. Many households can afford car ownership and regular use of ride-sharing services. The community has significant retail spending at airport-adjacent shopping centers",
+    "accessibility": "The area is highly car-dependent due to suburban layout. Has Blue Line access but limited bus service. Most residents rely on personal vehicles for daily trips. The airport creates unique transportation patterns with many workers having non-traditional hours",
+    "decision_rationale": "1. Prioritize policies that maintain reasonable driving costs since many residents are car-dependent\n2. Consider moderate transit improvements without excessive taxes due to 24/7 airport worker schedules\n3. Balance driver fees to reduce congestion while not overly burdening residents\n4. Support policies that improve Blue Line service for airport workers\n5. Avoid highest tax rates due to already high cost of living near airport"
+  },
+  "vote": [
+    13,
+    4,
+    10,
+    16,
+    22
+  ]
+}

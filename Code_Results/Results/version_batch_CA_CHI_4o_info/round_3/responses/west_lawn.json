@@ -1,0 +1,16 @@
+{
+  "community_area": "West Lawn",
+  "thinking": {
+    "disposable_income": "The median income in West Lawn is $69,647, with a per capita income of $25,786. A significant portion of the population earns between $25,000 and $99,999, indicating moderate disposable income levels.",
+    "discretionary_consumption": "With 36.9% of households earning less than $50,000, there is a need to balance transportation costs with other essential expenses. The community may be sensitive to increases in transit fares and taxes.",
+    "accessibility": "63.4% of residents drive alone, while only 9.8% use transit. This suggests a reliance on cars, but there is potential to improve transit usage with better services. Car ownership is high, with 56.3% owning two or more vehicles.",
+    "decision_rationale": "Given the moderate income levels and high car ownership, policies that reduce driving time and improve transit services without significantly increasing costs are preferred. Lower transit fares and moderate driver fees can encourage transit use, while a balanced sales tax supports transit improvements. The community's reliance on driving suggests that reducing driving time is also important. Therefore, proposals with lower transit fares, moderate driver fees, and reasonable sales taxes are prioritized."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

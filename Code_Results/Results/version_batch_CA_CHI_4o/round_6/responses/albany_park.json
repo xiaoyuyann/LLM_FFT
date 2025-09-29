@@ -1,0 +1,16 @@
+{
+  "community_area": "Albany Park",
+  "thinking": {
+    "disposable_income": "Albany Park is a diverse community with a mix of income levels. The median household income is slightly below the city average, indicating a moderate level of disposable income.",
+    "discretionary_consumption": "Residents in Albany Park have moderate discretionary spending. They prioritize essential goods and services, with limited room for additional expenses.",
+    "accessibility": "Albany Park has good access to public transit, with several bus and train lines serving the area. However, travel times can be long, and improvements in transit efficiency would be beneficial.",
+    "decision_rationale": "Given the moderate disposable income, policies with lower fares and taxes are preferred to minimize financial burden. Improving transit times is crucial, as many residents rely on public transportation. A balance between fare, tax, and driving fees is needed to enhance transit services without significantly impacting residents' budgets. Proposals with moderate taxes and fares, combined with driving fees to reduce congestion, are prioritized to improve overall accessibility and efficiency."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

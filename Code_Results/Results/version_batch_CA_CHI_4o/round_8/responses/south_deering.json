@@ -1,0 +1,16 @@
+{
+  "community_area": "South Deering",
+  "thinking": {
+    "disposable_income": "South Deering is a lower-income community with limited disposable income. Residents are sensitive to increases in costs, whether through fares, fees, or taxes.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is limited. Any increase in transportation costs could significantly impact the ability to spend on other necessities.",
+    "accessibility": "South Deering has moderate access to public transit, but improvements in transit times could significantly benefit residents who rely on public transportation for commuting and accessing services.",
+    "decision_rationale": "The primary goal is to minimize costs for residents while improving transit accessibility. Lower fares and taxes are prioritized to reduce the financial burden. However, some increase in driver fees is acceptable if it leads to significant improvements in transit times, as many residents rely on public transportation. The selected proposals balance these considerations by offering reduced transit times and maintaining or slightly increasing costs in a way that is manageable for the community."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

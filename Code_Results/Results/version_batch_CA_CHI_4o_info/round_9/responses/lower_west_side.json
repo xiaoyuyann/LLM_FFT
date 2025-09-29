@@ -1,0 +1,16 @@
+{
+  "community_area": "Lower West Side",
+  "thinking": {
+    "disposable_income": "The median income is $69,810, with a per capita income of $36,151. A significant portion of the population earns less than $50,000, indicating a need to consider affordability in transportation costs.",
+    "discretionary_consumption": "With 18.4% earning less than $25,000 and 19.3% earning between $25,000 and $49,999, a large segment of the community may have limited discretionary spending. Thus, lower transit fares and minimal additional taxes are preferable.",
+    "accessibility": "24.5% of residents use transit, and 23.8% have no vehicle, highlighting the importance of affordable and efficient public transit. The community also has a significant number of car owners, with 43.8% driving alone, so policies should balance transit improvements with reasonable driving costs.",
+    "decision_rationale": "Given the community's income distribution and reliance on both transit and driving, the ideal policy would lower transit fares to make it more accessible while not significantly increasing the cost of driving. A moderate sales tax is acceptable if it results in better transit services, as long as it doesn't overly burden lower-income households. The selected policies aim to reduce travel times and costs for both transit users and drivers, while considering the community's financial constraints."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

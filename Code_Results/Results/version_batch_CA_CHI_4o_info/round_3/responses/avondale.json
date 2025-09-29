@@ -1,0 +1,16 @@
+{
+  "community_area": "Avondale",
+  "thinking": {
+    "disposable_income": "Avondale has a diverse income distribution with a significant portion of households earning above $100,000, but also a notable percentage earning less than $50,000. This suggests a mixed level of disposable income across the community.",
+    "discretionary_consumption": "With a substantial portion of the population earning above $100,000, there is potential for discretionary spending. However, the presence of lower-income households means that affordability of transportation options is crucial.",
+    "accessibility": "Avondale has a relatively high percentage of residents using transit (21.5%) and a significant portion without vehicles (19.8%). This indicates a reliance on public transportation and the need for efficient and affordable transit options.",
+    "decision_rationale": "Given the mixed income levels, affordability of transit fares is important, especially for lower-income residents. A lower fare would benefit those who rely on public transportation. However, improving transit efficiency is also crucial to encourage more residents to switch from driving to transit, reducing congestion and emissions. Balancing these needs, proposals with lower fares and moderate driver fees are prioritized to enhance transit service without overly burdening drivers. A moderate sales tax is acceptable if it significantly improves transit times, benefiting the community's accessibility."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

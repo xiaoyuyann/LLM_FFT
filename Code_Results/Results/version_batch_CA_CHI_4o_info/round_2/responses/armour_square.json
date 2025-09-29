@@ -1,0 +1,16 @@
+{
+  "community_area": "Armour Square",
+  "thinking": {
+    "disposable_income": "A significant portion of the community earns less than $50,000, with 31.1% earning less than $25,000. This suggests limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With a high percentage of low-income households, discretionary spending is likely limited. Policies that minimize additional costs, such as lower fares and taxes, would be beneficial.",
+    "accessibility": "A substantial portion of the community relies on transit (24.4%) and a significant number have no vehicle (33.9%). Improving transit accessibility and affordability is crucial.",
+    "decision_rationale": "Given the community's reliance on transit and limited disposable income, policies with lower fares and moderate taxes are prioritized. Reducing travel time is also important, but not at the expense of significantly higher costs. The community would benefit from policies that balance affordability with improved transit services. Therefore, proposals with lower fares and moderate driver fees, which can improve transit times without imposing high costs, are preferred."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

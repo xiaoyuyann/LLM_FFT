@@ -1,0 +1,16 @@
+{
+  "community_area": "South Main",
+  "thinking": {
+    "disposable_income": "South Main has a moderate level of disposable income, with a mix of middle-income and some lower-income households.",
+    "discretionary_consumption": "Residents in South Main have moderate discretionary spending, with a focus on essential goods and services, and some spending on leisure and non-essential items.",
+    "accessibility": "South Main has decent access to public transit, but many residents rely on driving due to the spread-out nature of resources and services.",
+    "decision_rationale": "Given the moderate disposable income, it's important to balance costs with benefits. Lower transit fares and moderate driver fees can encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it significantly improves transit times. Proposal 1 offers the lowest fare and highest driver fee, reducing transit time significantly, which is beneficial. Proposal 8 offers a good balance with moderate fare and driver fee, improving transit time. Proposal 11 has a moderate fare and high driver fee, further reducing transit time. Proposal 19 offers a moderate fare and driver fee with a higher tax, improving transit time. Proposal 23, with the highest tax and fees, offers the best transit time but at a higher cost, which is a tradeoff for significant transit improvements."
+  },
+  "vote": [
+    1,
+    8,
+    11,
+    19,
+    23
+  ]
+}

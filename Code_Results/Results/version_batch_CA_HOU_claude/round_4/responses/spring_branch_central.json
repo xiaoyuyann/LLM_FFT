@@ -1,0 +1,16 @@
+{
+  "community_area": "Spring Branch Central",
+  "thinking": {
+    "disposable_income": "Spring Branch Central has a median household income of around $55,000, placing it in the middle-income range for Houston, with approximately 20% of residents living below poverty level.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity, with significant portions of income going to housing and transportation costs, making them sensitive to additional fees and taxes.",
+    "accessibility": "The area has moderate car dependency with limited transit options, featuring some bus routes but no direct rail access, and about 85% of residents commute by car.",
+    "decision_rationale": "1. Given the moderate income levels and high car dependency, policies with lower driving fees and moderate taxes are preferred to avoid excessive financial burden. 2. Transit improvements should be balanced against cost impact since most residents rely on cars. 3. Lower transit fares are prioritized to encourage transit use while maintaining affordability. 4. Moderate tax rates (1%) are preferred to support transit improvements without overly burdening household budgets. 5. Policies that achieve significant travel time improvements with minimal cost increases are favored."
+  },
+  "vote": [
+    6,
+    7,
+    0,
+    2,
+    10
+  ]
+}

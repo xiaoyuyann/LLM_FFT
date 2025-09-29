@@ -1,0 +1,16 @@
+{
+  "community_area": "Humboldt Park",
+  "thinking": {
+    "disposable_income": "Humboldt Park has a median household income of $51,105 and a per capita income of $25,358. A significant portion of the population earns less than $50,000, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With 49% of households earning less than $50,000, discretionary spending is likely constrained. Any increase in transportation costs could significantly impact the ability of residents to spend on other necessities.",
+    "accessibility": "A quarter of households do not own a vehicle, and 20.1% of residents use transit to commute. Improving transit accessibility and affordability is crucial for this community, as it directly impacts a significant portion of the population.",
+    "decision_rationale": "Given the limited disposable income and high reliance on public transit, proposals with lower transit fares and moderate sales taxes are prioritized. Reducing transit fares can alleviate financial burdens on low-income households. Moderate sales taxes ensure sufficient funding for transit improvements without overly burdening residents. Proposals with higher driver fees are favored to encourage a shift from driving to transit, reducing congestion and emissions. The selected proposals balance affordability, accessibility, and transit service improvements."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

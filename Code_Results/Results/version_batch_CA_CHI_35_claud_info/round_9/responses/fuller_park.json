@@ -1,0 +1,16 @@
+{
+  "community_area": "Fuller Park",
+  "thinking": {
+    "disposable_income": "Fuller Park is a low-income community with 70% of households earning less than $25,000 annually, and 85.8% earning less than $50,000. This indicates very limited disposable income for most residents",
+    "discretionary_consumption": "With such low income levels, residents have minimal discretionary spending capacity. Any increase in transportation costs or sales tax would significantly impact their ability to afford basic necessities",
+    "accessibility": "58% of households have no vehicle, making them heavily dependent on public transit. While 49.3% drive alone and 22.6% carpool, 18.7% rely on transit. The community needs affordable transit options while maintaining reasonable driving costs for those who carpool or must drive",
+    "decision_rationale": "1. Given the very low income levels, prioritize lowest transit fares ($0.75) and lower sales tax (0.5-1.0%). 2. With high transit dependency, need good transit service but must keep fares affordable. 3. Moderate driving fees ($0.50) can help improve transit without overly burdening carpoolers. 4. Balance between transit improvement and cost burden leads to selecting proposals that combine low fares with moderate fees and taxes. 5. Selected proposals 1, 10, 9, 0, and 3 as they best balance these needs while minimizing financial burden on this low-income community"
+  },
+  "vote": [
+    1,
+    10,
+    9,
+    0,
+    3
+  ]
+}

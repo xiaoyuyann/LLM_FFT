@@ -1,0 +1,16 @@
+{
+  "community_area": "Dunning",
+  "thinking": {
+    "disposable_income": "Dunning is a middle-class community with median household income around $65,000-70,000. Most residents are working professionals and families with moderate disposable income. The area has relatively high car ownership rates.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity but are price-sensitive to additional taxes and fees. Many households own cars and regularly make purchases in nearby commercial areas, making them sensitive to both sales tax changes and driving costs.",
+    "accessibility": "Dunning is a more car-dependent community on Chicago's northwest side. Transit access is limited mainly to bus services, with longer travel times to downtown and other areas. Most residents rely on personal vehicles for commuting and daily trips.",
+    "decision_rationale": "1. Prioritize proposals with lower sales tax (0.5-1.0%) due to moderate income levels and regular retail spending. 2. Accept moderate driving fees ($0.50) as trade-off for improved traffic flow, but avoid highest fees due to car dependency. 3. Prefer moderate transit fares ($1.25) to balance transit service quality with affordability. 4. Focus on proposals that reduce car travel times without excessive cost burden. 5. Selected proposals balance car-dependency needs with modest improvements to transit service."
+  },
+  "vote": [
+    4,
+    13,
+    1,
+    10,
+    3
+  ]
+}

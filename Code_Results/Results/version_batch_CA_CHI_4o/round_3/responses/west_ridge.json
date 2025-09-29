@@ -1,0 +1,16 @@
+{
+  "community_area": "West Ridge",
+  "thinking": {
+    "disposable_income": "West Ridge has a moderate level of disposable income, with a mix of middle-income and lower-income households. The community is diverse, with a significant portion of residents relying on public transportation.",
+    "discretionary_consumption": "Residents in West Ridge have moderate discretionary spending, with a focus on essential goods and services. The community values affordable transportation options to maintain their standard of living.",
+    "accessibility": "West Ridge has decent access to public transportation, with several bus routes and proximity to the CTA Red Line. However, travel times can be lengthy, and improvements in transit efficiency would be beneficial.",
+    "decision_rationale": "Given the moderate disposable income and reliance on public transportation, West Ridge would benefit from policies that reduce transit fares and improve travel times. A lower sales tax is preferred to minimize the impact on discretionary spending. Driver fees are acceptable if they lead to significant improvements in transit efficiency and reduced congestion. The selected policies aim to balance affordability with improved transit services, considering the community's reliance on public transportation and the need for efficient travel options."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

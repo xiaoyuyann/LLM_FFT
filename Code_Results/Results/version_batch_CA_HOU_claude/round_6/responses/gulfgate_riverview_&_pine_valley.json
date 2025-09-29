@@ -1,0 +1,16 @@
+{
+  "community_area": "Gulfgate Riverview / Pine Valley",
+  "thinking": {
+    "disposable_income": "The neighborhood has a relatively low median household income around $35,000, with many residents working in service and industrial jobs along the Gulf Freeway corridor.",
+    "discretionary_consumption": "Limited discretionary spending capacity with most income going to basic necessities, making residents particularly sensitive to additional taxes and fees.",
+    "accessibility": "The area has decent bus service along major corridors but many residents rely on personal vehicles due to the industrial/commercial nature of the area and dispersed job locations.",
+    "decision_rationale": "1) Given low incomes, prioritized proposals with lower sales tax (0.5%) to minimize impact on basic consumption 2) Selected moderate transit fares ($0.75-$1.25) to keep transit affordable while maintaining service quality 3) Supported modest driving fees ($0.50) to improve transit without overly burdening car-dependent workers 4) Balanced travel time improvements with cost impacts 5) Ranked proposals that offer best combined benefits for both transit and car users given the mixed-mode nature of the community"
+  },
+  "vote": [
+    0,
+    2,
+    7,
+    10,
+    1
+  ]
+}

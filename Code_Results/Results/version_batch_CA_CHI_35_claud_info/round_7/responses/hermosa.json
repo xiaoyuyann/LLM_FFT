@@ -1,0 +1,16 @@
+{
+  "community_area": "Hermosa",
+  "thinking": {
+    "disposable_income": "Hermosa has a median household income of $66,073, with about 38% of households earning less than $50,000 annually. This suggests moderate disposable income levels, making residents sensitive to both transit fares and sales tax increases.",
+    "discretionary_consumption": "With a per capita income of $27,053 and average household size of 3.1, discretionary spending is likely limited. Many households need to carefully balance transportation costs with other essential expenses.",
+    "accessibility": "87.5% of households own at least one vehicle, with 60.9% driving alone to work and 17.7% using transit. This indicates strong car dependency but also significant transit usage, suggesting need for balanced policy.",
+    "decision_rationale": "1. Prioritized proposals with lower sales tax (0.5%) to protect discretionary income. 2. Favored moderate driving fees ($0.50) to improve transit without overly burdening drivers. 3. Selected proposals with $0.75-$1.25 transit fares to keep transit affordable for the 17.7% transit users. 4. Balanced travel time improvements with cost impacts, considering the large driving population. 5. Considered that 42.5% households have only one vehicle, making transit alternatives important."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    3
+  ]
+}

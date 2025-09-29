@@ -1,0 +1,16 @@
+{
+  "community_area": "Pecan Park",
+  "thinking": {
+    "disposable_income": "Pecan Park has a median household income of around $38,000, which is significantly lower than Houston's average, indicating limited disposable income for transportation costs.",
+    "discretionary_consumption": "With a high percentage of working-class families and a poverty rate above 25%, residents have limited discretionary spending capacity and are sensitive to both transit fares and sales tax increases.",
+    "accessibility": "The neighborhood has moderate transit access with several bus routes but many residents rely on personal vehicles for work commutes, with about 75% of residents driving alone to work.",
+    "decision_rationale": "1) Given the low income levels, prioritized proposals with lower transit fares and sales tax burden. 2) Considered moderate driving fees acceptable as they help improve transit service while affecting a smaller portion of trips. 3) Balanced travel time improvements against cost increases. 4) Selected proposals that provide meaningful transit improvements without excessive financial burden. 5) Favored options that maintain affordability while still funding service improvements."
+  },
+  "vote": [
+    7,
+    0,
+    2,
+    6,
+    10
+  ]
+}

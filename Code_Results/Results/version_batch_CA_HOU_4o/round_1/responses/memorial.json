@@ -1,0 +1,16 @@
+{
+  "community_area": "Memorial",
+  "thinking": {
+    "disposable_income": "Memorial is a relatively affluent area with higher than average disposable income levels.",
+    "discretionary_consumption": "Residents in Memorial have significant discretionary spending, often on luxury goods and services.",
+    "accessibility": "The area has good accessibility by car, but public transit options are less developed, leading to longer transit times.",
+    "decision_rationale": "Given the higher disposable income, residents can afford slightly higher taxes and fees if it results in better services. However, the community values time efficiency, so reducing travel time is a priority. A balance between improving transit times and maintaining reasonable costs is essential. Proposals with moderate taxes and fees that significantly reduce travel times are preferred, as they offer a good trade-off between cost and improved service. The focus is on reducing car travel time and improving transit efficiency, as many residents rely on cars but would benefit from better transit options."
+  },
+  "vote": [
+    1,
+    3,
+    5,
+    11,
+    17
+  ]
+}

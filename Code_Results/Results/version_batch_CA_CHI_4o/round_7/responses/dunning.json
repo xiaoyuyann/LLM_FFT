@@ -1,0 +1,16 @@
+{
+  "community_area": "Dunning",
+  "thinking": {
+    "disposable_income": "Dunning is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, but they can absorb moderate increases if they lead to significant improvements in service.",
+    "discretionary_consumption": "The community has a balanced discretionary consumption pattern, with spending on essentials and some leisure activities. Residents are likely to prioritize transportation costs that do not significantly impact their ability to spend on other goods and services.",
+    "accessibility": "Dunning has moderate accessibility to resources and services. Public transit is used by a portion of the community, but many residents rely on driving due to the suburban nature of the area. Improvements in transit times could encourage more residents to switch from driving to transit.",
+    "decision_rationale": "Given the community's moderate income and reliance on both driving and transit, the focus is on proposals that balance cost with improved transit times. Lower fares and moderate driver fees are preferred to encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it leads to better transit services. The top-ranked proposals offer a mix of reduced transit times and reasonable costs, both in terms of fares and driver fees, while maintaining a manageable sales tax rate."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

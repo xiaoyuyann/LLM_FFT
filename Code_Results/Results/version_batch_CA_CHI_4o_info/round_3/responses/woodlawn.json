@@ -1,0 +1,16 @@
+{
+  "community_area": "Woodlawn",
+  "thinking": {
+    "disposable_income": "Woodlawn has a median income of $29,969 and a per capita income of $22,868. A significant portion of the population earns less than $25,000, indicating limited disposable income.",
+    "discretionary_consumption": "With 44.5% of households earning less than $25,000, discretionary spending is likely constrained. Any increase in transportation costs could significantly impact the community's ability to spend on other necessities.",
+    "accessibility": "38.1% of households do not own a vehicle, and 24.3% of residents use transit. Improving transit accessibility and affordability is crucial for this community, as a large portion relies on public transportation.",
+    "decision_rationale": "Given the limited disposable income and high reliance on public transit, the community would benefit from lower transit fares and minimal increases in sales tax. Proposals with lower fares and moderate driver fees are prioritized to improve transit service without significantly impacting discretionary spending. The focus is on reducing travel time and cost for transit users while considering the impact on car users and overall community affordability."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

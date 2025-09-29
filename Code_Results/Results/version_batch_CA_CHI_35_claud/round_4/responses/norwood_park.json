@@ -1,0 +1,16 @@
+{
+  "community_area": "Norwood Park",
+  "thinking": {
+    "disposable_income": "Norwood Park is an upper-middle-class area with median household income around $82,000. Residents have relatively high disposable income compared to Chicago average, making them less sensitive to moderate fare/fee increases",
+    "discretionary_consumption": "High levels of discretionary spending capacity. Many households own cars and can afford higher transportation costs. The 1-1.5% sales tax impact would be noticeable but manageable given income levels",
+    "accessibility": "Located on far northwest side with good access to Blue Line and Metra. High car ownership rates (~90% households have cars). Most residents drive but want transit options. Average commute times are important given distance from downtown",
+    "decision_rationale": "1. Prioritize policies that reduce travel times while keeping costs reasonable given income levels. 2. Community can absorb moderate fee increases if they improve service. 3. Balance between driving and transit important as most use cars but want transit options. 4. Selected policies that maintain good transit service while implementing moderate driving fees to reduce congestion. 5. Higher tax rates acceptable if they significantly improve travel times. Selected proposals 14, 23, 5, 13, and 22 as they offer best balance of reduced travel times, moderate cost increases, and improved transit service"
+  },
+  "vote": [
+    14,
+    23,
+    5,
+    13,
+    22
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Edgewater",
+  "thinking": {
+    "disposable_income": "Edgewater is a diverse community with a mix of income levels. The median household income is moderate, with a significant portion of residents being renters. This suggests that disposable income may be limited for many residents, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "Given the moderate income levels, discretionary spending is likely focused on essential goods and services. Residents may prioritize affordable transportation options to maintain their standard of living.",
+    "accessibility": "Edgewater has good access to public transit, including several CTA train lines and bus routes. This makes transit a viable option for many residents, though travel times can be lengthy. Improving transit efficiency and affordability would benefit the community.",
+    "decision_rationale": "Considering Edgewater's moderate income levels and reliance on public transit, policies that reduce transit fares and improve travel times are prioritized. Lower sales taxes are preferred to minimize the impact on discretionary spending. Driver fees are acceptable if they significantly improve transit times, as many residents rely on public transportation. The selected policies aim to balance affordability with improved transit service, while minimizing the financial burden on residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

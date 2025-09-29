@@ -1,0 +1,16 @@
+{
+  "community_area": "Ashburn",
+  "thinking": {
+    "disposable_income": "Ashburn has a median household income of $78,060 and per capita income of $28,910. About 30.6% of households earn less than $50,000, while 35.6% earn over $100,000, indicating a mixed-income community with significant middle and upper-middle class presence",
+    "discretionary_consumption": "With moderate to high car ownership (92.3% households have at least one vehicle) and median income levels, residents have some discretionary spending capacity but are likely sensitive to additional taxes and fees that could impact their consumption",
+    "accessibility": "The community heavily relies on cars (67.6% drive alone, 11.1% carpool) with only 11.4% using transit. The high vehicle ownership suggests good road access but potentially limited transit options",
+    "decision_rationale": "1. Given high car dependency, prefer policies with lower driving fees to avoid burdening majority of residents. 2. Moderate tax rates (1%) can support transit improvements without excessive burden. 3. Lower transit fares could encourage more transit use while helping lower-income residents. 4. Balance between maintaining reasonable car travel times and improving transit service. 5. Consider policies that don't drastically increase total transportation costs given mixed income levels"
+  },
+  "vote": [
+    12,
+    9,
+    3,
+    13,
+    10
+  ]
+}

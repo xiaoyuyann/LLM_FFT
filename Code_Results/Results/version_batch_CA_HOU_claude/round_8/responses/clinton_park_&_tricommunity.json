@@ -1,0 +1,16 @@
+{
+  "community_area": "Clinton Park / Tri-Community",
+  "thinking": {
+    "disposable_income": "Clinton Park / Tri-Community is a lower-income neighborhood with median household income around $25,000, significantly below Houston's average, indicating limited disposable income for transportation costs.",
+    "discretionary_consumption": "With a high poverty rate and limited disposable income, residents have minimal discretionary spending capacity and are highly sensitive to additional taxes and fees.",
+    "accessibility": "The neighborhood has limited transit options despite relatively high transit dependency, with many residents relying on bus service for essential trips while car ownership rates are lower than city average.",
+    "decision_rationale": "1) Prioritized proposals with lower transit fares ($0.75) to maintain affordability for transit-dependent residents 2) Favored lower sales tax rates (0.5-1.0%) to minimize impact on limited discretionary income 3) Accepted moderate driving fees ($0.50) as most residents use transit 4) Balanced improved transit times with cost burden 5) Selected proposals that provide best transit service improvements while keeping combined costs manageable for low-income residents"
+  },
+  "vote": [
+    1,
+    0,
+    8,
+    7,
+    16
+  ]
+}

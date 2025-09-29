@@ -1,0 +1,16 @@
+{
+  "community_area": "Auburn Gresham",
+  "thinking": {
+    "disposable_income": "Auburn Gresham is a predominantly lower-income community with median household income around $35,000, significantly below Chicago's average. Many residents face economic challenges with limited disposable income",
+    "discretionary_consumption": "Limited discretionary spending capacity due to lower income levels. Residents are price-sensitive to additional taxes and fees. Many households spend a significant portion of income on basic necessities",
+    "accessibility": "High transit dependency with about 30% of households lacking vehicle access. The community is served by CTA Red Line (95th), bus routes, and Metra Rock Island line. Many residents rely on public transit for work commutes and daily activities",
+    "decision_rationale": "1. Prioritize low transit fares ($0.75) due to high transit dependency and limited income. 2. Prefer lower sales tax (0.5-1.0%) to minimize impact on already constrained budgets. 3. Support moderate driving fees ($0.50-$1.00) to improve transit service without overly burdening drivers. 4. Balance between improved transit times and affordability. 5. Consider proposals that reduce both transit and driving times to benefit all residents"
+  },
+  "vote": [
+    2,
+    1,
+    11,
+    10,
+    20
+  ]
+}

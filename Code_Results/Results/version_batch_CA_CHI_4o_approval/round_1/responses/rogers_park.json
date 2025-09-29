@@ -1,0 +1,16 @@
+{
+  "community_area": "Rogers Park",
+  "thinking": {
+    "disposable_income": "Rogers Park has a diverse population with varying income levels, but generally, it is a middle-income area. Many residents may not have a high disposable income, so affordability is a key concern.",
+    "discretionary_consumption": "Residents in Rogers Park have moderate discretionary spending. They prioritize essential goods and services, and any increase in transportation costs could impact their ability to spend on other necessities.",
+    "accessibility": "Rogers Park is well-served by public transit, including the CTA Red Line and several bus routes. Many residents rely on public transit for commuting and daily activities, making transit affordability and efficiency crucial.",
+    "decision_rationale": "Given the moderate disposable income and reliance on public transit, policies with lower transit fares and moderate sales taxes are preferred to maintain affordability. A moderate driver fee is acceptable if it significantly reduces travel time and congestion, benefiting both drivers and transit users. The goal is to balance affordability with improved transit services and reduced congestion."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

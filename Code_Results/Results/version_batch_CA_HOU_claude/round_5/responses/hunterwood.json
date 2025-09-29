@@ -1,0 +1,16 @@
+{
+  "community_area": "Hunterwood",
+  "thinking": {
+    "disposable_income": "Hunterwood is a middle-income neighborhood with median household income around $55,000, indicating moderate disposable income levels for transportation expenses.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity but are price-sensitive to additional taxes and fees that could impact their household budgets.",
+    "accessibility": "The neighborhood has good car accessibility but limited transit service, with most residents relying on personal vehicles for commuting and daily trips.",
+    "decision_rationale": "1) Given car-dependency, prioritize proposals with lower driving fees and moderate taxes to avoid excessive burden on drivers. 2) Look for balanced options that improve transit service without major cost increases. 3) Consider proposals that reduce car travel times through modest driving fees. 4) Avoid highest tax/fee combinations that would significantly impact household budgets. 5) Select proposals offering good transit improvements for occasional use while keeping driving affordable."
+  },
+  "vote": [
+    6,
+    9,
+    18,
+    0,
+    7
+  ]
+}

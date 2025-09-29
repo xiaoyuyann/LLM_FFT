@@ -1,0 +1,16 @@
+{
+  "community_area": "Lower West Side",
+  "thinking": {
+    "disposable_income": "The Lower West Side community area has a moderate to low average disposable income, with many residents working in service and manufacturing sectors. This means that any increase in transportation costs could significantly impact their budget.",
+    "discretionary_consumption": "Residents in the Lower West Side have limited discretionary spending, focusing primarily on essential goods and services. Therefore, policies that increase costs for transportation could reduce their ability to spend on other necessities.",
+    "accessibility": "The Lower West Side has decent access to public transit, but travel times are relatively long compared to driving. Improving transit times without significantly increasing costs would be beneficial for the community.",
+    "decision_rationale": "Given the moderate to low disposable income and limited discretionary spending, policies with lower fares and taxes are preferred to minimize financial strain. However, improving transit times is also crucial. Therefore, policies that balance lower costs with improved transit times are prioritized. A moderate driver fee is acceptable if it significantly reduces congestion and improves transit times, as many residents rely on public transportation."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

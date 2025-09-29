@@ -1,0 +1,16 @@
+{
+  "community_area": "South Lawndale",
+  "thinking": {
+    "disposable_income": "South Lawndale has one of the lowest median household incomes in Chicago at around $33,000. About 28% of residents live below poverty level, making them highly sensitive to cost increases",
+    "discretionary_consumption": "Given the low income levels, residents have limited discretionary spending. Most income goes to basic necessities. Higher taxes or transportation costs would significantly impact household budgets",
+    "accessibility": "The area has good access to public transit with Pink Line stations and multiple bus routes. About 30% of households don't own vehicles. Many residents rely on public transit for work commutes, with average transit commute times of 45-60 minutes",
+    "decision_rationale": "1. Given low incomes, prioritize lowest combined costs (fare + tax) while maintaining service quality. 2. Many residents depend on transit, so transit travel time improvements are important. 3. Lower transit fares are critical for this low-income community. 4. Moderate driving fees acceptable as fewer residents drive. 5. Selected policies balance minimal cost burden with improved transit service. Ranked proposals that keep fares low ($0.75-$1.25) while using moderate driving fees to fund improvements"
+  },
+  "vote": [
+    1,
+    10,
+    2,
+    11,
+    4
+  ]
+}

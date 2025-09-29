@@ -1,0 +1,16 @@
+{
+  "community_area": "Forest Glen",
+  "thinking": {
+    "disposable_income": "Forest Glen has a high median income of $139,046 and a per capita income of $70,693, indicating a relatively high level of disposable income compared to other areas.",
+    "discretionary_consumption": "With 46.5% of households earning $150,000 and over, the community likely has significant discretionary spending power. However, a portion of the population (7.8%) earns less than $25,000, so affordability remains a consideration.",
+    "accessibility": "The majority of residents (57.9%) drive alone, with only 10.5% using transit. Car ownership is high, with 44.1% owning two vehicles and 18.2% owning three or more. This suggests that while transit improvements are beneficial, car travel is predominant.",
+    "decision_rationale": "Given the high car ownership and preference for driving, policies that reduce driving time and improve transit without significantly increasing costs are prioritized. A lower sales tax is preferred to maintain discretionary spending. Proposals with moderate driver fees are considered to encourage some shift to transit, reducing congestion. The community's high income allows for some flexibility in fare increases, but lower fares are still preferred to support the lower-income segment."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

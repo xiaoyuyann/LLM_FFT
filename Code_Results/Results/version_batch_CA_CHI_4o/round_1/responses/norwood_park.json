@@ -1,0 +1,16 @@
+{
+  "community_area": "Norwood Park",
+  "thinking": {
+    "disposable_income": "Norwood Park is a middle-income community with a relatively stable economic base. Residents generally have a moderate level of disposable income, which allows for some flexibility in spending but also requires careful budgeting.",
+    "discretionary_consumption": "The community tends to prioritize spending on housing, education, and healthcare, with some discretionary spending on leisure and dining. Any increase in transportation costs could impact these discretionary spending areas.",
+    "accessibility": "Norwood Park has decent access to public transit, but many residents rely on driving due to the suburban nature of the area. Reducing driving times and improving transit efficiency are important for the community.",
+    "decision_rationale": "Given the community's reliance on both driving and transit, proposals that balance lower transit fares and moderate driver fees with reasonable travel times are prioritized. A lower sales tax is preferred to maintain disposable income for other essential expenses. The goal is to improve transit efficiency while minimizing the financial burden on residents. Proposals with a $0.75 transit fare and moderate driver fees are favored, as they offer a good balance of cost and service improvement. A 0.5% sales tax is preferred to minimize the impact on discretionary spending."
+  },
+  "vote": [
+    1,
+    10,
+    19,
+    4,
+    13
+  ]
+}

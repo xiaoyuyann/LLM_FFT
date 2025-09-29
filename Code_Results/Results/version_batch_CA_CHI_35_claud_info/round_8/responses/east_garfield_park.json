@@ -1,0 +1,16 @@
+{
+  "community_area": "East Garfield Park",
+  "thinking": {
+    "disposable_income": "The community has relatively low income levels with 65.4% of households earning less than $50,000 annually and a median income of $31,762. This suggests high sensitivity to any additional transportation costs or taxes.",
+    "discretionary_consumption": "With a low per capita income of $20,343, residents have limited discretionary spending capacity. Any increase in transportation costs or sales tax would significantly impact their ability to purchase other essential goods and services.",
+    "accessibility": "40% of households have no vehicle, and 25% rely on public transit for commuting. The mean commute time is 35.1 minutes, indicating significant dependence on public transportation. Current transit accessibility needs improvement while keeping costs affordable.",
+    "decision_rationale": "1. Prioritize proposals with lower transit fares ($0.75) due to high transit dependency and low income levels. 2. Prefer lower sales tax rates (0.5-1.0%) to minimize impact on limited discretionary spending. 3. Support moderate driving fees ($0.50) to improve transit service without overly burdening car-dependent households. 4. Balance between transit time improvements and cost burden. 5. Consider proposals that reduce transit travel time while maintaining affordability."
+  },
+  "vote": [
+    1,
+    10,
+    0,
+    9,
+    4
+  ]
+}

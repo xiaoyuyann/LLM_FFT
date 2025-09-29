@@ -1,0 +1,16 @@
+{
+  "community_area": "East Garfield Park",
+  "thinking": {
+    "disposable_income": "East Garfield Park is a low-income community with median household income around $24,000, significantly below Chicago's average. About 42% of residents live below poverty level, indicating very limited disposable income",
+    "discretionary_consumption": "Given the high poverty rate and low income levels, residents have minimal discretionary spending capacity. Most income goes to basic necessities like housing, food, and transportation. Higher taxes or fees would significantly impact household budgets",
+    "accessibility": "The area has good transit access with Green Line L and several bus routes. Car ownership is lower than city average at about 50% of households. Many residents rely on public transit for daily commuting and accessing services. Average commute times are higher than city median",
+    "decision_rationale": "1. Prioritize lowest transit fares ($0.75) given low income levels and high transit dependency. 2. Prefer lower sales tax (0.5-1.0%) to minimize impact on limited discretionary spending. 3. Support moderate driving fees ($0.50-$1.00) to improve transit service without overly burdening drivers. 4. Balance between improved transit times and keeping costs affordable. 5. Consider proposals that reduce both transit and driving times to benefit all residents"
+  },
+  "vote": [
+    2,
+    1,
+    11,
+    10,
+    20
+  ]
+}

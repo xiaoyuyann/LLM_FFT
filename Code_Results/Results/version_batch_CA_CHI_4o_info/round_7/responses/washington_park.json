@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Park",
+  "thinking": {
+    "disposable_income": "Washington Park has a median income of $26,014 and a per capita income of $19,948, with nearly half of the households earning less than $25,000. This indicates limited disposable income, making cost-sensitive policies crucial.",
+    "discretionary_consumption": "With a significant portion of the population earning below $25,000, discretionary spending is likely constrained. Policies that minimize additional financial burdens are preferred to maintain essential consumption levels.",
+    "accessibility": "42.8% of households have no vehicle, and 32.3% of residents use transit. Improving transit accessibility and affordability is vital, as a large portion of the community relies on public transportation.",
+    "decision_rationale": "Given the high reliance on public transit and limited disposable income, policies with lower transit fares and moderate driver fees are prioritized to enhance transit accessibility without imposing significant financial burdens. A lower sales tax is also preferred to avoid reducing discretionary spending. The selected policies aim to balance improved transit services with affordability, considering the community's economic constraints and transportation needs."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

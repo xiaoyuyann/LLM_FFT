@@ -1,0 +1,16 @@
+{
+  "community_area": "East Side",
+  "thinking": {
+    "disposable_income": "The East Side community has a moderate to low average disposable income, which means residents are sensitive to increases in costs related to transportation, such as fares and fees.",
+    "discretionary_consumption": "Given the moderate to low disposable income, discretionary consumption is limited. Residents prioritize essential spending, so any increase in transportation costs could significantly impact their budget for other necessities.",
+    "accessibility": "The East Side has moderate access to public transit, but many residents rely on driving due to the longer transit times. Improving transit times could encourage more residents to switch from driving to public transit.",
+    "decision_rationale": "The decision prioritizes minimizing costs for residents while improving transit times to encourage a shift from driving to public transit. Lower fares and moderate driver fees are preferred to balance affordability and transit service improvements. A lower sales tax is favored to minimize the impact on discretionary spending. The selected proposals aim to reduce travel times and costs, making public transit a more attractive option while keeping overall expenses manageable for residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

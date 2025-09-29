@@ -1,0 +1,16 @@
+{
+  "community_area": "Fuller Park",
+  "thinking": {
+    "disposable_income": "Fuller Park is one of the lower-income areas in Chicago, with a median household income significantly below the city average. Residents have limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Fuller Park has limited access to public transportation options, and many residents rely on driving. Improving transit accessibility and reducing travel times could benefit the community, but affordability remains a key concern.",
+    "decision_rationale": "Considering the economic constraints and the need for affordable transportation, proposals with lower fares and taxes are prioritized. However, improving transit times is also important to enhance accessibility. Balancing these factors, the following proposals are selected: Proposal 1 offers a low fare and moderate driving fee, reducing transit time significantly. Proposal 10 maintains a low fare with a moderate tax and driving fee, offering a good balance of cost and improved transit time. Proposal 11 further reduces transit time with a slightly higher driving fee. Proposal 19 offers a low fare with a higher tax but improves transit time. Proposal 20 provides the lowest transit time with a low fare, despite a higher tax and driving fee."
+  },
+  "vote": [
+    1,
+    10,
+    11,
+    19,
+    20
+  ]
+}

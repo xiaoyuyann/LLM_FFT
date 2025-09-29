@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Heights",
+  "thinking": {
+    "disposable_income": "Median household income is $66,797, with about 37.7% households earning less than $50,000. This suggests moderate disposable income but significant portion of population may be cost-sensitive",
+    "discretionary_consumption": "Given the income distribution and household sizes (average 2.7), many families likely have limited discretionary spending capacity. Higher taxes and fees would impact consumption significantly",
+    "accessibility": "Car ownership is high (83.2% have at least one vehicle) with 58.2% driving alone to work. Transit usage is moderate at 22.3%. This suggests good car accessibility but also significant transit dependence",
+    "decision_rationale": "1. Prioritize lower sales tax (0.5%) due to significant cost-sensitive population. 2. Balance moderate transit fares ($1.25) to maintain service quality while keeping accessible. 3. Support moderate driving fees ($0.50) to improve transit without overly burdening drivers. 4. Focus on proposals that reduce transit travel time since 22.3% use transit. 5. Consider proposals that maintain reasonable car travel times since majority drive"
+  },
+  "vote": [
+    4,
+    1,
+    13,
+    7,
+    10
+  ]
+}

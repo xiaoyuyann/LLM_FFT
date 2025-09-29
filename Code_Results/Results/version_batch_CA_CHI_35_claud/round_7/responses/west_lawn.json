@@ -1,0 +1,16 @@
+{
+  "community_area": "West Lawn",
+  "thinking": {
+    "disposable_income": "West Lawn is a middle-class community with median household income around $54,000. Many residents work in service and industrial sectors. The community has moderate disposable income but is price-sensitive to transportation costs",
+    "discretionary_consumption": "Residents have modest discretionary spending capacity. Higher sales taxes would impact household budgets. Many families need to balance transportation costs with other essential expenses",
+    "accessibility": "The community has moderate transit access with bus routes but no L train stations. Car ownership is high at around 85% of households. Many residents rely on driving for work commutes and daily activities. The Orange Line is accessible but requires bus connections",
+    "decision_rationale": "1. Given high car dependency but moderate incomes, prefer lower driving fees and sales tax to preserve disposable income. 2. Transit improvements should balance accessibility with affordability. 3. Policy 3 ranks first as it maintains low tax/driving fee while keeping moderate transit fare. 4. Policy 0 ranks second with lowest costs across board but slightly worse transit times. 5. Policy 9 third as 1% tax is manageable with low fare/no driving fee. 6. Policy 4 fourth as driving fee is moderate with low tax. 7. Policy 12 fifth as it maintains current fare with no driving fee"
+  },
+  "vote": [
+    3,
+    0,
+    9,
+    4,
+    12
+  ]
+}

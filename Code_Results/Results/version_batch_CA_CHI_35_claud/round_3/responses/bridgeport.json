@@ -1,0 +1,16 @@
+{
+  "community_area": "Bridgeport",
+  "thinking": {
+    "disposable_income": "Bridgeport has a median household income of around $54,000, which is slightly below Chicago's median. About 15% of residents live below poverty level, suggesting moderate financial constraints for many households",
+    "discretionary_consumption": "Given the moderate income levels, residents are price-sensitive to both transit fares and sales taxes. Many households need to carefully budget their transportation expenses as part of overall discretionary spending",
+    "accessibility": "Bridgeport has good transit access with Red Line, Orange Line, and multiple bus routes. About 30% of residents use public transit for commuting, while 60% drive. The community has a mix of transit-dependent and car-dependent households",
+    "decision_rationale": "1. Prioritize balanced policies that don't overly burden either drivers or transit users given the mixed-mode usage. 2. Keep sales tax moderate due to income constraints. 3. Favor policies that improve transit service while maintaining reasonable fares. 4. Consider driving fees that reduce congestion but aren't excessive. 5. Selected proposals 13, 10, 4, 12, and 19 as they offer good transit improvements with moderate cost impacts"
+  },
+  "vote": [
+    13,
+    10,
+    4,
+    12,
+    19
+  ]
+}

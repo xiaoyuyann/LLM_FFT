@@ -1,0 +1,16 @@
+{
+  "community_area": "Westbury",
+  "thinking": {
+    "disposable_income": "Westbury is a middle-class neighborhood with median household income around $65,000, indicating moderate disposable income levels for transportation expenses.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity but are price-sensitive to additional taxes and fees that could impact their household budgets.",
+    "accessibility": "The neighborhood has decent car accessibility but limited transit options, with most residents relying on personal vehicles while having some bus service connections to major employment centers.",
+    "decision_rationale": "1) Prioritized policies with moderate tax rates to balance transit funding needs while preserving disposable income 2) Favored lower transit fares to encourage transit use while maintaining affordability 3) Supported moderate driving fees to manage congestion while not overly burdening car-dependent residents 4) Selected options that provide meaningful travel time improvements for both transit and car users 5) Considered the neighborhood's mixed-mode transportation needs with emphasis on maintaining reasonable costs"
+  },
+  "vote": [
+    7,
+    10,
+    16,
+    2,
+    19
+  ]
+}

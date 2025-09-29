@@ -1,0 +1,16 @@
+{
+  "community_area": "Oakland",
+  "thinking": {
+    "disposable_income": "Oakland has a relatively low median income of $27,693, with 47.2% of households earning less than $25,000. This indicates limited disposable income for most residents, making them particularly sensitive to transportation costs.",
+    "discretionary_consumption": "Given the low income levels, discretionary consumption is likely very limited. Higher sales taxes would significantly impact residents' ability to purchase essential goods and services. The community needs to preserve purchasing power for basic necessities.",
+    "accessibility": "41.7% of households have no vehicle, and 40.4% have only one vehicle. Transit usage (19.9%) is significant, while 48.2% drive alone. The community needs affordable transit options while maintaining reasonable driving costs for those who depend on cars.",
+    "decision_rationale": "1. Prioritize low transit fares due to high percentage of transit-dependent residents and low incomes. 2. Favor lower sales tax rates (0.5-1.0%) to protect limited discretionary income. 3. Consider moderate driving fees to improve transit service without overly burdening drivers. 4. Balance between transit time improvements and cost increases. 5. Focus on proposals that reduce transit travel time while keeping fares affordable."
+  },
+  "vote": [
+    1,
+    10,
+    4,
+    13,
+    3
+  ]
+}

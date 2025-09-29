@@ -1,0 +1,16 @@
+{
+  "community_area": "Hyde Park",
+  "thinking": {
+    "disposable_income": "Hyde Park has a diverse income distribution with a significant portion of the population earning less than $50,000 annually. However, there is also a substantial percentage earning over $100,000, indicating a mixed-income community.",
+    "discretionary_consumption": "With a notable percentage of households earning below $50,000, affordability is a key concern. The community would benefit from lower transit fares and minimal increases in sales tax to maintain discretionary spending on essentials.",
+    "accessibility": "Hyde Park has a high percentage of residents using transit and walking/biking, with a significant portion of households not owning a vehicle. This suggests a strong reliance on public transit and non-motorized transport, making transit accessibility and affordability crucial.",
+    "decision_rationale": "Given the high reliance on public transit and the mixed-income nature of the community, policies that lower transit fares and maintain or slightly increase sales tax are preferred. These policies should also aim to reduce travel times to improve accessibility. The community would benefit from a balance between affordable transit fares and improved transit services, with minimal impact on discretionary spending. Therefore, proposals with lower fares and moderate sales tax rates, coupled with driver fees to reduce congestion, are prioritized."
+  },
+  "vote": [
+    10,
+    11,
+    13,
+    19,
+    22
+  ]
+}

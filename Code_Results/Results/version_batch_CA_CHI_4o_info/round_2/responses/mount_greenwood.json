@@ -1,0 +1,16 @@
+{
+  "community_area": "Mount Greenwood",
+  "thinking": {
+    "disposable_income": "Mount Greenwood has a relatively high median income of $113,328 and a per capita income of $47,744. A significant portion of the population earns $100,000 or more, indicating a strong disposable income base.",
+    "discretionary_consumption": "With a high percentage of households earning above $100,000, the community likely has a substantial level of discretionary consumption. However, any increase in taxes or fees could impact this consumption, especially for those in lower income brackets.",
+    "accessibility": "The majority of residents drive alone (82.2%), with a small percentage using transit (4.2%). Car ownership is high, with 95.3% of households owning at least one vehicle. This suggests that accessibility is primarily car-dependent, and improvements in transit could benefit the small transit-using population.",
+    "decision_rationale": "Given the high car ownership and reliance on driving, policies that reduce driving time and improve transit without significantly increasing costs are preferred. A lower sales tax is favored to maintain discretionary spending. Proposals with moderate driving fees and transit fares are prioritized to encourage a shift to transit, reduce congestion, and improve transit services. The community's high income allows for some flexibility in absorbing costs, but minimizing impact on discretionary spending is crucial."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    4,
+    22
+  ]
+}

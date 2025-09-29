@@ -1,0 +1,16 @@
+{
+  "community_area": "Douglas",
+  "thinking": {
+    "disposable_income": "Douglas has a moderate level of disposable income, with a mix of middle-income and lower-income households. The community is sensitive to changes in transportation costs, as a significant portion of income is allocated to essential expenses.",
+    "discretionary_consumption": "Discretionary consumption in Douglas is limited, with residents prioritizing essential goods and services. Any increase in transportation costs could impact the ability to spend on non-essential items.",
+    "accessibility": "Douglas has decent access to public transit, with several bus and train lines serving the area. However, travel times by transit are relatively long compared to driving, which is a concern for residents who rely on public transportation.",
+    "decision_rationale": "Given the moderate disposable income and limited discretionary consumption, it is crucial to keep transportation costs low while improving transit efficiency. A lower fare and moderate driver fee can encourage transit use and reduce congestion, benefiting both transit users and drivers. A moderate sales tax is acceptable if it significantly improves transit services. The selected proposals aim to balance cost, travel time, and service improvement, prioritizing affordability and efficiency for the community."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

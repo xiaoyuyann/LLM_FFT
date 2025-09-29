@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Avenue Coalition / Memorial Park",
+  "thinking": {
+    "disposable_income": "The neighborhood has relatively high disposable income with median household income over $100,000, indicating residents can generally absorb higher transportation costs.",
+    "discretionary_consumption": "Residents have significant discretionary spending power and tend to value time savings over minor cost increases given the area's affluent demographic profile.",
+    "accessibility": "The area has good road access but moderate transit service, with many residents relying on personal vehicles while having the financial means to choose between driving and transit.",
+    "decision_rationale": "1) Prioritized policies that reduce travel times for both modes since time value is high for affluent residents. 2) Higher driver fees acceptable since income levels can absorb costs and fees help fund better transit. 3) Moderate tax rates preferred to balance service improvements with tax burden. 4) Lower transit fares less critical given income levels. 5) Selected policies that create balanced improvements across both modes since residents use both."
+  },
+  "vote": [
+    23,
+    20,
+    17,
+    14,
+    11
+  ]
+}

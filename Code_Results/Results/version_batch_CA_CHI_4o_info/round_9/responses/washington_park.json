@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Park",
+  "thinking": {
+    "disposable_income": "The median income in Washington Park is $26,014, with a significant portion of the population (49.3%) earning less than $25,000. This indicates limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With a per capita income of $19,948, residents have limited discretionary spending. Policies that minimize additional financial burdens, such as lower fares and taxes, are preferable to maintain consumption of essential goods and services.",
+    "accessibility": "A significant portion of the community relies on transit (32.3%) and many households do not own a vehicle (42.8%). Therefore, policies that improve transit accessibility and reduce travel time are crucial for enhancing access to resources and services.",
+    "decision_rationale": "Given the community's low income levels and reliance on public transit, policies with lower fares and taxes are prioritized to minimize financial strain. Additionally, reducing transit travel time is important to improve accessibility. The selected policies balance these factors by offering lower fares and taxes while also considering the benefits of reduced travel times for both transit and driving."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

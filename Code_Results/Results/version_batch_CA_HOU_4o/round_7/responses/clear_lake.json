@@ -1,0 +1,16 @@
+{
+  "community_area": "Clear Lake",
+  "thinking": {
+    "disposable_income": "Clear Lake is a relatively affluent area with a higher than average disposable income compared to other Houston neighborhoods.",
+    "discretionary_consumption": "Residents in Clear Lake have a higher level of discretionary consumption, often spending on leisure, dining, and recreational activities.",
+    "accessibility": "Clear Lake has moderate accessibility to resources and services, with a reliance on both personal vehicles and transit options, though transit times are currently longer.",
+    "decision_rationale": "Given the higher disposable income, residents can afford a moderate increase in sales tax and transit fares if it results in significantly improved transit times. The focus is on reducing travel time and improving transit efficiency, which can encourage more residents to use public transportation, thus reducing congestion. A balance between fare, tax, and driving fees is crucial to ensure that the cost does not overly burden residents while still enhancing transit services. Proposals with a moderate sales tax and driving fee, combined with reduced transit times, are prioritized to improve overall accessibility and encourage a shift from driving to transit."
+  },
+  "vote": [
+    1,
+    3,
+    8,
+    11,
+    19
+  ]
+}

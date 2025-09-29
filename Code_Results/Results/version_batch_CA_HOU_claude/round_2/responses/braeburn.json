@@ -1,0 +1,16 @@
+{
+  "community_area": "Braeburn",
+  "thinking": {
+    "disposable_income": "Braeburn has a median household income of around $45,000, which is lower than Houston's average, indicating moderate to limited disposable income for many residents.",
+    "discretionary_consumption": "With a significant portion of income going to basic necessities, residents have limited discretionary spending capacity and are sensitive to additional transportation costs.",
+    "accessibility": "The neighborhood has moderate car dependency with limited transit options, though it has access to METRO bus routes and is relatively close to the Southwest Freeway.",
+    "decision_rationale": "1. Given limited disposable income, prioritize lower tax rates (0.5-1.0%) to preserve purchasing power. 2. Balance lower transit fares ($0.75-$1.25) to support transit-dependent residents. 3. Moderate driving fees ($0.50) to improve transit service without overly burdening drivers. 4. Consider proposals that reduce transit travel time to under 57 minutes. 5. Selected proposals 0, 7, 2, 10, and 16 as they offer the best balance of improved transit service, moderate costs, and reasonable travel times for both modes."
+  },
+  "vote": [
+    0,
+    7,
+    2,
+    10,
+    16
+  ]
+}

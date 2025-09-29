@@ -1,0 +1,16 @@
+{
+  "community_area": "Willow Meadows/Willowbend",
+  "thinking": {
+    "disposable_income": "Willow Meadows/Willowbend is an upper-middle-class neighborhood with median household income around $100,000, indicating relatively high disposable income and ability to absorb transportation costs.",
+    "discretionary_consumption": "Residents have significant discretionary spending power and tend to prioritize quality of life, with many households able to afford multiple vehicles and regular retail/entertainment spending.",
+    "accessibility": "The neighborhood has good road access via Loop 610 and Main Street, with moderate transit access through MetroRail and bus services, though most residents are car-dependent for daily trips.",
+    "decision_rationale": "1) Given high car ownership and income levels, policies with moderate driving fees are acceptable if they improve overall system efficiency 2) Higher sales tax is less impactful due to high disposable income 3) Transit improvements should focus on reducing travel times rather than minimizing fares 4) Selected policies balance revenue generation for transit improvements while maintaining reasonable driving costs 5) Prioritized options that reduce both transit and driving times through balanced fee structures"
+  },
+  "vote": [
+    20,
+    23,
+    17,
+    11,
+    14
+  ]
+}

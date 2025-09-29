@@ -1,0 +1,16 @@
+{
+  "community_area": "Woodlawn",
+  "thinking": {
+    "disposable_income": "Woodlawn has a relatively low median household income around $25,000, with about 39% of residents living below poverty level. Many residents are cost-sensitive and have limited disposable income.",
+    "discretionary_consumption": "Given the low income levels, residents have very limited discretionary spending. Higher sales taxes would significantly impact household budgets. Many residents rely on SNAP benefits and other assistance programs.",
+    "accessibility": "About 42% of households don't own vehicles and rely heavily on public transit. The area is served by CTA Green Line and several bus routes. Many residents are transit-dependent for accessing jobs, services and amenities.",
+    "decision_rationale": "1. Given low incomes, prioritize lowest transit fares ($0.75) to maintain affordability. 2. Keep sales tax moderate (1%) to balance transit funding needs with impact on limited discretionary spending. 3. Support higher driving fees ($0.50-$1.00) as most residents use transit and fees improve transit service. 4. Focus on proposals that reduce transit travel times to improve access to opportunities. 5. Consider proposals that maintain reasonable driving costs for car-owning households while improving transit."
+  },
+  "vote": [
+    11,
+    10,
+    2,
+    1,
+    9
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Park",
+  "thinking": {
+    "disposable_income": "Lincoln Park is an affluent area with median household income of $134,277 and 61.3% of households earning over $100,000. This suggests residents have significant disposable income and can generally afford higher transportation costs",
+    "discretionary_consumption": "With high per capita income ($109,538), residents likely have substantial discretionary spending. While sensitive to costs, they may prioritize time savings and service quality over minimal fee increases",
+    "accessibility": "The area has high transit usage (33.4%) and low car dependency (32.3% no vehicle, 47.8% one vehicle). Good mix of transportation options with significant walk/bike share (9.3%). Many residents use multiple modes",
+    "decision_rationale": "1. Prioritized policies that improve transit times while maintaining reasonable fares, given high transit usage. 2. Considered that many residents can absorb moderate cost increases. 3. Favored balanced approaches with moderate taxes and fees that improve both transit and driving times. 4. Selected options that encourage sustainable transport while not overly penalizing necessary car trips. 5. Weighted time savings more heavily than cost savings given high income levels"
+  },
+  "vote": [
+    23,
+    14,
+    20,
+    11,
+    5
+  ]
+}

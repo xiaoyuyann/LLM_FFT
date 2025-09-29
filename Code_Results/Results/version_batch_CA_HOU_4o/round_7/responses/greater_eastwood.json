@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Eastwood",
+  "thinking": {
+    "disposable_income": "Greater Eastwood has a moderate disposable income level, with many residents working in middle-income jobs.",
+    "discretionary_consumption": "Residents in Greater Eastwood have moderate discretionary spending, with a focus on essential goods and services.",
+    "accessibility": "The neighborhood has decent access to public transit, but many residents still rely on cars for commuting due to longer transit times.",
+    "decision_rationale": "Given the moderate disposable income, it's important to keep costs low for both transit users and drivers. Reducing transit fares and driving fees can help maintain affordability. A lower sales tax is preferred to minimize the impact on discretionary spending. Improving transit times is also crucial to encourage more residents to use public transportation, which can reduce congestion and emissions. Therefore, proposals with lower fares, moderate driving fees, and lower sales taxes that also improve transit times are prioritized."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

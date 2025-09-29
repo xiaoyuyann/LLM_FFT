@@ -1,0 +1,16 @@
+{
+  "community_area": "Northside Village",
+  "thinking": {
+    "disposable_income": "Northside Village has a relatively low median household income around $33,000, significantly below Houston's average, indicating limited disposable income for transportation costs.",
+    "discretionary_consumption": "With about 30% of residents living below poverty level, discretionary spending is very limited and residents are highly sensitive to additional taxes and fees.",
+    "accessibility": "The neighborhood has decent bus service and light rail access along its western edge, with about 20% of residents using public transit for commuting, while many still rely on personal vehicles due to job locations.",
+    "decision_rationale": "1) Prioritized proposals with lower transit fares ($0.75) to help low-income transit users; 2) Favored lower sales tax rates (0.5-1.0%) to minimize impact on limited discretionary spending; 3) Accepted moderate driving fees ($0.50) as compromise to fund transit improvements; 4) Balanced travel time improvements with cost burden on residents; 5) Selected proposals that provide best transit service improvements while keeping combined costs manageable for low-income population."
+  },
+  "vote": [
+    7,
+    0,
+    1,
+    8,
+    10
+  ]
+}

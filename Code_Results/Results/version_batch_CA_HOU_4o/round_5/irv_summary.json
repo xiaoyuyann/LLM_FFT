@@ -1,0 +1,19 @@
+{
+  "winning_policy": 1,
+  "rounds": [
+    {
+      "round": 1,
+      "vote_counts": {
+        "1": 59,
+        "0": 13,
+        "7": 4,
+        "8": 5,
+        "17": 2,
+        "23": 3,
+        "11": 2
+      },
+      "total_votes": 88
+    }
+  ],
+  "summary": "Policy 1 won with majority in round 1."
+}

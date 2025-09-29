@@ -1,0 +1,16 @@
+{
+  "community_area": "Norwood Park",
+  "thinking": {
+    "disposable_income": "Norwood Park is relatively affluent with median household income of $107,122 and per capita income of $49,303. About 53.4% of households earn over $100,000 annually, suggesting significant disposable income compared to other Chicago communities",
+    "discretionary_consumption": "With higher incomes, residents have more flexibility to absorb transportation costs. The community shows high car ownership (92.3% of households have at least one vehicle) and significant discretionary spending power",
+    "accessibility": "The area heavily relies on cars with 71.1% driving alone to work and only 7.3% using transit. Most households (56.8%) have 2+ vehicles, indicating car-dependency and potentially limited transit access",
+    "decision_rationale": "1. Given high car usage, policies reducing car travel time are priority. 2. Higher income means community can tolerate some cost increases if they reduce congestion. 3. While transit usage is low, improving transit service could benefit the 7.7% no-car households. 4. Moderate tax increase acceptable if it significantly improves transportation. 5. Driving fees more acceptable than high transit fares given income levels and car dependency"
+  },
+  "vote": [
+    14,
+    23,
+    5,
+    11,
+    20
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Pecan Park",
+  "thinking": {
+    "disposable_income": "Pecan Park has a moderate to low disposable income, with many residents working in blue-collar jobs and relying on affordable transportation options.",
+    "discretionary_consumption": "Residents in Pecan Park prioritize essential spending, with limited discretionary income available for non-essential goods and services.",
+    "accessibility": "Pecan Park has moderate accessibility to resources and services, with many residents relying on public transit due to limited car ownership.",
+    "decision_rationale": "Given the moderate to low disposable income in Pecan Park, it is crucial to keep transit fares and driving fees low to ensure affordability. A lower sales tax is also preferred to minimize the impact on residents' limited discretionary income. Improving transit times is important to enhance accessibility, but it should not come at a high cost. Therefore, the selected policies balance affordability with improved transit services, prioritizing lower fares and fees while accepting a moderate sales tax increase to support better transit infrastructure."
+  },
+  "vote": [
+    0,
+    7,
+    10,
+    2,
+    6
+  ]
+}

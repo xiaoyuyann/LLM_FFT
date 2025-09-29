@@ -1,0 +1,16 @@
+{
+  "community_area": "Brighton Park",
+  "thinking": {
+    "disposable_income": "Brighton Park is a working-class community with median household income around $43,000, significantly below Chicago's median. Many residents work in manufacturing and service sectors, with about 18% of families below poverty level",
+    "discretionary_consumption": "Limited discretionary spending capacity due to lower income levels. Residents are price-sensitive to both transit fares and sales taxes. Many households spend significant portion of income on basic necessities",
+    "accessibility": "Good bus service along major arterials, access to Orange Line at Western and Kedzie stations. About 30% of households don't own cars. Many residents rely on public transit for work commutes to downtown and other areas",
+    "decision_rationale": "1. Given low income levels, prioritize proposals with lower fares and taxes to preserve disposable income. 2. High transit dependency means better transit service is important. 3. Need balance between transit improvement and cost burden. 4. Selected proposals that reduce transit travel time while keeping fares affordable. 5. Moderate driving fees acceptable as many residents use transit. Selected proposal 10 first as it offers good transit time improvement with low fare. Proposal 11 ranked second for similar reasons but with more transit improvement. Proposal 1 third for low tax impact. Proposal 19 fourth as it balances costs and benefits. Proposal 4 fifth for moderate improvements with limited cost increase"
+  },
+  "vote": [
+    10,
+    11,
+    1,
+    19,
+    4
+  ]
+}

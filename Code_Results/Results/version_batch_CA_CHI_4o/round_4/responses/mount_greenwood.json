@@ -1,0 +1,16 @@
+{
+  "community_area": "Mount Greenwood",
+  "thinking": {
+    "disposable_income": "Mount Greenwood is a middle-class community with a relatively stable disposable income. Residents have a moderate level of financial flexibility, but significant increases in transportation costs could impact their budget for other essential and non-essential expenses.",
+    "discretionary_consumption": "The community has a balanced discretionary consumption pattern, with spending on housing, education, and leisure activities. Residents are likely to be sensitive to changes in transportation costs that could affect their ability to maintain their current lifestyle.",
+    "accessibility": "Mount Greenwood has moderate accessibility to resources and services. Public transit options are available but not as extensive as in more central areas of Chicago. Many residents rely on driving for daily commutes and errands, making driving time and costs important considerations.",
+    "decision_rationale": "Given the community's reliance on both driving and transit, proposals that balance lower transit fares and moderate driving fees are preferred. A lower sales tax is also favorable to maintain disposable income for other expenditures. Reducing travel time is important, but not at the expense of significantly higher costs. Therefore, proposals with a moderate increase in driver fees and a slight reduction in transit fares, while maintaining a reasonable sales tax, are prioritized. The goal is to enhance transit services without imposing excessive financial burdens on residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

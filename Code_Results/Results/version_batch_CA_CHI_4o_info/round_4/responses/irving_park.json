@@ -1,0 +1,16 @@
+{
+  "community_area": "Irving Park",
+  "thinking": {
+    "disposable_income": "Irving Park has a relatively high median income of $86,849 and a per capita income of $48,320. A significant portion of the population earns over $100,000, indicating a good level of disposable income.",
+    "discretionary_consumption": "With a substantial portion of the population earning over $100,000, there is likely a higher level of discretionary spending. However, 28.6% of households earn less than $50,000, which means affordability is still a concern for a significant segment.",
+    "accessibility": "49.6% of residents drive alone, and 18.5% use transit, indicating a balanced reliance on both modes. The community has a moderate level of car ownership, with 13.9% having no vehicle, suggesting the importance of affordable and efficient transit options.",
+    "decision_rationale": "Given the community's income distribution and transportation preferences, the focus is on balancing affordability with improved transit services. Lower fares and moderate driver fees can encourage transit use without overly burdening lower-income residents. A moderate sales tax is acceptable given the community's income levels, as it supports better transit services. Reducing travel times for both transit and driving is also a priority to enhance accessibility and reduce congestion."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

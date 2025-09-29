@@ -1,0 +1,16 @@
+{
+  "community_area": "Morgan Park",
+  "thinking": {
+    "disposable_income": "Morgan Park has a median household income of approximately $57,000, which is moderate for Chicago. About 15% of residents live below poverty level, indicating a significant portion of the population needs to be mindful of transportation costs",
+    "discretionary_consumption": "Residents have moderate discretionary spending power, but many households need to carefully budget transportation expenses. The community has a mix of middle-class and working-class families who are sensitive to both tax increases and fare/fee changes",
+    "accessibility": "Morgan Park is served by Metra Rock Island Line and several bus routes, but transit service is less frequent than in areas closer to downtown. About 75% of households own cars, indicating high car dependency. The community is relatively far from downtown, making both driving and transit times significant factors",
+    "decision_rationale": "1. Prioritize policies that balance transit improvement with moderate costs given mixed-income population. 2. Consider high car ownership but need for viable transit options. 3. Lower sales tax preferred due to moderate income levels. 4. Moderate driving fees acceptable to improve transit without excessive burden. 5. Prefer policies that reduce transit travel time given distance from downtown. Selected policies that offer improved transit times without highest tax burden, while maintaining reasonable driving costs for car-dependent residents"
+  },
+  "vote": [
+    4,
+    13,
+    10,
+    1,
+    19
+  ]
+}

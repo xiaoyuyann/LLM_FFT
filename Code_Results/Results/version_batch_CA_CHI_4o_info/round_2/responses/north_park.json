@@ -1,0 +1,16 @@
+{
+  "community_area": "North Park",
+  "thinking": {
+    "disposable_income": "North Park has a median income of $74,649 and a per capita income of $37,156. A significant portion of the population earns over $100,000, indicating a relatively high disposable income compared to other areas.",
+    "discretionary_consumption": "With a diverse income distribution, a portion of the community may be sensitive to increased costs from higher fares or taxes. However, the higher income brackets suggest some capacity to absorb moderate increases in transportation costs.",
+    "accessibility": "North Park has a high rate of car ownership, with 85.4% of households having at least one vehicle. However, 17.5% of residents use transit, indicating a need for efficient and affordable public transportation options. The mean commute time is 34 minutes, suggesting a balance between driving and transit use.",
+    "decision_rationale": "Given the community's relatively high disposable income and car ownership, policies that improve transit efficiency without significantly increasing costs are preferred. Lower fares and moderate driver fees can encourage transit use, reducing congestion and emissions. A moderate sales tax is acceptable if it significantly improves transit services. The community's diverse income distribution requires balancing affordability with service improvements."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Langwood",
+  "thinking": {
+    "disposable_income": "Langwood is a middle-income neighborhood with median household income around $55,000, indicating moderate disposable income levels for transportation expenses.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity but are price-sensitive to additional taxes and fees that could impact their household budgets.",
+    "accessibility": "The neighborhood has good car accessibility with proximity to Highway 290 but limited transit options, with most residents relying on personal vehicles for commuting.",
+    "decision_rationale": "1) Given car-dependent nature, prioritize proposals with lower driving fees and taxes to minimize impact on household budgets. 2) Consider moderate transit improvements without excessive cost burden. 3) Balance between driving cost increases and transit time improvements. 4) Favor proposals that maintain reasonable car travel times since most residents drive. 5) Select options that don't overly burden household budgets with high sales tax."
+  },
+  "vote": [
+    6,
+    9,
+    12,
+    0,
+    7
+  ]
+}

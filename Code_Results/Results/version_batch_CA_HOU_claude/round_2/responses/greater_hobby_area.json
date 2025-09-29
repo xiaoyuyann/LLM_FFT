@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Hobby Area",
+  "thinking": {
+    "disposable_income": "The Greater Hobby Area has a median household income of approximately $45,000, which is lower than Houston's average, indicating residents are more sensitive to transportation costs.",
+    "discretionary_consumption": "With a significant portion of income going to basic necessities, residents have limited discretionary spending capacity and are particularly sensitive to both sales tax increases and transportation fees.",
+    "accessibility": "The area has moderate transit access with some bus routes, but many residents rely on personal vehicles due to the proximity to Hobby Airport and industrial areas, with average commute times being a significant concern.",
+    "decision_rationale": "1) Given the lower income levels, prioritized proposals with lower sales tax and transit fares to preserve disposable income. 2) Considered moderate driving fees to improve transit service without overly burdening drivers. 3) Balanced travel time improvements against cost increases. 4) Selected proposals that offer meaningful transit improvements without excessive tax burden. 5) Focused on options that provide the best value for both transit users and drivers given the mixed-mode transportation needs of the area."
+  },
+  "vote": [
+    0,
+    7,
+    2,
+    6,
+    10
+  ]
+}

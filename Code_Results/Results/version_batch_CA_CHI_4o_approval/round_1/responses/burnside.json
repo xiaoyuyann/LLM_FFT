@@ -1,0 +1,16 @@
+{
+  "community_area": "Burnside",
+  "thinking": {
+    "disposable_income": "Burnside is a lower-income community area, with many residents having limited disposable income. This means that any increase in costs, whether through transit fares, sales taxes, or driving fees, could significantly impact their financial situation.",
+    "discretionary_consumption": "Given the limited disposable income, discretionary consumption is likely to be low. Residents prioritize essential expenses, and any additional costs from transportation policies could reduce their ability to spend on non-essential goods and services.",
+    "accessibility": "Burnside has moderate access to public transit, but improvements in transit services could benefit the community by reducing travel times and increasing reliability. However, many residents may still rely on driving due to the current transit limitations.",
+    "decision_rationale": "Considering the financial constraints of Burnside residents, policies with lower transit fares and minimal sales tax increases are preferable. Additionally, moderate driving fees could be acceptable if they lead to significant improvements in transit services, as this could encourage a shift from driving to transit, reducing congestion and emissions. The goal is to balance affordability with improved accessibility and service quality."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

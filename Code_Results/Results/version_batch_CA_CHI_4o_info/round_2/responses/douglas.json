@@ -1,0 +1,16 @@
+{
+  "community_area": "Douglas",
+  "thinking": {
+    "disposable_income": "The median income in Douglas is $43,528, with a significant portion of the population earning less than $25,000. This suggests limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With 34.8% of households earning less than $25,000, discretionary spending is likely constrained. Policies that minimize additional costs, such as lower fares and taxes, would be beneficial.",
+    "accessibility": "44.4% of households do not own a vehicle, and 26.4% of residents use transit. Improving transit accessibility and affordability is crucial for this community.",
+    "decision_rationale": "Given the high percentage of residents without vehicles and those using transit, policies that enhance transit affordability and reduce travel time are prioritized. Lower fares and moderate taxes are preferred to balance cost and service improvements. The community's limited disposable income necessitates minimizing additional financial burdens, while still improving transit services to support those reliant on public transportation."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

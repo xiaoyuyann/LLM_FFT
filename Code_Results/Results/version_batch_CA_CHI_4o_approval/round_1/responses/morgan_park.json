@@ -1,0 +1,16 @@
+{
+  "community_area": "Morgan Park",
+  "thinking": {
+    "disposable_income": "Morgan Park is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, but they can accommodate slight increases if it leads to better services.",
+    "discretionary_consumption": "The community has a balanced discretionary consumption pattern, with residents spending on essentials and some non-essential goods. They are likely to be cautious about policies that significantly reduce their disposable income.",
+    "accessibility": "Morgan Park has moderate accessibility to resources and services. Public transit is a crucial mode of transportation for many residents, but driving is also common. Improvements in transit services could benefit the community, especially if they reduce travel times.",
+    "decision_rationale": "Given the community's moderate income and reliance on both transit and driving, policies that balance costs and benefits are preferred. Lower transit fares and moderate driver fees can encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it significantly improves transit services. Policies that reduce travel times for both transit and driving are prioritized, as they enhance accessibility and quality of life."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

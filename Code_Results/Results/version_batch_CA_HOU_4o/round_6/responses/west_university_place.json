@@ -1,0 +1,16 @@
+{
+  "community_area": "West University Place",
+  "thinking": {
+    "disposable_income": "West University Place is a relatively affluent area with a high average disposable income.",
+    "discretionary_consumption": "Residents in West University Place have a high level of discretionary consumption, often spending on luxury goods and services.",
+    "accessibility": "The area has good accessibility to resources and services, with a high rate of car ownership and relatively less reliance on public transit.",
+    "decision_rationale": "Given the high disposable income and discretionary consumption, residents can afford higher transit fares and driver fees if it results in better services and reduced travel times. The community values time efficiency and is willing to pay for improved transit services. Therefore, proposals with higher driver fees and fares that significantly reduce travel times are prioritized. A moderate sales tax is acceptable to ensure quality transit services without overly impacting discretionary spending. The top-ranked proposals balance these factors by offering reduced travel times for both driving and transit, with a focus on improving transit efficiency to potentially reduce congestion and emissions."
+  },
+  "vote": [
+    23,
+    20,
+    14,
+    11,
+    5
+  ]
+}

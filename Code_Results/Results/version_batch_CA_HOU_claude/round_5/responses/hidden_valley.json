@@ -1,0 +1,16 @@
+{
+  "community_area": "Hidden Valley",
+  "thinking": {
+    "disposable_income": "Hidden Valley residents have moderate to low disposable income with a median household income around $45,000, indicating sensitivity to transportation costs and taxes.",
+    "discretionary_consumption": "The neighborhood has limited discretionary spending capacity, with most income going to essential needs like housing, food, and transportation.",
+    "accessibility": "The area has moderate transit access with bus routes but relies heavily on personal vehicles, with about 85% of residents commuting by car.",
+    "decision_rationale": "1) Prioritized lower tax rates (0.5-1.0%) to preserve disposable income 2) Favored moderate transit fares ($0.75-$1.25) to keep transit affordable while maintaining service quality 3) Supported modest driving fees ($0.50) to reduce congestion without overly burdening car-dependent residents 4) Balanced travel time improvements with cost impacts 5) Selected proposals that offer best combined benefits for both transit and car users given the community's mixed transportation needs"
+  },
+  "vote": [
+    7,
+    0,
+    10,
+    2,
+    6
+  ]
+}

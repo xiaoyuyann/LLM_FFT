@@ -1,0 +1,16 @@
+{
+  "community_area": "Kenwood",
+  "thinking": {
+    "disposable_income": "Kenwood has a mixed-income population with a median household income around $45,000. The community has significant economic diversity, with both affluent and moderate-income households. About 25% of residents live below poverty level.",
+    "discretionary_consumption": "Residents have varying levels of discretionary spending. Higher-income households have more flexibility with transportation costs, while lower-income residents are more sensitive to fare and tax changes. The community has significant retail and service spending locally.",
+    "accessibility": "Kenwood has good transit access with multiple bus routes and proximity to Green Line and Metra. Car ownership is moderate at about 65%. The area has good access to Hyde Park, downtown, and lakefront. Many residents commute to downtown and nearby employment centers.",
+    "decision_rationale": "1. Prioritize balanced policies that don't overly burden lower-income residents while maintaining service quality. 2. Consider high transit usage in area - many residents depend on public transit. 3. Moderate driving fees acceptable as many residents drive but not primary mode. 4. Lower sales tax preferred to protect discretionary spending. 5. Moderate fares to sustain transit service without excessive burden. Selected policies balance these factors while improving transit times."
+  },
+  "vote": [
+    10,
+    13,
+    4,
+    1,
+    19
+  ]
+}

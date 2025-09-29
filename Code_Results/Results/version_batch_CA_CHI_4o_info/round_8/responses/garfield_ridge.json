@@ -1,0 +1,16 @@
+{
+  "community_area": "Garfield Ridge",
+  "thinking": {
+    "disposable_income": "Garfield Ridge has a relatively high median income of $90,374 and a per capita income of $37,983. A significant portion of the population earns over $100,000, indicating a good level of disposable income.",
+    "discretionary_consumption": "With a high median income, residents likely have a reasonable amount of discretionary income. However, a notable portion of the population earns less than $50,000, which means that affordability of transportation options is still important for a segment of the community.",
+    "accessibility": "The majority of residents drive alone (71.2%), with only 7.6% using transit. This suggests that while transit improvements could benefit the community, policies that significantly increase driving costs might be unpopular. Car ownership is high, with 58.8% of households owning two or more vehicles.",
+    "decision_rationale": "Given the high car ownership and preference for driving, policies that maintain or slightly increase driving costs while improving transit times are preferred. A lower sales tax is favored to minimize impact on discretionary spending. The community would benefit from improved transit times to encourage more usage, but not at the expense of significantly higher costs for drivers. Therefore, proposals with moderate driver fees and lower fares are prioritized, balancing improved transit service with minimal impact on driving costs."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

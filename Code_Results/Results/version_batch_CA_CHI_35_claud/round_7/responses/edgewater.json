@@ -1,0 +1,16 @@
+{
+  "community_area": "Edgewater",
+  "thinking": {
+    "disposable_income": "Edgewater has a median household income of around $54,000, slightly below Chicago's median. About 16% of residents live below poverty level. The community has a mix of middle-income and lower-income households, making cost sensitivity important.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity. Higher sales taxes would impact local businesses and residents' purchasing power. Many residents are cost-conscious and budget for transportation expenses carefully.",
+    "accessibility": "Edgewater has excellent transit access with Red Line stations and multiple bus routes. 35% of residents use public transit for commuting, 35% drive alone, and others walk or bike. The neighborhood has high transit dependency and good transit infrastructure.",
+    "decision_rationale": "1. Prioritize lower transit fares due to high transit usage and moderate income levels. 2. Accept moderate driving fees to improve transit service and reduce congestion. 3. Keep sales tax moderate to balance transit funding and purchasing power. 4. Focus on proposals that reduce transit travel time. 5. Consider proposals that maintain reasonable driving costs for mixed-mode households. Selected proposals balance accessibility improvements with cost burden on residents."
+  },
+  "vote": [
+    11,
+    10,
+    13,
+    14,
+    19
+  ]
+}

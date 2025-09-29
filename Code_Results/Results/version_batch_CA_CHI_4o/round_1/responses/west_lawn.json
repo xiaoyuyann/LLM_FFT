@@ -1,0 +1,16 @@
+{
+  "community_area": "West Lawn",
+  "thinking": {
+    "disposable_income": "West Lawn is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, as these can impact their overall budget for other essential and discretionary expenses.",
+    "discretionary_consumption": "The community has a balanced level of discretionary consumption, with spending on essentials like housing and food taking precedence. Any increase in transportation costs could reduce the ability to spend on non-essential goods and services.",
+    "accessibility": "West Lawn has moderate accessibility to resources and services. Public transit is a viable option for many residents, but driving is also common due to the community's layout and connectivity to other areas.",
+    "decision_rationale": "Given the community's moderate income and reliance on both transit and driving, the focus is on minimizing costs while improving transit efficiency. Lower fares and moderate driver fees are preferred to encourage transit use without significantly impacting disposable income. A balanced approach with a moderate sales tax is also considered to ensure transit services are adequately funded without overly burdening residents. The selected proposals aim to reduce travel times and costs, making transit a more attractive option while maintaining affordability for drivers."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

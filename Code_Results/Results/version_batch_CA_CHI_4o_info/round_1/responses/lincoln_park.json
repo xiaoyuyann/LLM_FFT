@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Park",
+  "thinking": {
+    "disposable_income": "Lincoln Park has a high median household income of $134,277 and a per capita income of $109,538, indicating a relatively high level of disposable income compared to other areas.",
+    "discretionary_consumption": "With 44.8% of households earning $150,000 and over, residents likely have significant discretionary spending power. However, a portion of the population (11.4%) earns less than $25,000, which should be considered when evaluating fare and fee impacts.",
+    "accessibility": "Lincoln Park has a high percentage of residents using transit (33.4%) and a significant portion working from home (24.0%). Car ownership is moderate, with 32.3% of households having no vehicle, indicating a reliance on public transit and non-driving modes.",
+    "decision_rationale": "Given the high income levels, a slightly higher sales tax might be acceptable if it significantly improves transit services. The community's reliance on transit suggests that reducing transit times and maintaining affordable fares are priorities. Proposals with moderate driver fees could encourage a shift from driving to transit, reducing congestion and emissions. Balancing these factors, proposals with lower fares and moderate driver fees, even with a higher sales tax, are preferred to enhance transit service quality and accessibility."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "McKinley Park",
+  "thinking": {
+    "disposable_income": "McKinley Park is a working-class neighborhood with median household income around $47,000, lower than Chicago's average. Many residents work in manufacturing and service industries, making them sensitive to transportation costs and taxes",
+    "discretionary_consumption": "Limited discretionary spending capacity due to moderate income levels. Residents need to carefully balance transportation costs with other essential expenses. Annual retail spending estimated around $20,000 per household",
+    "accessibility": "Well-served by public transit with Orange Line and multiple bus routes. Mixed transit/driving community with 72% of households owning cars. Close to major employment centers and retail corridors. Average commute involves both transit and driving options",
+    "decision_rationale": "1. Prioritize lower transit fares ($0.75) to help working-class residents while maintaining service quality. 2. Moderate tax rate (1%) balances revenue needs with household budgets. 3. Support modest driving fees ($0.50) to reduce congestion without overly burdening car-dependent households. 4. Focus on proposals that reduce transit travel times to under 55 minutes. 5. Avoid highest tax/fee combinations that would strain limited discretionary income"
+  },
+  "vote": [
+    10,
+    11,
+    13,
+    19,
+    20
+  ]
+}

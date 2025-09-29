@@ -1,0 +1,16 @@
+{
+  "community_area": "Roseland",
+  "thinking": {
+    "disposable_income": "Roseland has a median household income of approximately $37,000, significantly below Chicago's average. About 24% of residents live below poverty level, indicating limited disposable income for many households",
+    "discretionary_consumption": "Given the low median income, residents have limited discretionary spending capacity. Many households spend a large portion of income on necessities, making them sensitive to additional taxes and transportation costs",
+    "accessibility": "Roseland is served by Metra Electric District line and several CTA bus routes, but transit service is less frequent compared to North Side communities. About 70% of households own cars, but transportation costs represent a significant burden",
+    "decision_rationale": "1. Prioritize lower transit fares ($0.75) due to high poverty rate and limited disposable income. 2. Prefer lower sales tax (0.5-1.0%) to minimize impact on essential purchases. 3. Support moderate driving fees ($0.50) to improve transit service while not overly burdening car-dependent residents. 4. Balance between transit improvement and cost burden leads to selecting proposals that combine lower fares with moderate taxes and fees. 5. Consider travel time improvements but prioritize affordability given community's economic constraints"
+  },
+  "vote": [
+    1,
+    10,
+    9,
+    0,
+    4
+  ]
+}

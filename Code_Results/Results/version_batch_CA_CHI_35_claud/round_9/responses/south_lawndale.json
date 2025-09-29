@@ -1,0 +1,16 @@
+{
+  "community_area": "South Lawndale",
+  "thinking": {
+    "disposable_income": "South Lawndale has a relatively low median household income around $36,000, with about 28% of residents living below poverty level. This indicates limited disposable income and high sensitivity to transportation costs.",
+    "discretionary_consumption": "Given the low income levels, residents have limited discretionary spending capacity. The community has high cost burden for basic necessities, making additional transportation costs and sales taxes particularly impactful.",
+    "accessibility": "The area has moderate transit access with Pink Line stations and bus routes, but many residents rely on cars for work trips. About 67% of households have access to vehicles. Average commute times are higher than city median.",
+    "decision_rationale": "1. Prioritize lowest combined costs given limited disposable income - favor low fares and taxes. 2. Need balance of transit and driving options since community uses both modes significantly. 3. Moderate improvements in transit service valuable but not at high cost. 4. Avoid high sales tax due to impact on essential purchases. 5. Some driving fees acceptable if they significantly improve transit times. Selected policies balance these factors while keeping total costs manageable for low-income residents."
+  },
+  "vote": [
+    0,
+    9,
+    1,
+    3,
+    10
+  ]
+}

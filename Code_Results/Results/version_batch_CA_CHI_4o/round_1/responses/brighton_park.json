@@ -1,0 +1,16 @@
+{
+  "community_area": "Brighton Park",
+  "thinking": {
+    "disposable_income": "Brighton Park is a working-class neighborhood with a median household income below the city average. Many residents have limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "Residents in Brighton Park prioritize essential spending on housing, food, and transportation. Discretionary spending is limited, so policies that increase costs significantly could strain household budgets.",
+    "accessibility": "Brighton Park has moderate access to public transit, with several bus routes and a nearby CTA Orange Line station. However, transit times are relatively long, and many residents rely on driving for faster commutes.",
+    "decision_rationale": "Given the limited disposable income and the need for affordable transportation, policies with lower fares and taxes are prioritized. However, reducing travel time is also important to improve accessibility and quality of life. Balancing these factors, the top-ranked policies aim to minimize costs while improving transit efficiency. A moderate increase in driver fees is acceptable if it significantly reduces travel time, as it may encourage a shift to transit, reducing congestion and emissions."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

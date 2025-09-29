@@ -1,0 +1,2 @@
+Model: claude-3-5-sonnet-20241022
+Temperature: 0

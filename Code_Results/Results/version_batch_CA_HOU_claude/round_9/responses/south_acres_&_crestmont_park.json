@@ -1,0 +1,16 @@
+{
+  "community_area": "South Acres / Crestmont Park",
+  "thinking": {
+    "disposable_income": "South Acres/Crestmont Park is a lower-middle income community with median household income around $35,000-40,000, indicating limited disposable income for transportation costs.",
+    "discretionary_consumption": "Residents have relatively low discretionary spending power, making them particularly sensitive to additional taxes and transportation costs.",
+    "accessibility": "The neighborhood has moderate transit access with some bus routes but many residents rely on personal vehicles, with average commute times being higher than city average.",
+    "decision_rationale": "1) Prioritized lower transit fares ($0.75) to help transit-dependent residents 2) Favored lower sales tax rates (0.5-1.0%) to minimize impact on limited discretionary income 3) Considered moderate driving fees ($0.50) to improve transit service while not overly burdening drivers 4) Balanced travel time improvements with cost impacts 5) Selected proposals that provide best accessibility improvements while minimizing financial burden on low-income residents"
+  },
+  "vote": [
+    0,
+    7,
+    2,
+    6,
+    10
+  ]
+}

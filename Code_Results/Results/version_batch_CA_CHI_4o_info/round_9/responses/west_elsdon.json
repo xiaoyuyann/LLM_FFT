@@ -1,0 +1,16 @@
+{
+  "community_area": "West Elsdon",
+  "thinking": {
+    "disposable_income": "West Elsdon has a median household income of $64,441 and a per capita income of $27,703. A significant portion of the population earns between $25,000 and $74,999, indicating moderate disposable income levels.",
+    "discretionary_consumption": "With 40.5% of households earning less than $50,000, there is a need to balance transportation costs with other essential expenses. The community may be sensitive to increases in transit fares and taxes.",
+    "accessibility": "59.6% of residents drive alone, while 12.9% use transit. The community has a mean commute time of 36.3 minutes, indicating a reliance on both driving and transit. Improving transit times could benefit a significant portion of the population.",
+    "decision_rationale": "Given the moderate income levels and reliance on both driving and transit, the community would benefit from policies that improve transit times without significantly increasing costs. Lower fares and moderate taxes are preferred to maintain affordability. Driver fees can be used to encourage a shift to transit, reducing congestion and emissions. The selected policies aim to balance improved transit service with affordability."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

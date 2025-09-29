@@ -1,0 +1,16 @@
+{
+  "community_area": "Mount Greenwood",
+  "thinking": {
+    "disposable_income": "Mount Greenwood is a middle to upper-middle class area with median household income around $87,000. Many residents are police officers, firefighters, and other city workers with stable incomes. The area has one of the highest rates of homeownership in Chicago.",
+    "discretionary_consumption": "Residents have moderate to high discretionary spending power. Most households own cars and have significant retail spending. The community can generally absorb moderate increases in transportation costs without severe impacts on other spending.",
+    "accessibility": "The area is car-dependent with limited public transit access. Most residents rely on personal vehicles for commuting and daily trips. The Metra Rock Island line serves the area but with limited frequency. Bus service is available but not extensive. The community is relatively far from downtown Chicago.",
+    "decision_rationale": "1. Given high car dependency, avoid highest driving fees to prevent excessive burden on residents. 2. Moderate tax increase acceptable to improve transit service while balancing impact on retail spending. 3. Higher transit fares acceptable since most residents drive. 4. Prioritize policies that reduce car travel times given dominance of driving. 5. Selected policies balance maintaining reasonable driving costs while funding transit improvements through moderate tax increases and fees."
+  },
+  "vote": [
+    13,
+    4,
+    22,
+    16,
+    7
+  ]
+}

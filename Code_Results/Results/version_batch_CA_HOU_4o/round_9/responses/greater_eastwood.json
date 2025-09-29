@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Eastwood",
+  "thinking": {
+    "disposable_income": "Greater Eastwood has a moderate disposable income, with a mix of middle-income and lower-income households.",
+    "discretionary_consumption": "Residents in Greater Eastwood have limited discretionary spending, prioritizing essential goods and services.",
+    "accessibility": "The neighborhood has moderate access to public transit, with some reliance on personal vehicles for commuting and accessing services.",
+    "decision_rationale": "Given the moderate disposable income and limited discretionary spending, it is important to minimize additional financial burdens on residents. Lower transit fares and moderate driver fees are preferred to encourage public transit use while not overly penalizing drivers. A moderate sales tax is acceptable if it significantly improves transit services, as this can enhance accessibility and reduce travel times. The selected policies aim to balance cost savings for residents with improved transit efficiency and accessibility."
+  },
+  "vote": [
+    7,
+    10,
+    13,
+    19,
+    22
+  ]
+}

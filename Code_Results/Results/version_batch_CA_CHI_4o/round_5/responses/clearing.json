@@ -1,0 +1,16 @@
+{
+  "community_area": "Clearing",
+  "thinking": {
+    "disposable_income": "Clearing is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, but they can absorb moderate increases if they lead to significant improvements in service.",
+    "discretionary_consumption": "The community has a balanced discretionary consumption pattern, with spending on housing, food, and transportation being significant. Any increase in transportation costs should be justified by tangible benefits in service or time savings.",
+    "accessibility": "Clearing has moderate accessibility to resources and services. Public transit options are available but not as efficient as driving. Improvements in transit times could encourage more residents to use public transportation.",
+    "decision_rationale": "Given the community's characteristics, the focus is on balancing cost with improvements in transit time and service. Lower fares and moderate driver fees are preferred to encourage transit use while maintaining affordability. A moderate sales tax is acceptable if it leads to better transit services. The top-ranked proposals prioritize reducing transit times and maintaining or slightly increasing costs to improve service quality. Proposals with high driver fees are less favorable due to the community's reliance on cars."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "West Town",
+  "thinking": {
+    "disposable_income": "West Town is a relatively affluent area with median household income around $95,000, higher than Chicago average. Residents have significant disposable income and can generally afford higher transportation costs",
+    "discretionary_consumption": "Area has high discretionary spending on dining, entertainment, and retail. Many residents work in professional sectors and value time savings. Higher sales tax would impact substantial discretionary spending",
+    "accessibility": "Well-served by CTA Blue Line, multiple bus routes, and major arterial roads. 60% of residents commute by transit/walking/biking, 40% drive. Good mix of transportation options makes residents sensitive to both transit and driving improvements",
+    "decision_rationale": "1. Prioritize policies that improve both transit and driving times given mixed-mode usage. 2. Community can absorb moderate fare/fee increases if they yield better service. 3. Prefer moderate sales tax (1%) as area has high discretionary spending. 4. Value significant time savings over small cost savings given high incomes. 5. Selected policies 14, 23, 11, 20, 13 as they offer best balance of improved travel times across modes while keeping costs reasonable"
+  },
+  "vote": [
+    14,
+    23,
+    11,
+    20,
+    13
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Hegewisch",
+  "thinking": {
+    "disposable_income": "Hegewisch has a median income of $58,647, with 45.6% households earning less than $50,000. The community has moderate disposable income, making residents sensitive to cost increases in transportation and sales tax",
+    "discretionary_consumption": "Given the income distribution and household sizes, most families have limited discretionary spending. Higher sales taxes would significantly impact household budgets, especially for the 27.6% earning less than $25,000",
+    "accessibility": "The area heavily relies on cars (65.2% drive alone) with limited transit usage (10.8%). High car ownership (87.4% have at least one vehicle) suggests car-dependent infrastructure and lifestyle. Transit times are significantly longer than driving times",
+    "decision_rationale": "1. Prioritize lower sales tax (0.5%) to protect discretionary spending. 2. Given high car dependency, avoid highest driving fees. 3. Balance transit improvement with cost burden - moderate fare increases acceptable if they significantly improve transit times. 4. Consider proposals that reduce driving times without excessive cost increases. 5. Focus on proposals that maintain affordability while improving service"
+  },
+  "vote": [
+    4,
+    1,
+    3,
+    0,
+    7
+  ]
+}

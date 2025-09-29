@@ -1,0 +1,16 @@
+{
+  "community_area": "Gulfton",
+  "thinking": {
+    "disposable_income": "Gulfton residents have relatively low disposable income with a median household income around $31,000, significantly below Houston's average, and about 35% of residents live below the poverty line.",
+    "discretionary_consumption": "With high poverty rates and large immigrant population, residents have very limited discretionary spending capacity and are highly sensitive to additional transportation costs and sales taxes.",
+    "accessibility": "Gulfton is heavily transit-dependent with lower car ownership rates than city average, has high population density, and relies significantly on METRO bus services for access to jobs and services.",
+    "decision_rationale": "1) Prioritized proposals with lowest transit fares ($0.75) to maintain affordability for transit-dependent residents 2) Favored lower sales tax rates (0.5-1.0%) to minimize impact on limited discretionary spending 3) Accepted moderate driving fees to improve transit service without overly burdening car-owning residents 4) Selected options that provide good balance of reduced transit travel times while keeping costs manageable 5) Considered that many residents make multiple transit trips per day, making fare levels particularly important"
+  },
+  "vote": [
+    1,
+    0,
+    8,
+    7,
+    17
+  ]
+}

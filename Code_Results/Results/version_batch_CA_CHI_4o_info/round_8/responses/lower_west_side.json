@@ -1,0 +1,16 @@
+{
+  "community_area": "Lower West Side",
+  "thinking": {
+    "disposable_income": "The median income in the Lower West Side is $69,810, with a per capita income of $36,151. A significant portion of the population earns less than $50,000, indicating a need to consider affordability in transportation costs.",
+    "discretionary_consumption": "With a diverse income distribution, a substantial portion of the community may be sensitive to increases in transportation costs, which could impact their ability to spend on other necessities and discretionary items.",
+    "accessibility": "The community has a high reliance on transit (24.5%) and a significant portion of households without vehicles (23.8%). This suggests that maintaining affordable and efficient transit options is crucial for accessibility to jobs and services.",
+    "decision_rationale": "Given the community's reliance on transit and the need for affordability, proposals with lower transit fares and moderate sales taxes are prioritized. The goal is to balance improved transit services with minimal financial burden. Proposals with higher driver fees are considered to encourage a shift from driving to transit, potentially reducing congestion and emissions. The selected proposals aim to enhance transit efficiency while keeping costs manageable for residents."
+  },
+  "vote": [
+    11,
+    10,
+    13,
+    14,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Grand Boulevard",
+  "thinking": {
+    "disposable_income": "Grand Boulevard has a lower median household income around $27,000, with about 39% of residents living below poverty level. This indicates limited disposable income and high sensitivity to cost increases.",
+    "discretionary_consumption": "Given the low income levels, discretionary spending is very limited. Residents need to prioritize essential expenses like housing, food, and transportation. Higher taxes or fees would significantly impact already constrained budgets.",
+    "accessibility": "The area has good access to CTA bus/rail services and 47% of households don't own vehicles. Transit dependency is high. Average commute times are longer than city average, with many residents relying on public transportation for work and essential trips.",
+    "decision_rationale": "1. Given high transit dependency and low incomes, prioritized proposals with lower fares and taxes to maintain affordability. 2. Selected options that improve transit service times to benefit the large transit-riding population. 3. Moderate driving fees are acceptable as they improve transit performance while fewer residents drive. 4. Balanced need for transit funding with community's limited ability to pay higher taxes. 5. Focused on proposals that reduce transit travel times below 55 minutes while keeping fares affordable."
+  },
+  "vote": [
+    0,
+    9,
+    1,
+    10,
+    3
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "West Town",
+  "thinking": {
+    "disposable_income": "West Town is a diverse community with a mix of income levels, but generally has a higher median income compared to other areas in Chicago. Residents have a moderate to high level of disposable income.",
+    "discretionary_consumption": "Residents in West Town tend to have a higher level of discretionary spending, with a focus on dining, entertainment, and retail. The community values quality of life and convenience.",
+    "accessibility": "West Town has good access to public transportation, including buses and the 'L' train, making it relatively easy for residents to commute without a car. However, traffic congestion can be an issue for drivers.",
+    "decision_rationale": "Given the higher disposable income and discretionary spending, West Town residents may be more willing to accept slightly higher costs for improved transit services. The community values reduced travel times and better transit options. Therefore, proposals that balance lower transit fares with moderate taxes and driving fees, while improving travel times, are prioritized. The goal is to enhance public transit efficiency and reduce congestion, benefiting both transit users and drivers."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

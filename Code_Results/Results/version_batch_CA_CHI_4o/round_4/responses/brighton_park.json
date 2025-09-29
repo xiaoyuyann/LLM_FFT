@@ -1,0 +1,16 @@
+{
+  "community_area": "Brighton Park",
+  "thinking": {
+    "disposable_income": "Brighton Park is a working-class neighborhood with a moderate to low average household income. Many residents rely on public transportation for commuting, and any increase in transportation costs could significantly impact their disposable income.",
+    "discretionary_consumption": "Given the moderate to low income levels, discretionary spending is limited. Residents prioritize essential expenses such as housing, food, and utilities, leaving little room for additional costs from increased transportation fares or fees.",
+    "accessibility": "Brighton Park has decent access to public transportation, with several bus routes and nearby train stations. However, travel times can be long, and improvements in transit efficiency would be beneficial. Car ownership is lower than in more affluent areas, making public transit improvements a priority.",
+    "decision_rationale": "The decision-making process focuses on minimizing costs for residents while improving transit efficiency. Lower fares and taxes are preferred to maintain affordability. However, some increase in driver fees is acceptable if it leads to significant reductions in travel time and congestion, benefiting transit users. The goal is to balance affordability with improved service, prioritizing policies that offer the best trade-off between cost and travel time improvements."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

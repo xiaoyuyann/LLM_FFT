@@ -1,0 +1,16 @@
+{
+  "community_area": "Westwood",
+  "thinking": {
+    "disposable_income": "Westwood has a relatively low median household income around $35,000, with approximately 30% of residents living below the poverty line, indicating limited disposable income for transportation costs.",
+    "discretionary_consumption": "Given the low income levels, residents have minimal discretionary spending capacity and are highly sensitive to additional taxes and transportation costs.",
+    "accessibility": "The area has moderate transit access with some bus routes but many residents rely on personal vehicles, with average commute times being significant factors in their daily lives.",
+    "decision_rationale": "1. Prioritized policies with lower transit fares ($0.75) to help low-income transit users. 2. Favored lower sales tax rates (0.5-1.0%) to minimize impact on limited discretionary spending. 3. Considered moderate driving fees ($0.50) as compromise between revenue needs and cost burden. 4. Weighted travel time improvements against increased costs. 5. Selected policies that balance accessibility improvements with affordability for both transit and car users."
+  },
+  "vote": [
+    7,
+    0,
+    6,
+    2,
+    10
+  ]
+}

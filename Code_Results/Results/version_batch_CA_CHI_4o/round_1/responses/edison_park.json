@@ -1,0 +1,16 @@
+{
+  "community_area": "Edison Park",
+  "thinking": {
+    "disposable_income": "Edison Park is a relatively affluent community with a higher median household income compared to the city average. Residents have more disposable income, which allows for some flexibility in absorbing additional costs from transportation policies.",
+    "discretionary_consumption": "The community has a moderate level of discretionary consumption, with spending on dining, entertainment, and other non-essential goods and services. Residents may be sensitive to changes in disposable income that affect their lifestyle.",
+    "accessibility": "Edison Park has good access to public transportation, including Metra and CTA services, but many residents also rely on personal vehicles for commuting. The community values efficient and reliable transit options to maintain accessibility to the broader Chicago area.",
+    "decision_rationale": "Given the higher disposable income, Edison Park can absorb moderate increases in transit fares and driver fees if they lead to significant improvements in transit service and reduced travel times. A lower sales tax is preferred to minimize the impact on discretionary spending. The community prioritizes policies that reduce travel time for both transit and driving, as this enhances overall accessibility and quality of life. Therefore, proposals with a balance of moderate fare and fee increases, coupled with reduced travel times, are favored."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

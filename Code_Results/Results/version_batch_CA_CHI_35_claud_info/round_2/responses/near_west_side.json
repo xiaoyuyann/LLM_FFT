@@ -1,0 +1,16 @@
+{
+  "community_area": "Near West Side",
+  "thinking": {
+    "disposable_income": "The Near West Side has relatively high income levels with median household income of $106,955 and 52.9% of households making over $100,000. However, there's income diversity with 17.9% making under $25,000, suggesting need to consider impacts across income levels.",
+    "discretionary_consumption": "With high per capita income ($72,602), many residents have significant discretionary spending power. Higher sales taxes would impact this, but many could absorb increased transportation costs. Lower-income residents would be more sensitive to cost increases.",
+    "accessibility": "The area has diverse transportation usage: 34.3% have no vehicle, 18.1% use transit, and 24.1% walk/bike. Good transit access is important. Current car commute share is 33.9% (drive alone + carpool). The mixed transportation needs suggest balancing transit improvement with reasonable driving costs.",
+    "decision_rationale": "1. Prioritize proposals that improve transit times while keeping fares moderate, given significant transit reliance. 2. Consider moderate driving fees to fund transit without overly burdening drivers. 3. Prefer lower sales tax rates since they affect all consumption. 4. Balance time savings with cost impacts across income levels. 5. Support proposals that maintain multimodal accessibility given diverse travel patterns."
+  },
+  "vote": [
+    23,
+    14,
+    20,
+    11,
+    4
+  ]
+}

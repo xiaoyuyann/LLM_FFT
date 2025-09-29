@@ -1,0 +1,16 @@
+{
+  "community_area": "South Main",
+  "thinking": {
+    "disposable_income": "South Main has a moderate disposable income level, with residents having some flexibility in their spending but still sensitive to significant increases in costs.",
+    "discretionary_consumption": "Residents in South Main allocate a fair portion of their income to discretionary spending, including dining, entertainment, and retail, which could be impacted by higher taxes or fees.",
+    "accessibility": "South Main has decent access to public transit and road networks, but improvements in transit times could significantly enhance accessibility for residents who rely on public transportation.",
+    "decision_rationale": "Given the moderate disposable income and discretionary consumption patterns, South Main residents would benefit from policies that balance cost with improved transit services. Lower fares and moderate driver fees are preferred to encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it results in noticeable improvements in transit times. Therefore, proposals with lower fares and moderate driver fees, which also reduce travel times, are prioritized."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

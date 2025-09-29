@@ -1,0 +1,16 @@
+{
+  "community_area": "Near South Side",
+  "thinking": {
+    "disposable_income": "The Near South Side is a diverse community with a mix of income levels, but generally has a higher average income compared to other areas in Chicago. This suggests a moderate to high level of disposable income.",
+    "discretionary_consumption": "Residents in the Near South Side likely have a moderate to high level of discretionary consumption, with spending on dining, entertainment, and other services being common due to the area's proximity to downtown Chicago.",
+    "accessibility": "The Near South Side has good accessibility to public transit, with several CTA train lines and bus routes serving the area. Driving is also a viable option, but congestion can be an issue during peak hours.",
+    "decision_rationale": "Given the higher disposable income and discretionary consumption, the community can afford a slightly higher sales tax and transit fare if it results in significantly improved transit services and reduced travel times. The focus is on balancing cost with improved accessibility and reduced congestion. Proposals with a moderate sales tax and fare, combined with a driver fee, are preferred to encourage transit use and reduce congestion. The top-ranked proposals are those that offer the best trade-off between cost and improved travel times for both transit and driving."
+  },
+  "vote": [
+    13,
+    14,
+    10,
+    19,
+    22
+  ]
+}

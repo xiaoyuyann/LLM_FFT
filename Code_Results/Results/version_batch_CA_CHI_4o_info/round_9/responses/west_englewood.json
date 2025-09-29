@@ -1,0 +1,16 @@
+{
+  "community_area": "West Englewood",
+  "thinking": {
+    "disposable_income": "West Englewood has a median income of $29,234 and a per capita income of $19,453, with a significant portion of the population earning less than $25,000. This indicates limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With 42.1% of households earning less than $25,000, discretionary spending is likely constrained. Policies that minimize additional financial burdens, such as lower fares and taxes, are preferable to maintain essential consumption levels.",
+    "accessibility": "25.9% of residents use transit, and 32.7% have no vehicle, highlighting the importance of affordable and efficient public transportation. Reducing transit times and costs can significantly enhance accessibility to jobs and services.",
+    "decision_rationale": "Given the community's low income levels and reliance on public transit, policies that reduce transit fares and improve service efficiency are prioritized. A balance between affordable transit fares and reasonable sales tax is crucial to support transit improvements without overburdening residents financially. Driver fees are considered to encourage a shift to public transit, reducing congestion and emissions, but must be balanced with the community's economic constraints."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

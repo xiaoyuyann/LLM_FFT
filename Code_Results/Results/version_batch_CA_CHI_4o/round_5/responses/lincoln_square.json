@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Square",
+  "thinking": {
+    "disposable_income": "Lincoln Square is a middle-income community with a mix of families and young professionals. The disposable income is moderate, allowing for some flexibility in spending but with a need to manage costs effectively.",
+    "discretionary_consumption": "Residents in Lincoln Square enjoy dining, shopping, and cultural activities. They value affordability in transportation to maintain their lifestyle without significant financial strain.",
+    "accessibility": "Lincoln Square has good access to public transit, including buses and the Brown Line, making transit a viable option for many residents. However, some residents still rely on cars for convenience and flexibility.",
+    "decision_rationale": "Given the moderate disposable income and the community's reliance on both transit and driving, the focus is on balancing costs with improved transit services. Lower fares and moderate driver fees are preferred to encourage transit use while maintaining affordability. A moderate sales tax is acceptable if it significantly improves transit services. The goal is to reduce travel times and costs without imposing a heavy financial burden on residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

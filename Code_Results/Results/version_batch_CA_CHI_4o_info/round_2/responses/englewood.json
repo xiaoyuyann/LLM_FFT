@@ -1,0 +1,16 @@
+{
+  "community_area": "Englewood",
+  "thinking": {
+    "disposable_income": "Englewood has a low median income of $27,792 and a per capita income of $17,897. A significant portion of the population earns less than $25,000, indicating limited disposable income.",
+    "discretionary_consumption": "With a high percentage of households earning below $25,000, discretionary spending is likely constrained. Any increase in transportation costs could significantly impact the ability to spend on other necessities.",
+    "accessibility": "A large portion of the population relies on public transit (25.2%) and a significant number have no vehicle (44.6%). Improving transit accessibility and affordability is crucial for this community.",
+    "decision_rationale": "Given the low income levels, minimizing costs for transit users is a priority. Proposals with lower fares and moderate taxes are preferred to ensure affordability. Additionally, reducing travel time for transit users is important to improve accessibility. Proposals with higher driver fees are acceptable if they lead to better transit services, as a large portion of the community relies on public transit. Balancing these factors, the selected proposals aim to minimize costs while improving transit efficiency and accessibility."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

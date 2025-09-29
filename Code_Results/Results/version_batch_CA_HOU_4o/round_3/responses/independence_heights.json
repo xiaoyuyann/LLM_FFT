@@ -1,0 +1,16 @@
+{
+  "community_area": "Independence Heights",
+  "thinking": {
+    "disposable_income": "Independence Heights has a moderate to low disposable income, with many residents working in service and blue-collar jobs.",
+    "discretionary_consumption": "The community has limited discretionary consumption, with a significant portion of income spent on essentials like housing, food, and transportation.",
+    "accessibility": "Public transit is crucial for many residents, but current transit times are long, and car ownership is not universal, making accessibility to jobs and services challenging.",
+    "decision_rationale": "Given the moderate to low disposable income, policies with lower fares and taxes are preferred to minimize financial strain. Improving transit times is crucial for accessibility, so options that reduce transit time significantly are prioritized. A balance between fare, tax, and driving fees is necessary to ensure affordability while enhancing transit services. Policies with a moderate tax and fare, but with a driving fee to encourage transit use and reduce congestion, are favored."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

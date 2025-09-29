@@ -1,0 +1,16 @@
+{
+  "community_area": "Jefferson Park",
+  "thinking": {
+    "disposable_income": "Jefferson Park is a middle-income community with a mix of working-class and middle-class residents. The disposable income is moderate, allowing for some discretionary spending but with sensitivity to increases in living costs.",
+    "discretionary_consumption": "Residents in Jefferson Park have moderate discretionary consumption, with spending on housing, food, and transportation being significant. Any increase in transportation costs could impact their ability to spend on other goods and services.",
+    "accessibility": "Jefferson Park has good access to public transportation, including the CTA Blue Line and several bus routes. Car ownership is also common, and many residents commute by car. Accessibility to resources and services is relatively high, but improvements in transit could further enhance this.",
+    "decision_rationale": "Given the moderate disposable income and discretionary consumption, policies that minimize additional costs while improving transit times are preferred. A lower transit fare and moderate driver fees are favorable to encourage transit use and reduce congestion. A moderate sales tax is acceptable if it significantly improves transit services. The focus is on balancing cost with improved accessibility and reduced travel times."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

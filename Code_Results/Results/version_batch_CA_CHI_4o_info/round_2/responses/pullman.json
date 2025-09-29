@@ -1,0 +1,16 @@
+{
+  "community_area": "Pullman",
+  "thinking": {
+    "disposable_income": "The median income in Pullman is $54,755, with a significant portion of the population earning less than $50,000. This suggests that disposable income is limited for many residents, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With a per capita income of $32,327, residents may prioritize essential spending over discretionary consumption. Policies that minimize additional financial burdens, such as lower fares and taxes, would be preferable.",
+    "accessibility": "64% of residents drive alone, while 17.6% use transit. Improving transit times and affordability could benefit a significant portion of the community, especially those without vehicles (16.1%).",
+    "decision_rationale": "Given the community's income distribution and reliance on both driving and transit, policies that balance lower costs with improved transit times are prioritized. Lower fares and moderate taxes are preferred to minimize financial strain while enhancing transit accessibility. The top-ranked proposals reflect a balance between affordability and improved service, considering the community's limited disposable income and the need for efficient transportation options."
+  },
+  "vote": [
+    10,
+    11,
+    13,
+    19,
+    22
+  ]
+}

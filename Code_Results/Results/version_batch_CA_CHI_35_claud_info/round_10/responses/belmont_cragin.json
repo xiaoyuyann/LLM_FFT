@@ -1,0 +1,16 @@
+{
+  "community_area": "Belmont Cragin",
+  "thinking": {
+    "disposable_income": "Moderate to low-income community with 42.9% households earning under $50,000. This suggests high sensitivity to cost increases from taxes, fares, and fees",
+    "discretionary_consumption": "Limited discretionary spending capacity for many residents. Higher taxes or transportation costs would significantly impact household budgets, especially for the 18.2% earning under $25,000",
+    "accessibility": "84.3% of households have at least one vehicle, with high car dependency (71% drive alone or carpool). 15.3% use transit, suggesting need for both car and transit improvements. 15.7% no-vehicle households rely completely on transit",
+    "decision_rationale": "1. Prioritize low tax burden (0.5%) due to income constraints. 2. Balance between transit improvement and driving costs since majority drives but significant transit usage exists. 3. Moderate driving fees ($0.50) to fund transit without excessive burden. 4. Lower transit fares ($0.75-$1.25) to help transit-dependent population. 5. Focus on proposals that reduce both transit and driving times without extreme cost increases"
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    7
+  ]
+}

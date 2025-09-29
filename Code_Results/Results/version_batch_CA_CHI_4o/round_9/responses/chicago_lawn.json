@@ -1,0 +1,16 @@
+{
+  "community_area": "Chicago Lawn",
+  "thinking": {
+    "disposable_income": "Chicago Lawn has a median household income lower than the city average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, leaving less room for discretionary consumption.",
+    "accessibility": "Public transit is crucial for Chicago Lawn residents, as many rely on it for commuting to work and accessing services. Car ownership is lower than in more affluent areas.",
+    "decision_rationale": "Given the limited disposable income, lower transit fares and driver fees are prioritized to minimize financial burden. A moderate sales tax is acceptable if it significantly improves transit services, as many residents depend on public transportation. Reducing travel time is also important to improve accessibility and quality of life. Therefore, proposals with lower fares and fees, and moderate taxes that offer reduced travel times, are preferred."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

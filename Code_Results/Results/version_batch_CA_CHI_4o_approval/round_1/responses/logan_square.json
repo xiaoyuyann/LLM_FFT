@@ -1,0 +1,16 @@
+{
+  "community_area": "Logan Square",
+  "thinking": {
+    "disposable_income": "Logan Square is a diverse community with a mix of income levels. While there are affluent areas, there are also parts of the community with lower income levels. The community has a significant number of young professionals and families, which suggests a moderate level of disposable income overall.",
+    "discretionary_consumption": "Residents in Logan Square tend to spend on dining, entertainment, and cultural activities, reflecting a vibrant local culture. However, affordability is a concern for many, especially with rising living costs.",
+    "accessibility": "Logan Square has good access to public transit, including the Blue Line, which is a major asset for commuting to downtown Chicago. However, traffic congestion can be an issue, and parking is often limited. Many residents rely on a mix of public transit and driving.",
+    "decision_rationale": "Given the moderate disposable income and the importance of affordable transit options, policies with lower transit fares are preferred. A moderate sales tax is acceptable if it significantly improves transit services, as many residents rely on public transportation. Driver fees are less favorable due to the mixed reliance on cars, but a small fee could be acceptable if it leads to reduced congestion and better transit. Therefore, policies with a balance of lower fares, moderate taxes, and minimal driver fees are prioritized."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

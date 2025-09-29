@@ -1,0 +1,16 @@
+{
+  "community_area": "Lower West Side",
+  "thinking": {
+    "disposable_income": "The Lower West Side community area has a moderate to low average disposable income, which means residents are sensitive to increases in costs related to transportation, such as fares and fees.",
+    "discretionary_consumption": "Given the moderate to low disposable income, discretionary consumption is limited. Residents prioritize essential spending, so any increase in transportation costs could significantly impact their budget for other necessities.",
+    "accessibility": "The Lower West Side has decent access to public transit, but improvements in transit times and reliability could benefit the community. Many residents rely on public transit, so policies that improve transit service without significantly increasing costs are preferred.",
+    "decision_rationale": "Considering the community's moderate to low disposable income and reliance on public transit, policies with lower fares and moderate taxes are prioritized. A slight increase in driver fees is acceptable if it leads to better transit services and reduced congestion. The goal is to balance affordability with improved transit service, ensuring that residents can access essential services without a significant financial burden."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

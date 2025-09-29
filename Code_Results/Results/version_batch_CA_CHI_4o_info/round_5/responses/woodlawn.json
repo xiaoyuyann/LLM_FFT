@@ -1,0 +1,16 @@
+{
+  "community_area": "Woodlawn",
+  "thinking": {
+    "disposable_income": "The median income in Woodlawn is $29,969, with a significant portion of the population earning less than $25,000. This indicates limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With 44.5% of households earning less than $25,000, discretionary spending is likely constrained. Policies that minimize additional financial burdens are preferred to maintain essential consumption.",
+    "accessibility": "38.1% of households do not own a vehicle, and 24.3% of residents use transit. Improving transit accessibility and affordability is crucial for this community, as a significant portion relies on public transportation.",
+    "decision_rationale": "Given the limited disposable income and high reliance on public transit, policies with lower transit fares and moderate driver fees are prioritized. A lower sales tax is also preferred to minimize the impact on discretionary spending. The goal is to enhance transit accessibility while keeping costs manageable for residents. Policies that reduce travel time for both transit and driving are also considered to improve overall accessibility and quality of life."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Portage Park",
+  "thinking": {
+    "disposable_income": "Portage Park has a median household income of $85,473, with about 30.8% of households earning less than $50,000. The community has moderate disposable income, suggesting sensitivity to both transit fares and driving costs.",
+    "discretionary_consumption": "With per capita income of $38,488, residents have moderate discretionary spending power. Higher sales taxes would impact household budgets, especially for the 30.8% lower-income households. The community needs to balance transportation costs with other essential expenses.",
+    "accessibility": "89.9% of households own at least one vehicle, with 62.9% driving alone to work. Only 14% use transit, suggesting strong car dependency. Mean commute time is 37.1 minutes, indicating significant transportation needs.",
+    "decision_rationale": "1. Given high car ownership and driving rates, policies with moderate driving fees are acceptable if they improve travel times. 2. Lower sales tax preferred due to impact on discretionary spending. 3. Moderate transit fares ($1.25) balance revenue needs with affordability. 4. Prioritize policies that reduce commute times for both drivers and transit users. 5. Consider the large working-class population that needs reliable, affordable transportation options."
+  },
+  "vote": [
+    13,
+    4,
+    14,
+    5,
+    22
+  ]
+}

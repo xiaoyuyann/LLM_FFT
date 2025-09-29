@@ -1,0 +1,16 @@
+{
+  "community_area": "Medical Center",
+  "thinking": {
+    "disposable_income": "The Medical Center neighborhood has a relatively high disposable income due to the presence of healthcare professionals and researchers.",
+    "discretionary_consumption": "Residents in the Medical Center area tend to have higher discretionary spending on healthcare, dining, and cultural activities.",
+    "accessibility": "The area has good accessibility to resources and services, with a strong reliance on both public transit and personal vehicles due to the high density of medical facilities and employment centers.",
+    "decision_rationale": "Given the high disposable income, residents can afford slightly higher transit fares and driver fees if it results in significantly improved transit services and reduced travel times. The focus is on reducing travel time for both transit and driving, as well as maintaining a reasonable cost structure. A moderate sales tax is acceptable if it leads to better transit services, as many residents rely on public transportation. The top-ranked proposals balance these factors by offering reduced travel times and reasonable costs, while also considering the potential for reduced congestion and emissions."
+  },
+  "vote": [
+    1,
+    3,
+    11,
+    17,
+    20
+  ]
+}

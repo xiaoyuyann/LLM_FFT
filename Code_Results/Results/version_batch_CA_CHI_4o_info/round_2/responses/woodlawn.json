@@ -1,0 +1,16 @@
+{
+  "community_area": "Woodlawn",
+  "thinking": {
+    "disposable_income": "Woodlawn has a relatively low median income of $29,969 and a high percentage of households earning less than $25,000. This suggests limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With a significant portion of the population having low income, discretionary spending is likely constrained. Policies that minimize additional financial burdens, such as lower fares and taxes, are preferable.",
+    "accessibility": "A substantial portion of the community relies on transit (24.3%) and a significant number have no vehicle (38.1%). Improving transit accessibility and affordability is crucial for this community.",
+    "decision_rationale": "Given the low income levels and high reliance on public transit, policies that reduce transit fares and maintain low taxes are prioritized. The community would benefit from improved transit services without significant increases in costs. Therefore, proposals with lower fares and moderate taxes, which also reduce travel times, are preferred. The decision balances the need for affordable transit with the potential benefits of reduced congestion and improved service quality."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

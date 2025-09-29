@@ -1,0 +1,16 @@
+{
+  "community_area": "Fairbanks / Northwest Crossing",
+  "thinking": {
+    "disposable_income": "The median household income in Fairbanks/Northwest Crossing is relatively modest at around $45,000, with many working-class families having limited disposable income after essential expenses.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity, with many households being price-sensitive to additional taxes and transportation costs.",
+    "accessibility": "The area has limited public transit access with residents heavily dependent on personal vehicles, though some bus routes connect to major employment centers.",
+    "decision_rationale": "1. Given the car-dependent nature and modest income levels, policies with lower sales tax (0.5%) are preferred to preserve discretionary income. 2. Lower transit fares ($0.75) would encourage transit use while being affordable. 3. A moderate driving fee ($0.50) balances revenue needs with affordability. 4. Policies that significantly reduce transit travel times are valued given current long transit times. 5. Selected policies achieve 15-20% transit time improvements while keeping costs manageable for car-dependent residents."
+  },
+  "vote": [
+    0,
+    2,
+    7,
+    10,
+    16
+  ]
+}

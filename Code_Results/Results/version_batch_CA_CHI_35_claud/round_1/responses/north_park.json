@@ -1,0 +1,16 @@
+{
+  "community_area": "North Park",
+  "thinking": {
+    "disposable_income": "North Park has a median household income of around $65,000, placing it in the middle-upper range for Chicago. Many residents are working professionals and families with moderate disposable income.",
+    "discretionary_consumption": "The community has moderate discretionary spending capacity. Many residents own homes and cars, suggesting they can absorb some additional transportation costs but are still price-sensitive. The area has significant retail and service businesses indicating regular local consumer spending.",
+    "accessibility": "North Park has moderate transit access with bus routes and is somewhat car-dependent. The area is served by CTA buses and is relatively close to the Brown Line terminus, but many residents rely on cars for commuting. The community has good road access but experiences some congestion during peak hours.",
+    "decision_rationale": "1. Prioritize balanced policies that don't overly burden either drivers or transit users given mixed transportation needs. 2. Moderate tax rates preferred since income levels can sustain some increase but shouldn't be excessive. 3. Lower transit fares favored to encourage transit use while maintaining affordability. 4. Some driving fees acceptable to fund improvements and reduce congestion. 5. Selected policies that offer meaningful travel time improvements without extreme cost increases. Ranked proposals that balance these factors while considering the community's mixed-mode transportation needs."
+  },
+  "vote": [
+    13,
+    10,
+    4,
+    19,
+    22
+  ]
+}

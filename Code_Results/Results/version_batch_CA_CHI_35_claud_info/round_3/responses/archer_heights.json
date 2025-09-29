@@ -1,0 +1,16 @@
+{
+  "community_area": "Archer Heights",
+  "thinking": {
+    "disposable_income": "Moderate to low-income community with 46.3% households earning less than $50,000 annually. This suggests sensitivity to cost increases from taxes, fares, and fees",
+    "discretionary_consumption": "Limited discretionary spending capacity for many residents, making them vulnerable to increased transportation costs and sales tax impacts",
+    "accessibility": "High car dependency (78.1% drive alone or carpool), but significant transit usage (13.1%) and no-vehicle households (23.7%). Mixed transportation needs must be balanced",
+    "decision_rationale": "1. Prioritize lower tax rates (0.5-1.0%) to protect disposable income. 2. Moderate transit fares ($1.25) to maintain service quality while keeping transit affordable for the 23.7% car-less households. 3. Support modest driving fees ($0.50) to improve transit service without overly burdening the majority who drive. 4. Balance between travel time improvements and cost impacts, considering the large working-class population. 5. Avoid highest tax/fee combinations that would disproportionately impact lower-income residents"
+  },
+  "vote": [
+    4,
+    13,
+    10,
+    1,
+    3
+  ]
+}

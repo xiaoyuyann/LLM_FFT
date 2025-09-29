@@ -1,0 +1,16 @@
+{
+  "community_area": "Woodlawn",
+  "thinking": {
+    "disposable_income": "Woodlawn has a moderate to low average disposable income, with many residents relying on affordable transportation options.",
+    "discretionary_consumption": "Discretionary spending is limited, so any increase in transportation costs could significantly impact residents' ability to spend on other necessities.",
+    "accessibility": "Woodlawn has access to public transit, but improvements in transit times and reliability could greatly benefit the community. Many residents rely on public transit for commuting and accessing services.",
+    "decision_rationale": "Given the moderate to low disposable income in Woodlawn, policies with lower transit fares and moderate sales taxes are preferred to minimize the financial burden on residents. Improving transit times is also crucial, as many residents depend on public transportation. Therefore, proposals that offer a balance between lower fares, reasonable sales taxes, and improved transit times are prioritized. Driver fees are less of a concern as car ownership is lower, but reducing congestion and emissions is still beneficial. The selected proposals aim to enhance transit accessibility while keeping costs manageable for residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

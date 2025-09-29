@@ -1,0 +1,16 @@
+{
+  "community_area": "Humboldt Park",
+  "thinking": {
+    "disposable_income": "Humboldt Park has a median household income lower than the city average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "Residents in Humboldt Park may prioritize essential spending over discretionary consumption due to lower income levels, making cost-sensitive policies more favorable.",
+    "accessibility": "Humboldt Park has moderate access to public transit, with some reliance on driving. Improving transit times and affordability could significantly benefit residents.",
+    "decision_rationale": "Given the lower disposable income, policies with lower transit fares and moderate sales taxes are prioritized to minimize financial burden. Reducing transit times is also important to improve accessibility. A balance between fare, tax, and driving fees is sought to enhance transit services without overly burdening residents financially. Policies with a $0.75 fare and moderate driving fees are preferred to encourage transit use and reduce congestion, while keeping costs manageable."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    1
+  ]
+}

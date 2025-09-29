@@ -1,0 +1,16 @@
+{
+  "community_area": "West Lawn",
+  "thinking": {
+    "disposable_income": "West Lawn has a median household income of $69,647, with about 37% of households earning less than $50,000. The per capita income of $25,786 suggests moderate disposable income levels, making residents somewhat sensitive to additional transportation costs",
+    "discretionary_consumption": "With a significant portion of households in middle-income brackets and large average household size of 3.4, discretionary spending capacity is moderate. Higher sales taxes would impact household budgets meaningfully",
+    "accessibility": "The community heavily relies on cars with 87.7% of households having at least one vehicle. 63.4% drive alone to work, while only 9.8% use transit. This suggests strong preference for driving despite cost implications",
+    "decision_rationale": "1. Prioritized proposals with lower sales tax (0.5-1.0%) to protect discretionary spending. 2. Given high car dependency, favored moderate driving fees ($0.50) over high fees ($1.00) to avoid excessive burden. 3. Selected proposals with moderate transit fares ($1.25) to balance transit service quality with affordability. 4. Considered travel time improvements for both modes given mixed transportation needs. 5. Aimed to maintain reasonable costs for majority car-using population while improving transit service"
+  },
+  "vote": [
+    4,
+    13,
+    10,
+    1,
+    3
+  ]
+}

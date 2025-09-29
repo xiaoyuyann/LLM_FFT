@@ -1,0 +1,16 @@
+{
+  "community_area": "Hegewisch",
+  "thinking": {
+    "disposable_income": "Hegewisch has a median household income of around $54,000, lower than Chicago's average. Many residents are working-class families with moderate disposable income. The community has a higher percentage of homeowners but faces financial constraints",
+    "discretionary_consumption": "Residents have limited discretionary spending power. Higher sales taxes would significantly impact household budgets. Many families need to carefully balance transportation costs with other essential expenses",
+    "accessibility": "Hegewisch is geographically isolated on Chicago's far southeast side. Limited public transit options with only Metra service and some bus routes. High car dependency due to distance from city center and limited transit connectivity. Many residents commute long distances for work",
+    "decision_rationale": "1. Prioritize lower sales tax (0.5%) due to limited discretionary income. 2. Balance lower transit fares to help transit-dependent residents while maintaining service quality. 3. Support moderate driving fees to improve transit without overly burdening car-dependent commuters. 4. Focus on proposals that reduce transit travel times given long commutes. 5. Consider proposals that maintain reasonable car travel times since many residents rely on driving"
+  },
+  "vote": [
+    2,
+    1,
+    4,
+    5,
+    7
+  ]
+}

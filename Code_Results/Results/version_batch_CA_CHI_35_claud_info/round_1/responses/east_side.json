@@ -1,0 +1,16 @@
+{
+  "community_area": "East Side",
+  "thinking": {
+    "disposable_income": "Median household income is $61,898, with 41.8% households earning less than $50,000. This suggests moderate disposable income levels, making residents sensitive to additional transportation costs and taxes.",
+    "discretionary_consumption": "Given the income distribution and average household size of 3.2, discretionary spending is likely constrained. Higher taxes or transportation costs would significantly impact household budgets.",
+    "accessibility": "High car dependency with 90.5% households having at least one vehicle, 68.4% drive alone to work, only 7.7% use transit. Mean commute time is 36.4 minutes, suggesting significant travel needs.",
+    "decision_rationale": "1. Prioritize proposals with lower sales tax (0.5%) due to limited discretionary income. 2. Favor moderate driving fees ($0.50) over high fees ($1.00) since most residents drive. 3. Support lower transit fares ($0.75-$1.25) to encourage transit use while maintaining affordability. 4. Balance between reducing congestion and keeping costs manageable for driving majority. 5. Consider proposals that improve both driving and transit times without excessive cost burden."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    3
+  ]
+}

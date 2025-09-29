@@ -1,0 +1,16 @@
+{
+  "community_area": "South Main",
+  "thinking": {
+    "disposable_income": "South Main has a moderate level of disposable income, with a mix of middle-income and some lower-income households.",
+    "discretionary_consumption": "Residents in South Main have moderate discretionary spending, with a focus on essential goods and services, and some spending on leisure and non-essential items.",
+    "accessibility": "South Main has decent access to public transit, but many residents rely on driving due to the spread-out nature of resources and services.",
+    "decision_rationale": "Given the moderate disposable income, it's important to balance costs with benefits. Lower transit fares and moderate driver fees can encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it significantly improves transit times. The focus is on reducing travel times and costs for both transit users and drivers, while ensuring that the community can still afford other essential goods and services. Proposals with lower fares and moderate fees are prioritized to encourage transit use and reduce congestion, while keeping the sales tax at a manageable level."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

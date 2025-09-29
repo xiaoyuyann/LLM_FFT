@@ -1,0 +1,16 @@
+{
+  "community_area": "Harrisburg / Manchester",
+  "thinking": {
+    "disposable_income": "Harrisburg / Manchester has a relatively low to moderate disposable income, with many residents working in industrial and service sectors.",
+    "discretionary_consumption": "The community has limited discretionary consumption, with a significant portion of income spent on essentials like housing, food, and transportation.",
+    "accessibility": "The area has moderate accessibility to resources and services, with public transit being a crucial mode of transportation for many residents due to lower car ownership rates.",
+    "decision_rationale": "Given the community's lower disposable income, minimizing costs while improving transit times is crucial. A lower transit fare and moderate driver fee can encourage transit use, reducing congestion and emissions. A moderate sales tax is acceptable if it significantly improves transit services. The selected policies balance affordability with improved transit efficiency, considering the community's reliance on public transportation and limited discretionary spending."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

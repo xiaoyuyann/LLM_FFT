@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Greenspoint",
+  "thinking": {
+    "disposable_income": "Greater Greenspoint has a relatively lower disposable income compared to other Houston neighborhoods, with many residents working in service and retail sectors.",
+    "discretionary_consumption": "Residents in Greater Greenspoint have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "The neighborhood has moderate access to public transit, but many residents rely on personal vehicles due to the spread-out nature of resources and services.",
+    "decision_rationale": "Given the lower disposable income, minimizing costs for both transit and driving is crucial. A lower transit fare and driving fee are prioritized to ensure affordability. The sales tax is considered, but a balance is needed to avoid excessive burden on residents' limited discretionary spending. Improved transit times are beneficial, but not at the expense of significantly higher costs. Therefore, proposals with lower fares and fees, and moderate tax rates, are preferred to maintain affordability while slightly improving transit services."
+  },
+  "vote": [
+    0,
+    7,
+    2,
+    10,
+    1
+  ]
+}

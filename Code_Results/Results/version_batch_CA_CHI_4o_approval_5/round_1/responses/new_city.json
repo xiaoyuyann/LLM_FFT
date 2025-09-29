@@ -1,0 +1,16 @@
+{
+  "community_area": "New City",
+  "thinking": {
+    "disposable_income": "New City is a working-class neighborhood with a moderate to low disposable income. Residents are sensitive to increases in costs, whether through taxes, fares, or fees.",
+    "discretionary_consumption": "Given the moderate to low disposable income, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "New City has moderate access to public transit, but many residents rely on driving due to the need to reach jobs and services not easily accessible by transit. Reducing travel time and costs is crucial for this community.",
+    "decision_rationale": "The decision focuses on minimizing costs while improving transit times. Lower fares and taxes are prioritized to reduce the financial burden on residents. Proposals with moderate driver fees are considered to encourage a shift to transit, potentially reducing congestion and emissions. The selected proposals aim to balance affordability with improved transit service, considering the community's reliance on both driving and public transit."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

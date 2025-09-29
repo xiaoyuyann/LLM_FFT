@@ -1,0 +1,16 @@
+{
+  "community_area": "Chatham",
+  "thinking": {
+    "disposable_income": "Chatham has a moderate level of disposable income, with many residents relying on fixed incomes or moderate wages. This means that any increase in transportation costs could significantly impact their budget.",
+    "discretionary_consumption": "Residents in Chatham have limited discretionary spending, focusing primarily on essential goods and services. Therefore, policies that minimize additional costs are preferred.",
+    "accessibility": "Chatham has decent access to public transit, but improvements in transit times could significantly benefit the community. Many residents rely on public transportation for commuting and accessing services.",
+    "decision_rationale": "Given the moderate disposable income and limited discretionary spending, policies with lower fares and taxes are prioritized to minimize financial burden. However, improving transit times is also crucial, so a balance between cost and service improvement is necessary. Policies with a moderate driver fee are considered to encourage a shift from driving to transit, reducing congestion and emissions. The selected policies aim to provide better transit service without significantly increasing costs for residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Chicago Lawn",
+  "thinking": {
+    "disposable_income": "Chicago Lawn has relatively low income levels with median income of $43,293 and 55.3% of households making less than $50,000. This suggests residents are price-sensitive to transportation costs and taxes.",
+    "discretionary_consumption": "With low per capita income ($20,907) and large household sizes (avg 3.0), discretionary spending is limited. Higher sales taxes would significantly impact household budgets given the high proportion of lower-income residents.",
+    "accessibility": "24.3% of households have no vehicle, while 39.8% have one vehicle. Transit usage (14.9%) is moderate, with driving alone (57.8%) and carpooling (20.6%) being primary modes. This suggests need for both affordable transit and driving options.",
+    "decision_rationale": "1. Prioritized proposals with lower sales tax (0.5%) due to limited disposable income. 2. Favored lower transit fares ($0.75-$1.25) to help car-less households. 3. Moderate driving fees ($0.50) acceptable to improve transit while not overly burdening drivers. 4. Balanced travel time improvements with cost impacts. 5. Selected proposals that reduce both transit and driving times without excessive cost increases."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

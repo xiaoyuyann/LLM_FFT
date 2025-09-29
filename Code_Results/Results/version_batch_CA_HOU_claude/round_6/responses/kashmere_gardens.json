@@ -1,0 +1,16 @@
+{
+  "community_area": "Kashmere Gardens",
+  "thinking": {
+    "disposable_income": "Kashmere Gardens is a low-income neighborhood with a median household income around $27,000, significantly below Houston's average, indicating limited disposable income for transportation costs.",
+    "discretionary_consumption": "With nearly 40% of residents living below poverty level, discretionary spending is very limited and residents are highly sensitive to any additional taxes or fees.",
+    "accessibility": "The neighborhood has moderate transit access with several bus routes but many residents rely on personal vehicles despite the cost burden, with average commute times being higher than city average.",
+    "decision_rationale": "1) Prioritized proposals with lowest combined costs (low tax, fare, and driving fees) given the area's economic constraints 2) Favored options that improve transit times without excessive fare increases since many residents are transit-dependent 3) Considered proposals with moderate driving fees to fund transit improvements while not overly burdening car-dependent residents 4) Balanced the need for transit service funding through taxes with the community's limited ability to pay higher sales tax 5) Selected proposals that offer meaningful travel time improvements while minimizing financial impact on residents"
+  },
+  "vote": [
+    6,
+    0,
+    7,
+    2,
+    15
+  ]
+}

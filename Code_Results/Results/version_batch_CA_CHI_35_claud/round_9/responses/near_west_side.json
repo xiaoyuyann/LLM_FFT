@@ -1,0 +1,16 @@
+{
+  "community_area": "Near West Side",
+  "thinking": {
+    "disposable_income": "Near West Side has a mixed income profile with median household income around $71,000. The area includes both affluent professionals and lower-income residents. Major employers include the Illinois Medical District and University of Illinois Chicago",
+    "discretionary_consumption": "Significant discretionary spending capacity among professional residents, but also contains substantial student population and working-class households with more limited disposable income. Mixed retail and entertainment destinations create varied consumption patterns",
+    "accessibility": "Excellent transit access with Blue/Green/Pink CTA lines, multiple bus routes, and proximity to downtown. High walkability and bikability. Good road network with access to expressways. Mixed transit/driving usage patterns due to diverse population",
+    "decision_rationale": "1. Prioritize balanced policies that maintain transit affordability while improving service quality given mixed-income population. 2. Consider policies with moderate driving fees to reduce congestion while not overly burdening drivers. 3. Favor moderate tax rates to support transit without excessive burden. 4. Selected policies 11, 14, 20, 23, 13 as they offer: a) Reasonable transit fares ($0.75-$1.25) b) Improved transit times (50-53 min) c) Moderate driving fees to manage congestion d) Balanced tax rates (1.0-1.5%) that fund improvements without excessive burden e) Good driving times (17-18 min) benefiting medical district access"
+  },
+  "vote": [
+    11,
+    14,
+    20,
+    23,
+    13
+  ]
+}

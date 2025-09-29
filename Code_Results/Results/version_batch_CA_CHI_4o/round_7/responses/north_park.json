@@ -1,0 +1,16 @@
+{
+  "community_area": "North Park",
+  "thinking": {
+    "disposable_income": "North Park is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, but they can absorb moderate increases if they lead to significant improvements in service.",
+    "discretionary_consumption": "The community has a balanced discretionary consumption pattern, with spending on housing, education, and leisure activities. Residents are likely to prioritize transportation policies that do not significantly impact their ability to spend on these areas.",
+    "accessibility": "North Park has decent access to public transit, but improvements in transit times and reliability would be beneficial. Car ownership is moderate, so policies that improve transit while managing driving costs are important.",
+    "decision_rationale": "Given the community's moderate income and balanced spending, policies that offer improved transit times without significantly increasing costs are preferred. A lower transit fare is attractive, but not at the expense of significantly longer travel times. A moderate sales tax is acceptable if it leads to better transit services. Driver fees are less of a concern if they lead to reduced congestion and better transit options. The selected policies balance these factors, aiming to improve transit accessibility and efficiency while managing costs."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

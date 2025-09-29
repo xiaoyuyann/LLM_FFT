@@ -1,0 +1,16 @@
+{
+  "community_area": "Chicago Lawn",
+  "thinking": {
+    "disposable_income": "Chicago Lawn has a median household income lower than the city average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, leaving less room for discretionary consumption.",
+    "accessibility": "Public transit is crucial for Chicago Lawn residents, as many rely on it for commuting to work and accessing services. Car ownership is lower than in some other areas, making affordable and efficient transit options important.",
+    "decision_rationale": "Given the limited disposable income, lower transit fares and taxes are prioritized to minimize financial burden. However, improving transit efficiency is also important to reduce travel time. Balancing these factors, proposals with lower fares and moderate taxes and fees are preferred. The community benefits from reduced travel times, even if it means slightly higher costs, as long as they remain affordable. The selected proposals aim to enhance transit service while keeping costs manageable for residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

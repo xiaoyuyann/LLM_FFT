@@ -1,0 +1,16 @@
+{
+  "community_area": "South Deering",
+  "thinking": {
+    "disposable_income": "South Deering has relatively low income levels with median income of $34,814 and 38.6% households earning less than $25,000. This suggests residents are particularly sensitive to cost increases from taxes, fares, and fees",
+    "discretionary_consumption": "With low income levels and high percentage of households below poverty line, discretionary spending is likely very limited. Any increase in transportation costs would significantly impact other essential spending",
+    "accessibility": "24% have no vehicle access and 23.7% use transit for commuting, indicating significant transit dependency. However, 57.2% drive alone, suggesting need for balanced policy that doesn't overly burden drivers while improving transit",
+    "decision_rationale": "1. Prioritized proposals with lower taxes and fares given low income levels. 2. Sought balance between transit improvements and driving costs since community uses both modes heavily. 3. Favored proposals that reduce transit travel time without excessive cost burden. 4. Considered that 24% no-vehicle households need affordable transit. 5. Selected proposals that provide meaningful travel time improvements while minimizing financial impact on low-income residents"
+  },
+  "vote": [
+    0,
+    9,
+    3,
+    12,
+    21
+  ]
+}

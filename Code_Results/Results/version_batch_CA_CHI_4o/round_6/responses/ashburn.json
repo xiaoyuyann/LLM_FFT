@@ -1,0 +1,16 @@
+{
+  "community_area": "Ashburn",
+  "thinking": {
+    "disposable_income": "Ashburn is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, as these can impact their overall budget for other essential and discretionary expenses.",
+    "discretionary_consumption": "The community has a balanced level of discretionary consumption, with spending on essentials like housing and food taking precedence. Any increase in transportation costs could reduce the ability to spend on non-essential goods and services.",
+    "accessibility": "Ashburn has moderate accessibility to resources and services. Public transit is a viable option for many residents, but improvements in transit times and reliability could enhance accessibility significantly.",
+    "decision_rationale": "Given the community's moderate income and sensitivity to cost changes, proposals with lower fares and moderate taxes are preferred. Reducing transit times is also a priority to improve accessibility. Therefore, proposals that balance lower fares with reasonable taxes and driving fees, while also reducing travel times, are prioritized. The community is willing to accept a slightly higher tax if it results in significant improvements in transit times and service quality."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

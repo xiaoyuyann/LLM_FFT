@@ -1,0 +1,16 @@
+{
+  "community_area": "Beverly",
+  "thinking": {
+    "disposable_income": "Beverly has a relatively high median income of $131,170 and a per capita income of $64,719. A significant portion of households earn $150,000 and over, indicating a strong financial capacity to absorb moderate increases in transportation costs.",
+    "discretionary_consumption": "With a high income level, residents likely have a substantial amount of discretionary income. However, they may still be sensitive to changes in costs that could impact their lifestyle, such as increased taxes or fees.",
+    "accessibility": "The majority of residents drive alone (62%), with a smaller portion using transit (17%). This suggests that while transit improvements could benefit some, maintaining efficient driving conditions is crucial for the majority.",
+    "decision_rationale": "Given the high car ownership and preference for driving, policies that maintain or improve driving conditions while offering reasonable transit options are prioritized. A balance between tax rates, transit fares, and driving fees is essential to ensure that the community's financial burden is minimized while still supporting transit improvements. Lower transit fares and moderate driving fees are preferred to encourage transit use without significantly impacting drivers. A moderate sales tax is acceptable given the community's income levels, as it supports transit improvements without overly burdening residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

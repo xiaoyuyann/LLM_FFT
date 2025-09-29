@@ -1,0 +1,16 @@
+{
+  "community_area": "Grand Boulevard",
+  "thinking": {
+    "disposable_income": "Grand Boulevard has a lower median household income around $27,916, with about 39% of residents living below poverty level. This indicates limited disposable income for many residents.",
+    "discretionary_consumption": "Given the income levels, discretionary spending is constrained. Many residents need to carefully budget for basic necessities, making them sensitive to additional taxes and transportation costs.",
+    "accessibility": "The area has good access to CTA bus and rail services, with 47th Street Green Line station and multiple bus routes. About 42% of households don't own vehicles and rely heavily on public transit. The community has a high transit dependency.",
+    "decision_rationale": "1. Given high transit dependency and low incomes, prioritize low transit fares to maintain affordability. 2. Support moderate driving fees to improve transit service without overly burdening drivers. 3. Keep sales tax moderate to balance transit funding needs with impact on limited discretionary spending. 4. Favor proposals that reduce transit travel times to improve access to opportunities. 5. Consider proposals that maintain reasonable driving costs for car-owning households while improving overall transportation."
+  },
+  "vote": [
+    11,
+    10,
+    9,
+    1,
+    2
+  ]
+}

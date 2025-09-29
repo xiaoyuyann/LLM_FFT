@@ -1,0 +1,16 @@
+{
+  "community_area": "Austin",
+  "thinking": {
+    "disposable_income": "Austin has a median household income of approximately $33,000, significantly below Chicago's average. About 30% of residents live below poverty level, indicating limited disposable income for many households",
+    "discretionary_consumption": "Given the low median income, residents have limited discretionary spending capacity. Many households spend a large portion of income on essential needs, making them sensitive to additional taxes and transportation costs",
+    "accessibility": "Austin has access to Blue Line L train and several bus routes, but many residents rely on cars. About 65% of households own vehicles. The community faces longer than average commute times, with many residents traveling to jobs outside the area",
+    "decision_rationale": "1. Given low income levels, prioritize proposals with lower transit fares and taxes to maintain affordability. 2. Consider moderate driving fees to improve transit service without overly burdening car-dependent residents. 3. Balance between travel time improvements and cost impacts. 4. Focus on proposals that reduce transit travel times to help both transit users and those who might switch from driving. 5. Selected proposals that offer meaningful travel time improvements while keeping combined costs (fares, taxes, fees) manageable for low-income residents"
+  },
+  "vote": [
+    10,
+    1,
+    19,
+    4,
+    13
+  ]
+}

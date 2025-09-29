@@ -1,0 +1,16 @@
+{
+  "community_area": "Near North Side",
+  "thinking": {
+    "disposable_income": "Near North Side has one of the highest median household incomes in Chicago (over $100,000). Residents generally have high disposable income and can absorb higher transportation costs without significant impact on quality of life",
+    "discretionary_consumption": "Area has high levels of discretionary spending on retail, dining, and entertainment. Residents make frequent trips for shopping and leisure activities. Higher sales tax would have minimal impact given high consumption levels",
+    "accessibility": "Excellent transit access with multiple L lines, bus routes, and walkable streets. High car ownership but also heavy transit usage. Major employment and entertainment destination with significant traffic congestion. Many residents have flexibility to choose between driving and transit",
+    "decision_rationale": "1. Given high incomes, prioritize policies that reduce travel times over cost savings. 2. Support higher driver fees to reduce congestion in this dense area. 3. Moderate transit fares to maintain service quality while keeping transit competitive. 4. Can accept higher sales tax given affluent population. 5. Focus on policies that encourage transit use to reduce local traffic. Selected policies balance travel time improvements with sustainable funding through higher fees/taxes, appropriate for this wealthy, transit-rich area"
+  },
+  "vote": [
+    26,
+    23,
+    20,
+    14,
+    8
+  ]
+}

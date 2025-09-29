@@ -1,0 +1,16 @@
+{
+  "community_area": "Pullman",
+  "thinking": {
+    "disposable_income": "Pullman is a community with a moderate to low average income level. Residents are likely sensitive to increases in costs related to transportation, whether through fares, fees, or taxes.",
+    "discretionary_consumption": "Given the moderate to low income levels, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Pullman has moderate access to public transit, but improvements in transit services could benefit the community by reducing travel times and increasing convenience. However, the community also relies on driving, so any policy that significantly increases driving costs could be burdensome.",
+    "decision_rationale": "The goal is to balance the need for improved transit services with the community's ability to afford increased costs. Lower fares and moderate driver fees could encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it leads to tangible improvements in transit services. Therefore, policies with lower fares and moderate driver fees, combined with a moderate sales tax, are preferred. Policies that significantly increase costs without substantial benefits in travel time reduction are less favorable."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

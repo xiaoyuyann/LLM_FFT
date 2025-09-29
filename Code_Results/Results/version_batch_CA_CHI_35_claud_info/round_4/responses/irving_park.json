@@ -1,0 +1,16 @@
+{
+  "community_area": "Irving Park",
+  "thinking": {
+    "disposable_income": "Irving Park has a median income of $86,849 with 43.1% of households earning over $100,000. However, 28.6% earn less than $50,000, indicating a mix of income levels that need consideration for transportation costs",
+    "discretionary_consumption": "With a per capita income of $48,320, residents have moderate discretionary spending power. Higher sales taxes would impact consumption, especially for the 28.6% lower-income households",
+    "accessibility": "86.1% of households own at least one car, with driving alone (49.6%) being the primary commute mode. Transit usage is significant at 18.5%, suggesting good transit access. 13.9% have no vehicle and rely on alternative transportation",
+    "decision_rationale": "1. Prioritized balanced policies that maintain transit affordability while improving service\n2. Considered the significant car ownership and driving population when evaluating driving fees\n3. Sought policies that reduce transit travel times without excessive cost burden\n4. Balanced the impact of sales tax on discretionary spending\n5. Selected options that benefit both drivers and transit users given the mixed-mode usage"
+  },
+  "vote": [
+    13,
+    4,
+    22,
+    10,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Fuller Park",
+  "thinking": {
+    "disposable_income": "Fuller Park is one of the lower-income areas in Chicago, with a median household income significantly below the city average. Residents have limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Fuller Park has limited access to public transportation options, and many residents rely on driving. Improving transit accessibility and reducing travel times could benefit the community, but affordability remains a key concern.",
+    "decision_rationale": "Considering the economic constraints of Fuller Park, policies with lower transit fares and minimal driver fees are prioritized to ensure affordability. A lower sales tax is also preferred to minimize the impact on residents' limited discretionary spending. However, improving transit times is also important to enhance accessibility. Therefore, the selected policies balance affordability with improved transit services."
+  },
+  "vote": [
+    1,
+    10,
+    4,
+    13,
+    19
+  ]
+}

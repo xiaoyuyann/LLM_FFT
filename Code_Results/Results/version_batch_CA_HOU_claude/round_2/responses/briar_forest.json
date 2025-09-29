@@ -1,0 +1,16 @@
+{
+  "community_area": "Briar Forest",
+  "thinking": {
+    "disposable_income": "Briar Forest has relatively high median household income around $75,000, with many professionals working in the Energy Corridor and Westchase business districts.",
+    "discretionary_consumption": "Residents have significant discretionary spending power and tend to prioritize convenience and quality of life, with high car ownership rates and regular retail/entertainment spending.",
+    "accessibility": "The area is primarily car-dependent with limited transit options, though some bus routes connect to major employment centers, and most residents rely on personal vehicles for daily trips.",
+    "decision_rationale": "1) Given high car dependency and income levels, policies with moderate driving fees are acceptable if they improve transit; 2) Higher sales tax is less impactful due to high disposable income; 3) Lower transit fares could encourage occasional transit use; 4) Need to balance driving efficiency with transit improvements; 5) Selected policies that reduce car travel times while making transit more viable as an alternative."
+  },
+  "vote": [
+    17,
+    20,
+    8,
+    1,
+    11
+  ]
+}

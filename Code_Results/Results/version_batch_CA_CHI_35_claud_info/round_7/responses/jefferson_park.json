@@ -1,0 +1,16 @@
+{
+  "community_area": "Jefferson Park",
+  "thinking": {
+    "disposable_income": "Jefferson Park has a relatively high median household income of $90,740, with 44.1% of households earning over $100,000. This suggests residents have moderate to high disposable income and can absorb some transportation cost increases.",
+    "discretionary_consumption": "With higher incomes and average household size of 2.5, residents likely have significant discretionary spending. However, about 27% earn under $50,000 annually, so fare/fee impacts need consideration for lower-income residents.",
+    "accessibility": "The area has good transportation options with 90.2% of households having at least one vehicle and 13.4% using transit. 61.7% drive alone to work, suggesting strong car dependency despite transit access. The community would benefit from improved transit service while maintaining reasonable driving conditions.",
+    "decision_rationale": "1. Prioritized proposals that balance moderate tax increases with improved transit service times while keeping driving viable, given the high car usage. 2. Favored options with moderate transit fares ($1.25) to maintain accessibility while generating revenue for service improvements. 3. Supported modest driving fees ($0.50) to reduce congestion without overly burdening the majority who drive. 4. Considered the community's ability to absorb higher taxes given the income distribution. 5. Selected proposals that offer significant travel time improvements for both transit and car users."
+  },
+  "vote": [
+    13,
+    22,
+    14,
+    4,
+    23
+  ]
+}

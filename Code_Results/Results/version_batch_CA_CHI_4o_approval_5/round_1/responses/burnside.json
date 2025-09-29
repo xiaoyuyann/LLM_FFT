@@ -1,0 +1,16 @@
+{
+  "community_area": "Burnside",
+  "thinking": {
+    "disposable_income": "Burnside is a lower-income community area, with many residents relying on public transportation due to limited disposable income.",
+    "discretionary_consumption": "Residents have limited discretionary spending, so policies that increase costs significantly could negatively impact their ability to afford essential goods and services.",
+    "accessibility": "Public transportation is crucial for Burnside residents to access jobs, education, and services. Improving transit times and maintaining affordable fares are important for the community.",
+    "decision_rationale": "Given the lower disposable income and reliance on public transit, policies with lower fares and moderate taxes are preferred. A balance between improving transit times and keeping costs low is crucial. Policies with a $0.75 fare and moderate driver fees are prioritized to encourage transit use and reduce congestion, while keeping the sales tax at 1% to ensure adequate funding for transit services without overly burdening residents."
+  },
+  "vote": [
+    1,
+    10,
+    11,
+    19,
+    20
+  ]
+}

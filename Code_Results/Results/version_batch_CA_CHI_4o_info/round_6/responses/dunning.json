@@ -1,0 +1,16 @@
+{
+  "community_area": "Dunning",
+  "thinking": {
+    "disposable_income": "Dunning has a relatively high percentage of households earning $100,000 or more (41.1%), indicating a moderate to high disposable income level. However, there is also a significant portion of the population earning less than $50,000 (29.3%), suggesting income diversity.",
+    "discretionary_consumption": "With a significant portion of the population in higher income brackets, discretionary consumption is likely robust. However, the presence of lower-income households means that affordability of transportation options remains important.",
+    "accessibility": "The majority of residents drive alone (72.1%), indicating a strong reliance on personal vehicles. Only 7.3% use transit, suggesting that current transit options may not be as accessible or convenient. Improving transit could benefit those without vehicles (6.3%) and potentially reduce congestion.",
+    "decision_rationale": "Given the high reliance on driving, policies that reduce driving time and improve transit accessibility are prioritized. Lower transit fares and moderate driver fees are preferred to encourage a shift from driving to transit, which could reduce congestion and emissions. A moderate sales tax is acceptable given the community's income levels, as it supports better transit services without overly burdening lower-income households. The selected policies aim to balance cost, travel time, and accessibility improvements."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

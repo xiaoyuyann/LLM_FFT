@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Inwood",
+  "thinking": {
+    "disposable_income": "Greater Inwood has a moderate level of disposable income, with a mix of middle-income households and some lower-income residents.",
+    "discretionary_consumption": "Residents in Greater Inwood have moderate discretionary spending, with a focus on essential goods and services, and some capacity for leisure and non-essential spending.",
+    "accessibility": "The neighborhood has moderate accessibility to resources and services, with a reliance on both personal vehicles and public transit, though transit times are currently longer than driving times.",
+    "decision_rationale": "Given the moderate disposable income, it is important to balance the cost of transit fares and driving fees with the benefits of reduced travel times and improved transit services. Lower fares and fees are preferred to minimize the financial burden on residents, while moderate sales tax rates are acceptable if they significantly improve transit efficiency. The goal is to enhance transit accessibility and reduce travel times without imposing excessive costs on residents. Therefore, proposals with lower fares and fees, and moderate improvements in travel times, are prioritized."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

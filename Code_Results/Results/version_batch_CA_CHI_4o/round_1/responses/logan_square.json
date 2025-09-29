@@ -1,0 +1,16 @@
+{
+  "community_area": "Logan Square",
+  "thinking": {
+    "disposable_income": "Logan Square is a diverse community with a mix of income levels. While there are affluent areas, there are also parts of the community with lower income levels. The median household income is around the city average, which suggests a moderate level of disposable income.",
+    "discretionary_consumption": "Residents in Logan Square have a moderate level of discretionary consumption. The area has a vibrant local economy with many small businesses, restaurants, and cultural venues, indicating that residents value spending on leisure and cultural activities.",
+    "accessibility": "Logan Square has good access to public transportation, including the Blue Line and several bus routes. However, traffic congestion can be an issue, and parking is limited in some areas. Many residents rely on public transit for commuting, but there is also a significant number of car owners.",
+    "decision_rationale": "Given the moderate disposable income, it is important to keep costs low for both transit and driving. However, improving transit times is also crucial due to the reliance on public transportation. A lower sales tax is preferred to maintain discretionary spending. Therefore, proposals with lower fares and moderate driver fees that significantly reduce travel times are prioritized. The balance between cost and improved transit service is key, as is the potential to reduce congestion through higher driver fees."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

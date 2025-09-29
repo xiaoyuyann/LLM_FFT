@@ -1,0 +1,16 @@
+{
+  "community_area": "Englewood",
+  "thinking": {
+    "disposable_income": "Englewood has very limited disposable income with 46.5% households earning less than $25,000 and median income of $27,792, which is significantly below Chicago's average. Any additional transportation costs would have a major impact on household budgets.",
+    "discretionary_consumption": "With such low income levels, discretionary spending is minimal. Most income likely goes to essential needs. Higher sales taxes would disproportionately burden residents, reducing already limited purchasing power for basic necessities.",
+    "accessibility": "44.6% of households have no vehicle, making transit accessibility crucial. 25.2% rely on transit for commuting, while 51% drive alone. The community needs affordable transit options while maintaining reasonable driving costs for car-dependent households.",
+    "decision_rationale": "1. Prioritize lowest sales tax (0.5%) to minimize impact on limited discretionary income. 2. Favor lower transit fares ($0.75) to help transit-dependent residents. 3. Consider moderate driving fees ($0.50) to improve transit service without overly burdening drivers. 4. Balance between transit time improvements and cost increases. 5. Selected proposals that reduce transit travel times while keeping costs manageable for both drivers and transit users."
+  },
+  "vote": [
+    1,
+    2,
+    0,
+    4,
+    10
+  ]
+}

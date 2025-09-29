@@ -1,0 +1,16 @@
+{
+  "community_area": "Riverdale",
+  "thinking": {
+    "disposable_income": "Riverdale has one of the lowest median household incomes in Chicago, which means residents have limited disposable income. This makes affordability a key concern when considering transportation policies.",
+    "discretionary_consumption": "With limited disposable income, discretionary spending is constrained. Residents prioritize essential expenses, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Riverdale has limited access to public transit options, making it crucial to improve transit services. However, the community also relies on driving due to the lack of efficient public transit connections.",
+    "decision_rationale": "Given the low disposable income, policies with lower fares and taxes are preferred to minimize financial strain. However, improving transit accessibility is also important. Balancing these factors, the preferred policies are those that offer reduced travel times and costs without significantly increasing the financial burden. Policies with moderate driver fees are considered to encourage a shift to transit, potentially reducing congestion and emissions, while still being affordable."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

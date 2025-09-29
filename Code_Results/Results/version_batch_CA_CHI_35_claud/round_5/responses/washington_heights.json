@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Heights",
+  "thinking": {
+    "disposable_income": "Washington Heights has a median household income of approximately $41,000, which is below Chicago's median. Many residents have limited disposable income and are sensitive to transportation costs",
+    "discretionary_consumption": "Given the lower income levels, residents have limited discretionary spending capacity. Higher sales taxes would significantly impact household budgets. Many households spend a substantial portion of income on basic necessities",
+    "accessibility": "The community has access to Metra Rock Island line and several bus routes, but transit service is less frequent than other parts of the city. Car ownership is important for many residents due to longer commute times and limited transit options. About 75% of households own at least one vehicle",
+    "decision_rationale": "1. Prioritize lower sales tax (0.5%) to minimize impact on limited discretionary income. 2. Favor moderate transit fares ($0.75-$1.25) to keep transit affordable while maintaining service quality. 3. Support moderate driving fees ($0.50) to improve transit without overly burdening drivers. 4. Balance between transit and driving improvements since community uses both modes. 5. Consider proposals that reduce transit travel times to improve accessibility for transit-dependent residents"
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    2
+  ]
+}

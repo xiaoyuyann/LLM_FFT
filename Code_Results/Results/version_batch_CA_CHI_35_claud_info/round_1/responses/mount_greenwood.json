@@ -1,0 +1,16 @@
+{
+  "community_area": "Mount Greenwood",
+  "thinking": {
+    "disposable_income": "Mount Greenwood is relatively affluent with median income of $113,328 and 57.8% of households earning over $100,000. This suggests residents have higher disposable income and can better absorb transportation costs compared to other areas",
+    "discretionary_consumption": "With higher incomes, residents likely have significant discretionary spending. A sales tax increase would affect this spending power, but impact would be moderate given the income levels. Average household size of 2.6 suggests family-oriented spending patterns",
+    "accessibility": "Car-dependent community with 95.4% of households having at least one vehicle and 82.2% driving alone to work. Only 4.2% use transit, indicating limited transit reliance. This suggests policies should prioritize driving efficiency while maintaining reasonable transit options",
+    "decision_rationale": "1. Given high car dependency, prefer policies with lower driving fees to avoid excessive burden on majority of residents. 2. Higher sales tax is acceptable given income levels if it improves overall transportation. 3. Higher transit fares are acceptable since few rely on transit. 4. Prioritize policies that reduce car travel times since most residents drive. 5. Balance between maintaining driving affordability while funding transit improvements through sales tax"
+  },
+  "vote": [
+    3,
+    0,
+    12,
+    21,
+    24
+  ]
+}

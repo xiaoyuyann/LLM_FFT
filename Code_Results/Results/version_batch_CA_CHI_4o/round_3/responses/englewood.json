@@ -1,0 +1,16 @@
+{
+  "community_area": "Englewood",
+  "thinking": {
+    "disposable_income": "Englewood is a community with relatively low median household income compared to other areas in Chicago. Many residents may have limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is likely limited. Residents may prioritize essential goods and services, so policies that minimize additional financial burdens are preferred.",
+    "accessibility": "Englewood has moderate access to public transit, but travel times are relatively long. Improving transit efficiency and reducing costs could significantly benefit residents who rely on public transportation.",
+    "decision_rationale": "The decision prioritizes policies that reduce transit fares and driving fees to minimize financial strain on residents. Lower sales taxes are also preferred to preserve disposable income. Policies that improve transit times are favored to enhance accessibility and reduce travel burdens. The tradeoff involves balancing lower costs with improved transit service quality, aiming to provide the most benefit to the community given its economic constraints."
+  },
+  "vote": [
+    1,
+    10,
+    2,
+    11,
+    19
+  ]
+}

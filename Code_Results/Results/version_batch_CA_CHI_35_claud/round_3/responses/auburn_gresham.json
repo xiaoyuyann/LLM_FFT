@@ -1,0 +1,16 @@
+{
+  "community_area": "Auburn Gresham",
+  "thinking": {
+    "disposable_income": "Auburn Gresham is a predominantly low-income community with median household income around $35,000, significantly below Chicago's average. Many residents live paycheck to paycheck with limited disposable income",
+    "discretionary_consumption": "Limited discretionary spending capacity due to low income levels. Residents are price-sensitive to additional taxes and fees that would reduce their already constrained budgets for basic needs",
+    "accessibility": "High transit dependency with about 30% of households lacking vehicle access. The community relies heavily on bus services and the Red Line. Many residents commute long distances to jobs, making travel time and cost critical factors",
+    "decision_rationale": "1. Prioritize low transit fares due to high transit dependency and low incomes. 2. Favor lower sales tax rates as residents have limited discretionary income. 3. Support moderate driving fees to improve transit service without overly burdening car-owning residents. 4. Balance travel time improvements with cost impacts. 5. Selected policies that minimize total transportation costs while maximizing service improvements"
+  },
+  "vote": [
+    1,
+    10,
+    0,
+    9,
+    4
+  ]
+}

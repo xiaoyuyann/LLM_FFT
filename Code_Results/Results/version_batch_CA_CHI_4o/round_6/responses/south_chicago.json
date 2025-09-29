@@ -1,0 +1,16 @@
+{
+  "community_area": "South Chicago",
+  "thinking": {
+    "disposable_income": "South Chicago has a relatively low median household income compared to other areas in Chicago, which means residents are sensitive to increases in costs, whether through fares, fees, or taxes.",
+    "discretionary_consumption": "Given the lower disposable income, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "South Chicago has moderate access to public transit, but improvements in transit times could significantly benefit residents who rely on it for commuting. Car ownership is lower than in more affluent areas, so transit improvements are crucial.",
+    "decision_rationale": "The decision focuses on minimizing costs while improving transit times. Lower fares and taxes are prioritized to reduce the financial burden on residents. Proposals with moderate driver fees are considered to encourage a shift from driving to transit, reducing congestion and emissions. The top choices balance affordability with improved transit service, considering the community's reliance on public transportation and limited discretionary income."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

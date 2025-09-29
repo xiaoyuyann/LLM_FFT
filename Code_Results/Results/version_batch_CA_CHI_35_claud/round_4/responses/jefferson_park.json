@@ -1,0 +1,16 @@
+{
+  "community_area": "Jefferson Park",
+  "thinking": {
+    "disposable_income": "Jefferson Park is a middle-class community with median household income around $71,000. About 7.2% of residents live below poverty level. Most households have moderate disposable income for transportation costs",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity. The community has a mix of homeowners and renters, with significant portions of income going to housing. Transportation costs are a notable but manageable expense for most households",
+    "accessibility": "Well-served by public transit with Blue Line station and Metra. Major roads like Milwaukee Ave and Kennedy Expressway provide good car access. 76% of residents commute by car, 20% use public transit. Many residents work downtown or in nearby suburbs",
+    "decision_rationale": "1. Prioritize balanced options that maintain reasonable transit fares while improving service\n2. Consider moderate tax rates that won't overly burden middle-class households\n3. Support driving fees that reduce congestion but aren't excessive\n4. Focus on proposals that reduce transit travel times given significant transit user population\n5. Select options that maintain reasonable car travel times for majority who drive\n6. Choose proposal 13 first as it offers balanced improvements with moderate costs\n7. Follow with 14 for better transit times with acceptable driving fee\n8. Rank 10 third for low transit fare while improving service\n9. Include 4 for low tax impact while improving transit\n10. Finish with 22 as it offers good transit improvements despite higher tax"
+  },
+  "vote": [
+    13,
+    14,
+    10,
+    4,
+    22
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Heights",
+  "thinking": {
+    "disposable_income": "Greater Heights residents have relatively high disposable income with a median household income around $110,000, significantly above Houston's average.",
+    "discretionary_consumption": "The neighborhood has high discretionary spending power, with residents regularly spending on local restaurants, boutiques, and entertainment in the walkable commercial districts.",
+    "accessibility": "The area has good road access to downtown, moderate transit service with several bus routes, and high walkability within the neighborhood, though many residents are car-dependent for commuting.",
+    "decision_rationale": "1) Given high incomes, residents can absorb higher costs but want efficient services 2) Many residents drive but support transit improvements for neighborhood vitality 3) Prefer moderate tax rates that improve transit without excessive burden 4) Support some driving fees to reduce congestion 5) Favor balanced proposals that improve both driving and transit times 6) Selected proposals 20, 11, 19, 10, 8 in order of preference as they offer good transit improvements while keeping taxes reasonable and implementing moderate driving fees to manage congestion"
+  },
+  "vote": [
+    20,
+    11,
+    19,
+    10,
+    8
+  ]
+}

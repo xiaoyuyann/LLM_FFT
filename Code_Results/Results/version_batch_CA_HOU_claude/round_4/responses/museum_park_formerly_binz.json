@@ -1,0 +1,16 @@
+{
+  "community_area": "Museum Park",
+  "thinking": {
+    "disposable_income": "Museum Park residents have relatively high disposable income with a median household income above Houston average, as it is an affluent area near major cultural institutions and medical centers.",
+    "discretionary_consumption": "The neighborhood has high discretionary spending capacity, with residents regularly spending on cultural activities, dining, and entertainment in the museum district and nearby areas.",
+    "accessibility": "The area has excellent transit accessibility with multiple bus routes and METRORail Red Line, while also having good road access to downtown and Texas Medical Center, making both transit and driving viable options.",
+    "decision_rationale": "1) Prioritized policies that balance transit improvements with moderate tax burden given the area's affluence 2) Favored options with higher driving fees to reduce congestion around cultural venues and medical centers 3) Selected moderate transit fares to maintain service quality while keeping transit accessible 4) Considered the neighborhood's mixed-mode transportation needs with both transit-dependent visitors and residents who drive 5) Weighted travel time improvements heavily given the area's role as a cultural/medical destination"
+  },
+  "vote": [
+    20,
+    17,
+    11,
+    14,
+    8
+  ]
+}

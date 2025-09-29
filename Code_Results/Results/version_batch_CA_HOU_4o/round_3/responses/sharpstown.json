@@ -1,0 +1,16 @@
+{
+  "community_area": "Sharpstown",
+  "thinking": {
+    "disposable_income": "Sharpstown has a moderate to low disposable income level, with many residents working in service and retail sectors.",
+    "discretionary_consumption": "The community tends to prioritize essential spending, with limited discretionary consumption due to budget constraints.",
+    "accessibility": "Sharpstown has moderate accessibility to public transit, but many residents rely on personal vehicles due to the spread-out nature of resources and services.",
+    "decision_rationale": "Given Sharpstown's moderate to low disposable income, policies with lower transit fares and driving fees are preferred to minimize financial strain on residents. A lower sales tax is also favored to preserve disposable income for essential goods. However, improving transit times is crucial to enhance accessibility for those without cars. Therefore, the selected policies balance lower costs with improved transit times, considering the community's reliance on both transit and personal vehicles."
+  },
+  "vote": [
+    0,
+    7,
+    2,
+    10,
+    1
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "West Englewood",
+  "thinking": {
+    "disposable_income": "West Englewood is a low-income community with median income of $29,234, significantly below Chicago's average. 69.5% of households earn less than $50,000 annually, with 42.1% earning less than $25,000, indicating very limited disposable income",
+    "discretionary_consumption": "Given the low income levels, residents have minimal discretionary spending capacity. Any additional transportation costs or sales tax would significantly impact their ability to afford basic necessities. The community needs to maximize cost savings on transportation",
+    "accessibility": "32.7% of households have no vehicle, making transit accessibility crucial. 25.9% use transit for commuting, while 55.6% drive alone. The community needs balanced solutions that improve both transit and driving options without excessive cost burden",
+    "decision_rationale": "1. Prioritized proposals with lowest transit fares ($0.75) to help transit-dependent residents\n2. Favored lower sales tax rates (0.5-1.0%) to minimize impact on limited discretionary income\n3. Balanced driving fees to improve transit service without overly burdening drivers\n4. Selected options that reduce both transit and driving times\n5. Considered high proportion of both transit users and drivers in the community"
+  },
+  "vote": [
+    1,
+    10,
+    0,
+    9,
+    2
+  ]
+}

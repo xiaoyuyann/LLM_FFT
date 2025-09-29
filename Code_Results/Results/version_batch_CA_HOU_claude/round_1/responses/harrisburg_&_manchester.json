@@ -1,0 +1,16 @@
+{
+  "community_area": "Harrisburg/Manchester",
+  "thinking": {
+    "disposable_income": "Harrisburg/Manchester is a low-income community with median household income around $31,000, significantly below Houston's average, indicating limited disposable income for transportation costs.",
+    "discretionary_consumption": "With high poverty rates and low median income, residents have very limited discretionary spending capacity and are highly sensitive to additional taxes or fees.",
+    "accessibility": "The neighborhood has good transit access with multiple bus routes and light rail, but also high car dependency due to industrial employment centers, with about 75% of residents commuting by car.",
+    "decision_rationale": "1) Prioritized proposals with lower transit fares ($0.75) to help transit-dependent residents while maintaining service quality 2) Favored moderate tax rates (1%) over higher rates to balance transit funding with household budget impacts 3) Selected moderate driving fees ($0.50) to encourage transit use without overly burdening car-dependent workers 4) Considered travel time improvements for both transit and driving given mixed transportation needs 5) Ranked proposals that offer best combined benefits for both transit and car users while minimizing financial burden on low-income residents"
+  },
+  "vote": [
+    7,
+    0,
+    16,
+    8,
+    1
+  ]
+}

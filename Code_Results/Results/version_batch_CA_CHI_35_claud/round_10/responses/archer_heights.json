@@ -1,0 +1,16 @@
+{
+  "community_area": "Archer Heights",
+  "thinking": {
+    "disposable_income": "Archer Heights has a median household income of approximately $47,000, which is below Chicago's average. Many residents work in manufacturing and service industries, with about 18% of residents living below poverty level. This suggests sensitivity to cost increases.",
+    "discretionary_consumption": "Given the moderate-to-low income levels, residents have limited discretionary spending capacity. Higher sales taxes would significantly impact household budgets. Many families need to prioritize essential expenses over discretionary spending.",
+    "accessibility": "The area is served by CTA buses but lacks direct rail access. Many residents rely on personal vehicles for work commutes. The community has good access to major arterials like Archer Avenue and Pulaski Road. About 85% of households own at least one vehicle, indicating high car dependency.",
+    "decision_rationale": "1. Given high car dependency but moderate incomes, prefer policies with lower driving fees and moderate transit improvements. 2. Lower sales tax preferred due to limited discretionary income. 3. Moderate transit fares to balance service quality with affordability. 4. Selected policies that reduce travel times without excessive cost burden. 5. Prioritized options that maintain reasonable car access while gradually improving transit service."
+  },
+  "vote": [
+    3,
+    0,
+    9,
+    12,
+    4
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Settegast",
+  "thinking": {
+    "disposable_income": "Settegast is a lower-income neighborhood, with many residents having limited disposable income.",
+    "discretionary_consumption": "Residents in Settegast have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "Settegast has limited access to public transportation, making it challenging for residents to reach employment and essential services without a car.",
+    "decision_rationale": "Given the limited disposable income and discretionary spending in Settegast, it is crucial to minimize additional financial burdens on residents. Lower transit fares and driving fees are preferred to keep transportation affordable. However, improving transit accessibility is also important to reduce reliance on cars. Therefore, proposals with lower fares and fees, while slightly increasing the sales tax to improve transit services, are prioritized. The selected proposals balance affordability with improved transit times, which can enhance accessibility for residents."
+  },
+  "vote": [
+    0,
+    7,
+    10,
+    2,
+    6
+  ]
+}

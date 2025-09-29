@@ -1,0 +1,16 @@
+{
+  "community_area": "Woodlawn",
+  "thinking": {
+    "disposable_income": "Woodlawn has a relatively lower average disposable income compared to other areas in Chicago. This means that residents are more sensitive to increases in costs, whether through transit fares, sales taxes, or driving fees.",
+    "discretionary_consumption": "Given the lower disposable income, discretionary consumption is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Woodlawn has moderate access to public transit, but improvements in transit services could greatly benefit the community by reducing travel times and increasing accessibility to jobs and services.",
+    "decision_rationale": "Considering the lower disposable income and limited discretionary consumption, policies with lower transit fares and minimal sales tax increases are preferred. However, improving transit times is also crucial for accessibility. Therefore, policies that balance lower costs with improved transit times are prioritized. A moderate driving fee is acceptable if it significantly reduces car travel time and improves transit services, as many residents rely on public transit."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

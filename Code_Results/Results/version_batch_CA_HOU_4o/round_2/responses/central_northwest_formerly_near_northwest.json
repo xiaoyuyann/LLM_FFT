@@ -1,0 +1,16 @@
+{
+  "community_area": "Central Northwest",
+  "thinking": {
+    "disposable_income": "The Central Northwest neighborhood has a moderate level of disposable income, with a mix of middle-income and working-class residents.",
+    "discretionary_consumption": "Residents in this area have moderate discretionary spending, with a focus on essential goods and services, and limited luxury spending.",
+    "accessibility": "The neighborhood has decent access to public transit, but many residents rely on driving due to the spread-out nature of services and employment opportunities.",
+    "decision_rationale": "Given the moderate disposable income, it's important to balance costs with benefits. Lower transit fares and moderate driver fees are preferred to encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it significantly improves transit times. Proposal 8 offers a good balance with a low fare, moderate driver fee, and improved transit time. Proposal 11 is similar but with a slightly higher fare. Proposal 1 offers the lowest fare and driver fee, making it attractive for cost-conscious residents. Proposal 17 and 20 offer the best transit times, which could significantly improve accessibility, justifying the higher sales tax."
+  },
+  "vote": [
+    8,
+    11,
+    1,
+    17,
+    20
+  ]
+}

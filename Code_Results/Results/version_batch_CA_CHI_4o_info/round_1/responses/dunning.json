@@ -1,0 +1,16 @@
+{
+  "community_area": "Dunning",
+  "thinking": {
+    "disposable_income": "Dunning has a relatively high percentage of households earning $100,000 or more (41.1%), indicating a moderate to high disposable income level. However, there is also a significant portion of the population earning less than $50,000 (29.3%), suggesting income diversity.",
+    "discretionary_consumption": "With a significant portion of the population in higher income brackets, discretionary consumption is likely to be robust. However, the presence of lower-income households means that affordability of transportation options remains important.",
+    "accessibility": "The majority of residents drive alone (72.1%), indicating a strong reliance on personal vehicles. Only 7.3% use transit, suggesting that current transit accessibility may be limited or less convenient compared to driving.",
+    "decision_rationale": "Given the high reliance on driving, policies that reduce driving time and improve transit times without significantly increasing costs are preferred. A lower sales tax is favored to maintain discretionary spending, especially for lower-income households. Proposals with moderate driver fees are considered to encourage a shift to transit, potentially reducing congestion. The top-ranked proposals balance these factors by offering reduced travel times and reasonable costs, both for driving and transit, while maintaining a lower sales tax to support discretionary consumption."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

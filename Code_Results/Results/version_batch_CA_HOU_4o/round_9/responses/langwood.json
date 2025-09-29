@@ -1,0 +1,16 @@
+{
+  "community_area": "Langwood",
+  "thinking": {
+    "disposable_income": "Langwood is a working-class neighborhood with relatively low to moderate disposable income levels.",
+    "discretionary_consumption": "Residents in Langwood have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "Langwood has moderate access to public transit, but many residents rely on driving due to the limited reach and frequency of transit services.",
+    "decision_rationale": "Given the limited disposable income, it is crucial to minimize additional financial burdens on residents. Therefore, lower transit fares and driving fees are preferred to maintain affordability. A moderate sales tax is acceptable if it significantly improves transit services, as better transit can reduce reliance on driving, lower congestion, and improve accessibility. The top-ranked proposals balance these factors by offering reduced travel times and costs, while not imposing high taxes or fees that would strain residents' budgets."
+  },
+  "vote": [
+    1,
+    7,
+    10,
+    2,
+    11
+  ]
+}

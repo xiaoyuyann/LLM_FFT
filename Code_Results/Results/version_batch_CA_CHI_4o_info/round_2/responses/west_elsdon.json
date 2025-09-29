@@ -1,0 +1,16 @@
+{
+  "community_area": "West Elsdon",
+  "thinking": {
+    "disposable_income": "West Elsdon has a median household income of $64,441, with a significant portion of households earning between $25,000 and $74,999. This suggests a moderate level of disposable income, with a need to balance costs related to transportation and other essential expenses.",
+    "discretionary_consumption": "Given the income distribution, a large portion of the community may have limited discretionary spending. Therefore, policies that minimize additional costs, such as lower transit fares and driving fees, would be more favorable.",
+    "accessibility": "With 59.6% of residents driving alone and 12.9% using transit, accessibility improvements in both driving and transit are important. Reducing travel times and costs for both modes can enhance accessibility to resources and services.",
+    "decision_rationale": "The community's preference leans towards minimizing costs while improving transit services. Lower fares and driving fees are prioritized to accommodate the moderate income levels. A balance between tax rates and service improvements is crucial, as higher taxes could strain household budgets. The selected policies aim to reduce travel times and costs, encouraging a shift from driving to transit, which could alleviate congestion and improve overall accessibility."
+  },
+  "vote": [
+    10,
+    11,
+    13,
+    14,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Eldridge / West Oaks",
+  "thinking": {
+    "disposable_income": "Eldridge/West Oaks is an affluent area with median household income around $85,000, indicating relatively high disposable income and less sensitivity to transportation costs.",
+    "discretionary_consumption": "Residents have significant discretionary spending power and tend to prioritize convenience and time savings over small cost differences in transportation.",
+    "accessibility": "The area is car-dependent with limited transit access, most residents rely on personal vehicles for commuting and daily activities, with average commute times around 30 minutes by car.",
+    "decision_rationale": "1) Given the high car dependency and income levels, policies that reduce car travel time while maintaining reasonable driving costs are preferred. 2) Higher sales tax is acceptable if it improves overall transportation system. 3) Higher driving fees can help reduce congestion but shouldn't be excessive. 4) Transit improvements are supported but not primary concern given current usage patterns. 5) Selected policies balance time savings with moderate cost increases that won't significantly impact area's discretionary spending."
+  },
+  "vote": [
+    17,
+    20,
+    8,
+    11,
+    1
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Park",
+  "thinking": {
+    "disposable_income": "Washington Park is a community with relatively low disposable income, which means residents are sensitive to increases in costs related to transportation, such as fares and fees.",
+    "discretionary_consumption": "Given the lower disposable income, discretionary consumption is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Washington Park has moderate access to public transit, but improvements in transit services could enhance accessibility. However, the community is also reliant on driving, so any policy that increases driving costs needs to be carefully considered.",
+    "decision_rationale": "The goal is to select policies that minimize costs for residents while improving transit services. Lower fares and taxes are preferred to keep transportation affordable. Moderate driver fees are acceptable if they significantly reduce travel times and improve transit services. Policies with a balance of low fares, moderate taxes, and reasonable driver fees that lead to reduced travel times are prioritized."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

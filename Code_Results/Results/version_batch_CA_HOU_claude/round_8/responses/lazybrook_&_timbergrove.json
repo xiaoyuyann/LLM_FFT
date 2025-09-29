@@ -1,0 +1,16 @@
+{
+  "community_area": "Lazybrook/Timbergrove",
+  "thinking": {
+    "disposable_income": "Lazybrook/Timbergrove is an upper-middle-income neighborhood with median household income around $100,000, indicating relatively high disposable income and ability to absorb transportation costs.",
+    "discretionary_consumption": "Residents have significant discretionary spending power and tend to prioritize quality of life amenities, with many households able to afford multiple vehicles and regular retail/dining expenses.",
+    "accessibility": "The neighborhood has good car accessibility to major roads like 610 Loop and I-10, moderate bus service, and is about 15-20 minutes from downtown by car, though transit access is more limited.",
+    "decision_rationale": "1) Given the high car ownership and income levels, policies with moderate driving fees are acceptable if they improve overall system efficiency 2) Higher sales tax is less impactful due to high disposable income 3) Transit improvements should focus on reducing travel times rather than minimizing fares 4) Balanced approach prioritizing reduced congestion while maintaining reasonable costs 5) Selected policies that provide the best travel time improvements for both modes while keeping combined tax/fee burden moderate"
+  },
+  "vote": [
+    20,
+    17,
+    11,
+    14,
+    8
+  ]
+}

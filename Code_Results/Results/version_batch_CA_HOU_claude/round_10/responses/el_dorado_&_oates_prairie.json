@@ -1,0 +1,16 @@
+{
+  "community_area": "El Dorado / Oates Prairie",
+  "thinking": {
+    "disposable_income": "El Dorado / Oates Prairie is a working-class neighborhood with lower-middle income levels, where households have limited disposable income and are sensitive to additional transportation costs.",
+    "discretionary_consumption": "Residents have modest discretionary spending capacity and need to carefully balance essential needs with transportation expenses, making them particularly sensitive to both sales tax increases and transit fares.",
+    "accessibility": "The neighborhood has moderate transit access but is largely car-dependent, with many residents relying on personal vehicles for daily commutes and errands.",
+    "decision_rationale": "1) Prioritized proposals with lower sales tax (0.5%) to minimize impact on household budgets 2) Favored moderate transit fares ($0.75-$1.25) to keep transit affordable while maintaining service quality 3) Considered moderate driving fees ($0.50) to improve transit service without overly burdening car-dependent residents 4) Balanced travel time improvements with cost impacts 5) Selected proposals that offer the best combination of reduced travel times and manageable costs for both transit and car users"
+  },
+  "vote": [
+    0,
+    2,
+    7,
+    10,
+    16
+  ]
+}

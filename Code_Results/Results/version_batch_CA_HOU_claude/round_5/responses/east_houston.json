@@ -1,0 +1,16 @@
+{
+  "community_area": "East Houston",
+  "thinking": {
+    "disposable_income": "East Houston has a lower median household income around $35,000, with many residents living paycheck to paycheck and being particularly sensitive to additional transportation costs.",
+    "discretionary_consumption": "Limited discretionary spending capacity with most income going to basic necessities, making residents vulnerable to increased taxes and transportation costs.",
+    "accessibility": "The area has moderate transit access with bus routes but many residents rely on personal vehicles due to dispersed job locations and limited frequent transit service.",
+    "decision_rationale": "1) Prioritized lower transit fares and taxes given limited disposable income 2) Moderate driving fees acceptable to improve transit service while not overly burdening car-dependent residents 3) Sought balance between travel time improvements and cost impacts 4) Favored proposals that reduce transit travel times to under 57 minutes 5) Considered that many residents make multiple trips per day, making per-trip costs significant 6) Selected proposals that maintain reasonable driving access while improving transit options"
+  },
+  "vote": [
+    7,
+    0,
+    16,
+    2,
+    10
+  ]
+}

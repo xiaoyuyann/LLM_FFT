@@ -1,0 +1,16 @@
+{
+  "community_area": "South Shore",
+  "thinking": {
+    "disposable_income": "The median income in South Shore is $39,649, with a significant portion of the population earning less than $25,000. This indicates limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With a high percentage of households earning below $50,000, discretionary spending is likely constrained. Policies that minimize additional financial burdens, such as lower fares and taxes, are preferable.",
+    "accessibility": "A significant portion of the community relies on transit (32.8%) and a notable percentage has no vehicle (37.8%). Therefore, policies that improve transit accessibility and affordability are crucial.",
+    "decision_rationale": "Given the community's reliance on transit and limited disposable income, the focus is on minimizing costs while improving transit efficiency. Lower fares and moderate taxes are prioritized to ensure affordability. Driver fees are considered to reduce congestion and improve transit times, benefiting the large transit-dependent population. The selected policies balance cost, transit time, and accessibility improvements."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

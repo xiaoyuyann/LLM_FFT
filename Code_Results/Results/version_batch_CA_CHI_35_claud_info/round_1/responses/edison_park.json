@@ -1,0 +1,16 @@
+{
+  "community_area": "Edison Park",
+  "thinking": {
+    "disposable_income": "Edison Park is a relatively affluent community with median income of $120,024 and 59.4% of households earning over $100,000. This suggests residents have significant disposable income and can absorb moderate transportation cost increases",
+    "discretionary_consumption": "With high per capita income ($57,872), residents likely have substantial discretionary spending. A sales tax increase would impact this spending, but the community can likely handle it better than lower-income areas",
+    "accessibility": "The community is heavily car-dependent with 93.5% of households owning at least one vehicle and 69.1% driving alone to work. Only 8.4% use transit, suggesting good road access but limited transit reliance",
+    "decision_rationale": "1. Given high car ownership and usage, policies that reduce car travel time are priority. 2. Community can absorb moderate fee increases given high incomes. 3. Lower transit usage means transit improvements less critical. 4. Moderate tax increase acceptable if it significantly improves driving conditions. 5. Prefer balanced approaches that don't extremely burden drivers while still improving overall system"
+  },
+  "vote": [
+    14,
+    5,
+    23,
+    11,
+    20
+  ]
+}

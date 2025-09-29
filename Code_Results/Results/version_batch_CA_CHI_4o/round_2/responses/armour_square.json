@@ -1,0 +1,16 @@
+{
+  "community_area": "Armour Square",
+  "thinking": {
+    "disposable_income": "Armour Square has a moderate level of disposable income, with a mix of middle-income families and some lower-income households. The community is sensitive to changes in transportation costs, as these can impact their overall budget for other essential and discretionary spending.",
+    "discretionary_consumption": "Residents in Armour Square have a balanced discretionary consumption pattern, spending on essentials like housing and food, but also on leisure and cultural activities. Any increase in transportation costs could reduce their ability to spend on these discretionary items.",
+    "accessibility": "Armour Square has decent access to public transit, with several bus and train lines serving the area. However, travel times by transit are relatively long compared to driving. Improving transit efficiency and reducing travel times would be beneficial for the community.",
+    "decision_rationale": "Given the moderate disposable income and the need to maintain discretionary spending, proposals with lower fares and taxes are preferred. However, improving transit times is also crucial. Therefore, proposals that balance lower costs with improved transit times are prioritized. A moderate driver fee is acceptable if it significantly reduces travel times, as this could encourage a shift from driving to transit, reducing congestion and emissions. The community would benefit from a slight increase in sales tax if it leads to better transit services, but the increase should not be too high to avoid impacting overall consumption."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

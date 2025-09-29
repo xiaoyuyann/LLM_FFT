@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Park",
+  "thinking": {
+    "disposable_income": "Washington Park is one of Chicago's lowest-income communities with median household income around $25,000. Many residents live below poverty line and have very limited disposable income. High unemployment rate (~20%) further constrains household budgets.",
+    "discretionary_consumption": "Given the low income levels, residents have minimal discretionary spending capacity. Most income goes to basic necessities like housing, food, and utilities. Even small increases in transportation costs or taxes would significantly impact household budgets.",
+    "accessibility": "The area has good access to CTA Green Line and bus routes. Car ownership rates are low (~40% of households). Many residents rely heavily on public transit for work, shopping, and services. Travel times by transit are important for accessing jobs and opportunities.",
+    "decision_rationale": "1. Given low incomes, prioritize lowest combined costs (fares, fees, taxes)\n2. Strong transit dependency means better transit service times are crucial\n3. Lower transit fares are more important than driving fees since most residents use transit\n4. Moderate sales tax can help fund transit while not overly burdening limited budgets\n5. Selected policies balance improved transit times with affordability\n6. Ranked proposals that keep transit fares low ($0.75-$1.25) while achieving reasonable service improvements\n7. Avoided highest tax rate (1.5%) due to impact on limited discretionary spending"
+  },
+  "vote": [
+    1,
+    10,
+    9,
+    4,
+    13
+  ]
+}

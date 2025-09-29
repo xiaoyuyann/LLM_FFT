@@ -1,0 +1,16 @@
+{
+  "community_area": "Near West Side",
+  "thinking": {
+    "disposable_income": "The Near West Side has relatively high income levels with median household income of $106,955 and 52.9% of households making over $100,000. However, there's income diversity with 17.9% making less than $25,000",
+    "discretionary_consumption": "Given the high per capita income ($72,602), many residents have significant discretionary spending power. However, the community needs to consider the 29.1% of households making under $50,000 who would be more sensitive to fare and tax increases",
+    "accessibility": "The area has diverse transportation usage: 34.3% have no vehicles, 18.1% use transit, 24.1% walk/bike, and 33.9% drive. The area has good transit access but needs to balance options for all modes",
+    "decision_rationale": "1. Prioritized policies that maintain reasonable transit fares given high transit usage and car-free households. 2. Moderate tax rates to fund transit while not overly burdening lower-income residents. 3. Support driving fees to reduce congestion and fund transit improvements. 4. Balanced travel time improvements for both transit and driving given mixed mode usage. 5. Considered policies that provide best overall accessibility while maintaining affordability"
+  },
+  "vote": [
+    11,
+    13,
+    4,
+    10,
+    19
+  ]
+}

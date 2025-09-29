@@ -1,0 +1,16 @@
+{
+  "community_area": "Armour Square",
+  "thinking": {
+    "disposable_income": "Armour Square has a significant portion of its population (31.1%) earning less than $25,000, indicating limited disposable income. A smaller percentage earns above $100,000, suggesting a mixed-income community with a substantial low-income segment.",
+    "discretionary_consumption": "With a large portion of the population in lower income brackets, discretionary spending is likely limited. High transit fares or driver fees could significantly impact the ability of residents to spend on other necessities.",
+    "accessibility": "A significant portion of the community relies on transit (24.4%) and a notable percentage has no vehicle (33.9%). This suggests that affordable and efficient public transit is crucial for accessibility to jobs and services.",
+    "decision_rationale": "Given the community's reliance on public transit and limited disposable income, proposals with lower transit fares and moderate sales taxes are prioritized. Proposals that improve transit times without significantly increasing costs are favored. The community's mixed-income nature and reliance on transit suggest a need for balanced policies that enhance transit service while keeping costs manageable. Proposals with higher driver fees are considered as they may reduce congestion and improve transit times, benefiting the large transit-using population."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

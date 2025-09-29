@@ -1,0 +1,17 @@
+{
+  "community_area": "Austin",
+  "thinking": {
+    "disposable_income": "Austin is a community with a relatively lower median household income compared to the city average. Many residents may have limited disposable income, making affordability a key concern.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is likely constrained. Residents prioritize essential expenses, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Austin has moderate access to public transit, but improvements in transit service could enhance accessibility. Many residents rely on public transportation, so policies that improve transit times and affordability are crucial.",
+    "decision_rationale": "Considering Austin's lower disposable income and constrained discretionary spending, policies with lower transit fares and minimal tax increases are preferred. Improved transit times are also important to enhance accessibility. Therefore, policies with a $0.75 fare and a 0.5% or 1.0% tax rate are prioritized, as they balance affordability and service improvement. Driver fees are acceptable if they significantly reduce car travel times, encouraging a shift to public transit."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19,
+    20
+  ]
+}

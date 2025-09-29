@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Square",
+  "thinking": {
+    "disposable_income": "Lincoln Square is a middle-income community with a mix of families and young professionals. The residents have a moderate level of disposable income, which means they are sensitive to increases in costs related to transportation and taxes.",
+    "discretionary_consumption": "The community has a vibrant local economy with many small businesses, restaurants, and cultural activities. Residents value their discretionary spending on these local amenities, so policies that significantly reduce disposable income may be less favorable.",
+    "accessibility": "Lincoln Square has good access to public transit, including buses and the Brown Line 'L' train, making it relatively easy for residents to use public transportation. However, many residents also own cars and use them for commuting and errands.",
+    "decision_rationale": "Given the moderate disposable income and the importance of discretionary spending, policies with lower fares and taxes are preferred to minimize the financial burden on residents. Additionally, since the community has good access to public transit, policies that improve transit times without significantly increasing costs are favorable. Therefore, proposals with lower fares and moderate driver fees that reduce travel time are prioritized. The community is also environmentally conscious, so reducing car travel time and emissions is a consideration."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

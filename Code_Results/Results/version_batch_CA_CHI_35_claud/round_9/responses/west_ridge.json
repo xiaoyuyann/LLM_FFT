@@ -1,0 +1,16 @@
+{
+  "community_area": "West Ridge",
+  "thinking": {
+    "disposable_income": "West Ridge has a median household income of around $54,000, slightly below Chicago's median. About 18% of residents live below poverty level. The community has a significant immigrant population with varying income levels",
+    "discretionary_consumption": "Moderate discretionary spending capacity. Many households need to be cost-conscious. The community has many small businesses and shopping areas that residents frequent, making sales tax impact notable",
+    "accessibility": "Good bus service along major arterials (Devon, Western). Moderate access to Red Line at Loyola. About 30% of residents use public transit for commuting. High car ownership rates but also significant transit dependency. Many residents make local trips within the neighborhood",
+    "decision_rationale": "1. Prioritize lower transit fares ($0.75) to help transit-dependent residents and encourage transit use. 2. Moderate tax rate (1%) balances revenue needs with household budgets. 3. Support some driving fees ($0.50-$1.00) to improve transit service while not overly burdening drivers. 4. Focus on options that reduce transit travel times to under 55 minutes. 5. Consider mixed-mode households that use both transit and cars"
+  },
+  "vote": [
+    11,
+    10,
+    20,
+    19,
+    2
+  ]
+}

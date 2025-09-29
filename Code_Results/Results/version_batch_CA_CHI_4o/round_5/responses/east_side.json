@@ -1,0 +1,16 @@
+{
+  "community_area": "East Side",
+  "thinking": {
+    "disposable_income": "The East Side community has a moderate to low disposable income, with many residents working in blue-collar jobs. This means that any increase in transportation costs could significantly impact their budget.",
+    "discretionary_consumption": "Residents in the East Side have limited discretionary spending, focusing primarily on essential goods and services. Therefore, policies that minimize additional costs are preferred.",
+    "accessibility": "The East Side has moderate access to public transit, but many residents rely on driving due to the area's layout and the need to travel to other parts of the city for work and services. Improving transit times could encourage more residents to use public transportation.",
+    "decision_rationale": "Given the community's moderate to low disposable income and limited discretionary spending, policies with lower fares and taxes are prioritized to minimize financial burden. However, improving transit times is also important to enhance accessibility. Therefore, proposals with a balance of lower costs and improved transit times are preferred. The decision also considers the potential for reduced congestion and emissions by encouraging transit use through driver fees."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

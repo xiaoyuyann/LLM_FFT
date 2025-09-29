@@ -1,0 +1,16 @@
+{
+  "community_area": "Chicago Lawn",
+  "thinking": {
+    "disposable_income": "Chicago Lawn has a median household income that is lower than the city average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "Residents in Chicago Lawn may prioritize essential spending over discretionary consumption due to lower income levels, making cost-sensitive policies more favorable.",
+    "accessibility": "Public transit is a crucial mode of transportation for many residents in Chicago Lawn, as car ownership is not as prevalent as in other areas. Improving transit accessibility and affordability is important.",
+    "decision_rationale": "Given the lower disposable income and reliance on public transit, policies with lower transit fares and moderate sales taxes are prioritized. Reducing travel time is also important, but not at the expense of significantly higher costs. Therefore, proposals with a balance of lower fares and reasonable travel times are preferred. A moderate driver fee is acceptable if it significantly reduces travel time, as it may encourage a shift from driving to transit, benefiting overall accessibility and reducing congestion."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

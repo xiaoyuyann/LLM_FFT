@@ -1,0 +1,16 @@
+{
+  "community_area": "Roseland",
+  "thinking": {
+    "disposable_income": "Roseland is a community with a relatively lower median household income compared to the city average. This means that residents are more sensitive to increases in costs, whether through taxes, fares, or fees.",
+    "discretionary_consumption": "Given the lower disposable income, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Roseland has moderate access to public transit, but improvements in transit times could greatly benefit the community. Many residents rely on public transportation, so lower fares and improved service are crucial.",
+    "decision_rationale": "Considering Roseland's lower income levels, policies with lower fares and minimal tax increases are preferred to avoid burdening residents financially. Improved transit times are also a priority to enhance accessibility. Therefore, policies with a $0.75 fare and minimal tax increases are favored, especially if they also reduce car travel times, as this could encourage a shift from driving to transit, reducing congestion and emissions."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

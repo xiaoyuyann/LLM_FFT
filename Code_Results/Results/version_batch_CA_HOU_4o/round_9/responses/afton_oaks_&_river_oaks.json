@@ -1,0 +1,16 @@
+{
+  "community_area": "Afton Oaks / River Oaks",
+  "thinking": {
+    "disposable_income": "Afton Oaks / River Oaks is a relatively affluent neighborhood with a high average disposable income.",
+    "discretionary_consumption": "Residents in this area have a high level of discretionary consumption, often spending on luxury goods and services.",
+    "accessibility": "The neighborhood has good accessibility to resources and services, with a high rate of car ownership and less reliance on public transit.",
+    "decision_rationale": "Given the high disposable income and discretionary spending, the community can absorb higher costs if it results in significant benefits. The focus is on reducing travel time and improving transit services, even if it means higher fares and fees. A lower sales tax is preferred to maintain discretionary spending. Therefore, proposals with moderate to high driver fees and fares, but lower sales tax, are prioritized to enhance transit services and reduce congestion, aligning with the community's ability to pay for improved services."
+  },
+  "vote": [
+    1,
+    3,
+    5,
+    8,
+    11
+  ]
+}

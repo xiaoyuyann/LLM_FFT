@@ -1,0 +1,16 @@
+{
+  "community_area": "Edison Park",
+  "thinking": {
+    "disposable_income": "Edison Park is a relatively affluent community with a higher median household income compared to the city average. Residents generally have more disposable income, which allows for some flexibility in absorbing additional costs from transportation policies.",
+    "discretionary_consumption": "With higher disposable income, residents of Edison Park have a higher level of discretionary consumption. They are likely to prioritize convenience and time savings over cost savings, but they are also sensitive to significant increases in costs that could impact their lifestyle.",
+    "accessibility": "Edison Park has moderate access to public transit, with Metra services being a primary mode for commuters. Car ownership is high, and driving is a common mode of transportation. Reducing travel time by car and improving transit services would be beneficial for the community.",
+    "decision_rationale": "Given the community's higher income and preference for convenience, policies that reduce travel time, especially by car, are prioritized. A moderate increase in transit fare and driver fees is acceptable if it results in significant time savings. A lower sales tax is preferred to minimize the impact on discretionary spending. Therefore, proposals that balance these factors by offering reduced travel times and moderate costs are ranked higher."
+  },
+  "vote": [
+    2,
+    5,
+    11,
+    14,
+    19
+  ]
+}

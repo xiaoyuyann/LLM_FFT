@@ -1,0 +1,16 @@
+{
+  "community_area": "Kingwood",
+  "thinking": {
+    "disposable_income": "Kingwood is an affluent suburban community with median household income around $100,000, significantly higher than Houston's average.",
+    "discretionary_consumption": "Residents have substantial discretionary spending power and typically make frequent retail/entertainment trips to local town centers and Downtown Houston.",
+    "accessibility": "Kingwood is a car-dependent suburban community with limited public transit options, located about 23 miles northeast of downtown Houston with most residents relying on personal vehicles.",
+    "decision_rationale": "1) Given high car dependency and income levels, policies with lower driving fees are preferred 2) Higher sales tax is acceptable due to high discretionary spending power if it improves transit 3) Moderate transit fares are acceptable since transit is not primary mode 4) Prioritized policies that reduce car travel times while keeping driving costs manageable 5) Selected proposals balancing improved transit service without excessive driving penalties"
+  },
+  "vote": [
+    18,
+    15,
+    6,
+    21,
+    9
+  ]
+}

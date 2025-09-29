@@ -1,0 +1,16 @@
+{
+  "community_area": "West Pullman",
+  "thinking": {
+    "disposable_income": "The median income in West Pullman is $46,861, with a significant portion of the population earning less than $50,000. This suggests limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With a per capita income of $24,916, residents may prioritize essential spending over discretionary consumption. High transit fares or driver fees could significantly impact their budget.",
+    "accessibility": "63.1% of residents drive alone, while 12% use transit. Improving transit times and affordability could benefit those without vehicles (23.4% of households) and those who rely on public transportation.",
+    "decision_rationale": "Given the community's income constraints and reliance on both driving and transit, policies that balance lower costs with improved transit times are prioritized. Lower fares and moderate driver fees can encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it significantly improves transit services, as it supports those without vehicles and can reduce congestion for drivers."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

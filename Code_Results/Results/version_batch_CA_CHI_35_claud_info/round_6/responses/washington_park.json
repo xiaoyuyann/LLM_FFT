@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Park",
+  "thinking": {
+    "disposable_income": "Very low disposable income with median household income of $26,014 and nearly half (49.3%) of households earning less than $25,000. This suggests high sensitivity to any cost increases.",
+    "discretionary_consumption": "Limited discretionary spending capacity due to low income levels. Any additional transportation costs or sales tax would significantly impact already constrained household budgets.",
+    "accessibility": "High transit dependency with 42.8% having no vehicle and 32.3% using transit for commuting. Mean commute time is 38.4 minutes, suggesting accessibility challenges.",
+    "decision_rationale": "1. Prioritize lowest transit fares ($0.75) due to low income and high transit usage. 2. Prefer lower sales tax (0.5-1.0%) to minimize impact on limited discretionary spending. 3. Support moderate driving fees ($0.50-$1.00) to improve transit service without overly burdening car-owning residents. 4. Balance between transit time improvements and cost burden. 5. Consider proposals that reduce transit travel time from current 58.8 minutes."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    9
+  ]
+}

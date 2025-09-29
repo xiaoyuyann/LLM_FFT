@@ -1,0 +1,16 @@
+{
+  "community_area": "Brays Oaks",
+  "thinking": {
+    "disposable_income": "Brays Oaks has a median household income of approximately $41,000, which is below Houston's median, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With a significant portion of residents living on modest incomes and about 25% below poverty level, discretionary spending is limited and residents are sensitive to additional taxes and fees.",
+    "accessibility": "The area has moderate transit access with several bus routes but many residents rely on personal vehicles, with average commute times being slightly higher than the city average.",
+    "decision_rationale": "1) Prioritized proposals with lower sales tax (0.5%) to minimize impact on limited discretionary income 2) Favored moderate transit fares ($0.75-$1.25) to keep transit affordable while maintaining service quality 3) Considered moderate driving fees ($0.50) to improve transit without overly burdening car-dependent residents 4) Selected proposals that achieve balance between transit improvement and cost burden 5) Ranked proposals that offer better travel time improvements while minimizing total cost impact on residents"
+  },
+  "vote": [
+    0,
+    2,
+    7,
+    10,
+    16
+  ]
+}

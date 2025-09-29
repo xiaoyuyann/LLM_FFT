@@ -1,0 +1,16 @@
+{
+  "community_area": "Ashburn",
+  "thinking": {
+    "disposable_income": "The median income in Ashburn is $78,060, with a per capita income of $28,910. A significant portion of the population earns between $50,000 and $149,999, indicating a moderate level of disposable income.",
+    "discretionary_consumption": "With a diverse income distribution, a portion of the community may be sensitive to increases in transit fares and driver fees. The community's spending on goods and services could be impacted by higher taxes and fees.",
+    "accessibility": "67.6% of residents drive alone, while 11.4% use transit. Car ownership is high, with 92.3% of households owning at least one vehicle. This suggests a reliance on driving, but there is also a notable transit-using population.",
+    "decision_rationale": "Given the high car ownership and reliance on driving, policies that reduce driving time and costs are favorable. However, improving transit times and maintaining affordable fares are also important for the 11.4% who use transit. Balancing these needs, proposals with moderate taxes, lower fares, and reasonable driver fees are prioritized. The goal is to enhance transit services without significantly increasing costs for drivers or transit users, while also considering the impact on discretionary spending."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

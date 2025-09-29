@@ -1,0 +1,16 @@
+{
+  "community_area": "Burnside",
+  "thinking": {
+    "disposable_income": "Burnside is a community with a relatively low median household income compared to the city average. This means that residents have limited disposable income, making cost considerations crucial when evaluating transportation policies.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is limited. Residents prioritize essential expenses, so any increase in transportation costs could significantly impact their ability to afford other necessities.",
+    "accessibility": "Burnside has moderate access to public transit, but improvements in transit services could enhance accessibility. Many residents rely on public transportation, so policies that improve transit times and affordability are beneficial.",
+    "decision_rationale": "The decision-making process involves balancing the need for affordable transportation with the potential benefits of improved transit services. Lower fares and taxes are prioritized to minimize the financial burden on residents. However, some increase in driver fees is acceptable if it leads to significant reductions in travel time and congestion, benefiting those who rely on public transit. The selected policies aim to provide the best combination of affordability and improved service for the community."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Spring Branch West",
+  "thinking": {
+    "disposable_income": "Spring Branch West has a median household income of around $55,000, placing it in the middle-income range for Houston, with about 15% of residents below poverty level.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity, with most households spending significant portions on housing, transportation, and basic necessities, leaving limited flexibility for additional fees or taxes.",
+    "accessibility": "The area is primarily car-dependent with limited public transit options, featuring some bus routes but no direct rail access, and most residents (approximately 85%) rely on personal vehicles for commuting.",
+    "decision_rationale": "1) Prioritized policies with lower sales tax (0.5%) to protect discretionary income given the middle-income demographic 2) Favored moderate driving fees ($0.50) over high fees ($1.00) since most residents are car-dependent 3) Supported lower transit fares ($0.75-$1.25) to encourage transit use while maintaining affordability 4) Balanced travel time improvements with cost impacts 5) Considered the community's car-dependent nature while promoting gradual transit adoption"
+  },
+  "vote": [
+    2,
+    0,
+    4,
+    10,
+    7
+  ]
+}

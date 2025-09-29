@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Square",
+  "thinking": {
+    "disposable_income": "Lincoln Square has a relatively high median income of $90,569, with 45.2% of households earning over $100,000. However, there's income diversity with 25.7% earning under $50,000, suggesting varying levels of disposable income across the community",
+    "discretionary_consumption": "With a per capita income of $57,351, residents have moderate to high discretionary spending power. The sales tax impact would be notable but manageable for most residents, though it would affect lower-income households more significantly",
+    "accessibility": "The community shows diverse transportation usage: 39.1% drive alone, 26% use transit, and 21.6% work from home. 74.5% of households own at least one car, while 21.6% have no vehicle, indicating good mixed-mode accessibility needs",
+    "decision_rationale": "1. Prioritized balanced policies that benefit both transit and car users given the mixed transportation profile. 2. Considered moderate tax rates to maintain services without overly burdening lower-income residents. 3. Favored proposals with lower transit fares to support the significant transit-dependent population. 4. Selected options with moderate driving fees to reduce congestion while not excessively penalizing drivers. 5. Weighted travel time improvements against cost increases for both modes"
+  },
+  "vote": [
+    13,
+    10,
+    4,
+    19,
+    22
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Mount Greenwood",
+  "thinking": {
+    "disposable_income": "Mount Greenwood is a middle-class community with a relatively stable disposable income. Residents are likely to be sensitive to significant increases in costs, whether through taxes, transit fares, or driving fees.",
+    "discretionary_consumption": "The community has a moderate level of discretionary consumption. Residents value affordability in transportation to maintain their lifestyle and spending on other goods and services.",
+    "accessibility": "Mount Greenwood has moderate accessibility to resources and services. Many residents rely on driving, but there is also a need for efficient and affordable transit options to reduce congestion and improve accessibility.",
+    "decision_rationale": "Given the community's sensitivity to cost increases and the need for efficient transportation, proposals with lower transit fares and moderate driving fees are preferred. A balance between maintaining affordable transit options and reducing congestion through driver fees is crucial. Proposals with a 0.5% or 1% sales tax are favored to avoid significant impacts on disposable income. The selected proposals aim to improve transit times without drastically increasing costs for residents."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

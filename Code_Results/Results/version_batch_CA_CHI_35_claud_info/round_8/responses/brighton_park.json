@@ -1,0 +1,16 @@
+{
+  "community_area": "Brighton Park",
+  "thinking": {
+    "disposable_income": "Brighton Park is a working-class community with median income of $52,145, significantly below Chicago's average. About 48% of households earn less than $50,000 annually, indicating limited disposable income for many residents",
+    "discretionary_consumption": "With a large Hispanic population (80%) and average household size of 3.2, many families likely have limited discretionary spending capacity after essential expenses. Higher sales taxes would notably impact household budgets",
+    "accessibility": "84.5% of households own at least one car, with driving alone (58.8%) and carpooling (17.8%) being primary commute modes. Transit usage is moderate at 15.1%, suggesting some transit dependency but car-centric transportation",
+    "decision_rationale": "1. Given limited disposable income, prefer lower sales tax (0.5-1.0%) to minimize impact on household budgets. 2. With significant car dependency, avoid highest driving fees to protect working families. 3. Lower transit fares preferred to support transit-dependent population. 4. Balance between improved transit service and cost burden. 5. Moderate driving fees acceptable to reduce congestion while not overly burdening drivers"
+  },
+  "vote": [
+    10,
+    4,
+    13,
+    1,
+    11
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Uptown",
+  "thinking": {
+    "disposable_income": "Uptown has a median income of $66,871 and a per capita income of $49,783. A significant portion of the population earns less than $50,000, indicating a need for affordable transportation options.",
+    "discretionary_consumption": "With a diverse income distribution, a substantial portion of Uptown's residents may be sensitive to increases in transportation costs, which could impact their ability to spend on other necessities.",
+    "accessibility": "Uptown has a high percentage of residents using transit (34.9%) and a significant number without vehicles (42.1%). This suggests a strong reliance on public transportation, making transit affordability and efficiency crucial.",
+    "decision_rationale": "Given the high reliance on public transit and the income distribution, policies that lower transit fares and improve transit times are prioritized. A moderate sales tax is acceptable if it significantly improves transit services. Driver fees are less impactful due to the lower percentage of car ownership and driving alone. Therefore, proposals with lower fares and improved transit times, even with moderate sales tax, are preferred."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Albany Park",
+  "thinking": {
+    "disposable_income": "Albany Park has a median household income of approximately $57,000, which is slightly below Chicago's median. About 15% of residents live below poverty level, indicating a significant portion of the population has limited disposable income",
+    "discretionary_consumption": "Given the moderate income levels, residents have limited discretionary spending capacity. Many households spend a significant portion of income on housing and essential needs, making them sensitive to additional transportation costs and taxes",
+    "accessibility": "The area is served by the Brown Line (Kimball, Kedzie, Francisco stations), multiple bus routes, and has good road connectivity. About 35% of residents use public transit for commuting, 45% drive, and others walk or bike. Many residents rely on both transit and driving for different trip purposes",
+    "decision_rationale": "1. Prioritize lower transit fares ($0.75) to support transit-dependent residents and encourage transit use. 2. Moderate tax rate (1%) to balance revenue needs with household budget impacts. 3. Include some driving fees ($0.50-$1.00) to reduce congestion and support transit while not overly burdening drivers. 4. Consider total travel time improvements for both modes since residents use both. 5. Balance between improved service and cost burden on mixed-income population"
+  },
+  "vote": [
+    11,
+    10,
+    20,
+    19,
+    2
+  ]
+}

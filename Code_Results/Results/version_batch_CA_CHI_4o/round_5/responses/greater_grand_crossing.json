@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Grand Crossing",
+  "thinking": {
+    "disposable_income": "Greater Grand Crossing has a relatively low median household income compared to the city average, which means residents are sensitive to increases in costs, whether through fares, fees, or taxes.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, so any increase in transportation costs could significantly impact their ability to spend on other necessities.",
+    "accessibility": "The community relies heavily on public transit due to lower car ownership rates. Efficient and affordable transit options are crucial for accessing jobs, education, and services.",
+    "decision_rationale": "Given the community's reliance on public transit and sensitivity to cost increases, the priority is to minimize fare and tax increases while improving transit efficiency. Proposals with lower fares and moderate taxes are preferred to balance affordability and service improvement. Driver fees are less impactful as car ownership is lower, but they can help reduce congestion and improve transit times. The selected proposals aim to enhance transit accessibility and affordability while considering the community's economic constraints."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

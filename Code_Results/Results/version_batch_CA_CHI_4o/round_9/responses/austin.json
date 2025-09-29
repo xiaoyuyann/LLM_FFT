@@ -1,0 +1,16 @@
+{
+  "community_area": "Austin",
+  "thinking": {
+    "disposable_income": "Austin is a community with a median household income lower than the city average, indicating limited disposable income. Residents are sensitive to increases in costs, whether through fares, fees, or taxes.",
+    "discretionary_consumption": "Given the lower disposable income, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Austin has moderate access to public transit, but travel times are relatively long. Improving transit efficiency and reducing travel time would be beneficial. Many residents rely on public transit, but some also drive, so both modes of transportation are important.",
+    "decision_rationale": "The decision prioritizes minimizing costs while improving transit efficiency. Lower fares and taxes are preferred to reduce the financial burden on residents. However, some increase in driver fees is acceptable if it significantly reduces travel time and improves transit services. The selected proposals aim to balance affordability with improved accessibility and efficiency."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

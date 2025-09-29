@@ -1,0 +1,16 @@
+{
+  "community_area": "Mid-West",
+  "thinking": {
+    "disposable_income": "Mid-West has a moderate median household income around $55,000, with about 20% of residents living below poverty level, indicating varied but generally constrained disposable income levels.",
+    "discretionary_consumption": "The area has moderate discretionary spending capacity, with many residents being cost-sensitive to additional taxes and fees given the mixed-income nature of the neighborhood.",
+    "accessibility": "The neighborhood has good road access via Westheimer Road and Gessner Road, moderate bus service, but limited rail transit access, with most residents relying on personal vehicles for transportation.",
+    "decision_rationale": "1) Prioritized policies with lower sales tax (0.5-1.0%) to protect discretionary spending 2) Favored moderate driving fees ($0.50) to improve transit without excessive burden on drivers 3) Selected lower transit fares ($0.75-$1.25) to keep transit affordable 4) Balanced travel time improvements with cost impacts 5) Considered the area's car-dependent nature while supporting transit improvements"
+  },
+  "vote": [
+    7,
+    0,
+    10,
+    2,
+    8
+  ]
+}

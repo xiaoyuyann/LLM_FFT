@@ -1,0 +1,16 @@
+{
+  "community_area": "Dunning",
+  "thinking": {
+    "disposable_income": "Dunning has a relatively high percentage of households earning over $100,000, with 41.1% of households in this bracket. This suggests a moderate to high level of disposable income, allowing for some flexibility in absorbing additional costs from transportation policies.",
+    "discretionary_consumption": "With a significant portion of the population earning above $100,000, discretionary spending is likely robust. However, the community still has a notable percentage (29.3%) earning below $50,000, indicating that cost increases could impact a substantial minority.",
+    "accessibility": "The majority of residents (72.1%) drive alone, indicating a strong reliance on personal vehicles. Only 7.3% use transit, suggesting that improvements in transit could benefit a small but potentially growing segment of the population. Car ownership is high, with 93.7% of households owning at least one vehicle.",
+    "decision_rationale": "Given the high reliance on driving, policies that reduce driving time and improve transit could be beneficial. However, the community's relatively high income allows for some flexibility in absorbing higher costs. A balance between improving transit and maintaining reasonable costs is crucial. Policies with moderate taxes and fees that significantly reduce travel times are prioritized. The community's high car ownership and preference for driving suggest that policies with higher driver fees might be less favorable unless they offer substantial benefits in terms of reduced congestion and improved transit times."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

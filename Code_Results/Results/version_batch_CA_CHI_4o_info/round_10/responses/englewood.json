@@ -1,0 +1,16 @@
+{
+  "community_area": "Englewood",
+  "thinking": {
+    "disposable_income": "Englewood has a low median income of $27,792 and a per capita income of $17,897. A significant portion of the population earns less than $25,000, indicating limited disposable income.",
+    "discretionary_consumption": "With a high percentage of households earning below $25,000, discretionary spending is likely minimal. Any increase in transportation costs could significantly impact the ability to spend on other necessities.",
+    "accessibility": "44.6% of households do not own a vehicle, and 25.2% rely on transit. This suggests a high dependency on public transportation, making transit affordability and efficiency crucial for accessibility.",
+    "decision_rationale": "Given the low income levels and high reliance on public transit, policies with lower transit fares and moderate driver fees are prioritized to maintain affordability and improve transit efficiency. A lower sales tax is preferred to minimize the impact on discretionary spending. The selected policies aim to balance cost, transit efficiency, and accessibility improvements."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

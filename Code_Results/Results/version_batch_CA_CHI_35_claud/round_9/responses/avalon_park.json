@@ -1,0 +1,16 @@
+{
+  "community_area": "Avalon Park",
+  "thinking": {
+    "disposable_income": "Avalon Park has a median household income of approximately $41,500, which is below Chicago's median. About 20% of residents live below poverty level, indicating limited disposable income for many households",
+    "discretionary_consumption": "Given the income levels, residents have limited discretionary spending capacity. Higher sales taxes or transportation costs would significantly impact household budgets. Many residents need to carefully balance essential expenses",
+    "accessibility": "The community is served by the Metra Electric District line and several bus routes, but many residents rely on cars. About 75% of households own vehicles, with driving being a primary mode of transportation. Transit access exists but travel times are significantly longer than driving",
+    "decision_rationale": "1. Given limited disposable income, prioritize lower taxes and fares while maintaining service quality. 2. Consider policies that reduce transit travel times without excessive cost burden. 3. Balance driving costs since many residents depend on cars. 4. Policy 9 ranks first with low fare and moderate tax. 5. Policy 3 second with low tax but moderate fare. 6. Policy 0 third with lowest tax and fare combination. 7. Policy 10 fourth as it improves transit times with moderate costs. 8. Policy 4 fifth as it balances costs with improved service"
+  },
+  "vote": [
+    9,
+    3,
+    0,
+    10,
+    4
+  ]
+}

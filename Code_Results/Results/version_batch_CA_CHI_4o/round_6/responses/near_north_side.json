@@ -1,0 +1,16 @@
+{
+  "community_area": "Near North Side",
+  "thinking": {
+    "disposable_income": "The Near North Side is one of the more affluent areas in Chicago, with a higher average disposable income compared to other communities. Residents can generally afford higher costs associated with transportation, but they still value cost-effectiveness.",
+    "discretionary_consumption": "Given the higher disposable income, residents have a higher level of discretionary consumption. They spend on a variety of goods and services, including dining, entertainment, and retail, which means that any increase in transportation costs should be balanced with the benefits provided.",
+    "accessibility": "The Near North Side has excellent accessibility to resources and services, with a well-connected public transit system and proximity to downtown Chicago. Many residents rely on public transit for commuting, but there is also a significant number of car owners.",
+    "decision_rationale": "Given the community's higher income and reliance on both public transit and driving, the focus is on reducing travel time while maintaining reasonable costs. A lower transit fare is preferred to encourage public transit use, but a moderate driver fee is acceptable if it significantly reduces travel time. A higher sales tax is less of a concern due to the community's higher income, as long as it results in better transit services. The selected proposals balance these factors, prioritizing reduced travel times and maintaining or slightly reducing costs for transit users."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

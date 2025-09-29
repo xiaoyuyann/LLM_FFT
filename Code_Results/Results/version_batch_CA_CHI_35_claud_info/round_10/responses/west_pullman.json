@@ -1,0 +1,16 @@
+{
+  "community_area": "West Pullman",
+  "thinking": {
+    "disposable_income": "West Pullman has relatively low income levels with median income of $46,861 and 52.3% households earning less than $50,000. This suggests limited disposable income and high sensitivity to transportation costs.",
+    "discretionary_consumption": "With high percentage of low-income households and per capita income of $24,916, residents likely have limited discretionary spending capacity. Additional taxes or fees would significantly impact their consumption ability.",
+    "accessibility": "23.4% households have no vehicle, making transit essential. However, current transit usage is only 12% while 63.1% drive alone, suggesting possible transit service gaps. Travel times show significant disparity - transit takes 2-3x longer than driving.",
+    "decision_rationale": "1. Prioritized lower transit fares ($0.75) given income constraints and car-less households. 2. Favored lower sales tax (0.5-1.0%) to preserve purchasing power. 3. Moderate driving fees ($0.50) to improve transit service while not overly burdening majority who drive. 4. Balanced travel time improvements with cost impacts. 5. Selected proposals that reduce transit travel time below 55 minutes while keeping costs affordable."
+  },
+  "vote": [
+    1,
+    10,
+    4,
+    19,
+    13
+  ]
+}

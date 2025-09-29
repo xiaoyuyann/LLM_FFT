@@ -1,0 +1,16 @@
+{
+  "community_area": "Lower West Side",
+  "thinking": {
+    "disposable_income": "Lower West Side has a median household income of approximately $43,000, which is below Chicago's median. Many residents work in service and manufacturing jobs, with about 22% of the population living below poverty level. This suggests limited disposable income for many households.",
+    "discretionary_consumption": "Given the income levels, discretionary spending is relatively constrained. Many households need to carefully budget for essential expenses. Higher sales taxes or transportation costs would significantly impact household budgets.",
+    "accessibility": "The area has good access to public transit with Pink Line stations and several bus routes. About 30% of households don't own cars. Many residents rely on public transit for commuting to work and accessing services. The area is relatively close to downtown, making transit a viable option.",
+    "decision_rationale": "1. Given limited disposable income, prioritize lower fares and taxes to protect household budgets. 2. Strong transit dependency means policies should maintain good transit service. 3. Lower driving fees preferred since many working families need cars for jobs/errands. 4. Balance between transit improvement and cost burden leads to moderate policy combinations. 5. Selected policies that reduce transit travel times while keeping costs manageable for mixed-mode households."
+  },
+  "vote": [
+    10,
+    9,
+    3,
+    0,
+    12
+  ]
+}

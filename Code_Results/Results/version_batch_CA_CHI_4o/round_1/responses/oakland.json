@@ -1,0 +1,16 @@
+{
+  "community_area": "Oakland",
+  "thinking": {
+    "disposable_income": "Oakland is a community with a moderate to low average disposable income. Many residents may be sensitive to increases in transportation costs, whether through fares, fees, or taxes.",
+    "discretionary_consumption": "Given the moderate to low disposable income, discretionary consumption is likely limited. Residents prioritize essential expenses, so any increase in transportation costs could significantly impact their budget for other goods and services.",
+    "accessibility": "Oakland has moderate accessibility to resources and services. Public transit is a crucial mode of transportation for many residents, but driving is also common. Improvements in transit times could benefit the community, but not at the expense of significantly higher costs.",
+    "decision_rationale": "The decision prioritizes maintaining or reducing costs for residents while improving transit times. Lower fares and taxes are preferred to minimize the financial burden on residents. Proposals with moderate driver fees are considered if they significantly improve transit times, as this could encourage a shift from driving to transit, reducing congestion and emissions. The top-ranked proposals balance these factors, aiming to improve transit efficiency without imposing excessive costs on the community."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Northside Village",
+  "thinking": {
+    "disposable_income": "Northside Village has a relatively low to moderate disposable income, with many residents working in blue-collar jobs.",
+    "discretionary_consumption": "The community prioritizes essential spending, with limited discretionary consumption due to budget constraints.",
+    "accessibility": "Public transit is a crucial mode of transportation for many residents, but current services are often slow and less frequent, making accessibility to jobs and services challenging.",
+    "decision_rationale": "Given the low to moderate disposable income, policies with lower transit fares and moderate sales taxes are preferred to minimize financial burden. Improving transit times is crucial for accessibility, so options that reduce travel time significantly are prioritized. A balance between fare, tax, and driving fees is necessary to ensure affordability while enhancing transit services. Policies with a $0.75 fare and moderate driving fees are favored to encourage transit use and reduce congestion, while a 1% sales tax is acceptable to support transit improvements without overly burdening residents."
+  },
+  "vote": [
+    8,
+    11,
+    7,
+    10,
+    13
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Denver Harbor / Port Houston",
+  "thinking": {
+    "disposable_income": "Denver Harbor / Port Houston has a relatively low average disposable income compared to other neighborhoods in Houston.",
+    "discretionary_consumption": "Residents in this area have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "The neighborhood has moderate access to public transit, but many residents rely on personal vehicles due to the limited reach and frequency of transit services.",
+    "decision_rationale": "Given the lower disposable income, minimizing costs for both transit and driving is crucial. A lower transit fare and driving fee are prioritized to ensure affordability. The sales tax is considered, but a balance is needed to avoid excessive burden on residents. Improved transit times are also important to encourage usage and reduce reliance on personal vehicles. Therefore, proposals with lower fares and fees, moderate sales tax, and improved travel times are preferred."
+  },
+  "vote": [
+    0,
+    7,
+    10,
+    2,
+    6
+  ]
+}

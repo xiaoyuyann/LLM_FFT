@@ -1,0 +1,16 @@
+{
+  "community_area": "Belmont Cragin",
+  "thinking": {
+    "disposable_income": "Belmont Cragin is a working-class community with moderate income levels - 42.9% of households earn less than $50,000 annually, while 28.5% earn over $100,000. This suggests sensitivity to both transit fares and sales tax increases.",
+    "discretionary_consumption": "With a large average household size of 3.2 and significant portion of lower-middle income households, discretionary spending is likely limited. Higher sales taxes would notably impact household budgets.",
+    "accessibility": "84.3% of households have at least one vehicle, with driving alone (57.7%) and carpooling (13.3%) being primary commute modes. Transit usage is moderate at 15.3%, suggesting need for both efficient driving and transit options.",
+    "decision_rationale": "1. Prioritized policies that balance moderate transit fares with lower sales tax burden, given income distribution. 2. Considered moderate driving fees to improve transit service without overly burdening drivers, as most households depend on cars. 3. Sought options that reduce both transit and driving times, given mixed modal split. 4. Favored proposals that don't overly burden lower-income households with high sales tax. 5. Selected options that improve transit service while maintaining reasonable costs for both transit users and drivers."
+  },
+  "vote": [
+    13,
+    4,
+    10,
+    1,
+    21
+  ]
+}

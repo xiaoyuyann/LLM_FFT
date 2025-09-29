@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Park",
+  "thinking": {
+    "disposable_income": "Washington Park has a relatively low median household income compared to other areas in Chicago, which means residents are more sensitive to increases in costs such as transit fares and driver fees.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, so any increase in transportation costs could significantly impact their ability to afford other necessities.",
+    "accessibility": "Washington Park has moderate access to public transit, but improvements in transit service could greatly benefit residents who rely on it for commuting and accessing services. However, the community also has a significant number of car owners who would be affected by driver fees.",
+    "decision_rationale": "Given the low disposable income, proposals with lower transit fares and driver fees are preferred to minimize the financial burden on residents. A moderate sales tax is acceptable if it leads to improved transit services, as long as it doesn't significantly impact discretionary spending. Reducing travel time is also a priority to improve accessibility and quality of life. Therefore, proposals that balance lower costs with improved transit times are prioritized."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

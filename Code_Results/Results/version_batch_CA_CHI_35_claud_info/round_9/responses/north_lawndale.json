@@ -1,0 +1,16 @@
+{
+  "community_area": "North Lawndale",
+  "thinking": {
+    "disposable_income": "North Lawndale is a low-income community with 63% of households making less than $50,000 annually and a median income of $33,334. This suggests residents are particularly sensitive to cost increases from transportation policies.",
+    "discretionary_consumption": "With a high percentage of low-income households, discretionary spending is likely very limited. Higher sales taxes would significantly impact household budgets, as would increased transit fares given the 23.7% transit usage.",
+    "accessibility": "36.5% of households have no vehicle, making transit accessibility crucial. 23.7% use transit for commuting while 57.3% drive alone. The community needs balanced policies that maintain affordable transit while improving service.",
+    "decision_rationale": "1. Prioritized policies with lower sales tax (0.5%) to minimize impact on limited discretionary income. 2. Favored moderate driving fees ($0.50) to improve transit service without excessive burden. 3. Selected lower transit fares ($0.75-$1.25) given high transit dependency and low incomes. 4. Balanced travel time improvements with cost impacts. 5. Considered high percentage of both transit users and drivers in the community."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Edgebrook",
+  "thinking": {
+    "disposable_income": "Edgebrook has a moderate disposable income level, with many residents working in blue-collar and service jobs.",
+    "discretionary_consumption": "Residents in Edgebrook tend to have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "Edgebrook has moderate accessibility to resources and services, with a reliance on both public transit and personal vehicles for commuting and daily activities.",
+    "decision_rationale": "Given the moderate disposable income and limited discretionary spending, it is important to minimize additional financial burdens on residents. Therefore, lower transit fares and driving fees are prioritized to maintain affordability. Additionally, reducing travel times is crucial to improve accessibility and quality of life. The selected policies balance these factors by offering reduced travel times and costs, while also considering the impact of sales tax on overall consumption. Policies with a 0.5% sales tax are preferred to minimize the impact on disposable income, while still improving transit services through reasonable fare and fee adjustments."
+  },
+  "vote": [
+    1,
+    0,
+    3,
+    2,
+    5
+  ]
+}

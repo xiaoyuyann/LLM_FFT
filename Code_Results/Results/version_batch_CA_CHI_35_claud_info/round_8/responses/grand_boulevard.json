@@ -1,0 +1,16 @@
+{
+  "community_area": "Grand Boulevard",
+  "thinking": {
+    "disposable_income": "Grand Boulevard has relatively low income levels with 53.6% of households earning less than $50,000 annually. The median income of $43,048 suggests limited disposable income for many residents, making them sensitive to transportation costs.",
+    "discretionary_consumption": "With a high percentage of low-income households and 30.3% having no vehicle, residents likely have limited discretionary spending capacity. Additional transportation costs and sales taxes would significantly impact their ability to purchase other goods and services.",
+    "accessibility": "The community shows significant transit dependence with 21.4% using transit and 30.3% having no vehicle. However, 49.3% drive alone, indicating a mix of transportation needs. Current transit travel times are considerably higher than driving times, affecting accessibility.",
+    "decision_rationale": "1. Prioritize lower transit fares ($0.75) due to high proportion of low-income residents and transit users. 2. Favor lower sales tax (0.5%) to protect limited discretionary income. 3. Support moderate driving fees ($0.50) to improve transit service without overly burdening drivers. 4. Balance between reducing transit travel times and keeping costs affordable. 5. Consider high percentage of both transit users and drivers in the community."
+  },
+  "vote": [
+    1,
+    0,
+    10,
+    4,
+    3
+  ]
+}

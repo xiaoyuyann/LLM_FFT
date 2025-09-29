@@ -1,0 +1,16 @@
+{
+  "community_area": "West University Place",
+  "thinking": {
+    "disposable_income": "West University Place is known for its high disposable income, with many residents having substantial financial resources.",
+    "discretionary_consumption": "Residents in West University Place have a high level of discretionary consumption, often spending on luxury goods, services, and experiences.",
+    "accessibility": "The area has good accessibility to resources and services, with many residents relying on personal vehicles, but there is also a demand for efficient transit options.",
+    "decision_rationale": "Given the high disposable income, residents can afford higher fares and fees if it results in significantly improved transit services and reduced travel times. The focus is on reducing travel time and improving service quality, even if it means a higher sales tax or fare. The community values efficient transportation options that can reduce congestion and improve overall quality of life. Therefore, proposals with higher driver fees and fares, which lead to reduced travel times and better transit services, are prioritized. The tradeoff between cost and service improvement is carefully balanced, with a preference for options that enhance transit efficiency and reduce car travel time."
+  },
+  "vote": [
+    23,
+    20,
+    14,
+    11,
+    5
+  ]
+}

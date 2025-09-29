@@ -1,0 +1,16 @@
+{
+  "community_area": "Avalon Park",
+  "thinking": {
+    "disposable_income": "The median income in Avalon Park is $54,139, with a significant portion of the population earning less than $50,000. This suggests that the community may be sensitive to increases in costs related to transportation, such as higher fares or driver fees.",
+    "discretionary_consumption": "With a per capita income of $31,626, residents may have limited discretionary spending. Therefore, policies that minimize additional financial burdens while improving transit services would be beneficial.",
+    "accessibility": "A significant portion of the community relies on driving alone (58.5%) and transit (24.1%) for commuting. Improving transit times and maintaining affordable fares could enhance accessibility for those who depend on public transportation.",
+    "decision_rationale": "Given the community's income distribution and reliance on both driving and transit, the focus is on balancing affordability with improved transit services. Lower fares and moderate driver fees can encourage transit use, reduce congestion, and improve travel times. A lower sales tax is preferred to minimize the impact on discretionary spending. The selected proposals aim to reduce travel times for both modes while keeping costs manageable for residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    11
+  ]
+}

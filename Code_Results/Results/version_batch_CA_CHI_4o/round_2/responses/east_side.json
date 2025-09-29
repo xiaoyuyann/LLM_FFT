@@ -1,0 +1,16 @@
+{
+  "community_area": "East Side",
+  "thinking": {
+    "disposable_income": "The East Side community has a moderate to low disposable income, with many residents working in blue-collar jobs. This means that any increase in transportation costs could significantly impact their budget.",
+    "discretionary_consumption": "Given the moderate to low disposable income, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could reduce their ability to spend on non-essential items.",
+    "accessibility": "The East Side has limited access to public transit options, making driving a necessity for many residents. However, improving transit services could provide more affordable and accessible options for those who rely on public transportation.",
+    "decision_rationale": "The decision-making process involves balancing the need for affordable transportation with the potential benefits of improved transit services. Lower fares and taxes are prioritized to minimize the financial burden on residents. However, some increase in driver fees is acceptable if it leads to reduced congestion and better transit services. The selected proposals aim to provide a balance between affordability and improved accessibility, considering the community's reliance on both driving and public transit."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

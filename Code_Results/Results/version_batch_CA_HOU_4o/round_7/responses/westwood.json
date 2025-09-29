@@ -1,0 +1,16 @@
+{
+  "community_area": "Westwood",
+  "thinking": {
+    "disposable_income": "Westwood has a moderate to low disposable income, with many residents working in service and blue-collar jobs.",
+    "discretionary_consumption": "Residents in Westwood have limited discretionary spending, prioritizing essential goods and services.",
+    "accessibility": "Westwood has moderate access to public transit, but many residents rely on personal vehicles due to limited transit coverage and longer travel times.",
+    "decision_rationale": "Given the moderate to low disposable income, it is crucial to minimize additional financial burdens on residents. Lower transit fares and driving fees are preferred to maintain affordability. A moderate sales tax is acceptable if it significantly improves transit services, reducing travel times and encouraging public transit use. The top-ranked proposals balance lower costs with improved transit times, considering the community's reliance on both driving and public transit."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

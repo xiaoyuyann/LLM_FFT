@@ -1,0 +1,16 @@
+{
+  "community_area": "Fuller Park",
+  "thinking": {
+    "disposable_income": "Fuller Park is a low-income community with 70% of households earning less than $25,000 annually, making residents highly sensitive to any cost increases in transportation or taxes",
+    "discretionary_consumption": "With such low income levels, residents have very limited discretionary spending capacity, making them vulnerable to any additional transportation costs or sales tax increases",
+    "accessibility": "58% of households have no vehicle, making transit accessibility crucial. Current mode split shows 18.7% transit use, 49.3% drive alone, and 22.6% carpool, indicating heavy reliance on both transit and shared car usage",
+    "decision_rationale": "1. Prioritize lowest transit fares ($0.75) due to low income levels and high transit dependency. 2. Prefer lower sales tax (0.5-1.0%) to protect limited discretionary income. 3. Support moderate driving fees ($0.50) to improve transit service without excessive burden on carpoolers. 4. Balance between transit time improvements and cost impacts. 5. Consider proposals that reduce transit travel time below 55 minutes while maintaining affordability."
+  },
+  "vote": [
+    1,
+    10,
+    0,
+    9,
+    4
+  ]
+}

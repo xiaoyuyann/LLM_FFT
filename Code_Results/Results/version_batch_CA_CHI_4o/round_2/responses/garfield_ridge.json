@@ -1,0 +1,16 @@
+{
+  "community_area": "Garfield Ridge",
+  "thinking": {
+    "disposable_income": "Garfield Ridge is a middle-income community with a moderate level of disposable income. Residents are sensitive to increases in costs that could impact their overall budget.",
+    "discretionary_consumption": "The community has a balanced discretionary consumption pattern, with spending on essentials and some leisure activities. Any increase in transportation costs could affect their ability to maintain this balance.",
+    "accessibility": "Garfield Ridge has moderate access to public transit, with some reliance on driving due to the community's layout and connectivity. Reducing travel time and improving transit services are important for residents.",
+    "decision_rationale": "Given the community's moderate disposable income and reliance on both transit and driving, the focus is on minimizing costs while improving transit efficiency. Lower fares and moderate driver fees are preferred to encourage transit use without significantly impacting budgets. A moderate sales tax is acceptable if it leads to better transit services. The selected proposals aim to balance cost, travel time, and service improvement."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

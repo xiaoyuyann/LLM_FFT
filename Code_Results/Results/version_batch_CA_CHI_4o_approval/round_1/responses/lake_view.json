@@ -1,0 +1,23 @@
+{
+  "community_area": "Lake View",
+  "thinking": {
+    "disposable_income": "Lake View is a relatively affluent community with a higher than average disposable income compared to other areas in Chicago. Residents can generally afford moderate increases in taxes and fees if it results in improved services.",
+    "discretionary_consumption": "Residents in Lake View have a higher level of discretionary consumption, spending on dining, entertainment, and other non-essential goods and services. They are likely to be sensitive to changes in disposable income that affect their lifestyle.",
+    "accessibility": "Lake View has good access to public transportation, with several CTA train lines and bus routes. Many residents rely on public transit for commuting, but there is also a significant number of car owners.",
+    "decision_rationale": "Given the higher disposable income and reliance on public transit, Lake View residents would benefit from policies that improve transit services even if it means a slight increase in costs. However, the community would prefer to avoid the highest tax rates to maintain discretionary spending. Policies that reduce travel time for both transit and driving are preferred, as they enhance overall accessibility and convenience. Therefore, policies with moderate taxes and fees that significantly improve transit times are prioritized."
+  },
+  "vote": [
+    1,
+    2,
+    4,
+    5,
+    10,
+    11,
+    13,
+    14,
+    19,
+    20,
+    22,
+    23
+  ]
+}

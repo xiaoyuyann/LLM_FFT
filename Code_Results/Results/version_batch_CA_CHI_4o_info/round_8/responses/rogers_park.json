@@ -1,0 +1,16 @@
+{
+  "community_area": "Rogers Park",
+  "thinking": {
+    "disposable_income": "Rogers Park has a median income of $57,591 and a per capita income of $36,162. A significant portion of the population earns less than $50,000, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With 44.8% of households earning less than $50,000, discretionary spending is likely constrained. High transit fares or driver fees could significantly impact these households' budgets.",
+    "accessibility": "Rogers Park has a high percentage of residents using transit (28.1%) and a significant portion without vehicles (37.2%). This suggests a strong reliance on public transportation, making transit affordability and efficiency crucial.",
+    "decision_rationale": "Given the community's reliance on public transit and limited disposable income, policies that reduce transit fares and improve service efficiency are prioritized. Lower sales taxes are preferred to minimize the impact on discretionary spending. Driver fees are considered as a means to improve transit services and reduce congestion, but they should not overly burden those who drive. The selected policies aim to balance affordability, service improvement, and minimal impact on discretionary income."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

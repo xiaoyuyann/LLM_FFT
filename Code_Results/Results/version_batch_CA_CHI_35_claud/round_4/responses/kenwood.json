@@ -1,0 +1,16 @@
+{
+  "community_area": "Kenwood",
+  "thinking": {
+    "disposable_income": "Kenwood has a mixed-income population with a median household income around $45,000. The area has both affluent and middle-class residents, with about 25% of households below poverty level",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity, with significant variation across income groups. Higher-income households have more flexibility in transportation costs, while lower-income households are more sensitive to fare and tax changes",
+    "accessibility": "Kenwood has good access to public transit with multiple bus routes and proximity to Green Line and Metra. Many residents rely on public transit for commuting. Car ownership is moderate, with many households having access to vehicles but also using transit regularly",
+    "decision_rationale": "1. Prioritize balanced policies that don't overly burden lower-income residents while maintaining service quality\n2. Consider policies with moderate transit fares to keep transit affordable\n3. Support some driving fees to improve transit service without excessive impact\n4. Favor moderate tax rates that can support transit without severely impacting discretionary spending\n5. Select policies that reduce transit travel times to benefit frequent transit users"
+  },
+  "vote": [
+    13,
+    10,
+    4,
+    19,
+    22
+  ]
+}

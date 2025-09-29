@@ -1,0 +1,16 @@
+{
+  "community_area": "Downtown",
+  "thinking": {
+    "disposable_income": "Downtown residents have relatively high disposable incomes with median household income above $100,000, indicating greater ability to absorb transportation costs.",
+    "discretionary_consumption": "Downtown residents have significant discretionary spending power and tend to spend more on dining, entertainment, and luxury goods available in the area.",
+    "accessibility": "Downtown has excellent transit accessibility with multiple rail and bus lines, good walkability, but also faces traffic congestion during peak hours with many commuters driving in.",
+    "decision_rationale": "1) Downtown residents can afford higher fees/taxes but value time savings, so policies reducing congestion are preferred. 2) Strong transit infrastructure means transit improvements will be well-utilized. 3) Higher driving fees can help reduce congestion from commuters while funding better transit. 4) Moderate to higher transit fares are acceptable given income levels. 5) Selected policies balance congestion reduction through driving fees with transit improvements funded by sustainable revenue sources."
+  },
+  "vote": [
+    23,
+    14,
+    20,
+    17,
+    11
+  ]
+}

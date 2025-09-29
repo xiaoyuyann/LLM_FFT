@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Heights",
+  "thinking": {
+    "disposable_income": "Washington Heights has a moderate to low average disposable income, with many residents relying on public transportation for commuting. The community is sensitive to changes in transportation costs.",
+    "discretionary_consumption": "Discretionary spending is limited, with a significant portion of income going towards essential expenses. Any increase in transportation costs could impact the ability to spend on non-essential goods and services.",
+    "accessibility": "Public transportation is a crucial mode of transport for Washington Heights residents, with many relying on it for access to jobs, education, and services. Car ownership is lower compared to other areas, making transit accessibility a priority.",
+    "decision_rationale": "Given the moderate to low disposable income and reliance on public transportation, the community would benefit from lower transit fares and moderate driver fees to encourage a shift from driving to transit, reducing congestion and emissions. A lower sales tax is preferred to minimize the impact on discretionary spending. The selected proposals balance these factors by offering reduced transit fares and moderate driver fees, while maintaining or slightly increasing the sales tax to support transit improvements. This approach aims to enhance transit accessibility and affordability, while also considering the community's financial constraints."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

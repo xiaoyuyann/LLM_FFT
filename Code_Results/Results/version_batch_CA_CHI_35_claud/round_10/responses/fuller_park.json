@@ -1,0 +1,16 @@
+{
+  "community_area": "Fuller Park",
+  "thinking": {
+    "disposable_income": "Fuller Park has one of the lowest median household incomes in Chicago at around $21,000. The community faces significant economic challenges with a poverty rate over 40% and high unemployment. Residents are particularly sensitive to any increases in transportation costs or taxes.",
+    "discretionary_consumption": "Given the low income levels, residents have very limited discretionary spending capacity. Most income goes to essential needs like housing and food. Even small increases in transportation costs or sales tax would significantly impact household budgets.",
+    "accessibility": "The community has access to CTA Red Line and Green Line stations and several bus routes. Car ownership is low due to economic constraints. Many residents rely heavily on public transit for accessing jobs and services. The area experiences some isolation due to being bounded by rail yards and expressways.",
+    "decision_rationale": "1. Given very low incomes, prioritize lowest combined costs (fare + tax + fees). 2. Strong transit dependency means better transit service times are important. 3. Lower sales tax preferred due to limited discretionary spending. 4. Lower transit fares more important than driving fees since most residents use transit. 5. Selected proposals 0, 9, 3, 1, and 10 as they balance low costs with reasonable transit times. Proposal 0 ranked first for lowest overall cost burden. Following choices maintain relatively low fares and taxes while providing improved transit times."
+  },
+  "vote": [
+    0,
+    9,
+    3,
+    1,
+    10
+  ]
+}

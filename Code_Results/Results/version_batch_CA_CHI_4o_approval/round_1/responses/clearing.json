@@ -1,0 +1,19 @@
+{
+  "community_area": "Clearing",
+  "thinking": {
+    "disposable_income": "Clearing is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in costs related to transportation, as it can impact their overall budget for other essential and discretionary expenses.",
+    "discretionary_consumption": "The community has a balanced level of discretionary consumption, with residents spending on a mix of necessities and leisure activities. Any increase in transportation costs could reduce their ability to spend on non-essential goods and services.",
+    "accessibility": "Clearing has moderate accessibility to resources and services. Public transit options are available but not as extensive as in more central areas. Many residents rely on driving for convenience and time efficiency.",
+    "decision_rationale": "Given the community's moderate disposable income and reliance on both driving and transit, policies that maintain or slightly reduce transit fares while not significantly increasing driving fees are preferred. A lower sales tax is also favorable to avoid impacting discretionary spending. Therefore, proposals with a $0.75 transit fare, a 0.5% sales tax, and a $0.50 driving fee are prioritized, as they offer a balance between cost savings and improved transit service. Proposals with a $1.25 fare and a 1.0% tax are also considered if they offer significant reductions in travel time."
+  },
+  "vote": [
+    1,
+    2,
+    4,
+    5,
+    10,
+    11,
+    13,
+    14
+  ]
+}

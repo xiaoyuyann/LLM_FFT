@@ -1,0 +1,16 @@
+{
+  "community_area": "Forest Glen",
+  "thinking": {
+    "disposable_income": "Forest Glen is an affluent community with median household income of $139,046 and 63% of households earning over $100,000. This suggests residents have significant disposable income and can absorb moderate increases in transportation costs",
+    "discretionary_consumption": "With high per capita income ($70,693), residents likely have substantial discretionary spending. A sales tax increase would affect this but not severely given the wealth levels. Most households can afford multiple vehicles (62.3% own 2+ cars)",
+    "accessibility": "The area is car-dependent with 68.1% driving (alone or carpool) to work, only 10.5% using transit, and 17.2% working from home. This suggests good road access but limited transit usage, despite having means to choose either mode",
+    "decision_rationale": "1. Given high car ownership and usage, policies that improve driving times while maintaining reasonable costs are preferred. 2. With high incomes, moderate fee increases are acceptable if they improve service. 3. Lower sales tax options are preferred since residents have high discretionary spending. 4. Moderate transit improvements are valued but not primary given low transit usage. 5. Selected policies balance driving efficiency with reasonable cost increases, considering the community's wealth and car-centric nature"
+  },
+  "vote": [
+    5,
+    14,
+    4,
+    13,
+    2
+  ]
+}

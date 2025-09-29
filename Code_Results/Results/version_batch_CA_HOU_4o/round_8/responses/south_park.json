@@ -1,0 +1,16 @@
+{
+  "community_area": "South Park",
+  "thinking": {
+    "disposable_income": "South Park has a relatively low average disposable income compared to other neighborhoods in Houston.",
+    "discretionary_consumption": "Residents in South Park have limited discretionary spending, prioritizing essential goods and services.",
+    "accessibility": "South Park has moderate access to public transit, but many residents rely on personal vehicles due to limited transit coverage and longer travel times.",
+    "decision_rationale": "Given the lower disposable income, it is crucial to minimize costs for both transit users and drivers. A lower transit fare and driving fee are prioritized to ensure affordability. Additionally, a moderate sales tax is preferred to balance funding for transit improvements without significantly impacting residents' consumption. Reducing travel times for both modes is also important to improve accessibility and convenience. Therefore, proposals with lower fares and fees, moderate sales tax, and reduced travel times are ranked higher."
+  },
+  "vote": [
+    0,
+    7,
+    10,
+    2,
+    6
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "East Little York / Homestead",
+  "thinking": {
+    "disposable_income": "East Little York / Homestead has a relatively low to moderate disposable income, with many residents relying on affordable transportation options.",
+    "discretionary_consumption": "The community has limited discretionary consumption, prioritizing essential goods and services over luxury items.",
+    "accessibility": "Public transit is a crucial mode of transportation for many residents, but current transit times are long, and accessibility to resources and services is limited.",
+    "decision_rationale": "Given the community's lower disposable income, affordability of transit fares and driver fees is crucial. Reducing transit times is also important to improve accessibility. A lower sales tax is preferred to minimize the impact on discretionary consumption. Therefore, proposals with lower fares and fees, and moderate improvements in transit times, are prioritized. Proposal 1 offers the lowest fare and fee with significant transit time reduction. Proposal 8 provides a balance of moderate fare and fee with good transit time improvement. Proposal 17 offers the lowest transit time with a reasonable fare and fee. Proposal 10 balances fare and fee with improved transit time. Proposal 19 offers a moderate fare and fee with good transit time reduction."
+  },
+  "vote": [
+    1,
+    8,
+    17,
+    10,
+    19
+  ]
+}

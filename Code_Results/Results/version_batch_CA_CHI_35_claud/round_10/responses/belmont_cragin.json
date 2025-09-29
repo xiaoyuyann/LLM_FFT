@@ -1,0 +1,16 @@
+{
+  "community_area": "Belmont Cragin",
+  "thinking": {
+    "disposable_income": "Belmont Cragin is a working-class community with median household income around $47,000, below Chicago's average. Many residents work in service and manufacturing sectors, indicating limited disposable income",
+    "discretionary_consumption": "Given the lower-than-average income levels, residents have limited discretionary spending. A significant portion of income goes to essential needs, making them sensitive to additional transportation costs and sales taxes",
+    "accessibility": "The area has moderate transit access with bus services but no L train stations within the community. Car ownership is important for many residents due to work locations. About 30% of residents rely on public transit for commuting",
+    "decision_rationale": "1. Prioritize lower transit fares ($0.75) to help transit-dependent residents\n2. Prefer moderate sales tax (1%) to balance service improvements with tax burden\n3. Support moderate driving fees ($0.50) to improve transit without overly burdening drivers\n4. Focus on proposals that reduce transit travel times to improve accessibility\n5. Consider combined impact of fees/taxes on household budgets"
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    13,
+    20
+  ]
+}

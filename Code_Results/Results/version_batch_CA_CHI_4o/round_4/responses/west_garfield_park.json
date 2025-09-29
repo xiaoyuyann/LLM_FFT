@@ -1,0 +1,16 @@
+{
+  "community_area": "West Garfield Park",
+  "thinking": {
+    "disposable_income": "West Garfield Park is a lower-income community with limited disposable income. Many residents rely on public transportation due to the high cost of car ownership.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is limited. Residents prioritize essential goods and services, making any increase in transportation costs a significant burden.",
+    "accessibility": "Public transportation is crucial for accessing jobs, education, and services. The community has a high reliance on transit, and improvements in transit service could significantly benefit residents.",
+    "decision_rationale": "The primary goal is to minimize costs for residents while improving transit accessibility. Lower fares and taxes are preferred to reduce the financial burden. However, some increase in driver fees is acceptable if it leads to better transit services and reduced congestion. The selected proposals balance these factors, prioritizing lower fares and taxes while accepting moderate driver fees to enhance transit efficiency."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

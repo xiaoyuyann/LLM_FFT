@@ -1,0 +1,16 @@
+{
+  "community_area": "East Side",
+  "thinking": {
+    "disposable_income": "The East Side community area has a moderate to low average disposable income, which means residents are sensitive to increases in costs related to transportation, such as fares and fees.",
+    "discretionary_consumption": "Given the moderate to low disposable income, discretionary consumption is limited. Residents prioritize essential spending, so any increase in transportation costs could significantly impact their budget for other necessities.",
+    "accessibility": "The East Side has moderate access to public transit, but improvements in transit services could enhance accessibility. Many residents rely on public transit, so policies that improve transit times and services without significantly increasing costs are favorable.",
+    "decision_rationale": "Considering the community's moderate to low disposable income and reliance on public transit, policies with lower fares and moderate taxes are preferred. A slight increase in driver fees is acceptable if it leads to better transit services and reduced congestion. The goal is to balance affordability with improved transit accessibility and efficiency. Therefore, policies with a $0.75 fare and moderate driver fees, combined with a 1% sales tax, are prioritized to ensure better transit services without overly burdening residents financially."
+  },
+  "vote": [
+    10,
+    11,
+    13,
+    14,
+    19
+  ]
+}

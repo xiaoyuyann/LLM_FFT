@@ -1,0 +1,16 @@
+{
+  "community_area": "Sharpstown",
+  "thinking": {
+    "disposable_income": "Sharpstown has a median household income of approximately $38,000, which is below Houston's median, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With a significant portion of residents being lower-middle income, discretionary spending is constrained and residents are sensitive to additional taxes and fees.",
+    "accessibility": "The area has good road access via Southwest Freeway and Beltway 8, moderate bus service, but no direct rail transit, with about 15% of households not owning vehicles.",
+    "decision_rationale": "1) Prioritized lower transit fares ($0.75) to help transit-dependent residents while keeping sales tax moderate at 1% to balance revenue needs. 2) Selected proposals with moderate driving fees ($0.50) to improve transit service without overly burdening drivers. 3) Avoided highest tax/fee combinations due to limited household disposable income. 4) Considered travel time improvements for both transit and car users given mixed-mode transportation needs. 5) Balanced revenue generation for transit improvements with affordability for lower-income residents."
+  },
+  "vote": [
+    7,
+    8,
+    16,
+    0,
+    1
+  ]
+}

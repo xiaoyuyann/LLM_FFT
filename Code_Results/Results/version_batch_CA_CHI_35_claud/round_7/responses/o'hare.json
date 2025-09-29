@@ -1,0 +1,16 @@
+{
+  "community_area": "O'Hare",
+  "thinking": {
+    "disposable_income": "O'Hare has a median household income above city average at around $67,000. Many residents work in airport-related industries or nearby business districts. The community has relatively high disposable income compared to many Chicago neighborhoods",
+    "discretionary_consumption": "Residents have moderate to high discretionary spending capacity. The area has many retail establishments and restaurants. Higher sales taxes would have a noticeable but manageable impact on consumption patterns",
+    "accessibility": "The area is highly car-dependent due to its location and layout. While served by the CTA Blue Line, many parts of O'Hare are not within walking distance to transit. Most residents rely on cars for daily trips. The area experiences significant traffic congestion due to airport traffic",
+    "decision_rationale": "1. Given high car dependency, policies with lower driving fees are preferred\n2. Higher sales tax is acceptable if it improves transit service significantly\n3. Moderate transit fares are acceptable since transit is a secondary mode\n4. Focus on reducing car travel times due to high number of car commuters\n5. Balance between maintaining reasonable driving costs while funding transit improvements"
+  },
+  "vote": [
+    21,
+    3,
+    12,
+    15,
+    24
+  ]
+}

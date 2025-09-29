@@ -1,0 +1,16 @@
+{
+  "community_area": "Austin",
+  "thinking": {
+    "disposable_income": "Austin has a median household income lower than the city average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, leaving less room for discretionary consumption.",
+    "accessibility": "Austin has moderate access to public transit, but many residents rely on cars due to longer transit times and limited service coverage.",
+    "decision_rationale": "Given the lower disposable income, policies with lower transit fares and driving fees are preferred to minimize financial burden. A lower sales tax is also favored to preserve discretionary spending. However, improving transit times is crucial to enhance accessibility and reduce reliance on cars. Balancing these factors, the selected policies aim to reduce costs while improving transit efficiency. Proposals with a $0.75 fare and moderate driving fees are prioritized, as they offer a good balance of affordability and improved transit times. A 0.5% sales tax is preferred to minimize impact on discretionary spending."
+  },
+  "vote": [
+    1,
+    10,
+    2,
+    11,
+    19
+  ]
+}

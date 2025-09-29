@@ -1,0 +1,16 @@
+{
+  "community_area": "Kenwood",
+  "thinking": {
+    "disposable_income": "Kenwood shows significant income diversity with 45% making under $50K and 33.2% making over $100K. Median income is $58,052, suggesting moderate disposable income but with notable disparities. Many residents would be sensitive to cost increases.",
+    "discretionary_consumption": "Given the income distribution and household sizes, discretionary spending varies widely. Higher sales taxes would impact both low and middle-income households' purchasing power, particularly the 27.4% making under $25K.",
+    "accessibility": "Transit usage is significant at 23.1%, while 33.1% have no vehicle. 40.1% drive alone. Good mix of transportation modes suggests need to balance both transit and driving improvements. Location provides decent access to downtown and surrounding areas.",
+    "decision_rationale": "1. Prioritized proposals that maintain lower transit fares given high transit usage and car-free households. 2. Sought moderate tax rates to not overly burden lower-income residents. 3. Supported some driving fees to improve transit service while keeping costs manageable. 4. Balanced travel time improvements across both modes given mixed transportation needs. 5. Considered impact on discretionary spending for diverse income levels."
+  },
+  "vote": [
+    10,
+    13,
+    4,
+    19,
+    22
+  ]
+}

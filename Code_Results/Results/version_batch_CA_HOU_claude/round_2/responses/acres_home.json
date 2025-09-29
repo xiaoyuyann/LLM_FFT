@@ -1,0 +1,16 @@
+{
+  "community_area": "Acres Home",
+  "thinking": {
+    "disposable_income": "Acres Home has a median household income of approximately $33,000, which is significantly lower than Houston's median, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With a high poverty rate around 28% and many households being cost-burdened by housing expenses, residents have very limited discretionary spending capacity and are sensitive to additional taxes and fees.",
+    "accessibility": "The area has limited transit service despite relatively high transit dependency, with many residents relying on buses for essential trips, while car ownership rates are lower than the city average.",
+    "decision_rationale": "1) Given the low income levels, prioritized proposals with lower transit fares and sales tax burden to maintain affordability. 2) Selected options that improve transit service times significantly to benefit transit-dependent residents. 3) Supported moderate driving fees to fund transit improvements while not overly burdening car-owning households. 4) Balanced the need for transit system funding with residents' limited ability to pay additional taxes. 5) Favored proposals that reduce transit travel times below 55 minutes to improve job accessibility."
+  },
+  "vote": [
+    6,
+    0,
+    7,
+    15,
+    16
+  ]
+}

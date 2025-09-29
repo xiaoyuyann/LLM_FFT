@@ -1,0 +1,23 @@
+{
+  "community_area": "Greater Grand Crossing",
+  "thinking": {
+    "disposable_income": "Greater Grand Crossing has a relatively low to moderate disposable income level, which means residents are sensitive to increases in costs related to transportation, such as fares and fees.",
+    "discretionary_consumption": "Given the income levels, discretionary consumption is limited, so any increase in transportation costs could significantly impact the ability of residents to spend on other essential goods and services.",
+    "accessibility": "The community relies heavily on public transit due to lower car ownership rates. Therefore, maintaining affordable and efficient transit options is crucial for accessibility to jobs, education, and other services.",
+    "decision_rationale": "The community needs to balance between affordable transit fares and reasonable sales tax rates to ensure that public transit remains accessible without overly burdening residents with high costs. Lower fares and moderate sales tax rates are preferred to maintain affordability. Driver fees can be considered to reduce congestion and improve transit times, but they should not be too high to avoid excessive costs for those who need to drive. Proposals with lower fares and moderate driver fees are prioritized to enhance transit service without significantly impacting disposable income."
+  },
+  "vote": [
+    1,
+    2,
+    4,
+    5,
+    10,
+    11,
+    13,
+    14,
+    19,
+    20,
+    22,
+    23
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "South Main",
+  "thinking": {
+    "disposable_income": "South Main residents have relatively high disposable income with a median household income above Houston's average, as it includes affluent areas near Rice University and the Medical Center.",
+    "discretionary_consumption": "The area has high discretionary spending capacity with residents frequently patronizing upscale retail, dining, and entertainment establishments along Main Street and Rice Village.",
+    "accessibility": "The area has excellent transit accessibility with multiple light rail stations, bus routes, and proximity to major employment centers, while also having good road infrastructure for driving.",
+    "decision_rationale": "1) Given high income levels, residents can absorb higher taxes/fees while benefiting from improved transit; 2) Many residents use both transit and driving, so balanced improvements to both modes are valuable; 3) The Medical Center location means reliable transit access is crucial; 4) Higher driver fees can help reduce congestion around major institutions; 5) Proposals with moderate-to-high taxes and fees that yield significant travel time improvements are preferred; 6) Lower transit fares are less critical given income levels"
+  },
+  "vote": [
+    23,
+    20,
+    17,
+    14,
+    11
+  ]
+}

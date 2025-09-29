@@ -1,0 +1,16 @@
+{
+  "community_area": "Hyde Park",
+  "thinking": {
+    "disposable_income": "Hyde Park is a diverse community with a mix of students, professionals, and long-term residents. The presence of the University of Chicago contributes to a relatively higher average income compared to some other areas, but there is also a significant student population with limited disposable income.",
+    "discretionary_consumption": "Residents in Hyde Park have varied discretionary spending patterns, with students often having limited budgets and professionals having more flexibility. The community values access to cultural and educational resources, dining, and retail options.",
+    "accessibility": "Hyde Park has good access to public transportation, including buses and Metra trains, which are crucial for students and residents commuting to other parts of the city. Car ownership is moderate, and many residents rely on public transit for daily commutes.",
+    "decision_rationale": "Given the community's reliance on public transit and the presence of a significant student population, lower transit fares are prioritized to ensure affordability. A moderate sales tax is acceptable if it significantly improves transit services, as many residents value efficient and reliable public transportation. Driver fees are less of a concern as car ownership is moderate, but reducing congestion and emissions is beneficial. The selected proposals balance affordability, improved transit services, and reduced travel times."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

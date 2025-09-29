@@ -1,0 +1,16 @@
+{
+  "community_area": "Armour Square",
+  "thinking": {
+    "disposable_income": "A significant portion of the community earns less than $25,000 (31.1%), with a substantial number also in the $25,000–$49,999 range (19.7%). This indicates limited disposable income for many households.",
+    "discretionary_consumption": "Given the income distribution, many residents likely prioritize essential expenses, leaving limited room for discretionary spending. High transit fares or driver fees could strain budgets.",
+    "accessibility": "With 24.4% of residents using transit and 33.9% without a vehicle, affordable and efficient public transportation is crucial. The community also has a high percentage of Asian residents (71.7%), who may rely on transit for cultural and community connections.",
+    "decision_rationale": "The community's limited disposable income and reliance on public transit suggest prioritizing policies with lower fares and moderate taxes to enhance transit accessibility without imposing significant financial burdens. Reducing driving times and fees can also benefit those who drive, but the focus should be on improving transit efficiency and affordability. Balancing these factors, the selected policies aim to improve transit times and maintain affordability, while considering the impact of taxes on overall consumption."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

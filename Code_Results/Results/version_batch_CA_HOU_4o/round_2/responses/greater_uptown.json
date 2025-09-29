@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Uptown",
+  "thinking": {
+    "disposable_income": "Greater Uptown is a relatively affluent area with higher than average disposable income levels.",
+    "discretionary_consumption": "Residents in Greater Uptown have a high level of discretionary consumption, often spending on luxury goods, dining, and entertainment.",
+    "accessibility": "The area has good accessibility to resources and services, with a mix of transit options and a high rate of car ownership.",
+    "decision_rationale": "Given the higher disposable income, residents can afford slightly higher transit fares and driver fees if it results in better services and reduced travel times. The focus is on improving transit efficiency to encourage a shift from driving to transit, reducing congestion and emissions. A moderate sales tax is acceptable to support transit improvements, but it should not be too high to avoid impacting discretionary spending significantly. The selected policies balance these factors by offering reduced travel times and improved transit services while maintaining reasonable costs."
+  },
+  "vote": [
+    17,
+    20,
+    23,
+    8,
+    11
+  ]
+}

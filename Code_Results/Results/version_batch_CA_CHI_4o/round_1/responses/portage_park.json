@@ -1,0 +1,16 @@
+{
+  "community_area": "Portage Park",
+  "thinking": {
+    "disposable_income": "Portage Park is a middle-income community with a mix of working-class and middle-class residents. The disposable income is moderate, meaning residents are sensitive to increases in costs that could affect their budget for essential and discretionary spending.",
+    "discretionary_consumption": "Residents in Portage Park have moderate discretionary spending. They prioritize essential goods and services but also value affordable leisure and recreational activities. Any increase in transportation costs could impact their ability to spend on non-essential items.",
+    "accessibility": "Portage Park has decent access to public transit, with several bus lines and proximity to the Blue Line. However, many residents rely on cars for commuting due to the convenience and time savings. Improving transit times could encourage more residents to switch from driving to public transit.",
+    "decision_rationale": "Given the moderate disposable income and discretionary spending, the community would benefit from lower transit fares and moderate driver fees to encourage public transit use without significantly impacting budgets. A lower sales tax is preferred to maintain discretionary spending. Reducing travel times for both transit and driving is important to improve accessibility and quality of life. Therefore, proposals with lower fares, moderate driver fees, and reasonable travel times are prioritized. The tradeoff involves balancing cost savings with improved transit service and reduced congestion."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

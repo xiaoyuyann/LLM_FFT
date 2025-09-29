@@ -1,0 +1,16 @@
+{
+  "community_area": "Denver Harbor / Port Houston",
+  "thinking": {
+    "disposable_income": "Denver Harbor/Port Houston is a lower-income community with median household income around $35,000, significantly below Houston's average, indicating limited disposable income for transportation costs.",
+    "discretionary_consumption": "With a high percentage of residents living below poverty level (around 30%), discretionary spending is very limited and residents are particularly sensitive to additional taxes and fees.",
+    "accessibility": "The neighborhood has moderate transit access with several bus routes but many residents rely on personal vehicles due to industrial job locations, with about 75% of residents commuting by car.",
+    "decision_rationale": "1) Prioritized proposals with lower transit fares ($0.75) to help transit-dependent residents 2) Favored lower sales tax rates (0.5-1.0%) due to limited household incomes 3) Considered moderate driving fees ($0.50) as compromise between revenue needs and affordability 4) Balanced improved transit times against increased costs 5) Selected proposals that provide best transit service improvements while minimizing financial burden on low-income residents"
+  },
+  "vote": [
+    1,
+    0,
+    7,
+    8,
+    2
+  ]
+}

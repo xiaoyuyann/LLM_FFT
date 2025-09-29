@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Square",
+  "thinking": {
+    "disposable_income": "Lincoln Square has a median household income of around $77,000, higher than Chicago's average. About 10% of residents live below poverty level. The community has a mix of middle and upper-middle-class households with moderate to good disposable income.",
+    "discretionary_consumption": "Residents have moderate discretionary spending power. The area has many local businesses, restaurants, and shops. Higher sales taxes would impact discretionary spending but most households can absorb moderate increases.",
+    "accessibility": "Well-served by public transit with Brown Line stations at Western and Rockwell, multiple bus routes. About 35% of residents use public transit for commuting, 45% drive, and others walk/bike. Good walkability score. Many households are car-light or car-free.",
+    "decision_rationale": "1. Given high transit usage, prioritize policies that improve transit service while keeping fares moderate. 2. Community can handle moderate tax increases if they improve service. 3. Support driving fees to fund transit and reduce congestion since many residents don't drive daily. 4. Balance between transit improvement and cost burden on mixed-income population. 5. Selected policies that reduce transit travel times below 55 minutes while maintaining reasonable fares."
+  },
+  "vote": [
+    14,
+    23,
+    13,
+    11,
+    20
+  ]
+}

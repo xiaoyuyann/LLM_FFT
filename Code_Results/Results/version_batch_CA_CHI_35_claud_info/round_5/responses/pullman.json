@@ -1,0 +1,16 @@
+{
+  "community_area": "Pullman",
+  "thinking": {
+    "disposable_income": "Pullman has a median income of $54,755, with 45.8% households earning less than $50,000. This suggests limited disposable income for many residents, making them sensitive to additional transportation costs and taxes.",
+    "discretionary_consumption": "Given the income distribution and average household size of 2.1, discretionary spending is likely constrained. About 22.7% of households earn less than $25,000, indicating many residents need to carefully budget transportation expenses.",
+    "accessibility": "64% drive alone to work, while 17.6% use transit. 16.1% have no vehicle, and 49.8% have one vehicle, suggesting a significant reliance on both car and transit access. The community needs balanced transportation options.",
+    "decision_rationale": "1. Prioritize proposals with lower transit fares ($0.75) to help the large lower-income population and transit-dependent residents. 2. Moderate tax rates (1%) to balance service improvements with household budget impacts. 3. Include some driving fees to improve transit service without excessive burden on drivers. 4. Consider travel time improvements for both modes since community uses both significantly. 5. Balance overall costs with service improvements given the income constraints."
+  },
+  "vote": [
+    11,
+    10,
+    9,
+    1,
+    2
+  ]
+}

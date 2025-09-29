@@ -1,0 +1,16 @@
+{
+  "community_area": "Woodlawn",
+  "thinking": {
+    "disposable_income": "Woodlawn has relatively low income levels with median income of $29,969 and 44.5% households earning less than $25,000. This suggests high sensitivity to costs from fares, fees, and taxes",
+    "discretionary_consumption": "Given the low income levels, discretionary spending is likely very limited. Higher sales taxes would significantly impact household budgets, especially for basic necessities",
+    "accessibility": "38.1% have no vehicle access and 24.3% use transit for commuting. Combined with 45.4% who drive alone, the community needs balanced policies that keep both transit and driving affordable while improving service",
+    "decision_rationale": "1. Given low incomes, prioritize proposals with lower taxes and fares while still improving service. 2. Need balance between transit and driving costs since community uses both modes significantly. 3. Proposal 10 ranks first as it offers good transit improvements with moderate costs. 4. Proposal 1 second as it maintains low costs while improving service. 5. Proposal 9 third as it keeps fares low. 6. Proposal 4 fourth balances costs and benefits. 7. Proposal 13 fifth as it offers good service improvements despite moderate costs."
+  },
+  "vote": [
+    10,
+    1,
+    9,
+    4,
+    13
+  ]
+}

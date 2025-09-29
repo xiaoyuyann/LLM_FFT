@@ -1,0 +1,16 @@
+{
+  "community_area": "West Town",
+  "thinking": {
+    "disposable_income": "West Town is a diverse community with a mix of income levels, but generally has a moderate to high disposable income due to its gentrification and proximity to downtown Chicago.",
+    "discretionary_consumption": "Residents in West Town tend to have higher discretionary spending on dining, entertainment, and cultural activities, reflecting the area's vibrant lifestyle and amenities.",
+    "accessibility": "West Town has good access to public transit, including buses and the 'L' train, making it relatively easy for residents to commute without a car. However, traffic congestion can be an issue for drivers.",
+    "decision_rationale": "Given the moderate to high disposable income, residents can afford a slight increase in transit fares or driver fees if it results in better service and reduced travel times. A lower sales tax is preferred to maintain discretionary spending. The community values efficient transit options to reduce reliance on cars and alleviate congestion. Therefore, proposals that balance lower fares and fees with improved transit times are prioritized. Proposals with higher sales taxes are less favorable due to their impact on discretionary spending."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

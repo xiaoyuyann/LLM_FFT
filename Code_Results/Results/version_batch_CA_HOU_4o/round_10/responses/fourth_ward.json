@@ -1,0 +1,16 @@
+{
+  "community_area": "Fourth Ward",
+  "thinking": {
+    "disposable_income": "The Fourth Ward has a mixed-income population, with a significant portion of residents having moderate to low disposable income.",
+    "discretionary_consumption": "Residents in the Fourth Ward tend to have limited discretionary spending, prioritizing essential goods and services.",
+    "accessibility": "The Fourth Ward has moderate accessibility to public transit, with some residents relying heavily on it due to limited car ownership.",
+    "decision_rationale": "Given the moderate to low disposable income, it is crucial to minimize additional financial burdens on residents. Lower transit fares and driver fees are preferred to maintain affordability. A moderate sales tax is acceptable if it significantly improves transit services, as many residents rely on public transportation. Reducing travel times for both transit and driving is also important to enhance accessibility and convenience. Therefore, proposals with lower fares and fees, coupled with moderate improvements in travel times, are prioritized."
+  },
+  "vote": [
+    7,
+    10,
+    13,
+    19,
+    22
+  ]
+}

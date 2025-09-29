@@ -1,0 +1,16 @@
+{
+  "community_area": "Auburn Gresham",
+  "thinking": {
+    "disposable_income": "Auburn Gresham has a median household income lower than the city average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "Residents in Auburn Gresham may prioritize essential spending over discretionary consumption due to limited disposable income, making cost-sensitive policies more favorable.",
+    "accessibility": "Public transit is a crucial mode of transportation for Auburn Gresham residents, with many relying on it for commuting to work and accessing services. Improving transit efficiency and affordability is important.",
+    "decision_rationale": "Given the limited disposable income, policies with lower fares and taxes are preferred to minimize financial burden. However, improving transit times is also crucial for accessibility. Balancing these factors, proposals with moderate taxes and fares, but significant improvements in transit times, are prioritized. Driver fees are less of a concern as car ownership is lower, but reducing congestion and emissions is beneficial. Therefore, proposals that enhance transit efficiency while keeping costs manageable are ranked higher."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

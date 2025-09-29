@@ -1,0 +1,16 @@
+{
+  "community_area": "Second Ward",
+  "thinking": {
+    "disposable_income": "The Second Ward has a relatively low to moderate disposable income, with many residents working in blue-collar jobs.",
+    "discretionary_consumption": "Discretionary consumption is limited, with residents prioritizing essential goods and services over luxury items.",
+    "accessibility": "The Second Ward has moderate accessibility to resources and services, with a reliance on both public transit and personal vehicles for commuting.",
+    "decision_rationale": "Given the limited disposable income, it is crucial to minimize additional financial burdens on residents. Therefore, lower transit fares and driving fees are preferred to keep transportation affordable. A moderate sales tax is acceptable if it significantly improves transit services, as many residents rely on public transportation. Reducing travel time is also important to improve accessibility and quality of life. Balancing these factors, the selected policies aim to enhance transit efficiency while keeping costs manageable for residents."
+  },
+  "vote": [
+    1,
+    7,
+    10,
+    16,
+    19
+  ]
+}

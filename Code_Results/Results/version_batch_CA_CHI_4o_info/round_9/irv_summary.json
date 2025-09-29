@@ -1,0 +1,32 @@
+{
+  "winning_policy": 11,
+  "rounds": [
+    {
+      "round": 1,
+      "vote_counts": {
+        "10": 38,
+        "11": 36,
+        "14": 3
+      },
+      "total_votes": 77
+    },
+    {
+      "round": 2,
+      "vote_counts": {
+        "10": 38,
+        "11": 38,
+        "13": 1
+      },
+      "total_votes": 77
+    },
+    {
+      "round": 3,
+      "vote_counts": {
+        "10": 38,
+        "11": 39
+      },
+      "total_votes": 77
+    }
+  ],
+  "summary": "Policy 11 won with majority in round 3."
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Edgebrook",
+  "thinking": {
+    "disposable_income": "Edgebrook has a median household income of around $45,000, which is lower than Houston's average, indicating residents are price-sensitive to transportation costs.",
+    "discretionary_consumption": "With modest income levels and significant portion going to basic needs, residents have limited discretionary spending capacity and are sensitive to both sales tax increases and transportation fees.",
+    "accessibility": "The neighborhood has moderate transit access with some bus routes but is largely car-dependent, with about 90% of residents commuting by car.",
+    "decision_rationale": "1) Prioritized policies with lower sales tax (0.5%) to minimize impact on household budgets. 2) Favored moderate driving fees ($0.50) over high fees ($1.00) given car dependency. 3) Preferred lower transit fares ($0.75-$1.25) to make transit more accessible. 4) Balanced travel time improvements with cost burden. 5) Selected proposals that provide reasonable transit improvements without excessive financial burden on driving-dependent residents."
+  },
+  "vote": [
+    0,
+    2,
+    7,
+    10,
+    4
+  ]
+}

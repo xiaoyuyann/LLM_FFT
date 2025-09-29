@@ -1,0 +1,16 @@
+{
+  "community_area": "South Chicago",
+  "thinking": {
+    "disposable_income": "South Chicago has a relatively low median household income compared to other areas in Chicago, which means residents are more sensitive to increases in costs such as transit fares and driver fees.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, and any increase in transportation costs could significantly impact their ability to afford other necessities.",
+    "accessibility": "South Chicago has moderate access to public transit, but improvements in transit services could greatly benefit the community by reducing travel times and increasing accessibility to jobs and services.",
+    "decision_rationale": "Given the community's lower income levels, proposals with lower transit fares and driver fees are preferred to minimize the financial burden on residents. However, improving transit times is also crucial for better access to opportunities. Therefore, proposals that balance lower costs with improved transit times are prioritized. A moderate sales tax is acceptable if it significantly enhances transit services, as this could lead to long-term benefits for the community by improving access to jobs and reducing travel times."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

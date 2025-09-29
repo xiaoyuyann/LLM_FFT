@@ -1,0 +1,16 @@
+{
+  "community_area": "Hunterwood",
+  "thinking": {
+    "disposable_income": "Hunterwood is a middle-income neighborhood with median household income around $55,000, indicating moderate disposable income levels for transportation expenses.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity but are price-sensitive to additional taxes and fees that could impact their household budgets.",
+    "accessibility": "The neighborhood has good car accessibility but limited transit service, with most residents relying on personal vehicles for commuting and daily trips.",
+    "decision_rationale": "1) Prioritized policies with lower sales tax (0.5-1.0%) to preserve discretionary income given moderate household incomes. 2) Favored moderate driving fees ($0.50) over high fees ($1.00) since most residents are car-dependent. 3) Supported lower transit fares ($0.75-$1.25) to encourage occasional transit use while maintaining affordability. 4) Selected policies that achieve reasonable balance between car travel time improvements (22-23 min) and transit time improvements (55-58 min). 5) Considered combined impact of fees/fares/taxes on household budgets."
+  },
+  "vote": [
+    7,
+    10,
+    2,
+    0,
+    16
+  ]
+}

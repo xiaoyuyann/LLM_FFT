@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Third Ward",
+  "thinking": {
+    "disposable_income": "Greater Third Ward has a median household income of approximately $23,000, significantly below Houston's average, with about 45% of residents living below the poverty line.",
+    "discretionary_consumption": "Given the low income levels, residents have very limited discretionary spending capacity and are particularly sensitive to additional transportation costs and sales taxes.",
+    "accessibility": "The neighborhood has relatively good transit access with multiple bus routes and proximity to light rail, while about 20% of households lack access to a vehicle, making transit accessibility crucial.",
+    "decision_rationale": "1) Prioritized policies with lower transit fares ($0.75) to maintain affordability for transit-dependent residents. 2) Favored lower sales tax rates (0.5-1.0%) to minimize impact on limited discretionary income. 3) Supported moderate driving fees ($0.50-$1.00) to improve transit service without overly burdening car-dependent households. 4) Balanced travel time improvements with cost considerations, recognizing that many residents rely on transit. 5) Selected policies that provide the best transit travel time improvements while keeping costs manageable for low-income residents."
+  },
+  "vote": [
+    1,
+    0,
+    8,
+    7,
+    17
+  ]
+}

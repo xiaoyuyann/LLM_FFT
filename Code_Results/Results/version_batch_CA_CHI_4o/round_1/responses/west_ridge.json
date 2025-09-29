@@ -1,0 +1,16 @@
+{
+  "community_area": "West Ridge",
+  "thinking": {
+    "disposable_income": "West Ridge has a diverse population with a mix of middle-income and lower-income households. The disposable income varies significantly across the community, with some residents having limited financial flexibility.",
+    "discretionary_consumption": "The community has a moderate level of discretionary consumption, with residents spending on essentials and some discretionary items. However, any increase in transportation costs could impact their ability to spend on non-essential goods and services.",
+    "accessibility": "West Ridge has access to public transit options, but the current travel times are relatively long. Improving transit times could significantly benefit residents who rely on public transportation. Car ownership is moderate, and reducing driving times could also be beneficial.",
+    "decision_rationale": "Given the community's financial diversity, policies with lower fares and taxes are preferred to minimize the financial burden on residents. Reducing travel times for both transit and driving is also a priority to improve accessibility. Therefore, proposals with lower fares and moderate taxes, which also offer reduced travel times, are prioritized. The tradeoff between fare, tax, and travel time is carefully considered to balance affordability and accessibility."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Roseland",
+  "thinking": {
+    "disposable_income": "Roseland has a relatively low median household income compared to the city average, which means residents have limited disposable income.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, leaving less room for discretionary consumption.",
+    "accessibility": "Roseland has moderate access to public transit, but improvements in transit services could significantly benefit the community by reducing travel times and increasing access to jobs and services.",
+    "decision_rationale": "Given the limited disposable income, lower transit fares and driver fees are preferred to minimize the financial burden on residents. However, improving transit times is also crucial to enhance accessibility. A balance between cost and service improvement is necessary. Proposals with lower fares and moderate driver fees that significantly reduce travel times are prioritized. A moderate sales tax is acceptable if it leads to better transit services, as long as it doesn't overly burden residents' consumption."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

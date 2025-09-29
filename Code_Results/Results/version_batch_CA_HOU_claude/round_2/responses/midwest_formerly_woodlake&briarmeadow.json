@@ -1,0 +1,16 @@
+{
+  "community_area": "Mid-West",
+  "thinking": {
+    "disposable_income": "Mid-West has a median household income of around $55,000, with about 20% of residents living below poverty level, indicating moderate disposable income levels.",
+    "discretionary_consumption": "The area has mixed-income households with moderate discretionary spending capacity, though many residents are cost-sensitive to transportation expenses.",
+    "accessibility": "The neighborhood has good road access but limited transit options, with most residents relying on personal vehicles, though there is growing demand for better transit connectivity to major employment centers.",
+    "decision_rationale": "1) Prioritized policies with moderate tax rates to balance transit funding needs while preserving disposable income 2) Favored lower transit fares to make public transit more accessible to lower-income residents 3) Supported moderate driving fees to encourage transit use without overly burdening car-dependent residents 4) Considered travel time improvements for both transit and driving given the mixed transportation needs 5) Selected proposals that offer the best balance of transit accessibility, driving convenience, and overall cost impact for the diverse community"
+  },
+  "vote": [
+    7,
+    10,
+    16,
+    19,
+    2
+  ]
+}

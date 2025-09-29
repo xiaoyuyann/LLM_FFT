@@ -1,0 +1,16 @@
+{
+  "community_area": "Eldridge / West Oaks",
+  "thinking": {
+    "disposable_income": "Eldridge/West Oaks is an affluent area with median household income around $85,000, indicating relatively high disposable income and ability to absorb transportation costs.",
+    "discretionary_consumption": "Residents have significant discretionary spending power with high retail activity in the area including major shopping centers like West Oaks Mall and numerous retail establishments along Westheimer Road.",
+    "accessibility": "The area is heavily car-dependent with limited public transit options, characterized by wide roads, strip malls, and suburban development patterns with most residents relying on personal vehicles.",
+    "decision_rationale": "1) Given high car dependency, prioritize proposals that minimize driving time while keeping driver fees moderate 2) Higher sales tax is acceptable due to high disposable income 3) Transit improvements are secondary since most residents drive 4) Balance between reduced congestion and cost increases 5) Moderate transit fares to maintain service quality while not overly burdening transit-dependent workers"
+  },
+  "vote": [
+    20,
+    17,
+    11,
+    8,
+    3
+  ]
+}

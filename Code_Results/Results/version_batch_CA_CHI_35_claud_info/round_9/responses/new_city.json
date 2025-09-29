@@ -1,0 +1,16 @@
+{
+  "community_area": "New City",
+  "thinking": {
+    "disposable_income": "New City has relatively low income levels with median income of $40,959 and 57.8% of households making less than $50,000. About one-third of households make less than $25,000, indicating limited disposable income for many residents",
+    "discretionary_consumption": "Given the low income levels, residents likely have limited discretionary spending capacity. Higher sales taxes or transportation costs would significantly impact household budgets. The community needs to carefully balance transportation costs with other essential expenses",
+    "accessibility": "24.5% of households have no vehicle, and 41.3% have only one vehicle. 17.9% use transit for commuting while 53.7% drive alone. The community needs both affordable transit options and reasonable driving costs",
+    "decision_rationale": "1. Given low incomes, prioritize lower fares and taxes to preserve disposable income. 2. Need balance between transit and driving since community uses both significantly. 3. Lower transit fares important for no-vehicle households. 4. Moderate driving fees acceptable to improve transit service. 5. Selected policies that minimize total costs while maintaining reasonable service levels for both modes"
+  },
+  "vote": [
+    10,
+    1,
+    9,
+    4,
+    13
+  ]
+}

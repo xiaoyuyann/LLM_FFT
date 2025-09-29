@@ -1,0 +1,16 @@
+{
+  "community_area": "Rogers Park",
+  "thinking": {
+    "disposable_income": "Rogers Park has a diverse population with a mix of income levels. The median household income is slightly below the city average, indicating a moderate level of disposable income.",
+    "discretionary_consumption": "Residents in Rogers Park have varied spending habits, with a significant portion of income going towards housing, food, and transportation. There is a need to balance transportation costs with other essential expenses.",
+    "accessibility": "Rogers Park is well-served by public transit, including the Red Line and several bus routes. However, travel times can be long, and there is a need to improve transit efficiency. Car ownership is moderate, and congestion can be an issue during peak hours.",
+    "decision_rationale": "Given the moderate disposable income, it is important to keep transit fares and driving fees affordable to ensure accessibility for all residents. A lower sales tax is preferred to minimize the impact on discretionary consumption. Improving transit times is crucial to enhance accessibility and reduce reliance on cars. Therefore, proposals with lower fares and fees, moderate sales tax, and improved transit times are prioritized. The tradeoff involves balancing cost with improved service and accessibility."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

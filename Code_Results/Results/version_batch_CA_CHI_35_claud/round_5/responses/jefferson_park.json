@@ -1,0 +1,16 @@
+{
+  "community_area": "Jefferson Park",
+  "thinking": {
+    "disposable_income": "Jefferson Park is a middle-class community with median household income around $71,000. Residents have moderate disposable income but are price-sensitive to additional taxes and fees",
+    "discretionary_consumption": "Residents have moderate discretionary spending power. The community has a mix of homeowners and renters, with significant spending on housing, transportation, and daily necessities",
+    "accessibility": "Well-served by public transit with Blue Line station and Metra. High car ownership rate (~85%). Many residents commute downtown for work. Good mix of transit and driving options",
+    "decision_rationale": "1. Prioritize balanced policies that don't overly burden middle-class residents with high taxes/fees\n2. Consider strong transit infrastructure - many use Blue Line for downtown commute\n3. Account for significant car usage for local trips\n4. Favor policies that improve transit times without excessive cost increases\n5. Look for options that reduce driving times for car-dependent trips\n6. Selected policies 10, 13, 4, 1, and 21 as they offer good balance of improved travel times, moderate costs, and reasonable tax rates"
+  },
+  "vote": [
+    10,
+    13,
+    4,
+    1,
+    21
+  ]
+}

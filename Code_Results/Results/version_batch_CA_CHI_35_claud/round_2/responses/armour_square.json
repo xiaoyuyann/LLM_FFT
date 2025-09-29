@@ -1,0 +1,16 @@
+{
+  "community_area": "Armour Square",
+  "thinking": {
+    "disposable_income": "Armour Square has a median household income of approximately $35,000, significantly below Chicago's average. The community has a high percentage of low-income residents and seniors, making them particularly sensitive to cost increases",
+    "discretionary_consumption": "Limited discretionary spending capacity due to lower income levels. Many residents spend a large portion of their income on basic necessities. The community has a high concentration of Asian Americans, particularly Chinese Americans, who frequently travel to local businesses in Chinatown",
+    "accessibility": "Well-served by public transit including Red Line L station and multiple bus routes. High transit dependency with lower car ownership rates. Close proximity to downtown and major employment centers. Many residents rely on transit for daily commuting and accessing essential services",
+    "decision_rationale": "1. Prioritize low transit fares due to high transit dependency and lower incomes\n2. Prefer lower sales tax rates as residents have limited discretionary income\n3. Support moderate driving fees to improve transit service without overly burdening local businesses\n4. Balance between transit service improvements and cost burden on residents\n5. Consider impacts on local business accessibility for both transit users and drivers"
+  },
+  "vote": [
+    1,
+    10,
+    0,
+    9,
+    4
+  ]
+}

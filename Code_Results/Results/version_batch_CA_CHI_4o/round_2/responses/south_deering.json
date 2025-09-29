@@ -1,0 +1,16 @@
+{
+  "community_area": "South Deering",
+  "thinking": {
+    "disposable_income": "South Deering is a lower-income community with limited disposable income. Many residents rely on affordable transportation options to manage their daily expenses.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is limited. Residents prioritize essential goods and services, making cost-effective transportation crucial.",
+    "accessibility": "South Deering has moderate access to public transit, but improvements in transit services could significantly benefit the community by reducing travel times and increasing accessibility to jobs and services.",
+    "decision_rationale": "The community needs affordable transit options to maintain low transportation costs. A lower fare is preferred to ensure accessibility for all residents. A moderate sales tax is acceptable if it leads to better transit services, as long as it doesn't significantly impact disposable income. A driver fee is less concerning as car ownership is lower, but it should not be too high to avoid burdening those who drive. The focus is on reducing transit times and maintaining low costs to improve overall accessibility and quality of life."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

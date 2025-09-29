@@ -1,0 +1,16 @@
+{
+  "community_area": "Westchase",
+  "thinking": {
+    "disposable_income": "Westchase residents have relatively high disposable income with a median household income around $65,000, indicating capacity to absorb moderate transportation costs.",
+    "discretionary_consumption": "The area has significant discretionary spending at retail centers and restaurants, with residents generally able to afford higher transportation costs without severe impact on quality of life.",
+    "accessibility": "Westchase is a major employment center with good road access but limited transit options, where most residents rely on personal vehicles for commuting and daily trips.",
+    "decision_rationale": "1. Prioritized policies with moderate tax rates (1.0%) to balance transit improvement with tax burden. 2. Favored proposals with higher driving fees to reduce congestion given the area's car-dependency. 3. Selected moderate transit fares ($1.25) to maintain service quality while keeping transit affordable. 4. Considered the area's higher income levels can absorb some cost increases. 5. Weighted travel time improvements heavily given the employment center status."
+  },
+  "vote": [
+    11,
+    10,
+    8,
+    14,
+    20
+  ]
+}

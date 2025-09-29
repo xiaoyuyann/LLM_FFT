@@ -1,0 +1,16 @@
+{
+  "community_area": "City of Chicago",
+  "thinking": {
+    "disposable_income": "Chicago's median household income is approximately $62,097, with about 17.3% of residents living below poverty line. Transportation costs represent a significant portion of household budgets, especially for lower-income residents",
+    "discretionary_consumption": "Chicago residents spend approximately 33% of their income on housing and 16% on transportation. The remaining discretionary spending is sensitive to additional taxes and fees",
+    "accessibility": "Chicago has extensive public transit (CTA and Metra) with 145 rail stations and comprehensive bus network. 28.2% of households don't own cars. Average commute time is 35 minutes. Transit accessibility varies significantly by neighborhood",
+    "decision_rationale": "1. Prioritize balanced policies that improve transit service while maintaining affordability. 2. Consider high transit dependency and significant car-free population. 3. Lower transit fares benefit lower-income residents while moderate driving fees can fund improvements. 4. Moderate sales tax balances revenue needs with impact on discretionary spending. 5. Selected policies that reduce transit travel times while keeping costs manageable. 6. Proposals 11, 14, and 20 offer best balance of improved transit times and reasonable costs. 7. Proposals 13 and 10 provide good transit improvements with moderate cost impact"
+  },
+  "vote": [
+    11,
+    14,
+    20,
+    13,
+    10
+  ]
+}

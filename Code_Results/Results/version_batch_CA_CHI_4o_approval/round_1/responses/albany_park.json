@@ -1,0 +1,16 @@
+{
+  "community_area": "Albany Park",
+  "thinking": {
+    "disposable_income": "Albany Park is a diverse community with a mix of income levels. Many residents are middle to lower-middle income, with a significant portion of the population being immigrants and working-class families. Disposable income is moderate, and residents are sensitive to increases in living costs.",
+    "discretionary_consumption": "Given the moderate disposable income, discretionary spending is limited. Residents prioritize essential expenses such as housing, food, and education. Any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Albany Park has decent access to public transportation, with several bus routes and the Brown Line serving the area. However, travel times can be long, and improvements in transit efficiency would be beneficial. Car ownership is moderate, and many residents rely on public transit for commuting.",
+    "decision_rationale": "Considering the moderate disposable income and limited discretionary spending, policies with lower transit fares and minimal increases in sales tax are preferred. Reducing travel time is also a priority to improve accessibility. Therefore, policies with a balance of lower fares, moderate taxes, and reasonable driving fees that lead to reduced travel times are favored. The community would benefit from improved transit services without significant increases in overall costs."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

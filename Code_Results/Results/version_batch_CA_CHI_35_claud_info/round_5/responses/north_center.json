@@ -1,0 +1,16 @@
+{
+  "community_area": "North Center",
+  "thinking": {
+    "disposable_income": "North Center is an affluent area with median income of $148,585 and 67.4% of households earning over $100,000. This suggests residents have significant disposable income and can generally afford higher transportation costs",
+    "discretionary_consumption": "With high incomes, residents likely have substantial discretionary spending. A sales tax increase would impact this but may be more tolerable than in lower-income areas. Average household spending power suggests ability to absorb moderate fee increases",
+    "accessibility": "87.4% of households own at least one vehicle, with 37.6% having multiple vehicles. 20% use transit for commuting, while 38.6% drive alone. Good mix of transportation options suggests residents value both driving and transit accessibility",
+    "decision_rationale": "1. Given high incomes, prioritize time savings over cost savings. 2. Support policies that improve both transit and driving times since community uses both modes significantly. 3. Can tolerate higher sales tax given income levels if it improves service. 4. Moderate driving fees acceptable to reduce congestion. 5. Balance fare increases with service improvements to maintain transit ridership"
+  },
+  "vote": [
+    23,
+    14,
+    5,
+    20,
+    11
+  ]
+}

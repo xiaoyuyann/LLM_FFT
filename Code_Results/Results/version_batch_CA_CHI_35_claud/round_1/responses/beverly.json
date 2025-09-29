@@ -1,0 +1,16 @@
+{
+  "community_area": "Beverly",
+  "thinking": {
+    "disposable_income": "Beverly is an upper-middle-class community with median household income around $94,000. Residents have relatively high disposable income compared to Chicago average, making them less sensitive to moderate fare/fee increases",
+    "discretionary_consumption": "High levels of discretionary spending capacity. Many households can afford cars and have significant retail spending. Higher sales tax would impact discretionary purchases but not severely given income levels",
+    "accessibility": "Beverly has Metra Rock Island line stations but limited CTA rail access. Many residents are car-dependent for commuting. Good road network with connection to major highways. Mixed transit-car usage community with higher car ownership rates",
+    "decision_rationale": "1. Given Beverly's car dependency but mixed transit usage, policies balancing both modes are preferred. 2. Higher income means moderate fees/taxes are acceptable if they improve service. 3. Prioritize policies reducing car travel times while maintaining reasonable transit times. 4. Focus on proposals with moderate rather than highest fees given mixed-mode usage. 5. Selected policies 14, 23, 13, 22, and 5 as they offer good car time reductions without extreme costs, while maintaining viable transit options for those who use it"
+  },
+  "vote": [
+    14,
+    23,
+    13,
+    22,
+    5
+  ]
+}

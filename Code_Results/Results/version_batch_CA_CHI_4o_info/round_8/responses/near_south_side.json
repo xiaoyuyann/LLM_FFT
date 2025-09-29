@@ -1,0 +1,16 @@
+{
+  "community_area": "Near South Side",
+  "thinking": {
+    "disposable_income": "The Near South Side has a high median household income of $124,558 and a per capita income of $94,087, indicating a relatively affluent community with significant disposable income.",
+    "discretionary_consumption": "With 43.7% of households earning $150,000 and over, the community has a high capacity for discretionary spending. However, 12.9% of households earn less than $25,000, suggesting a need to consider affordability for lower-income residents.",
+    "accessibility": "The community has a balanced mode of transportation with 41.9% driving alone and 22.7% using transit. A significant portion of the population works from home (22.7%), reducing daily commuting needs. Car ownership is high, with 60.6% having one vehicle, but 22.4% have no vehicle, indicating a reliance on public transit for a portion of the population.",
+    "decision_rationale": "Given the high disposable income, the community can afford moderate increases in taxes and fees if they result in improved transit services. However, the policy should not overly burden lower-income residents. The community values efficient transit options, as indicated by the significant use of public transit and the need to support those without vehicles. Therefore, policies that improve transit times and maintain reasonable costs are prioritized. A balance between tax, fare, and driving fees is essential to ensure accessibility and affordability for all income levels."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Hermosa",
+  "thinking": {
+    "disposable_income": "Hermosa is a working-class community with median household income around $47,000, below Chicago's average. Many residents work in service and manufacturing sectors, with approximately 18% of families below poverty level",
+    "discretionary_consumption": "Limited discretionary spending capacity due to lower income levels. Residents are price-sensitive to additional taxes and fees. Average annual discretionary spending estimated around $15,000-20,000 per household",
+    "accessibility": "Mixed transit access with bus routes and proximity to Blue Line, but many residents rely on cars for work commutes. About 75% of households own vehicles. Average commute times are significant factor for working population",
+    "decision_rationale": "1. Prioritize lower transit fares and taxes due to limited disposable income\n2. Balance driving fees since many residents need cars for work\n3. Focus on proposals that reduce transit times without excessive cost burden\n4. Consider proposals that maintain reasonable car travel times\n5. Favor options that don't overly impact household budgets through sales tax"
+  },
+  "vote": [
+    10,
+    1,
+    4,
+    13,
+    19
+  ]
+}

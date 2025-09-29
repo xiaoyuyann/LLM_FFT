@@ -1,0 +1,55 @@
+{
+  "total_rounds": 9,
+  "winning_policy_counts": {
+    "1": 9
+  },
+  "round_winners": [
+    {
+      "round": 1,
+      "winning_policy": 1,
+      "summary": "Policy 1 won with majority in round 1."
+    },
+    {
+      "round": 2,
+      "winning_policy": 1,
+      "summary": "Policy 1 won with majority in round 1."
+    },
+    {
+      "round": 3,
+      "winning_policy": 1,
+      "summary": "Policy 1 won with majority in round 1."
+    },
+    {
+      "round": 4,
+      "winning_policy": 1,
+      "summary": "Policy 1 won with majority in round 1."
+    },
+    {
+      "round": 5,
+      "winning_policy": 1,
+      "summary": "Policy 1 won with majority in round 1."
+    },
+    {
+      "round": 6,
+      "winning_policy": 1,
+      "summary": "Policy 1 won with majority in round 1."
+    },
+    {
+      "round": 7,
+      "winning_policy": 1,
+      "summary": "Policy 1 won with majority in round 1."
+    },
+    {
+      "round": 8,
+      "winning_policy": 1,
+      "summary": "Policy 1 won with majority in round 1."
+    },
+    {
+      "round": 9,
+      "winning_policy": 1,
+      "summary": "Policy 1 won with majority in round 1."
+    }
+  ],
+  "most_frequent_winner": 1,
+  "most_frequent_winner_count": 9
+}

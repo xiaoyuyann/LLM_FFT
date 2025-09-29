@@ -1,0 +1,16 @@
+{
+  "community_area": "West Englewood",
+  "thinking": {
+    "disposable_income": "West Englewood has a relatively low median household income compared to other areas in Chicago, which means residents have limited disposable income.",
+    "discretionary_consumption": "Due to lower income levels, discretionary spending is limited, and residents are sensitive to increases in costs related to transportation, taxes, and fees.",
+    "accessibility": "Public transit is a crucial mode of transportation for many residents in West Englewood, as car ownership is lower than in other areas. Accessibility to jobs, education, and services is heavily reliant on affordable and efficient public transit.",
+    "decision_rationale": "Given the limited disposable income and reliance on public transit, the priority is to minimize costs while improving transit efficiency. Lower fares and taxes are preferred to reduce the financial burden on residents. However, some increase in driver fees is acceptable if it significantly improves transit times, as this could benefit the majority who rely on public transit. The selected proposals balance these considerations by offering lower fares and taxes while slightly increasing driver fees to enhance transit efficiency."
+  },
+  "vote": [
+    10,
+    1,
+    13,
+    4,
+    19
+  ]
+}

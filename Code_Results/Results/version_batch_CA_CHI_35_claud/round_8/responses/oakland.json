@@ -1,0 +1,16 @@
+{
+  "community_area": "Oakland",
+  "thinking": {
+    "disposable_income": "Oakland is a low-income community with median household income around $27,000, significantly below Chicago's average. About 39% of residents live below poverty level, indicating limited disposable income",
+    "discretionary_consumption": "Given the high poverty rate and low income levels, residents have very limited discretionary spending capacity. Most income goes to essential needs like housing and food. Higher taxes or transportation costs would significantly impact household budgets",
+    "accessibility": "Oakland has good access to CTA services with Green Line and bus routes. About 45% of residents rely on public transit for commuting. Car ownership is lower than city average due to economic constraints. The community is relatively close to downtown and lakefront amenities",
+    "decision_rationale": "1. Prioritize lowest transit fares ($0.75) given low income levels and high transit dependency. 2. Prefer lower sales tax (0.5-1.0%) to minimize impact on limited discretionary spending. 3. Support moderate driving fees ($0.50-$1.00) to improve transit service without overly burdening drivers. 4. Balance between improved transit times and affordability. 5. Consider proposals that reduce both transit and driving times to benefit all residents"
+  },
+  "vote": [
+    2,
+    1,
+    11,
+    10,
+    20
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Park",
+  "thinking": {
+    "disposable_income": "Lincoln Park is a relatively affluent community with a higher average disposable income compared to other areas in Chicago. Residents can generally afford higher transportation costs, but they still value cost-effective solutions.",
+    "discretionary_consumption": "Residents in Lincoln Park have a high level of discretionary consumption, spending on dining, entertainment, and other lifestyle activities. They prefer policies that do not significantly impact their ability to maintain this lifestyle.",
+    "accessibility": "Lincoln Park has good access to public transit, with multiple bus and train lines serving the area. However, many residents also own cars and use them for convenience. Reducing travel time is a priority for both transit and driving.",
+    "decision_rationale": "Given the higher disposable income and discretionary consumption, Lincoln Park residents can tolerate slightly higher costs if it results in better service and reduced travel times. The community values efficient transit options and reduced congestion. Therefore, proposals that balance lower fares and fees with moderate taxes, while significantly reducing travel times, are prioritized. The decision also considers the potential shift from driving to transit, which could alleviate congestion and improve overall travel efficiency."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

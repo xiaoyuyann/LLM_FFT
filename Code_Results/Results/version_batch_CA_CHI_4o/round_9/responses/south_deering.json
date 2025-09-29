@@ -1,0 +1,16 @@
+{
+  "community_area": "South Deering",
+  "thinking": {
+    "disposable_income": "South Deering has a relatively low median household income compared to other areas in Chicago, which means residents are sensitive to increases in costs related to transportation.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is limited, so any increase in transportation costs could significantly impact the ability to spend on other necessities.",
+    "accessibility": "South Deering has limited access to public transit options, making it crucial to improve transit services to reduce travel times and increase accessibility to jobs and services.",
+    "decision_rationale": "The primary goal is to reduce transit costs and improve service quality while minimizing the impact on disposable income. Lower fares and taxes are preferred to keep transportation affordable. However, some increase in driver fees is acceptable if it significantly reduces travel times and improves transit services. The selected proposals balance these factors by offering lower fares and moderate driver fees, which can encourage a shift from driving to transit, reduce congestion, and improve overall accessibility."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

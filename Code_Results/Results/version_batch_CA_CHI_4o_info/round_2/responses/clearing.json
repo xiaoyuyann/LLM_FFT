@@ -1,0 +1,16 @@
+{
+  "community_area": "Clearing",
+  "thinking": {
+    "disposable_income": "The median household income in Clearing is $73,778, with a significant portion of households earning between $50,000 and $149,999. This suggests a moderate level of disposable income, with some capacity to absorb additional costs from taxes or fees, but with a need to be mindful of the impact on lower-income households.",
+    "discretionary_consumption": "With a per capita income of $33,089, residents have some discretionary spending capacity. However, a notable portion of the population earns less than $50,000, indicating that increased costs could impact their ability to spend on other necessities.",
+    "accessibility": "The majority of residents (74.1%) drive alone, indicating a high reliance on personal vehicles. Only 6.9% use transit, suggesting that improvements in transit could benefit a small but significant portion of the community. The mean commute time is 31.9 minutes, which is relatively high, indicating potential benefits from reduced travel times.",
+    "decision_rationale": "Given the high reliance on driving, policies that reduce car travel time and improve transit times are prioritized. However, the community's moderate income levels mean that policies with lower fares and taxes are preferred to minimize financial strain. Balancing these factors, the top choices aim to improve transit times and reduce car travel times while keeping costs manageable. The selected policies reflect a preference for moderate taxes and fares, with some willingness to accept higher driver fees to incentivize transit use and reduce congestion."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

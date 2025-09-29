@@ -1,0 +1,16 @@
+{
+  "community_area": "Afton Oaks / River Oaks",
+  "thinking": {
+    "disposable_income": "Afton Oaks / River Oaks is a relatively affluent neighborhood with higher than average disposable income.",
+    "discretionary_consumption": "Residents in this area have significant discretionary spending, often on luxury goods and services.",
+    "accessibility": "The neighborhood has good accessibility to resources and services, with a high rate of car ownership and less reliance on public transit.",
+    "decision_rationale": "Given the high disposable income and discretionary spending, the community can absorb higher costs if it results in better services. However, the preference is to maintain or improve current travel times and costs. The neighborhood's reliance on cars suggests that policies reducing driving time and cost are favorable. Therefore, proposals with lower driving fees and moderate transit fares are prioritized, as they balance improved transit services with minimal impact on driving costs and times."
+  },
+  "vote": [
+    1,
+    3,
+    5,
+    8,
+    11
+  ]
+}

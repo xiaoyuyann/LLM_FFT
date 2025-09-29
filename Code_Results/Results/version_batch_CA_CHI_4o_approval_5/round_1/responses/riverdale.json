@@ -1,0 +1,16 @@
+{
+  "community_area": "Riverdale",
+  "thinking": {
+    "disposable_income": "Riverdale is one of the lower-income areas in Chicago, with a significant portion of the population living below the poverty line. Disposable income is limited, making affordability a key concern.",
+    "discretionary_consumption": "Due to limited disposable income, discretionary consumption is low. Residents prioritize essential expenses, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Riverdale has limited access to resources and services, with public transit being a crucial mode of transportation for many residents. Improving transit accessibility and affordability is essential for the community.",
+    "decision_rationale": "Given the limited disposable income and low discretionary consumption in Riverdale, policies with lower transit fares and minimal tax increases are preferred. Accessibility to affordable transit is crucial, so proposals that reduce transit time without significantly increasing costs are prioritized. Proposals with a $0.75 fare and lower sales tax rates are favored to ensure affordability. Driver fees are less of a concern as car ownership is lower, but reducing congestion and improving transit times are beneficial. Therefore, proposals with a $0.75 fare, 0.5% or 1% tax, and moderate driver fees are selected to balance affordability and improved transit service."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

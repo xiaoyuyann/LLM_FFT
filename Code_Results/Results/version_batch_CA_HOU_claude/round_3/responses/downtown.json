@@ -1,0 +1,16 @@
+{
+  "community_area": "Downtown",
+  "thinking": {
+    "disposable_income": "Downtown residents have relatively high disposable incomes with a median household income above Houston's average, as it is home to many young professionals and high-income workers in the business district.",
+    "discretionary_consumption": "Downtown residents tend to have high discretionary spending capacity and frequently use both personal vehicles and public transit for commuting, dining, and entertainment.",
+    "accessibility": "Downtown has excellent accessibility with multiple transit options including light rail, bus routes, and walkable streets, while also having good road infrastructure and parking facilities.",
+    "decision_rationale": "1) Prioritized policies that balance transit improvements with moderate costs given residents' higher income levels 2) Favored proposals with higher driver fees to reduce congestion in the dense downtown area 3) Selected moderate to higher tax rates to support transit infrastructure given residents' ability to afford it 4) Considered that many downtown residents use both transit and cars, so sought balanced improvements to both modes 5) Chose policies that would reduce overall travel times while maintaining reasonable fares for transit-dependent workers in the service sector"
+  },
+  "vote": [
+    20,
+    23,
+    17,
+    11,
+    14
+  ]
+}

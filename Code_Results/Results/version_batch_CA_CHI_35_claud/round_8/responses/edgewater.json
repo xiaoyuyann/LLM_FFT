@@ -1,0 +1,16 @@
+{
+  "community_area": "Edgewater",
+  "thinking": {
+    "disposable_income": "Edgewater has a median household income of around $54,000, slightly below Chicago's median. About 16% of residents live below poverty level. The community has a mix of middle-income professionals and working-class residents, with significant student population due to proximity to Loyola University.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity. The area has many renters (65%) who need to budget carefully. The presence of diverse retail and dining options along Broadway and Clark Street indicates some disposable income, but residents are price-sensitive.",
+    "accessibility": "Excellent transit access with Red Line stations (Bryn Mawr, Thorndale, Granville) and multiple bus routes. High walkability score. About 35% of households don't own cars. Many residents commute to downtown and nearby employment centers using public transit.",
+    "decision_rationale": "1. Prioritize lower transit fares due to high transit dependency and moderate income levels. 2. Support moderate driving fees to improve transit service without overly burdening car-dependent residents. 3. Accept moderate sales tax to maintain transit quality. 4. Balance between travel time improvements and cost burden. 5. Selected proposals that reduce transit travel times while keeping fares affordable. Ranked proposals 11, 10, 19, 13, and 4 as they offer good transit times with reasonable fares and moderate tax impact."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    4
+  ]
+}

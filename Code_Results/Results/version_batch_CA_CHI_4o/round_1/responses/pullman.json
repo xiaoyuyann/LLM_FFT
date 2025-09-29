@@ -1,0 +1,16 @@
+{
+  "community_area": "Pullman",
+  "thinking": {
+    "disposable_income": "Pullman is a community with a moderate level of disposable income. Many residents are working-class, and affordability is a key concern.",
+    "discretionary_consumption": "Discretionary spending is limited, with residents prioritizing essential goods and services. Any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Pullman has moderate access to public transit, with some reliance on driving. Improving transit times could benefit residents who rely on public transportation for commuting.",
+    "decision_rationale": "Given the moderate disposable income and limited discretionary spending, it is crucial to keep costs low while improving transit efficiency. A lower fare and moderate driver fee can encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it significantly improves transit services. The focus is on reducing travel time and maintaining affordability."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

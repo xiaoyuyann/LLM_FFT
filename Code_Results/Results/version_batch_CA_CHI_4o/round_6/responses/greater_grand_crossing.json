@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Grand Crossing",
+  "thinking": {
+    "disposable_income": "Greater Grand Crossing has a relatively low median household income compared to the city average, which means residents are sensitive to increases in costs, whether through fares, fees, or taxes.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, so any increase in transportation costs could significantly impact their ability to spend on other necessities.",
+    "accessibility": "The community relies heavily on public transit due to lower car ownership rates. Improving transit times and maintaining affordable fares are crucial for accessibility to jobs and services.",
+    "decision_rationale": "Given the community's reliance on public transit and sensitivity to cost increases, the priority is to select policies that minimize fare increases while improving transit times. A lower sales tax is preferred to avoid reducing disposable income further. Driver fees are acceptable if they significantly improve transit times, as they may encourage a shift from driving to transit, reducing congestion. The selected policies balance these factors, aiming to improve transit efficiency without imposing excessive financial burdens on residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

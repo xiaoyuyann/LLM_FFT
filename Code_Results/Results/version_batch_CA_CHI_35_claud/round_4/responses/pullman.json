@@ -1,0 +1,16 @@
+{
+  "community_area": "Pullman",
+  "thinking": {
+    "disposable_income": "Pullman has a median household income of approximately $41,000, which is below Chicago's average. Many residents have limited disposable income, making them sensitive to transportation costs and taxes",
+    "discretionary_consumption": "Given the lower income levels, residents have limited discretionary spending. The community has significant retail gaps, and many purchases are made outside the area. A higher sales tax would impact already constrained budgets",
+    "accessibility": "Pullman is served by Metra Electric District line and several CTA bus routes. However, many residents rely on cars due to longer transit travel times to job centers. The area has historically faced transportation access challenges despite its transit infrastructure",
+    "decision_rationale": "1. Prioritize lower transit fares and moderate taxes due to limited household incomes. 2. Consider policies that improve transit service times without excessive cost burden. 3. Moderate driving fees could help fund transit while managing congestion. 4. Balance between transit improvement needs and affordability. 5. Selected policies that reduce transit travel times while keeping combined costs manageable for residents"
+  },
+  "vote": [
+    10,
+    19,
+    11,
+    13,
+    20
+  ]
+}

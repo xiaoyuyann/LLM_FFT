@@ -1,0 +1,16 @@
+{
+  "community_area": "New City",
+  "thinking": {
+    "disposable_income": "The median income in New City is $40,959, with a significant portion of the population earning less than $25,000. This suggests limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With a per capita income of $21,622, residents have limited discretionary spending. High transit fares or driver fees could significantly impact their ability to spend on other necessities.",
+    "accessibility": "A large portion of the population relies on driving (53.7%) and transit (17.9%). Improving transit times and maintaining affordability is crucial for accessibility, especially for those without vehicles (24.5%).",
+    "decision_rationale": "Given the community's income constraints and reliance on both driving and transit, policies that balance lower costs with improved transit times are prioritized. Lower fares and moderate driver fees can encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it significantly improves transit services, as it spreads the cost across all consumers. The selected policies aim to reduce travel times while keeping costs manageable for low-income residents."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

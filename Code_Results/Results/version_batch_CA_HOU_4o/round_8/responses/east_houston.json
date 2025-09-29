@@ -1,0 +1,16 @@
+{
+  "community_area": "East Houston",
+  "thinking": {
+    "disposable_income": "East Houston has a moderate to low disposable income, with many residents working in blue-collar jobs.",
+    "discretionary_consumption": "Residents in East Houston have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "Public transit is a crucial mode of transportation for many residents, but current services are limited and often require long travel times.",
+    "decision_rationale": "Given the moderate to low disposable income, it is important to minimize additional financial burdens on residents. Therefore, lower transit fares and driver fees are preferred to keep transportation affordable. However, improving transit times is also crucial to enhance accessibility and reduce travel time for residents who rely on public transportation. A balance between a reasonable sales tax and improved transit services is necessary. Proposals with a 0.5% sales tax and lower fares and fees are prioritized to maintain affordability while slightly improving transit times. The decision also considers the potential for reduced congestion and emissions, which can improve overall quality of life in the neighborhood."
+  },
+  "vote": [
+    0,
+    2,
+    6,
+    9,
+    10
+  ]
+}

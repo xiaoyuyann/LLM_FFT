@@ -1,0 +1,16 @@
+{
+  "community_area": "Near North Side",
+  "thinking": {
+    "disposable_income": "The Near North Side has a high median income of $121,562 and a per capita income of $118,674, indicating a relatively affluent community with significant disposable income.",
+    "discretionary_consumption": "With a large portion of the population earning over $150,000, the community likely has a high level of discretionary consumption. The impact of small increases in transit fares or taxes may be less significant compared to lower-income areas.",
+    "accessibility": "The community has a high percentage of residents who walk or bike (27.6%) and use transit (18.9%), with a significant portion also working from home (25%). Car ownership is relatively low, with 45.6% of households having no vehicle. This suggests a strong reliance on public transit and non-motorized modes of transportation.",
+    "decision_rationale": "Given the high income levels, the community can absorb moderate increases in transit fares and taxes if it results in improved transit services. The focus should be on reducing travel times and enhancing transit efficiency, as a significant portion of the population relies on these modes. Proposals with higher driver fees could also be beneficial in reducing congestion and emissions, aligning with the community's reliance on transit and non-motorized transport. Therefore, proposals that balance moderate fare increases with improved transit times and higher driver fees are prioritized."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

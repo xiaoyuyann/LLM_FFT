@@ -1,0 +1,16 @@
+{
+  "community_area": "Armour Square",
+  "thinking": {
+    "disposable_income": "A significant portion of the community, 31.1%, earns less than $25,000, indicating limited disposable income. The majority of households fall into lower to middle-income brackets, suggesting sensitivity to increases in costs such as transit fares and sales taxes.",
+    "discretionary_consumption": "With a large percentage of the population in lower income brackets, discretionary spending is likely limited. Increases in transit fares, sales taxes, or driving fees could significantly impact the ability of residents to spend on other necessities.",
+    "accessibility": "A notable 24.4% of residents use transit, and 33.9% do not own a vehicle, indicating a reliance on public transportation. Improving transit times and maintaining affordable fares are crucial for accessibility. Additionally, 41.1% drive alone, so driving fees and travel times are also important considerations.",
+    "decision_rationale": "Given the community's reliance on transit and limited disposable income, proposals with lower transit fares and moderate sales taxes are prioritized. Reducing travel times for both transit and driving is also important. Balancing these factors, proposals that offer improved transit times without significantly increasing costs are preferred. The community's high percentage of transit users and non-vehicle owners suggests a need to prioritize transit accessibility and affordability."
+  },
+  "vote": [
+    11,
+    10,
+    13,
+    14,
+    19
+  ]
+}

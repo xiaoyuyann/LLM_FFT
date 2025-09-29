@@ -1,0 +1,16 @@
+{
+  "community_area": "Edgewater",
+  "thinking": {
+    "disposable_income": "Edgewater has a median income of $67,796, with a diverse income distribution. About 38% earn less than $50,000, while 32.9% earn over $100,000. This suggests a need to balance policy costs across different income levels.",
+    "discretionary_consumption": "With a per capita income of $51,717, residents have moderate discretionary spending power. However, the high percentage of lower-income households (38% below $50,000) means many residents would be sensitive to increased transportation costs and sales taxes.",
+    "accessibility": "The community shows balanced transit/driving usage (33.2% transit, 33% drive alone). Notable that 38.8% have no vehicle, and 46.3% have one vehicle. Strong transit dependency exists alongside significant car usage.",
+    "decision_rationale": "1. Prioritized policies that maintain lower transit fares due to high transit usage and large car-free population. 2. Considered moderate driving fees to improve transit service without overly burdening drivers. 3. Favored lower sales tax rates due to significant lower-income population. 4. Selected policies that reduce transit travel times to benefit the large transit-dependent population. 5. Balanced improvements in both transit and driving times to serve mixed-mode community needs."
+  },
+  "vote": [
+    11,
+    10,
+    1,
+    4,
+    13
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Calumet Heights",
+  "thinking": {
+    "disposable_income": "Calumet Heights has a median household income of around $48,000, which is moderate for Chicago. The community has a significant middle-class population with stable employment, but many residents need to be mindful of transportation costs",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity. Higher sales taxes would impact household budgets, especially for retail purchases. Many households own cars, making driving costs a significant consideration",
+    "accessibility": "The area is served by the Metra Electric District line and several bus routes, but transit service is less frequent than in areas closer to downtown. Many residents rely on personal vehicles for commuting and daily errands. The community is relatively far from downtown, making travel times a crucial factor",
+    "decision_rationale": "1. Prioritize policies that balance transit improvement with moderate cost increases given middle-class demographics. 2. Consider driving costs since many residents are car-dependent. 3. Lower transit fares preferred to maintain accessibility. 4. Moderate driving fees acceptable to improve transit service. 5. Avoid highest tax rates due to impact on household budgets. Selected policies that offer improved transit times without excessive cost burden, while maintaining reasonable driving conditions"
+  },
+  "vote": [
+    11,
+    10,
+    4,
+    13,
+    1
+  ]
+}

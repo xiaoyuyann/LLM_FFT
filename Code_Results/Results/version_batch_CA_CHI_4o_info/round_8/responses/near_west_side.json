@@ -1,0 +1,16 @@
+{
+  "community_area": "Near West Side",
+  "thinking": {
+    "disposable_income": "The Near West Side has a relatively high median income of $106,955 and a per capita income of $72,602. A significant portion of the population earns over $150,000, indicating a community with substantial disposable income.",
+    "discretionary_consumption": "With a high income distribution, residents likely have more flexibility in their spending. However, 17.9% of the population earns less than $25,000, so affordability remains a concern for a portion of the community.",
+    "accessibility": "The community has diverse transportation modes: 30.7% drive alone, 18.1% use transit, and 24.1% walk or bike. A significant portion (34.3%) of households do not own a vehicle, highlighting the importance of affordable and efficient public transit.",
+    "decision_rationale": "Given the high income levels, the community can support a moderate increase in sales tax and transit fares if it results in better services. However, affordability for lower-income residents and those without vehicles is crucial. Proposals with lower transit fares and moderate driver fees are preferred to encourage transit use and reduce congestion. The community values efficient transit options to support those without vehicles and reduce travel times for all."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

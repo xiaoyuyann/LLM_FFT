@@ -1,0 +1,16 @@
+{
+  "community_area": "Pecan Park",
+  "thinking": {
+    "disposable_income": "Pecan Park has a moderate to low disposable income, with many residents working in blue-collar jobs.",
+    "discretionary_consumption": "Residents in Pecan Park have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "Pecan Park has moderate access to public transit, but many residents rely on personal vehicles due to the current transit travel times.",
+    "decision_rationale": "Given the moderate to low disposable income, it is crucial to minimize additional financial burdens on residents. Lower transit fares and driving fees are preferred to keep transportation affordable. A moderate sales tax is acceptable if it significantly improves transit services, reducing travel times and encouraging public transit use. The top-ranked proposals balance these factors by offering reduced travel times and costs, making transit more attractive while not overly burdening drivers with high fees."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

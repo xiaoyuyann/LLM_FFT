@@ -1,0 +1,16 @@
+{
+  "community_area": "Near North Side",
+  "thinking": {
+    "disposable_income": "The Near North Side is one of the wealthier areas in Chicago, with a higher average disposable income compared to other communities. Residents can generally afford higher transportation costs, but they still value cost-effective solutions.",
+    "discretionary_consumption": "Residents in the Near North Side have a high level of discretionary consumption, spending on dining, entertainment, and luxury goods. They prefer policies that do not significantly impact their ability to spend on these activities.",
+    "accessibility": "The Near North Side has excellent access to public transit, with multiple CTA train lines and bus routes. However, traffic congestion can be an issue, making efficient transit options appealing.",
+    "decision_rationale": "Given the high disposable income and discretionary consumption, the community can handle moderate increases in transit fares and driver fees if it results in better service and reduced congestion. A lower sales tax is preferred to maintain discretionary spending. The focus is on reducing travel time and improving transit service, even if it means slightly higher costs per trip. The community values efficient transit options to reduce reliance on driving and alleviate congestion."
+  },
+  "vote": [
+    13,
+    14,
+    10,
+    11,
+    19
+  ]
+}

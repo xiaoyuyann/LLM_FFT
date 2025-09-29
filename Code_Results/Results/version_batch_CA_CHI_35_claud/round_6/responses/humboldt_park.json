@@ -1,0 +1,16 @@
+{
+  "community_area": "Humboldt Park",
+  "thinking": {
+    "disposable_income": "Humboldt Park has a median household income of approximately $37,000, significantly below Chicago's median. About 28% of residents live below poverty level, indicating limited disposable income for many households",
+    "discretionary_consumption": "Given the low median income, residents have limited discretionary spending capacity. Many households spend a large portion of income on basic necessities, making them sensitive to additional transportation costs and sales taxes",
+    "accessibility": "About 35% of households don't own vehicles and rely heavily on public transit. The area has several bus routes and is near the Blue Line, but transit access could be improved. Many residents commute to jobs outside the neighborhood",
+    "decision_rationale": "1. Prioritize low transit fares ($0.75) due to high transit dependency and low incomes. 2. Moderate sales tax (1%) balances revenue needs with affordability. 3. Support some driving fees to improve transit service while not overly burdening car-dependent households. 4. Focus on proposals that reduce transit travel times to improve job access. 5. Consider combined impact of all fees/taxes on low-income residents"
+  },
+  "vote": [
+    11,
+    10,
+    9,
+    2,
+    1
+  ]
+}

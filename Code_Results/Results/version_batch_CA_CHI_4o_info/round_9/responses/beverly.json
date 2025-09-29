@@ -1,0 +1,16 @@
+{
+  "community_area": "Beverly",
+  "thinking": {
+    "disposable_income": "Beverly has a high median income of $131,170 and a per capita income of $64,719, indicating a relatively high level of disposable income compared to other areas.",
+    "discretionary_consumption": "With a significant portion of households earning over $100,000, residents likely have more flexibility in their spending, allowing for discretionary consumption beyond basic needs.",
+    "accessibility": "62% of residents drive alone, and 17% use transit. Car ownership is high, with 43.6% owning two vehicles, suggesting good accessibility by car. However, transit usage is also notable, indicating a need for efficient public transportation.",
+    "decision_rationale": "Given the high income levels, Beverly residents can afford moderate increases in transit fares and driver fees if it results in better services. The community values both driving and transit, so policies that improve transit times without significantly increasing costs are preferred. A balance between tax, fare, and fee is crucial to maintain affordability while enhancing service quality. Proposals with moderate taxes and fees that significantly reduce travel times are prioritized to benefit both drivers and transit users."
+  },
+  "vote": [
+    14,
+    13,
+    11,
+    10,
+    4
+  ]
+}

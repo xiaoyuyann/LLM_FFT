@@ -1,0 +1,16 @@
+{
+  "community_area": "West Ridge",
+  "thinking": {
+    "disposable_income": "West Ridge has a moderate level of disposable income, with a diverse population including middle-income families and a significant number of low-income households.",
+    "discretionary_consumption": "The community has a balanced discretionary consumption pattern, with spending on essentials like housing and food taking precedence, but also some spending on non-essentials.",
+    "accessibility": "West Ridge has decent access to public transit, but many residents rely on driving due to the spread-out nature of the area and the need to access jobs and services outside the immediate community.",
+    "decision_rationale": "Given the moderate disposable income, it is important to keep costs low for both transit and driving. A lower fare and driving fee would benefit the community by reducing the financial burden on residents. However, improving transit times is also crucial to make public transportation a more viable option. Therefore, proposals with lower fares and moderate driving fees, which also improve transit times, are prioritized. A moderate sales tax is acceptable if it significantly improves transit services, as long as it does not overly burden the community's consumption capacity."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

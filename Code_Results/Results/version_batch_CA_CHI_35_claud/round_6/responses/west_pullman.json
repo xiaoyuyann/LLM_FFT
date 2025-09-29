@@ -1,0 +1,16 @@
+{
+  "community_area": "West Pullman",
+  "thinking": {
+    "disposable_income": "West Pullman has a median household income of approximately $37,000, significantly below Chicago's median. About 27% of residents live below poverty level, indicating limited disposable income for many households",
+    "discretionary_consumption": "Given the low median income and high poverty rate, residents have limited discretionary spending capacity. Many households spend a large portion of income on essential needs, making them sensitive to additional taxes and transportation costs",
+    "accessibility": "The area is served by Metra Electric District line and several CTA bus routes, but transit coverage is relatively sparse. About 75% of households own cars, suggesting significant reliance on personal vehicles despite the cost burden. Average commute times are longer than city average",
+    "decision_rationale": "1. Given low income levels, prioritize proposals with lower transit fares and taxes to preserve disposable income. 2. Consider moderate driving fees to improve transit service without overly burdening car-dependent residents. 3. Balance between travel time improvements and cost increases. 4. Focus on proposals that reduce transit travel times to improve accessibility. 5. Selected proposals 0, 9, 1, 10, and 3 as they offer combinations of lower fares/taxes while still providing service improvements"
+  },
+  "vote": [
+    0,
+    9,
+    1,
+    10,
+    3
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Grand Crossing",
+  "thinking": {
+    "disposable_income": "Greater Grand Crossing is a lower-income community with median household income around $31,000. Many residents live below poverty level. Disposable income is limited, making residents particularly sensitive to transportation costs.",
+    "discretionary_consumption": "Limited discretionary spending capacity due to low income levels. Higher sales taxes would significantly impact household budgets. Many residents need to prioritize essential expenses over discretionary purchases.",
+    "accessibility": "The community has good transit access with multiple bus routes and Red/Green Line stations. Car ownership is lower than city average. Many residents rely on public transit for work commutes and daily needs. Current transit travel times are challenging for accessing jobs and services.",
+    "decision_rationale": "1. Prioritize low transit fares due to high transit dependency and limited incomes. 2. Favor lower sales tax rates to protect limited discretionary spending. 3. Support moderate driving fees to improve transit service without overly burdening car-dependent trips. 4. Balance travel time improvements with cost impacts. 5. Selected proposals that reduce transit travel times while keeping fares affordable. Ranked proposals offering best combination of low fares, improved transit times, and manageable tax burden for low-income residents."
+  },
+  "vote": [
+    1,
+    10,
+    0,
+    9,
+    4
+  ]
+}

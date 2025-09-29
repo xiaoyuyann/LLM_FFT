@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Grand Crossing",
+  "thinking": {
+    "disposable_income": "Greater Grand Crossing has a relatively low median household income compared to the city average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "Residents in Greater Grand Crossing may prioritize essential spending over discretionary consumption due to lower income levels, making cost-sensitive policies more favorable.",
+    "accessibility": "The community relies heavily on public transit, with many residents dependent on it for commuting and accessing services. Improving transit efficiency and affordability is crucial.",
+    "decision_rationale": "Given the lower disposable income, policies with lower fares and taxes are preferred to minimize financial burden. However, improving transit times is also important to enhance accessibility. Balancing these factors, policies with moderate driver fees to reduce congestion and improve transit times, while keeping fares and taxes low, are prioritized."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Square",
+  "thinking": {
+    "disposable_income": "Lincoln Square is a middle to upper-middle income area with median household income around $77,000. Residents have moderate disposable income but are price-sensitive to transportation costs",
+    "discretionary_consumption": "Area has significant retail and entertainment spending, with many local businesses, restaurants and shops. Residents generally have good discretionary spending power but are value-conscious",
+    "accessibility": "Well-served by Brown Line CTA, multiple bus routes, and fairly walkable. Many residents use mix of transit and driving. Good bike infrastructure. Most households own 1-2 cars but don't exclusively rely on them",
+    "decision_rationale": "1. Prioritize balanced options that maintain good transit service while keeping costs moderate for both modes. 2. Favor proposals with moderate tax rates (0.5-1.0%) since area has significant retail spending. 3. Look for options that improve transit times without excessive fees. 4. Consider that many residents use both modes and need flexibility. 5. Selected proposal 13 first as it offers good balance of improved transit time with moderate costs. 6. Ranked 10 second for low transit fare but decent service improvements. 7. Chose 4 third as it maintains low tax with reasonable service levels. 8. Added 16 fourth as it provides good transit times with moderate tax. 9. Selected 22 fifth for overall balanced approach"
+  },
+  "vote": [
+    13,
+    10,
+    4,
+    16,
+    22
+  ]
+}

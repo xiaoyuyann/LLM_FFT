@@ -1,0 +1,16 @@
+{
+  "community_area": "Armour Square",
+  "thinking": {
+    "disposable_income": "Armour Square has relatively low income levels with 50.8% of households earning less than $50,000 annually. This suggests high sensitivity to cost increases from taxes, fares, and fees",
+    "discretionary_consumption": "Given the high percentage of low-income households, discretionary spending is likely limited. Any increase in transportation costs or sales tax would significantly impact household budgets",
+    "accessibility": "The area has high transit dependency (33.9% no vehicle households) and significant transit usage (24.4%). While 41.1% drive alone, the large Asian population and mixed-income levels suggest need for affordable, efficient transit options",
+    "decision_rationale": "1. Prioritize low transit fares ($0.75) given high transit dependency and low incomes. 2. Moderate tax rate (1%) to balance service quality with cost burden. 3. Include some driving fees to improve transit service while not overly burdening drivers. 4. Focus on proposals that reduce transit travel time. 5. Consider proposals that maintain reasonable car travel times for the 41.1% who drive"
+  },
+  "vote": [
+    11,
+    10,
+    9,
+    2,
+    1
+  ]
+}

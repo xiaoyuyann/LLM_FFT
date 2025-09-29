@@ -1,0 +1,16 @@
+{
+  "community_area": "Near South Side",
+  "thinking": {
+    "disposable_income": "Near South Side has relatively high median household income around $83,000. Many residents are professionals and higher-income workers with significant disposable income. The area has seen substantial development of luxury condos and apartments.",
+    "discretionary_consumption": "Residents have high discretionary spending capacity and frequently use both transit and cars. The area has many retail establishments, restaurants, and entertainment venues. Higher sales taxes would impact discretionary spending but most households can absorb the cost.",
+    "accessibility": "The area has excellent transit access with multiple L lines (Red, Green, Orange), bus routes, and Metra stations. It's also very walkable and bikeable. Many residents commute to the Loop. While car ownership is high, many households are not car-dependent due to good transit options.",
+    "decision_rationale": "1. Prioritize proposals that balance transit improvements with moderate costs given the area's affluence and multi-modal nature. 2. Higher driver fees acceptable as many residents have options and can afford them. 3. Moderate sales tax increase reasonable given income levels. 4. Lower transit fares less critical due to income levels. 5. Focus on reducing travel times for both modes since residents use both. Selected proposals that reduce transit times significantly while keeping costs manageable for both modes."
+  },
+  "vote": [
+    23,
+    14,
+    22,
+    13,
+    5
+  ]
+}

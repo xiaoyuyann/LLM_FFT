@@ -1,0 +1,16 @@
+{
+  "community_area": "Logan Square",
+  "thinking": {
+    "disposable_income": "Logan Square has a relatively high median income of $97,759 and a per capita income of $62,532. A significant portion of the population earns over $100,000, indicating a good level of disposable income.",
+    "discretionary_consumption": "With a high percentage of households earning over $100,000, discretionary spending is likely robust. However, 24.5% of households earn less than $50,000, so affordability remains a concern for a portion of the community.",
+    "accessibility": "Logan Square has a diverse mode of transportation usage with 26.5% using transit and 36.6% driving alone. The community has a significant number of households without vehicles (21.2%), indicating a reliance on public transit.",
+    "decision_rationale": "Given the high reliance on transit and the need to balance affordability with improved services, proposals with lower transit fares and moderate driver fees are prioritized. A lower sales tax is preferred to maintain discretionary spending. The community benefits from reduced travel times, especially for transit, to improve accessibility. Proposals that reduce car travel time and encourage transit use are favored to alleviate congestion and emissions."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

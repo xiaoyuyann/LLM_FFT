@@ -1,0 +1,16 @@
+{
+  "community_area": "IAH Airport",
+  "thinking": {
+    "disposable_income": "The IAH Airport area has a moderate median household income with many residents working in airport-related services and logistics.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity but are sensitive to additional taxes and fees due to the working-class nature of many airport-related jobs.",
+    "accessibility": "The area is heavily car-dependent due to its suburban location, with limited transit options primarily serving airport workers and travelers.",
+    "decision_rationale": "1) Prioritized lower sales tax (0.5-1.0%) due to moderate income levels 2) Favored moderate driving fees ($0.5) to improve transit without overly burdening drivers 3) Supported lower transit fares ($0.75-$1.25) to help airport workers who rely on transit 4) Balanced travel time improvements for both modes given mixed transit/driving usage 5) Considered the impact on airport accessibility for both workers and travelers"
+  },
+  "vote": [
+    7,
+    0,
+    10,
+    2,
+    3
+  ]
+}

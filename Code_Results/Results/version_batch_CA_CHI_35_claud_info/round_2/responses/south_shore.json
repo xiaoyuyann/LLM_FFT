@@ -1,0 +1,16 @@
+{
+  "community_area": "South Shore",
+  "thinking": {
+    "disposable_income": "South Shore has relatively low income levels with median income of $39,649 and 56.5% of households making less than $50,000. This suggests high sensitivity to costs from fares, fees, and taxes",
+    "discretionary_consumption": "With lower income levels and high percentage of households below $50,000, discretionary spending is likely limited. Additional transportation costs and taxes would significantly impact household budgets",
+    "accessibility": "High transit dependency with 37.8% having no vehicle and 32.8% using transit for commuting. 49.8% drive alone, suggesting a mixed-mode community needing balance between transit and driving options",
+    "decision_rationale": "1. Prioritized proposals with lower transit fares ($0.75) given high transit usage and low incomes. 2. Favored moderate tax rates (1%) to maintain service quality while limiting burden. 3. Selected moderate driving fees ($0.50) to improve transit service without overly burdening drivers. 4. Balanced travel time improvements with cost impacts. 5. Considered high percentage of both transit users and drivers in community"
+  },
+  "vote": [
+    10,
+    11,
+    9,
+    19,
+    20
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "West Elsdon",
+  "thinking": {
+    "disposable_income": "West Elsdon is a working-class community with median household income around $51,000, lower than Chicago's average. Many residents work in service and industrial jobs, making them sensitive to transportation costs and taxes",
+    "discretionary_consumption": "Limited discretionary spending capacity due to moderate income levels. Higher sales taxes would significantly impact household budgets. Many families need to carefully balance transportation costs with other essential expenses",
+    "accessibility": "The community has moderate transit access with Orange Line at Pulaski station, but many residents rely on cars for work commutes. The area has good road access via Cicero Avenue and 59th Street. About 85% of households own cars, indicating high car dependency",
+    "decision_rationale": "1. Prioritize lower sales tax (0.5%) to protect limited discretionary income. 2. Given high car ownership, moderate driving fees ($0.50) are acceptable if they improve transit. 3. Prefer moderate transit fares ($1.25) to balance transit service quality with affordability. 4. Focus on proposals that reduce both car and transit travel times. 5. Selected proposals that balance car-dependent residents' needs with transit improvements"
+  },
+  "vote": [
+    4,
+    1,
+    13,
+    7,
+    10
+  ]
+}

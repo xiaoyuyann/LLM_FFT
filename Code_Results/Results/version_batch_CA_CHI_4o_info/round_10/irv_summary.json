@@ -1,0 +1,42 @@
+{
+  "winning_policy": 10,
+  "rounds": [
+    {
+      "round": 1,
+      "vote_counts": {
+        "11": 38,
+        "10": 36,
+        "13": 2,
+        "1": 1
+      },
+      "total_votes": 77
+    },
+    {
+      "round": 2,
+      "vote_counts": {
+        "11": 38,
+        "10": 37,
+        "13": 2
+      },
+      "total_votes": 77
+    },
+    {
+      "round": 3,
+      "vote_counts": {
+        "11": 38,
+        "10": 38,
+        "14": 1
+      },
+      "total_votes": 77
+    },
+    {
+      "round": 4,
+      "vote_counts": {
+        "11": 38,
+        "10": 39
+      },
+      "total_votes": 77
+    }
+  ],
+  "summary": "Policy 10 won with majority in round 4."
+}

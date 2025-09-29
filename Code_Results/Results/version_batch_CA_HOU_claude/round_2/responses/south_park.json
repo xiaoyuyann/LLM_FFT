@@ -1,0 +1,16 @@
+{
+  "community_area": "South Park",
+  "thinking": {
+    "disposable_income": "South Park is a lower-income community with a median household income around $31,000, significantly below Houston's average, indicating limited disposable income for transportation costs.",
+    "discretionary_consumption": "Residents have very limited discretionary spending capacity, with many households spending over 30% of income on housing and essential needs, making them highly sensitive to additional taxes and fees.",
+    "accessibility": "The neighborhood has moderate bus service but limited rail access, with many residents dependent on personal vehicles despite the financial burden, and approximately 15% of households lacking vehicle access.",
+    "decision_rationale": "1) Prioritized proposals with lower transit fares ($0.75) to help transit-dependent residents 2) Favored lower sales tax rates (0.5-1.0%) to minimize impact on limited discretionary income 3) Accepted moderate driving fees ($0.50) as compromise to improve transit service while not overly burdening car-dependent residents 4) Balanced travel time improvements with cost burden 5) Selected proposals that provide best transit service improvements while minimizing total cost impact on low-income residents"
+  },
+  "vote": [
+    0,
+    7,
+    2,
+    6,
+    10
+  ]
+}

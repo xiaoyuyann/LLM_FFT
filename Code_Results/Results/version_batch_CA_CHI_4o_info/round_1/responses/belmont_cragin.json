@@ -1,0 +1,16 @@
+{
+  "community_area": "Belmont Cragin",
+  "thinking": {
+    "disposable_income": "Belmont Cragin has a diverse income distribution with a significant portion of households earning below $50,000. This suggests that affordability is a key concern for many residents.",
+    "discretionary_consumption": "With a large percentage of households in lower income brackets, discretionary spending is likely limited. Therefore, policies that minimize additional financial burdens are preferable.",
+    "accessibility": "The community has a high reliance on driving, with 57.7% driving alone and 13.3% carpooling. Transit usage is moderate at 15.3%, indicating a need for efficient and affordable transit options to potentially shift some car users to transit.",
+    "decision_rationale": "Given the income distribution and car ownership patterns, policies that reduce transit fares and driving fees while maintaining or slightly increasing the sales tax are prioritized. This approach aims to enhance transit accessibility and affordability, encouraging a shift from driving to transit, which could reduce congestion and emissions. The selected policies balance the need for improved transit services with the community's financial constraints."
+  },
+  "vote": [
+    10,
+    11,
+    13,
+    14,
+    19
+  ]
+}

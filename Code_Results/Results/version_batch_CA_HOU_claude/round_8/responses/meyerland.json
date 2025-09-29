@@ -1,0 +1,16 @@
+{
+  "community_area": "Meyerland",
+  "thinking": {
+    "disposable_income": "Meyerland is an upper-middle-class neighborhood with median household income around $100,000, indicating relatively high disposable income and ability to absorb transportation costs.",
+    "discretionary_consumption": "Residents have significant discretionary spending power, with high retail activity along major corridors and proximity to shopping centers like Meyerland Plaza.",
+    "accessibility": "The area has good car accessibility via Loop 610 and major arterials, decent bus service along Beechnut and Bellaire, and is relatively close to the TMC Transit Center, though most residents are car-dependent.",
+    "decision_rationale": "1) Given high car ownership and income levels, policies with moderate driving fees are acceptable if they improve transit; 2) Higher sales tax is less impactful due to high disposable income; 3) Lower transit fares could encourage occasional transit use; 4) Moderate driving fees could help reduce congestion on major corridors; 5) Balance needed between maintaining driving convenience and funding transit improvements."
+  },
+  "vote": [
+    17,
+    8,
+    20,
+    11,
+    1
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "North Lawndale",
+  "thinking": {
+    "disposable_income": "North Lawndale has a median income of $33,334 and a per capita income of $21,201. A significant portion of the population earns less than $25,000, indicating limited disposable income.",
+    "discretionary_consumption": "With 42.3% of households earning less than $25,000, discretionary spending is likely constrained. Any increase in transportation costs could significantly impact the ability to spend on other necessities.",
+    "accessibility": "23.7% of residents use transit, and 57.3% drive alone. A high percentage of households have no vehicle (36.5%), indicating a reliance on public transit. Improving transit times and affordability is crucial for accessibility.",
+    "decision_rationale": "Given the limited disposable income and high reliance on public transit, policies with lower fares and moderate taxes are preferred. Reducing transit times is also important to improve accessibility. Balancing these factors, the top proposals prioritize lower fares and moderate driver fees to encourage transit use and reduce congestion, while keeping the sales tax manageable to avoid burdening low-income households."
+  },
+  "vote": [
+    10,
+    11,
+    13,
+    14,
+    19
+  ]
+}

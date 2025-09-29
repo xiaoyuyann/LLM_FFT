@@ -1,0 +1,16 @@
+{
+  "community_area": "Greenway / Upper Kirby",
+  "thinking": {
+    "disposable_income": "Greenway/Upper Kirby is an affluent area with median household income well above Houston average, indicating high disposable income and less sensitivity to transportation costs.",
+    "discretionary_consumption": "The area features high-end retail, restaurants, and entertainment venues, suggesting residents have significant discretionary spending and can absorb higher transportation costs.",
+    "accessibility": "The area has excellent road access via US-59 and multiple major arterials, good bus service, and is relatively close to rail transit, though most residents are car-dependent.",
+    "decision_rationale": "1) Given high income levels, prioritize policies that reduce travel time over cost savings 2) Support strong transit funding through higher taxes since residents can afford it 3) Favor higher driving fees to reduce congestion given the area's density 4) Consider that many residents will continue driving despite fees 5) Balance need for transit improvement with maintaining reasonable fares for service workers in the area"
+  },
+  "vote": [
+    23,
+    20,
+    17,
+    14,
+    11
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Fourth Ward",
+  "thinking": {
+    "disposable_income": "Fourth Ward residents have relatively low disposable income with a median household income around $35,000, significantly below Houston's average.",
+    "discretionary_consumption": "With high housing costs consuming a large portion of income and 30% of residents below poverty line, discretionary spending is limited for many Fourth Ward residents.",
+    "accessibility": "The neighborhood has good transit access being close to downtown with multiple bus routes, but also high car dependency with 75% of residents commuting by car.",
+    "decision_rationale": "1) Prioritized lower transit fares ($0.75) to help low-income residents who rely on transit. 2) Favored moderate sales tax (1%) as higher rates would disproportionately burden low-income residents. 3) Supported moderate driving fees ($0.50-$1.00) to improve transit service while not overly burdening car-dependent commuters. 4) Balanced travel time improvements with cost impacts. 5) Selected proposals that reduce both transit and driving times while keeping combined costs manageable for mixed-mode households."
+  },
+  "vote": [
+    7,
+    8,
+    0,
+    1,
+    10
+  ]
+}

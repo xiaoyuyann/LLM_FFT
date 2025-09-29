@@ -1,0 +1,16 @@
+{
+  "community_area": "Beverly",
+  "thinking": {
+    "disposable_income": "Beverly is an affluent community with median income of $131,170 and 64.5% of households earning over $100,000. This suggests residents have significant disposable income and can absorb moderate transportation cost increases.",
+    "discretionary_consumption": "With high income levels, residents likely have substantial discretionary spending. The impact of sales tax increases (0.5-1.5%) would be noticeable but manageable given the wealth profile. Annual consumption likely averages $50,000+ per household.",
+    "accessibility": "Car ownership is very high (96.3% have at least one vehicle) with 59% having 2+ vehicles. 62% drive alone to work while 17% use transit. The community needs good options for both modes but clearly favors driving.",
+    "decision_rationale": "1. Given high car ownership and driving preference, policies that minimize driving time while keeping driving costs reasonable are priority. 2. Transit improvements are secondary but important for 17% transit users. 3. Higher income means moderate fee/tax increases are acceptable if they improve service. 4. Policy 14 ranks first as it provides best balance of car/transit times with moderate tax/fees. 5. Policies 23, 11, 5 and 17 follow as they offer similar balanced improvements with varying tax/fee combinations that the affluent community can afford."
+  },
+  "vote": [
+    14,
+    23,
+    11,
+    5,
+    17
+  ]
+}

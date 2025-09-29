@@ -1,0 +1,19 @@
+{
+  "community_area": "Humboldt Park",
+  "thinking": {
+    "disposable_income": "Humboldt Park has a moderate to low average disposable income, with many residents relying on affordable transportation options.",
+    "discretionary_consumption": "Residents prioritize essential spending, with limited discretionary income available for non-essential goods and services.",
+    "accessibility": "The community has moderate access to public transit, but improvements in transit times and affordability could significantly benefit residents who rely on public transportation.",
+    "decision_rationale": "Given the moderate to low disposable income, policies with lower transit fares and moderate sales tax rates are preferred to minimize the financial burden on residents. Additionally, policies that improve transit times without significantly increasing costs are prioritized. A balance between affordable transit fares and reasonable driver fees is essential to encourage public transit use while maintaining accessibility for those who drive. Policies with a 0.5% or 1.0% sales tax and a $0.75 or $1.25 transit fare, combined with a $0.5 driver fee, offer a good balance of affordability and improved transit service."
+  },
+  "vote": [
+    1,
+    2,
+    4,
+    5,
+    10,
+    11,
+    13,
+    14
+  ]
+}

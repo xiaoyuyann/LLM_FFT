@@ -1,0 +1,16 @@
+{
+  "community_area": "Edison Park",
+  "thinking": {
+    "disposable_income": "Edison Park is a relatively affluent community with a higher median household income compared to other areas in Chicago. Residents generally have more disposable income, which allows for some flexibility in absorbing additional costs from taxes or fees.",
+    "discretionary_consumption": "Given the higher income levels, residents of Edison Park likely have a higher level of discretionary consumption. They may prioritize spending on quality of life improvements, such as better transit services, even if it means slightly higher costs.",
+    "accessibility": "Edison Park is located on the far northwest side of Chicago, with access to both Metra rail services and bus routes. However, many residents rely on driving due to the suburban nature of the area and the convenience it offers. Improving transit times could encourage more residents to use public transportation.",
+    "decision_rationale": "Considering the higher disposable income and discretionary consumption, Edison Park residents might be willing to accept a moderate increase in sales tax and driving fees if it results in significantly improved transit services. The goal is to balance the cost with the benefits of reduced travel times and better transit options. Proposals with a moderate sales tax (1%) and a driving fee ($0.50) are preferred as they offer a good compromise between cost and improved service. Lower transit fares are also prioritized to encourage public transportation use."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

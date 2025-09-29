@@ -1,0 +1,16 @@
+{
+  "community_area": "South Deering",
+  "thinking": {
+    "disposable_income": "The median income in South Deering is $34,814, with a significant portion of the population earning less than $25,000. This indicates limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With a high percentage of households earning less than $25,000, discretionary spending is likely constrained. Policies that minimize additional financial burdens, such as lower fares and taxes, are preferable.",
+    "accessibility": "A significant portion of the community relies on driving (57.2%) and transit (23.7%). Improving transit times and maintaining affordability is crucial for accessibility, especially for those without vehicles (24%).",
+    "decision_rationale": "Given the community's limited disposable income and reliance on both driving and transit, policies that balance lower costs with improved transit times are prioritized. Lower fares and moderate driver fees can encourage transit use, reduce congestion, and improve accessibility without imposing significant financial burdens. A moderate sales tax is acceptable if it significantly enhances transit services, as long as it doesn't overly strain household budgets."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    11
+  ]
+}

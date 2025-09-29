@@ -1,0 +1,16 @@
+{
+  "community_area": "South Deering",
+  "thinking": {
+    "disposable_income": "South Deering has a relatively low median household income around $31,000, with about 30% of residents living below poverty level. This indicates limited disposable income and high sensitivity to cost increases.",
+    "discretionary_consumption": "Given the low income levels, residents have limited discretionary spending capacity. Many households need to carefully budget essential expenses, making them vulnerable to increased transportation costs and sales taxes.",
+    "accessibility": "The area is relatively isolated with limited public transit options. Many residents rely on cars due to the industrial nature of the area and distance from downtown. Bus service is available but travel times are long. About 70% of households own vehicles despite financial constraints.",
+    "decision_rationale": "1. Prioritize proposals with lower sales tax (0.5%) due to limited disposable income. 2. Favor lower transit fares ($0.75) to help transit-dependent residents. 3. Accept moderate driving fees ($0.50) as compromise to improve transit service while not overly burdening drivers. 4. Balance between travel time improvements and cost impacts. 5. Selected proposals 1, 2, 0, 4, and 10 as they best serve mixed-mode transportation needs while minimizing financial burden on low-income residents."
+  },
+  "vote": [
+    1,
+    2,
+    0,
+    4,
+    10
+  ]
+}

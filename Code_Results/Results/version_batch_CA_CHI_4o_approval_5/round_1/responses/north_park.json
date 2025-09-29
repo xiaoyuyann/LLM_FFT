@@ -1,0 +1,16 @@
+{
+  "community_area": "North Park",
+  "thinking": {
+    "disposable_income": "North Park is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, but they can accommodate slight increases if it results in better services.",
+    "discretionary_consumption": "The community has a balanced discretionary consumption pattern, with residents spending on a variety of goods and services. They are likely to be cautious about policies that significantly reduce their disposable income.",
+    "accessibility": "North Park has moderate accessibility to resources and services. Public transit is used by a significant portion of the community, but many residents also rely on driving. Improvements in transit times and services could benefit the community.",
+    "decision_rationale": "Given the community's moderate income and balanced consumption, policies with lower fares and moderate taxes are preferred to maintain affordability. A slight increase in driver fees is acceptable if it leads to reduced congestion and better transit services. Policies that improve transit times without significantly increasing costs are prioritized. Therefore, proposals with a $0.75 fare and moderate driver fees are favored, as they offer improved transit times and maintain affordability."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

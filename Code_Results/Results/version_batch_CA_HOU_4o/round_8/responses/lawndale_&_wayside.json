@@ -1,0 +1,16 @@
+{
+  "community_area": "Lawndale / Wayside",
+  "thinking": {
+    "disposable_income": "Lawndale / Wayside has a moderate to low disposable income, with many residents working in blue-collar jobs.",
+    "discretionary_consumption": "The community tends to prioritize essential spending, with limited discretionary consumption due to income constraints.",
+    "accessibility": "The area has moderate access to public transit, but many residents rely on personal vehicles due to the spread-out nature of resources and services.",
+    "decision_rationale": "Given the moderate to low disposable income, it is crucial to minimize additional financial burdens on residents. Therefore, lower transit fares and driving fees are preferred to maintain affordability. A moderate sales tax is acceptable if it significantly improves transit services, as this could reduce reliance on personal vehicles and lower overall transportation costs. The top-ranked proposals balance these considerations by offering reduced travel times and costs, while not excessively increasing the sales tax."
+  },
+  "vote": [
+    1,
+    7,
+    10,
+    2,
+    11
+  ]
+}

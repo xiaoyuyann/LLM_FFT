@@ -1,0 +1,16 @@
+{
+  "community_area": "Grand Boulevard",
+  "thinking": {
+    "disposable_income": "Grand Boulevard has a lower average disposable income compared to other areas in Chicago, which means residents are more sensitive to increases in costs such as transit fares and driver fees.",
+    "discretionary_consumption": "With limited disposable income, discretionary spending is also limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Public transit is a crucial mode of transportation for Grand Boulevard residents, as car ownership is lower than the city average. Accessibility to jobs, education, and services heavily relies on efficient and affordable public transit.",
+    "decision_rationale": "Given the lower disposable income and reliance on public transit, the community would benefit from lower transit fares and minimal increases in sales tax and driver fees. The goal is to maintain or improve transit service quality while minimizing additional financial burdens. Proposals with lower fares and moderate driver fees are preferred to encourage transit use and reduce congestion, while a lower sales tax helps preserve residents' purchasing power. The selected proposals balance these factors, aiming to improve transit efficiency and affordability."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

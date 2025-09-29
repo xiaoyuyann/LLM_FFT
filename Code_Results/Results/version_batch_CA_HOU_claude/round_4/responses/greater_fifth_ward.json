@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Fifth Ward",
+  "thinking": {
+    "disposable_income": "Greater Fifth Ward has a median household income of approximately $33,000, significantly below Houston's average, with about 40% of residents living below the poverty line.",
+    "discretionary_consumption": "Residents have very limited discretionary spending capacity, with most income dedicated to essential needs like housing, utilities, and basic necessities.",
+    "accessibility": "The neighborhood has relatively high transit dependency with lower car ownership rates, multiple bus routes serving the area, and proximity to light rail, though many residents still rely on personal vehicles for work commutes.",
+    "decision_rationale": "1) Prioritized proposals with lower transit fares ($0.75) to maintain affordability for transit-dependent residents. 2) Favored lower sales tax rates (0.5-1.0%) to minimize impact on limited discretionary income. 3) Considered moderate driving fees ($0.50) to improve transit service without overly burdening car-dependent workers. 4) Balanced travel time improvements with cost impacts, recognizing both transit users and drivers in the community. 5) Selected proposals that provide the best combination of improved transit service while minimizing financial burden on low-income residents."
+  },
+  "vote": [
+    7,
+    0,
+    6,
+    8,
+    10
+  ]
+}

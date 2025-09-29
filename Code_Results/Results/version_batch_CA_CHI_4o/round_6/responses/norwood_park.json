@@ -1,0 +1,16 @@
+{
+  "community_area": "Norwood Park",
+  "thinking": {
+    "disposable_income": "Norwood Park is a middle to upper-middle-income community with a relatively high level of disposable income compared to other areas in Chicago. Residents can generally afford moderate increases in transportation costs, but significant increases could impact their discretionary spending.",
+    "discretionary_consumption": "Residents in Norwood Park have a moderate to high level of discretionary consumption, spending on dining, entertainment, and other non-essential goods and services. They are likely to be sensitive to changes in transportation costs that could reduce their discretionary spending.",
+    "accessibility": "Norwood Park has good access to public transportation, including Metra and CTA services, but many residents also rely on personal vehicles for commuting. Reducing travel time and improving transit services could benefit the community, but not at the expense of significantly higher costs.",
+    "decision_rationale": "Given the community's income level and reliance on both public transit and personal vehicles, the ideal policy would balance cost with improved service. Lower fares and moderate driver fees could encourage more transit use, reducing congestion and emissions. A moderate sales tax is acceptable if it significantly improves transit services. Therefore, proposals with lower fares and moderate driver fees, combined with reasonable sales taxes, are prioritized. The goal is to enhance transit accessibility and reduce travel times without imposing excessive financial burdens on residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

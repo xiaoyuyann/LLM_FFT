@@ -1,0 +1,16 @@
+{
+  "community_area": "Edison Park",
+  "thinking": {
+    "disposable_income": "Edison Park is a relatively affluent community with median income of $120,024 and 59.4% of households earning over $100,000. This suggests residents have significant disposable income and can absorb moderate transportation cost increases",
+    "discretionary_consumption": "With high per capita income ($57,872), residents likely have substantial discretionary spending. However, the 22.6% of households earning under $50,000 need to be considered in policy impacts",
+    "accessibility": "The community is heavily car-dependent with 93.5% of households owning cars and 74.9% driving for commuting. Only 8.4% use transit, suggesting limited transit accessibility or preference for driving",
+    "decision_rationale": "1. Given high car ownership and usage, policies that improve driving times without excessive fees are preferred. 2. Higher sales tax is acceptable given high disposable incomes to fund transit improvements. 3. Moderate transit fares to support system while keeping transit affordable for lower-income residents. 4. Balance between driving efficiency and transit improvement needed. 5. Policies that significantly reduce both driving and transit times are valued"
+  },
+  "vote": [
+    14,
+    23,
+    5,
+    13,
+    4
+  ]
+}

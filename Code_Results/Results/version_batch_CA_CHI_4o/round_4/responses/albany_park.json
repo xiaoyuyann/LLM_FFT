@@ -1,0 +1,16 @@
+{
+  "community_area": "Albany Park",
+  "thinking": {
+    "disposable_income": "Albany Park is a diverse community with a mix of income levels. The median household income is slightly below the city average, indicating that residents may be sensitive to increases in transportation costs.",
+    "discretionary_consumption": "Residents in Albany Park have moderate discretionary spending. They prioritize essential goods and services, and any increase in transportation costs could impact their ability to spend on non-essential items.",
+    "accessibility": "Albany Park has good access to public transit, with several CTA bus routes and the Brown Line serving the area. However, transit times are relatively long compared to driving, which may influence residents' preferences for faster transit options.",
+    "decision_rationale": "Given the community's moderate income levels and reliance on public transit, proposals with lower transit fares and moderate driver fees are preferred to balance affordability and improved transit services. A lower sales tax is also favored to minimize the impact on discretionary spending. The top-ranked proposals prioritize reducing transit times and maintaining affordability for both transit users and drivers, while ensuring sufficient funding for transit improvements."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

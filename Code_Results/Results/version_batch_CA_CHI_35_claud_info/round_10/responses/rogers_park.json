@@ -1,0 +1,16 @@
+{
+  "community_area": "Rogers Park",
+  "thinking": {
+    "disposable_income": "Rogers Park has a median income of $57,591, with 44.8% of households earning less than $50,000 annually. This suggests many residents have limited disposable income and would be sensitive to increased transportation costs.",
+    "discretionary_consumption": "Given the income distribution and cost of living in Chicago, many residents likely have modest discretionary spending capacity. Higher sales taxes would notably impact household budgets, especially for lower-income residents who comprise a significant portion of the population.",
+    "accessibility": "The community has high transit usage (28.1%) and low car ownership (37.2% have no vehicle). The area is served by CTA Red Line and multiple bus routes. Many residents depend on public transit for mobility, making transit service quality and affordability crucial.",
+    "decision_rationale": "1. Prioritized policies that maintain low transit fares given high transit dependency and income constraints. 2. Favored moderate driving fees to improve transit service without excessive burden. 3. Preferred lower sales tax rates to protect discretionary spending. 4. Balanced travel time improvements with cost impacts. 5. Considered high proportion of car-free households and transit commuters."
+  },
+  "vote": [
+    10,
+    1,
+    9,
+    4,
+    13
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Square",
+  "thinking": {
+    "disposable_income": "Lincoln Square is a middle to upper-middle income area with median household income around $77,000. Residents have moderate disposable income but are price-sensitive to transportation costs.",
+    "discretionary_consumption": "The area has significant retail and entertainment spending, with many local businesses, restaurants and shops. Residents generally have good discretionary spending power but are value-conscious.",
+    "accessibility": "Well-served by CTA Brown Line and multiple bus routes. Good walkability and bikeability. Many residents commute downtown for work. Mix of transit users and drivers, with about 35% using public transit for commuting.",
+    "decision_rationale": "1. Prioritize balanced policies that maintain good transit service while keeping costs moderate for both transit users and drivers. 2. Lower transit fares ($0.75-$1.25) preferred given significant transit usage. 3. Moderate driving fees ($0.50) acceptable to reduce congestion while not overly burdening drivers. 4. Moderate tax rates (1%) to support transit without excessive burden. 5. Selected proposals that reduce transit travel times to 51-55 minutes while maintaining reasonable driving times."
+  },
+  "vote": [
+    13,
+    10,
+    4,
+    19,
+    22
+  ]
+}

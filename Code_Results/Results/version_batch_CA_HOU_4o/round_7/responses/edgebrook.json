@@ -1,0 +1,16 @@
+{
+  "community_area": "Edgebrook",
+  "thinking": {
+    "disposable_income": "Edgebrook has a moderate disposable income level, with many residents working in blue-collar and service jobs.",
+    "discretionary_consumption": "Residents in Edgebrook tend to have limited discretionary spending, focusing on essential goods and services.",
+    "accessibility": "Edgebrook has moderate accessibility to resources, with some reliance on public transit and a significant number of residents using personal vehicles.",
+    "decision_rationale": "Given the moderate disposable income and limited discretionary spending, it is important to keep costs low for both transit users and drivers. Reducing travel time is also crucial to improve accessibility. Therefore, proposals with lower fares and moderate driver fees are preferred, as they balance cost savings with improved transit services. A lower sales tax is also favored to minimize the impact on discretionary spending. The selected proposals aim to reduce travel time while keeping costs manageable for residents."
+  },
+  "vote": [
+    1,
+    7,
+    10,
+    2,
+    3
+  ]
+}

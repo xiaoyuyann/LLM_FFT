@@ -1,0 +1,17 @@
+{
+  "community_area": "Roseland",
+  "thinking": {
+    "disposable_income": "Roseland is a community with a relatively lower median household income compared to the city average. This means that residents have less disposable income to spend on transportation and other services.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is limited. Residents are likely to prioritize essential goods and services, making affordability a key consideration in transportation policy.",
+    "accessibility": "Roseland has moderate access to public transit, but improvements in transit service could significantly benefit the community by reducing travel times and increasing access to employment and services.",
+    "decision_rationale": "Given the lower disposable income and limited discretionary spending, policies with lower transit fares and minimal increases in sales tax are preferred to minimize financial burden. However, improving transit accessibility is also important, so some increase in driver fees is acceptable if it leads to better transit services and reduced travel times. Policies with a $0.75 fare and a 0.5% or 1.0% sales tax, combined with a $0.50 driver fee, strike a balance between affordability and improved transit service."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19,
+    20
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Albany Park",
+  "thinking": {
+    "disposable_income": "Albany Park has a diverse income distribution with a significant portion of households earning between $25,000 and $149,999. The community has a relatively balanced income distribution, with a notable percentage of high-income households ($150,000+). This suggests a moderate to high level of disposable income for many residents.",
+    "discretionary_consumption": "Given the income distribution, many households in Albany Park likely have discretionary income to spend on non-essential goods and services. However, a portion of the population earns less than $50,000, indicating that affordability of transportation options is crucial for these residents.",
+    "accessibility": "Albany Park has a diverse mode of transportation usage, with 23.7% using transit and 45.5% driving alone. The community's accessibility to resources and services is supported by both transit and driving, but improvements in transit could benefit a significant portion of the population.",
+    "decision_rationale": "Considering Albany Park's income distribution and transportation usage, the community would benefit from policies that improve transit times and affordability without significantly increasing costs. Lower transit fares and moderate driver fees could encourage more transit use, reducing congestion and emissions. A moderate sales tax is acceptable if it leads to better transit services. Therefore, proposals with lower fares and moderate driver fees, which also reduce travel times, are prioritized. The community's diverse income levels mean that affordability is key, so proposals with lower fares are preferred. The balance between improving transit services and maintaining affordability is crucial."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

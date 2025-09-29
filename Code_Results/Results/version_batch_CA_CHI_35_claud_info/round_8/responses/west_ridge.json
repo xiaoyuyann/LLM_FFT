@@ -1,0 +1,16 @@
+{
+  "community_area": "West Ridge",
+  "thinking": {
+    "disposable_income": "Mixed income levels with median household income of $68,091. 37.4% households earn less than $50,000, while 32.5% earn over $100,000. Per capita income is $32,132, suggesting moderate disposable income overall.",
+    "discretionary_consumption": "Given the income distribution and household sizes (average 2.9 people), many families likely have limited discretionary spending. Higher taxes and fees would impact the 37.4% lower-income households more significantly.",
+    "accessibility": "59.2% drive alone and 10% carpool, while 12.5% use transit. 13.3% have no vehicle, making transit essential. Good mix of transportation needs with 86.6% having at least one vehicle but significant transit dependency.",
+    "decision_rationale": "1. Prioritize lower sales tax (0.5%) to protect discretionary spending for mixed-income population. 2. Moderate transit fares ($1.25) to maintain service while keeping transit affordable for 13.3% car-less households. 3. Include some driving fees to improve transit service and reduce congestion, but not highest fees given high car dependency. 4. Balance travel times for both modes since community uses both significantly. 5. Consider proposals that reduce transit travel time from current 58.8 minutes."
+  },
+  "vote": [
+    4,
+    5,
+    13,
+    14,
+    22
+  ]
+}

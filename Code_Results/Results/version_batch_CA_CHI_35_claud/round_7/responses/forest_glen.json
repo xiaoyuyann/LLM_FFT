@@ -1,0 +1,16 @@
+{
+  "community_area": "Forest Glen",
+  "thinking": {
+    "disposable_income": "Forest Glen is an affluent area with median household income around $106,000, significantly higher than Chicago's average. Residents have relatively high disposable income and can generally afford higher transportation costs",
+    "discretionary_consumption": "Residents have substantial discretionary spending power. The community has high rates of car ownership and home ownership, indicating capacity to absorb moderate tax and fee increases without severe impact on quality of life",
+    "accessibility": "Forest Glen is a car-dependent suburban-style neighborhood with limited transit access. Most residents rely on personal vehicles, with longer average commute times by public transit. The area has access to Metra but is not well-served by CTA rail",
+    "decision_rationale": "1. Given high car dependency, prioritize proposals that improve driving times without excessive driving fees\n2. Higher sales tax is acceptable given affluent status, if it improves overall transportation\n3. Moderate transit fares preferred to maintain transit as viable option\n4. Balance between driving efficiency and transit improvement needed\n5. Selected proposals that reduce congestion while keeping costs reasonable for both modes"
+  },
+  "vote": [
+    14,
+    5,
+    23,
+    13,
+    4
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Riverdale",
+  "thinking": {
+    "disposable_income": "Riverdale is one of the lower-income areas in Chicago, with a significant portion of the population living below the poverty line. Disposable income is limited, making cost-sensitive policies crucial.",
+    "discretionary_consumption": "Due to limited disposable income, discretionary consumption is low. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Riverdale has limited access to resources and services, with public transit being a critical mode of transportation for many residents. Improving transit times and maintaining low costs are essential for accessibility.",
+    "decision_rationale": "Given the economic constraints in Riverdale, policies that minimize costs while improving transit times are prioritized. A lower transit fare and driving fee are preferred to ensure affordability. A moderate sales tax is acceptable if it significantly improves transit services, as many residents rely on public transportation. The goal is to balance affordability with improved transit efficiency to enhance accessibility without imposing a heavy financial burden."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

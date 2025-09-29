@@ -1,0 +1,16 @@
+{
+  "community_area": "Acres Home",
+  "thinking": {
+    "disposable_income": "Acres Home is a historically underserved community with lower than average disposable income compared to other Houston neighborhoods.",
+    "discretionary_consumption": "Residents in Acres Home have limited discretionary spending, prioritizing essential goods and services over luxury items.",
+    "accessibility": "Public transit is a crucial mode of transportation for many residents in Acres Home, with limited access to personal vehicles and longer travel times to key resources and services.",
+    "decision_rationale": "Given the lower disposable income and reliance on public transit, proposals with lower transit fares and moderate sales taxes are prioritized to minimize financial burden on residents. Proposals that improve transit times without significantly increasing costs are favored. A balance between affordable transit fares and reasonable driver fees is sought to encourage a shift from driving to transit, reducing congestion and emissions. The top-ranked proposals reflect a preference for lower fares and moderate driver fees, with a focus on improving transit accessibility and affordability."
+  },
+  "vote": [
+    0,
+    7,
+    10,
+    2,
+    1
+  ]
+}

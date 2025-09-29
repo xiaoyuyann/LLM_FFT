@@ -1,0 +1,16 @@
+{
+  "community_area": "West Town",
+  "thinking": {
+    "disposable_income": "West Town has a high median income of $128,717 and a per capita income of $82,088, indicating a relatively affluent community with significant disposable income.",
+    "discretionary_consumption": "With 43.9% of households earning $150,000 and over, the community has a high capacity for discretionary spending. However, a significant portion of the population (9.8%) earns less than $25,000, suggesting some income disparity.",
+    "accessibility": "West Town has a diverse mode of transportation usage with 23.2% using transit and 35.1% driving alone. The community also has a high percentage of residents working from home (26.3%), reducing daily commuting needs.",
+    "decision_rationale": "Given the high disposable income, the community can absorb moderate increases in transit fares and driver fees. However, maintaining or improving transit accessibility is crucial due to the significant transit usage. A lower sales tax is preferred to minimize impact on discretionary spending. Proposals with moderate driver fees and transit fares, coupled with lower sales taxes, are prioritized to balance cost and service improvements. The goal is to reduce travel times while ensuring affordability for lower-income residents."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

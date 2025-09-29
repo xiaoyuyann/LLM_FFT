@@ -1,0 +1,16 @@
+{
+  "community_area": "Logan Square",
+  "thinking": {
+    "disposable_income": "Logan Square has a diverse population with a mix of middle-income and lower-income residents. The disposable income varies, but there is a significant portion of the community that is sensitive to changes in transportation costs.",
+    "discretionary_consumption": "Residents in Logan Square tend to spend on local businesses, dining, and cultural activities. Any increase in transportation costs could impact their ability to spend on these discretionary items.",
+    "accessibility": "Logan Square is well-served by public transit, including the Blue Line and several bus routes. However, travel times can be long, and improvements in transit efficiency would be beneficial. Car ownership is moderate, and many residents rely on public transit for daily commutes.",
+    "decision_rationale": "Given the community's reliance on public transit and sensitivity to cost changes, proposals that lower transit fares and improve travel times are prioritized. A moderate sales tax is acceptable if it significantly enhances transit services. Driver fees are less of a concern as car ownership is not as high as in other areas. The goal is to balance affordability with improved transit efficiency."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

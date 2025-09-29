@@ -1,0 +1,16 @@
+{
+  "community_area": "East Garfield Park",
+  "thinking": {
+    "disposable_income": "East Garfield Park has a median income of $31,762 and a per capita income of $20,343. A significant portion of the population (43.7%) earns less than $25,000, indicating limited disposable income.",
+    "discretionary_consumption": "With a large percentage of the population earning below $25,000, discretionary spending is likely constrained. Any increase in transportation costs could significantly impact the community's ability to spend on other necessities.",
+    "accessibility": "40% of households do not own a vehicle, and 25% of the population relies on transit. The mean commute time is 35.1 minutes, which is relatively high. Improving transit times and affordability is crucial for accessibility.",
+    "decision_rationale": "Given the community's low income and high reliance on public transit, policies that reduce transit fares and improve transit times are prioritized. A lower sales tax is preferred to minimize the impact on discretionary spending. Driver fees are considered acceptable if they significantly improve transit times, as they may encourage a shift from driving to transit, reducing congestion and emissions. The selected policies aim to balance affordability, accessibility, and improved transit services."
+  },
+  "vote": [
+    11,
+    10,
+    19,
+    13,
+    14
+  ]
+}

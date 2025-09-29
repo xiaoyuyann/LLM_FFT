@@ -1,0 +1,16 @@
+{
+  "community_area": "Edgewater",
+  "thinking": {
+    "disposable_income": "Edgewater has a mixed-income population with median household income around $54,000. About 16% of residents live below poverty line. Many residents are cost-sensitive when it comes to transportation expenses.",
+    "discretionary_consumption": "Moderate levels of discretionary spending. Many residents are renters and students from nearby Loyola University. They tend to be price-sensitive and careful with non-essential expenses.",
+    "accessibility": "Well-served by CTA Red Line and multiple bus routes. High transit accessibility with multiple stations. Dense, walkable neighborhood with good access to retail and services. About 35% of households don't own cars. Many residents rely on public transit for daily commuting.",
+    "decision_rationale": "1. Prioritize proposals with lower transit fares ($0.75) given high transit dependency and moderate incomes. 2. Moderate tax rates (1%) can help maintain service quality without excessive burden. 3. Support some driving fees to improve transit service and reduce congestion. 4. Balance between travel time improvements and costs. 5. Consider proposals that benefit both transit users and occasional drivers since community has mixed transportation needs."
+  },
+  "vote": [
+    11,
+    10,
+    9,
+    20,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Oakland",
+  "thinking": {
+    "disposable_income": "The median income in Oakland is $27,693, with a significant portion of the population earning less than $25,000. This indicates limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With 47.2% of households earning less than $25,000, discretionary spending is likely constrained. Policies that minimize additional financial burdens, such as lower fares and taxes, are preferable.",
+    "accessibility": "41.7% of households do not own a vehicle, and 19.9% use transit. Improving transit accessibility and affordability is crucial, as a significant portion of the community relies on public transportation.",
+    "decision_rationale": "Given the low median income and high reliance on public transit, policies with lower fares and moderate taxes are prioritized to enhance affordability and accessibility. Reducing travel time is also important, but not at the expense of significantly higher costs. Therefore, proposals with lower fares and moderate driver fees, which can improve transit services and reduce congestion, are preferred. The balance between fare, tax, and driver fee is crucial to ensure that the community can afford the changes without sacrificing essential consumption."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

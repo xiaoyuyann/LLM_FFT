@@ -1,0 +1,16 @@
+{
+  "community_area": "Lower West Side",
+  "thinking": {
+    "disposable_income": "The median income is $69,810, with a significant portion of the population earning less than $50,000. This suggests a moderate level of disposable income, with a need to balance costs carefully.",
+    "discretionary_consumption": "With a diverse income distribution, a significant portion of the community may be sensitive to increases in transit fares and taxes, as these could impact their ability to spend on other necessities.",
+    "accessibility": "24.5% of the population uses transit, and 43.8% drive alone. Improving transit times and maintaining affordability is crucial, as a large portion of the community relies on these modes of transportation.",
+    "decision_rationale": "Given the community's reliance on both transit and driving, proposals that improve transit times while keeping costs low are prioritized. A lower sales tax is preferred to minimize the impact on discretionary spending. Proposals with moderate driving fees are considered to encourage a shift to transit, reducing congestion and emissions. The top-ranked proposals balance these factors, offering improved transit times and moderate costs."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

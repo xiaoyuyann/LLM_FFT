@@ -1,0 +1,16 @@
+{
+  "community_area": "Logan Square",
+  "thinking": {
+    "disposable_income": "Logan Square has a median household income of around $71,000, slightly above Chicago's median. However, there's significant income diversity with about 15% of residents below poverty level. The area has seen gentrification leading to increased housing costs affecting disposable income.",
+    "discretionary_consumption": "Residents have moderate discretionary spending power but face rising living costs. The area has many local businesses, restaurants, and entertainment venues that residents frequent. Higher sales taxes would impact local spending patterns.",
+    "accessibility": "Well-served by Blue Line L train and multiple bus routes. About 30% of residents use public transit for commuting, 45% drive, and significant bicycle usage. The area has good transit connectivity to downtown and neighboring areas. Many residents are multi-modal, switching between transit and driving.",
+    "decision_rationale": "1. Prioritize balanced policies that don't overly burden either drivers or transit users given mixed transportation usage. 2. Consider moderate tax rates to maintain transit service while preserving discretionary spending. 3. Support policies that improve transit times without excessive fees given significant transit ridership. 4. Factor in growing population of young professionals who value efficient transit. 5. Selected proposals that reduce congestion while keeping costs reasonable for mixed-income population."
+  },
+  "vote": [
+    13,
+    4,
+    10,
+    22,
+    16
+  ]
+}

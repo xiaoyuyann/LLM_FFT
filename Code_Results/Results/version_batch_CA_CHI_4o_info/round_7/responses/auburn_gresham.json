@@ -1,0 +1,16 @@
+{
+  "community_area": "Auburn Gresham",
+  "thinking": {
+    "disposable_income": "The median income in Auburn Gresham is $41,000, with a significant portion of the population earning less than $25,000. This suggests limited disposable income, making cost-sensitive policies more favorable.",
+    "discretionary_consumption": "With 33% of households earning less than $25,000, discretionary spending is likely constrained. Policies that minimize additional financial burdens, such as lower fares and taxes, are preferable.",
+    "accessibility": "21.1% of residents use transit, and 29.9% have no vehicle, indicating a reliance on public transportation. Improving transit accessibility and affordability is crucial for this community.",
+    "decision_rationale": "Given the community's limited disposable income and reliance on public transit, policies with lower fares and moderate taxes are prioritized. Reducing travel time is also important, but not at the expense of significantly higher costs. Therefore, proposals with lower fares and moderate driver fees, which can improve transit services and reduce congestion, are preferred. The balance between cost and improved service is key, considering the community's economic constraints and transportation needs."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

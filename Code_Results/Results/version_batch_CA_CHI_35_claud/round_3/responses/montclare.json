@@ -1,0 +1,16 @@
+{
+  "community_area": "Montclare",
+  "thinking": {
+    "disposable_income": "Montclare has a median household income of around $54,000, which is slightly below Chicago's median. Many residents are working-class families with moderate disposable income. About 12% of residents live below poverty level, making them sensitive to cost increases",
+    "discretionary_consumption": "Given the moderate income levels, residents have limited discretionary spending. Most household budgets are allocated to essential needs. Higher taxes or transportation costs would significantly impact household budgets",
+    "accessibility": "Montclare is a somewhat car-dependent neighborhood on Chicago's northwest side. While served by CTA buses, it lacks direct rail service. About 75% of residents drive to work, while 20% use public transit. The community has above-average car ownership rates",
+    "decision_rationale": "1. Given high car dependency but moderate incomes, prefer policies with lower driving fees and moderate taxes. 2. Need some transit investment but can't burden residents with high costs. 3. Policy 3 ranks first as it maintains low tax rate and no driving fee while keeping transit affordable. 4. Policy 9 second as it improves transit with moderate tax increase. 5. Policy 0 third as it reduces transit costs. 6. Policy 12 fourth as current policy. 7. Policy 4 fifth as balanced approach with minimal impact on drivers"
+  },
+  "vote": [
+    3,
+    9,
+    0,
+    12,
+    4
+  ]
+}

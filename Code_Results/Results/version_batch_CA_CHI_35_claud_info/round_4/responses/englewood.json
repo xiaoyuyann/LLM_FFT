@@ -1,0 +1,16 @@
+{
+  "community_area": "Englewood",
+  "thinking": {
+    "disposable_income": "Englewood has a very low median income of $27,792, with 46.5% of households earning less than $25,000. This indicates extremely limited disposable income and high sensitivity to any additional transportation costs.",
+    "discretionary_consumption": "Given the low income levels, discretionary spending is minimal. Any increase in transportation costs or sales tax would significantly impact residents' ability to afford basic necessities.",
+    "accessibility": "44.6% of households have no vehicle, and 25.2% rely on transit. Combined with 51% who drive alone, the community needs both affordable transit options and reasonable driving costs. Current transit travel times are significantly higher than driving times.",
+    "decision_rationale": "1. Prioritized proposals with lowest transit fares ($0.75) given high transit dependency and low incomes. 2. Favored lower sales tax rates (0.5-1.0%) to minimize impact on limited discretionary spending. 3. Balanced driving fees considering both car owners and transit users - moderate fees can improve transit service without excessive burden. 4. Considered travel time improvements, especially for transit users. 5. Selected proposals that provide best overall accessibility while minimizing financial burden on this low-income community."
+  },
+  "vote": [
+    1,
+    10,
+    0,
+    9,
+    2
+  ]
+}

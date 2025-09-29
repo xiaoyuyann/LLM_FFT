@@ -1,0 +1,16 @@
+{
+  "community_area": "MacGregor",
+  "thinking": {
+    "disposable_income": "MacGregor has a mixed-income population with a median household income around $65,000, which is slightly above Houston's median, indicating moderate disposable income levels.",
+    "discretionary_consumption": "The neighborhood's residents have moderate discretionary spending capacity, with significant portions going to housing, transportation, and education expenses given the proximity to universities and medical centers.",
+    "accessibility": "MacGregor has good accessibility with multiple bus routes, proximity to light rail, and easy access to major highways, while being close to Texas Medical Center and universities.",
+    "decision_rationale": "1) Prioritized policies with lower transit fares ($0.75) to encourage transit use given the neighborhood's good transit access and student population. 2) Favored moderate tax rates (1%) to balance service improvements with tax burden. 3) Supported moderate driving fees ($0.50) to reduce congestion while not overly burdening drivers. 4) Considered the neighborhood's mixed-income nature and need to maintain affordability. 5) Weighted the significant improvement in transit times against modest cost increases."
+  },
+  "vote": [
+    7,
+    8,
+    16,
+    10,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "City of Chicago",
+  "thinking": {
+    "disposable_income": "The median household income in Chicago is around $60,000. This means that residents have a moderate level of disposable income, which is sensitive to changes in transportation costs, taxes, and fees.",
+    "discretionary_consumption": "Chicago residents allocate their income to various needs, including housing, food, and transportation. Any increase in transportation costs or taxes could reduce discretionary spending on other goods and services.",
+    "accessibility": "Chicago has a well-developed public transit system, but travel times can be long. Improving transit times and reducing congestion are important for accessibility. The city also faces challenges with traffic congestion, making efficient transit options crucial.",
+    "decision_rationale": "The decision prioritizes reducing travel times and costs for both transit and driving, while considering the impact of taxes and fees on disposable income. Lower fares and moderate taxes are preferred to maintain affordability. Proposals that significantly reduce travel times without drastically increasing costs are prioritized. The goal is to enhance transit service quality and accessibility while minimizing the financial burden on residents."
+  },
+  "vote": [
+    11,
+    13,
+    14,
+    10,
+    19
+  ]
+}

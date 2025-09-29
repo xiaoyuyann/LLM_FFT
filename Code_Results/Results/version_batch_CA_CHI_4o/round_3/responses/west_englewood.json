@@ -1,0 +1,16 @@
+{
+  "community_area": "West Englewood",
+  "thinking": {
+    "disposable_income": "West Englewood is a lower-income community with limited disposable income. Many residents rely on public transportation due to the high cost of car ownership.",
+    "discretionary_consumption": "Discretionary spending is limited, with most income going towards essential needs. Any increase in transportation costs could significantly impact residents' ability to afford other necessities.",
+    "accessibility": "Public transportation is crucial for accessing jobs, education, and services. Improving transit times and maintaining low fares are important for the community.",
+    "decision_rationale": "Given the limited disposable income and reliance on public transit, proposals with lower fares and moderate taxes are prioritized. Reducing transit times is also important, but not at the expense of significantly higher costs. A balance between affordability and improved service is key. Proposals with a $0.75 fare and moderate driver fees are preferred to encourage transit use and reduce congestion, while keeping costs manageable for residents."
+  },
+  "vote": [
+    10,
+    1,
+    11,
+    19,
+    2
+  ]
+}

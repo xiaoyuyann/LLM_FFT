@@ -1,0 +1,16 @@
+{
+  "community_area": "Near South Side",
+  "thinking": {
+    "disposable_income": "The Near South Side has relatively high income levels with 43.7% of households earning over $150,000 and a median household income of $124,558. This suggests residents have significant disposable income and can generally absorb higher transportation costs",
+    "discretionary_consumption": "With high per capita income ($94,087), residents likely have substantial discretionary spending. Higher sales taxes would impact this but may be tolerable given the income levels. The community can likely handle moderate fee increases without severe impact on quality of life",
+    "accessibility": "The area has diverse transportation usage with 41.9% driving alone, 22.7% using transit, and 22.7% working from home. 83% of households have at least one vehicle, but 22.4% have no vehicle, indicating good transit access is important. The area needs balanced policies serving both drivers and transit users",
+    "decision_rationale": "1. Prioritized policies that reduce both car and transit travel times while keeping costs moderate given the area's income levels. 2. Favored balanced approaches with moderate taxes and fees since residents can afford them and they improve service. 3. Considered the significant transit-dependent population (22.4% no vehicle). 4. Selected policies that maintain good service levels for both driving and transit given the mixed transportation usage. 5. Higher tax rates acceptable given income levels if they significantly improve service"
+  },
+  "vote": [
+    23,
+    14,
+    5,
+    22,
+    13
+  ]
+}

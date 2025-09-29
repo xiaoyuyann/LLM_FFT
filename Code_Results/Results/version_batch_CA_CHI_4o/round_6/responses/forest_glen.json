@@ -1,0 +1,16 @@
+{
+  "community_area": "Forest Glen",
+  "thinking": {
+    "disposable_income": "Forest Glen is a relatively affluent community with a higher median household income compared to the city average. Residents generally have more disposable income, which allows for some flexibility in absorbing additional costs from transportation policies.",
+    "discretionary_consumption": "Given the higher income levels, residents in Forest Glen likely have higher discretionary spending on goods and services. However, they may still be sensitive to significant increases in costs that could impact their lifestyle.",
+    "accessibility": "Forest Glen has good access to public transportation, including Metra and CTA services, but many residents also rely on personal vehicles for commuting. Reducing travel time and improving transit services could be beneficial, but not at the expense of significantly higher costs.",
+    "decision_rationale": "The decision-making process involves balancing the need for improved transit services with the cost implications for residents. Lower fares and moderate driver fees are preferred to encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it leads to better transit services, as long as it doesn't significantly impact discretionary spending. The focus is on reducing travel times and improving service quality while maintaining affordability."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

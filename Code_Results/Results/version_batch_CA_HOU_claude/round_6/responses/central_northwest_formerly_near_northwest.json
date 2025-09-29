@@ -1,0 +1,16 @@
+{
+  "community_area": "Central Northwest",
+  "thinking": {
+    "disposable_income": "Central Northwest has a moderate median household income around $45,000, with about 25% of residents living below poverty level, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "Given the moderate-to-low income levels, residents have limited discretionary spending capacity and are sensitive to additional transportation costs and taxes.",
+    "accessibility": "The area has decent bus service along major corridors but many residents rely on personal vehicles, with about 75% of commuters driving alone to work and average commute times of 25-30 minutes.",
+    "decision_rationale": "1) Prioritized proposals with lower transit fares ($0.75) to help transit-dependent residents while maintaining service quality 2) Favored moderate tax rates (1%) to balance revenue needs with household budget impacts 3) Supported modest driving fees ($0.50) to encourage transit use without overly burdening drivers 4) Selected options that reduce both transit and driving times 5) Considered the combined impact of taxes, fares, and fees on household budgets"
+  },
+  "vote": [
+    7,
+    16,
+    0,
+    10,
+    2
+  ]
+}

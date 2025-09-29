@@ -1,0 +1,16 @@
+{
+  "community_area": "South Shore",
+  "thinking": {
+    "disposable_income": "South Shore has a median household income lower than the city average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, leaving less room for discretionary consumption.",
+    "accessibility": "South Shore has moderate access to public transit, but improvements in transit times could significantly benefit residents who rely on it.",
+    "decision_rationale": "Given the limited disposable income, lower transit fares and driver fees are prioritized to minimize financial burden. However, improving transit times is also crucial, as many residents rely on public transportation. A balance between affordable fares and improved transit service is sought. Lower sales tax rates are preferred to maintain residents' purchasing power. The selected proposals aim to reduce transit times while keeping costs manageable, considering the community's economic constraints and reliance on public transit."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

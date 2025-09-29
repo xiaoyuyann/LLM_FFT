@@ -1,0 +1,16 @@
+{
+  "community_area": "Oakland",
+  "thinking": {
+    "disposable_income": "Oakland is a community with a moderate to low average disposable income. Many residents rely on public transportation due to limited financial resources for car ownership.",
+    "discretionary_consumption": "Discretionary consumption is limited, with a significant portion of income spent on essential goods and services. Any increase in transportation costs could significantly impact residents' ability to afford other necessities.",
+    "accessibility": "Public transportation is a crucial mode of transport for Oakland residents, providing access to employment, education, and essential services. Improving transit times and maintaining affordability is vital for the community.",
+    "decision_rationale": "Given the moderate to low disposable income and reliance on public transit, the priority is to minimize fare increases while improving transit times. A lower sales tax is preferred to avoid reducing discretionary spending. Driver fees are acceptable if they significantly improve transit times, as many residents do not own cars. The selected proposals balance these factors, aiming to enhance transit efficiency without imposing excessive financial burdens on residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

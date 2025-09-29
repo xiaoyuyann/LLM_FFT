@@ -1,0 +1,16 @@
+{
+  "community_area": "Central Southwest",
+  "thinking": {
+    "disposable_income": "Central Southwest has a median household income of approximately $45,000, which is below Houston's median, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With a significant portion of income going to basic necessities, residents have limited discretionary spending capacity and are sensitive to additional transportation costs.",
+    "accessibility": "The area has moderate transit access with some bus routes but high car dependency, with about 85% of residents commuting by car and experiencing relatively long commute times.",
+    "decision_rationale": "1) Prioritized lower tax rates (0.5%) to protect limited disposable income 2) Favored moderate driving fees ($0.50) to improve transit without overly burdening car-dependent residents 3) Selected lower transit fares ($0.75-$1.25) to keep transit affordable 4) Balanced travel time improvements with cost impacts 5) Considered the high car dependency while maintaining transit accessibility for non-drivers"
+  },
+  "vote": [
+    0,
+    2,
+    7,
+    10,
+    4
+  ]
+}

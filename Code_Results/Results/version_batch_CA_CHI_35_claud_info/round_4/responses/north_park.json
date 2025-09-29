@@ -1,0 +1,16 @@
+{
+  "community_area": "North Park",
+  "thinking": {
+    "disposable_income": "North Park has a mixed income profile with median income of $74,649. About 34.3% of households earn less than $50,000, while 38.7% earn over $100,000. This suggests a need to balance policies that don't overly burden lower-income residents while maintaining service quality.",
+    "discretionary_consumption": "With per capita income of $37,156, residents have moderate discretionary spending power. Higher sales taxes would impact all residents, particularly the 34.3% lower-income households who have less flexible budgets for essential purchases.",
+    "accessibility": "The community has relatively high car ownership (85.4% have at least one vehicle) with 61.1% driving to work. However, 17.5% use transit and 14.6% have no vehicle, indicating a significant transit-dependent population. Mean commute time is 34 minutes.",
+    "decision_rationale": "1. Prioritized proposals with moderate tax rates to balance revenue needs with household budget impacts. 2. Favored options with lower transit fares to support transit-dependent residents while maintaining service quality. 3. Supported moderate driving fees to reduce congestion and fund transit without excessive burden on majority who drive. 4. Considered travel time improvements for both transit and driving given mixed transportation needs. 5. Selected policies that provide best overall time savings while keeping costs reasonable for both modes."
+  },
+  "vote": [
+    13,
+    10,
+    4,
+    19,
+    22
+  ]
+}

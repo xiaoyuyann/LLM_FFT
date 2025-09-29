@@ -1,0 +1,16 @@
+{
+  "community_area": "Belmont Cragin",
+  "thinking": {
+    "disposable_income": "Belmont Cragin is a middle-income community with a significant portion of residents working in blue-collar and service jobs. The community has a moderate level of disposable income, which means that any increase in transportation costs could impact their budget for other essential expenses.",
+    "discretionary_consumption": "Residents in Belmont Cragin have limited discretionary income, with a significant portion of their budget allocated to essential expenses such as housing, food, and transportation. Therefore, policies that increase transportation costs could reduce their ability to spend on non-essential goods and services.",
+    "accessibility": "Belmont Cragin has moderate access to public transit, with some residents relying on buses and trains for commuting. However, many residents also depend on driving due to the community's layout and the need to access jobs and services outside the immediate area. Reducing travel time and improving transit services would be beneficial.",
+    "decision_rationale": "Given the moderate disposable income and limited discretionary consumption, it is crucial to balance the cost of transportation with the benefits of improved transit services. Lower fares and taxes are preferred to minimize the financial burden on residents. However, some increase in driver fees is acceptable if it significantly reduces travel time and improves transit services, as this could encourage a shift from driving to transit, reducing congestion and emissions. The selected policies aim to provide a balance between affordability and improved transit efficiency."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Lawndale/Wayside",
+  "thinking": {
+    "disposable_income": "Lawndale/Wayside is a working-class neighborhood with median household income around $35,000, significantly below Houston's average, indicating limited disposable income for transportation costs.",
+    "discretionary_consumption": "With a high percentage of households living on modest incomes, residents have limited discretionary spending capacity and are sensitive to both transit fares and sales tax increases.",
+    "accessibility": "The neighborhood has decent bus service along Wayside Drive and Lawndale Street, with about 25% of residents relying on public transit, while many others depend on personal vehicles for work commutes.",
+    "decision_rationale": "1) Prioritized lower transit fares ($0.75) to help transit-dependent residents 2) Favored moderate sales tax (1%) to balance service improvements with tax burden 3) Supported moderate driving fees ($0.50) to fund transit while not overly burdening car-dependent workers 4) Selected proposals that reduce transit travel times to under 57 minutes 5) Considered combined cost impact of fares, fees, and taxes on low-income households"
+  },
+  "vote": [
+    7,
+    8,
+    16,
+    17,
+    10
+  ]
+}

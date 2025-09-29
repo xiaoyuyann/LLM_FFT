@@ -1,0 +1,16 @@
+{
+  "community_area": "Independence Heights",
+  "thinking": {
+    "disposable_income": "Independence Heights has a relatively low median household income of around $33,000, with approximately 30% of residents living below the poverty line, making residents particularly sensitive to transportation costs.",
+    "discretionary_consumption": "Given the low income levels, residents have limited discretionary spending capacity and must carefully balance essential needs with transportation expenses.",
+    "accessibility": "The neighborhood has moderate transit access with several bus routes but many residents rely on personal vehicles, with about 75% of households owning at least one car, while facing relatively long commute times to employment centers.",
+    "decision_rationale": "1) Prioritized policies with lower transit fares ($0.75) to make public transit more accessible for low-income residents. 2) Favored moderate driving fees ($0.50) to improve transit service while not overly burdening car-dependent households. 3) Selected lower tax rates (0.5-1.0%) to minimize impact on limited discretionary spending. 4) Balanced improved transit times with cost considerations given the neighborhood's economic constraints. 5) Considered the mix of transit-dependent and car-owning households in the community."
+  },
+  "vote": [
+    7,
+    0,
+    16,
+    10,
+    2
+  ]
+}

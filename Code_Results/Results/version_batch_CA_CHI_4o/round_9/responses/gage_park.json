@@ -1,0 +1,16 @@
+{
+  "community_area": "Gage Park",
+  "thinking": {
+    "disposable_income": "Gage Park is a working-class neighborhood with a median household income lower than the city average. Residents are sensitive to increases in costs, whether through taxes, fares, or fees.",
+    "discretionary_consumption": "Given the lower disposable income, discretionary spending is limited. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Gage Park has moderate access to public transit, with several bus lines and a nearby train station. However, transit times are relatively long, and many residents rely on driving for quicker commutes.",
+    "decision_rationale": "The decision focuses on minimizing costs while improving transit times. Lower fares and taxes are prioritized to reduce the financial burden on residents. Proposals with moderate driver fees are considered to encourage a shift to transit, potentially reducing congestion and improving transit times. The goal is to balance affordability with improved transit service, considering the community's reliance on both driving and public transit."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

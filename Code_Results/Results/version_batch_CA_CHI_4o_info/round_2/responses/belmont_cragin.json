@@ -1,0 +1,16 @@
+{
+  "community_area": "Belmont Cragin",
+  "thinking": {
+    "disposable_income": "Belmont Cragin has a diverse income distribution with a significant portion of households earning less than $50,000 annually. This suggests a moderate level of disposable income, with many households likely sensitive to increases in transportation costs.",
+    "discretionary_consumption": "Given the income distribution, discretionary spending is likely limited for a significant portion of the community. Policies that minimize additional costs on transportation would be preferable to maintain current levels of consumption on essentials and other goods.",
+    "accessibility": "With 57.7% of residents driving alone and 15.3% using transit, both modes of transportation are important. However, a significant portion of the community relies on cars, indicating that policies should not overly penalize drivers while still improving transit options.",
+    "decision_rationale": "The decision prioritizes policies that balance lower costs for transit users and drivers while improving transit times. Given the community's income sensitivity, lower fares and fees are preferred. The community's reliance on cars suggests that driver fees should be minimized to avoid undue burden. The selected policies aim to improve transit times without significantly increasing costs, thus supporting both transit users and drivers in the community."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

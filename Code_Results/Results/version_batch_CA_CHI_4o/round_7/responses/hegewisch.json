@@ -1,0 +1,16 @@
+{
+  "community_area": "Hegewisch",
+  "thinking": {
+    "disposable_income": "Hegewisch is a working-class neighborhood with moderate disposable income levels. Residents are sensitive to changes in transportation costs, as these can significantly impact their overall budget.",
+    "discretionary_consumption": "The community has limited discretionary consumption due to moderate income levels. Any increase in transportation costs could reduce spending on other essential goods and services.",
+    "accessibility": "Hegewisch has limited public transit options, with residents often relying on cars for commuting. Improving transit times and reducing costs could enhance accessibility to jobs and services.",
+    "decision_rationale": "Given the moderate income levels and reliance on cars, the community would benefit from policies that reduce travel time and costs. Lower transit fares and moderate driver fees are preferred to encourage a shift from driving to transit, reducing congestion and emissions. A lower sales tax is also favored to minimize the impact on disposable income. The selected policies balance these factors, aiming to improve transit service while keeping costs manageable for residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

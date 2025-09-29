@@ -1,0 +1,16 @@
+{
+  "community_area": "Jensen",
+  "thinking": {
+    "disposable_income": "The Jensen super neighborhood has a relatively low disposable income, which means residents are sensitive to increases in costs such as transit fares and driver fees.",
+    "discretionary_consumption": "Due to limited disposable income, discretionary consumption is also limited, making any additional costs from transportation policies impactful on residents' budgets.",
+    "accessibility": "The neighborhood has moderate accessibility to resources and services, with a reliance on both transit and driving, but improvements in transit could significantly benefit residents.",
+    "decision_rationale": "Given the low disposable income and limited discretionary consumption, the focus is on minimizing costs while improving transit times. Lower fares and driver fees are prioritized to reduce the financial burden on residents. A moderate sales tax is acceptable if it significantly improves transit times, as this could enhance accessibility and reduce overall travel costs. The selected policies aim to balance cost savings with improved transit efficiency, considering the community's reliance on both modes of transportation."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

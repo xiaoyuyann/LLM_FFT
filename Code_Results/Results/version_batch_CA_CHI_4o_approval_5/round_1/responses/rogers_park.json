@@ -1,0 +1,16 @@
+{
+  "community_area": "Rogers Park",
+  "thinking": {
+    "disposable_income": "Rogers Park has a diverse population with varying income levels, but generally, it is a middle-income area. Residents are sensitive to changes in transportation costs, especially those who rely on public transit.",
+    "discretionary_consumption": "The community has a moderate level of discretionary consumption. Residents prioritize essential expenses, and any increase in transportation costs could impact their ability to spend on other goods and services.",
+    "accessibility": "Rogers Park is well-served by public transit, including the CTA Red Line and several bus routes. Many residents rely on public transit for commuting and daily activities, making transit affordability and efficiency crucial.",
+    "decision_rationale": "Given the reliance on public transit and the sensitivity to cost changes, proposals with lower transit fares and moderate driver fees are preferred. A lower sales tax is also favorable to minimize the impact on discretionary spending. Proposals that improve transit times without significantly increasing costs are prioritized. Therefore, proposals with a $0.75 fare and moderate driver fees, combined with a 0.5% or 1.0% sales tax, are most suitable for Rogers Park."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

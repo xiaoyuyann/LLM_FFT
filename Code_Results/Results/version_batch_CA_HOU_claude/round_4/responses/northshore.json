@@ -1,0 +1,16 @@
+{
+  "community_area": "Northshore",
+  "thinking": {
+    "disposable_income": "Northshore has a median household income of around $45,000, which is below Houston's average, indicating residents are more sensitive to transportation costs and taxes.",
+    "discretionary_consumption": "With lower disposable income and a significant working-class population, residents have limited discretionary spending and are price-sensitive to both transit fares and sales taxes.",
+    "accessibility": "Northshore has moderate transit access with some bus routes but many residents rely on personal vehicles for work commutes, with relatively high car ownership rates despite lower incomes.",
+    "decision_rationale": "1) Prioritized policies with lower transit fares and moderate taxes to help working families while maintaining service quality. 2) Favored options with moderate driving fees to reduce congestion while not overly burdening car-dependent residents. 3) Selected policies that balance travel time improvements with cost impacts. 4) Considered that many residents make both transit and car trips, so looked for balanced improvements to both modes. 5) Weighted lower sales tax options more heavily given the neighborhood's income levels."
+  },
+  "vote": [
+    7,
+    0,
+    2,
+    10,
+    16
+  ]
+}

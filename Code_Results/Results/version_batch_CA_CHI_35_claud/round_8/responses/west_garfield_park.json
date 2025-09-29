@@ -1,0 +1,16 @@
+{
+  "community_area": "West Garfield Park",
+  "thinking": {
+    "disposable_income": "West Garfield Park is one of Chicago's lowest-income communities with median household income around $24,000. About 43% of residents live below poverty level, making disposable income very limited",
+    "discretionary_consumption": "Given the low income levels, residents have minimal discretionary spending capacity. Most income goes to essential needs like housing, food, and utilities. Higher taxes or transportation costs would significantly impact household budgets",
+    "accessibility": "The area has moderate transit access via Green Line and bus routes but faces connectivity challenges. About 40% of households don't own vehicles and rely heavily on public transit. Average commute times are higher than city average",
+    "decision_rationale": "1. Given very limited disposable income, prioritize lowest combined costs (fare + tax) \n2. Need good transit service since many residents are transit-dependent \n3. Lower transit fares more important than driving fees since car ownership is low \n4. Moderate tax rate to balance service quality and household burden \n5. Selected proposals that reduce transit travel time while keeping costs affordable"
+  },
+  "vote": [
+    11,
+    10,
+    2,
+    1,
+    20
+  ]
+}

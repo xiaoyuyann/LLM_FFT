@@ -1,0 +1,16 @@
+{
+  "community_area": "Portage Park",
+  "thinking": {
+    "disposable_income": "Portage Park is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, but they can accommodate slight increases if it leads to better services.",
+    "discretionary_consumption": "The community has a balanced discretionary consumption pattern, with spending on housing, food, and transportation being significant. Any increase in transportation costs should be justified by improved services or reduced travel times.",
+    "accessibility": "Portage Park has decent access to public transit, but improvements in transit times and reliability would be beneficial. Many residents rely on both driving and public transit, so policies that improve transit without significantly increasing costs are preferred.",
+    "decision_rationale": "Given the community's moderate income and balanced consumption, policies with lower fares and moderate taxes are preferred to minimize the financial burden. Policies that reduce travel time for both transit and driving are prioritized. A slight increase in driver fees is acceptable if it leads to significant improvements in transit times, as this could encourage a shift from driving to transit, reducing congestion and emissions."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Fuller Park",
+  "thinking": {
+    "disposable_income": "Fuller Park has one of the lowest median household incomes in Chicago at around $21,000. The poverty rate is approximately 40%, indicating very limited disposable income for most residents.",
+    "discretionary_consumption": "Given the high poverty rate and low income levels, discretionary spending is extremely limited. Most household income goes to basic necessities like housing, food, and utilities. Even small increases in transportation costs or taxes would significantly impact residents' ability to meet basic needs.",
+    "accessibility": "The community has good access to public transit with the Red Line and multiple bus routes. Car ownership rates are low due to economic constraints. Many residents rely heavily on public transportation for work, shopping, and accessing services.",
+    "decision_rationale": "1. Given very low incomes, prioritize lowest combined costs (fares, taxes, fees). 2. Strong transit dependency means better transit service is important but not at high cost. 3. Lower transit fares are critical for this low-income community. 4. Moderate sales tax preferred as residents spend less overall. 5. Driver fees less impactful due to low car ownership. Selected policies balance improved transit service with keeping costs low for residents."
+  },
+  "vote": [
+    0,
+    9,
+    3,
+    1,
+    10
+  ]
+}

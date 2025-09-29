@@ -1,0 +1,17 @@
+{
+  "community_area": "South Lawndale",
+  "thinking": {
+    "disposable_income": "South Lawndale has a relatively low median household income compared to other areas in Chicago, which means residents have limited disposable income.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is likely constrained, with a focus on essential goods and services.",
+    "accessibility": "South Lawndale has moderate access to public transit, but improvements in transit services could significantly benefit the community by providing better access to jobs and services.",
+    "decision_rationale": "Considering the limited disposable income, policies with lower transit fares and minimal increases in sales tax are preferred to minimize the financial burden on residents. Additionally, policies that improve transit times without significantly increasing costs are prioritized to enhance accessibility. Therefore, proposals with a $0.75 fare and a 0.5% or 1.0% sales tax, combined with a $0.5 or $1.0 driving fee, are favored as they balance cost and service improvements."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19,
+    20
+  ]
+}

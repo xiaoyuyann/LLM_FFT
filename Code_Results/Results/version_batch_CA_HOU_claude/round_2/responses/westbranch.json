@@ -1,0 +1,16 @@
+{
+  "community_area": "Westbranch",
+  "thinking": {
+    "disposable_income": "Westbranch is a middle-income neighborhood with median household income around $45,000, indicating moderate sensitivity to transportation costs and taxes.",
+    "discretionary_consumption": "Residents have modest discretionary spending capacity, with typical household retail spending around $20,000 annually, making them somewhat sensitive to sales tax increases.",
+    "accessibility": "The neighborhood has good road access but limited transit service, with about 70% of residents commuting by car and 20% by transit, suggesting policies should balance both modes.",
+    "decision_rationale": "1) Prioritized proposals with moderate tax rates to maintain services without excessive burden on discretionary spending. 2) Favored lower transit fares ($0.75-$1.25) to support transit-dependent residents while keeping transit affordable. 3) Supported moderate driving fees ($0.50) to fund transit improvements without severely impacting majority car commuters. 4) Selected proposals that achieve meaningful travel time reductions for both modes. 5) Balanced revenue generation between sales tax, fares, and driving fees to distribute costs fairly across transportation modes."
+  },
+  "vote": [
+    7,
+    16,
+    10,
+    2,
+    19
+  ]
+}

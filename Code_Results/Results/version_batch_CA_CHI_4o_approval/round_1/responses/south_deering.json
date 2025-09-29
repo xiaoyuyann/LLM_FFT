@@ -1,0 +1,16 @@
+{
+  "community_area": "South Deering",
+  "thinking": {
+    "disposable_income": "South Deering is a lower-income community with limited disposable income. Residents are sensitive to increases in costs, whether through fares, fees, or taxes.",
+    "discretionary_consumption": "Given the limited disposable income, discretionary consumption is low. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "South Deering has limited access to public transit options, making it crucial to improve transit services without significantly increasing costs. Many residents rely on driving due to the lack of efficient public transit.",
+    "decision_rationale": "The community needs to balance between improving transit services and keeping costs low. Lower fares and taxes are preferred to minimize the financial burden on residents. However, some increase in driver fees could be acceptable if it leads to significant improvements in transit times and services, encouraging a shift from driving to transit. Proposals with a 0.5% tax and $0.75 fare are favored, as they offer a balance between cost and service improvement. Driver fees are considered if they lead to reduced congestion and better transit times."
+  },
+  "vote": [
+    0,
+    1,
+    9,
+    10,
+    18
+  ]
+}

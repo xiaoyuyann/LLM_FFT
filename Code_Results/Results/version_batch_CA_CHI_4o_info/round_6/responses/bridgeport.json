@@ -1,0 +1,16 @@
+{
+  "community_area": "Bridgeport",
+  "thinking": {
+    "disposable_income": "Bridgeport has a median income of $72,159 and a per capita income of $38,718. The income distribution shows a significant portion of the population earning less than $50,000, which suggests that affordability is a key concern for many residents.",
+    "discretionary_consumption": "With a diverse income range, a substantial portion of the community may be sensitive to changes in transportation costs, as these could impact their ability to spend on other necessities and discretionary items.",
+    "accessibility": "Bridgeport has a relatively high percentage of residents who drive alone (48.3%) and a notable portion using transit (16%). The community also has a significant number of households with no vehicle (17.8%), indicating a reliance on public transit for some residents.",
+    "decision_rationale": "Given the community's income distribution and reliance on both driving and transit, the ideal policy would balance affordability with improved transit services. Lower fares and moderate driver fees could encourage transit use without overly burdening drivers. A moderate sales tax would support transit improvements while minimizing the impact on discretionary spending. Therefore, proposals with lower fares, moderate driver fees, and moderate sales taxes are prioritized to enhance transit accessibility and affordability."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

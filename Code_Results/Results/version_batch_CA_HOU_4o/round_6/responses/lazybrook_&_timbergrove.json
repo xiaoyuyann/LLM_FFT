@@ -1,0 +1,16 @@
+{
+  "community_area": "Lazybrook / Timbergrove",
+  "thinking": {
+    "disposable_income": "Lazybrook / Timbergrove is a middle to upper-middle-class neighborhood with a relatively high disposable income compared to other areas in Houston.",
+    "discretionary_consumption": "Residents in Lazybrook / Timbergrove have a moderate to high level of discretionary consumption, often spending on dining, leisure, and home improvements.",
+    "accessibility": "The neighborhood has good accessibility to resources and services, with a mix of transit options and a high rate of car ownership, making driving a common mode of transportation.",
+    "decision_rationale": "Given the relatively high disposable income, the community can absorb moderate increases in transit fares and driving fees if it results in significantly improved transit services and reduced travel times. The neighborhood's reliance on cars suggests that reducing driving times and costs is also important. Therefore, proposals that balance lower transit fares and driving fees with moderate sales tax increases, while significantly improving travel times, are prioritized. Proposals with the highest sales tax are deprioritized due to the impact on discretionary spending."
+  },
+  "vote": [
+    1,
+    3,
+    8,
+    11,
+    19
+  ]
+}

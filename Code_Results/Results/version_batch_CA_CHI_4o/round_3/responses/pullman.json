@@ -1,0 +1,16 @@
+{
+  "community_area": "Pullman",
+  "thinking": {
+    "disposable_income": "Pullman is a community with a moderate to low average income level. Residents are sensitive to changes in transportation costs, as a significant portion of their income is allocated to essential expenses.",
+    "discretionary_consumption": "Discretionary spending in Pullman is limited, with residents prioritizing essential goods and services. Any increase in transportation costs could significantly impact their ability to spend on non-essential items.",
+    "accessibility": "Pullman has moderate access to public transit, but improvements in transit services could enhance connectivity to other parts of the city. Many residents rely on public transit, but some also use personal vehicles.",
+    "decision_rationale": "Given the moderate to low income levels in Pullman, policies that minimize fare and fee increases while improving transit times are prioritized. A lower sales tax is preferred to maintain discretionary spending. The community would benefit from reduced travel times, especially for transit, to improve access to jobs and services. Therefore, proposals with lower fares and moderate driver fees, which also reduce travel times, are ranked higher. The tradeoff between fare, tax, and driver fees is carefully balanced to ensure affordability and improved service."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

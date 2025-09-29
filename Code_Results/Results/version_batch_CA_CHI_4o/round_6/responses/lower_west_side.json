@@ -1,0 +1,16 @@
+{
+  "community_area": "Lower West Side",
+  "thinking": {
+    "disposable_income": "The Lower West Side has a moderate level of disposable income, with a mix of working-class and middle-income households. Residents are sensitive to changes in transportation costs, as these can impact their overall budget for essential and discretionary spending.",
+    "discretionary_consumption": "Discretionary consumption in the Lower West Side is moderate, with residents spending on local businesses, dining, and cultural activities. Any increase in transportation costs could reduce the amount available for these activities.",
+    "accessibility": "The Lower West Side has decent access to public transit, with several bus and train lines serving the area. However, transit times are relatively long compared to driving, which is a consideration for residents who rely on public transportation for commuting and accessing services.",
+    "decision_rationale": "Given the community's moderate disposable income and reliance on both public transit and driving, the goal is to balance affordability with improved transit services. Lower fares and moderate driver fees are preferred to encourage transit use and reduce congestion. A lower sales tax is also favored to minimize the impact on discretionary spending. The selected proposals aim to reduce travel times and costs while maintaining a reasonable tax burden."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

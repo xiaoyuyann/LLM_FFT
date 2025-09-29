@@ -1,0 +1,16 @@
+{
+  "community_area": "Meadowbrook/Allendale",
+  "thinking": {
+    "disposable_income": "Meadowbrook/Allendale is a working-class neighborhood with median household income around $45,000, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "Residents have modest discretionary spending capacity, with many households being cost-sensitive to transportation expenses and sales taxes.",
+    "accessibility": "The area has moderate transit access with some bus routes but many residents rely on personal vehicles, with average commute times being significant factor in transportation choices.",
+    "decision_rationale": "1) Prioritized lower sales tax (0.5%) to minimize impact on household budgets, 2) Favored moderate transit fares ($0.75-$1.25) to keep transit affordable while maintaining service quality, 3) Supported moderate driving fees ($0.50) to improve transit without overly burdening drivers, 4) Balanced travel time improvements with cost impacts, 5) Considered that many residents use both transit and driving, requiring policies that don't extremely disadvantage either mode"
+  },
+  "vote": [
+    0,
+    2,
+    7,
+    10,
+    16
+  ]
+}

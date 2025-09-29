@@ -1,0 +1,16 @@
+{
+  "community_area": "South Lawndale",
+  "thinking": {
+    "disposable_income": "South Lawndale has relatively low income levels with median household income of $42,010 and per capita income of $18,001. About 58% of households earn less than $50,000 annually, indicating limited disposable income for most residents",
+    "discretionary_consumption": "Given the low income levels, residents likely have minimal discretionary spending capacity. Higher sales taxes would significantly impact household budgets. The community needs to prioritize keeping transportation costs low to preserve limited discretionary income",
+    "accessibility": "About 21% of households have no vehicle, making them transit-dependent. 15.3% use transit for commuting while 70% drive alone or carpool. The community needs balanced access to both transit and driving options, but with consideration for cost sensitivity",
+    "decision_rationale": "1. Policy 0 ranked first as it has lowest tax and transit fare with no driving fee, protecting limited incomes. 2. Policy 9 second as it maintains low transit fare while moderate tax supports better service. 3. Policy 3 third as it keeps low tax with moderate fare. 4. Policy 1 fourth as driving fee helps transit while keeping fares low. 5. Policy 10 fifth as balanced approach with moderate tax and fee improvements"
+  },
+  "vote": [
+    0,
+    9,
+    3,
+    1,
+    10
+  ]
+}

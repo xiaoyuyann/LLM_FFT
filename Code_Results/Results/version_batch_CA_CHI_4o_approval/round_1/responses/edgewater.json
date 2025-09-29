@@ -1,0 +1,16 @@
+{
+  "community_area": "Edgewater",
+  "thinking": {
+    "disposable_income": "Edgewater is a diverse community with a mix of income levels. While some residents have higher disposable incomes, there is a significant portion of the population with moderate to low incomes. Therefore, policies that increase costs significantly could disproportionately affect lower-income residents.",
+    "discretionary_consumption": "Residents in Edgewater have varied discretionary spending habits, with some prioritizing housing and essentials, while others may have more flexibility for leisure and non-essential goods. Policies that increase transportation costs could reduce discretionary spending for lower-income residents.",
+    "accessibility": "Edgewater has good access to public transit, with several CTA bus and train lines serving the area. However, travel times by transit are longer compared to driving. Improving transit efficiency and reducing travel times could benefit the community, especially those who rely on public transportation.",
+    "decision_rationale": "Given the diverse income levels in Edgewater, policies that maintain or reduce transit fares while improving service are preferred. A moderate sales tax increase could be acceptable if it significantly improves transit service. Driver fees could be supported if they lead to reduced congestion and better transit options. The goal is to balance affordability with improved accessibility and service quality."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

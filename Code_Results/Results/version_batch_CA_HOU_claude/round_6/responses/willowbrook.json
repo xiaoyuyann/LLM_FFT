@@ -1,0 +1,16 @@
+{
+  "community_area": "Willowbrook",
+  "thinking": {
+    "disposable_income": "Willowbrook residents have relatively high disposable incomes with a median household income above Houston's average, as it is predominantly a middle to upper-middle-class suburban area.",
+    "discretionary_consumption": "The area has significant discretionary spending capacity with numerous retail centers and shopping destinations, including Willowbrook Mall, suggesting residents can absorb moderate transportation cost increases.",
+    "accessibility": "The area is heavily car-dependent with limited public transit options, primarily served by park-and-ride services to downtown, and most residents rely on personal vehicles for daily transportation.",
+    "decision_rationale": "1) Given the car-dependent nature and higher incomes, policies with moderate driving fees are acceptable if they improve traffic flow 2) Lower sales tax rates are preferred since residents make significant retail purchases 3) Transit fares are less critical since transit usage is limited 4) Prioritized policies that reduce car travel times while keeping overall costs reasonable 5) Selected options that balance revenue generation for transit improvements while maintaining reasonable driving costs"
+  },
+  "vote": [
+    3,
+    2,
+    10,
+    4,
+    19
+  ]
+}

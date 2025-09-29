@@ -1,0 +1,16 @@
+{
+  "community_area": "Burnside",
+  "thinking": {
+    "disposable_income": "Burnside is a lower-income community with limited disposable income. Residents are sensitive to increases in costs, whether through fares, fees, or taxes.",
+    "discretionary_consumption": "Discretionary spending is limited, so any increase in transportation costs could significantly impact residents' ability to spend on other necessities.",
+    "accessibility": "Burnside has moderate access to public transit, but improvements in transit times could significantly benefit residents who rely on it for commuting and accessing services.",
+    "decision_rationale": "Given the limited disposable income and discretionary spending, the community would benefit from lower transit fares and minimal increases in taxes and driving fees. However, improving transit times is also crucial. Therefore, proposals that offer a balance between lower costs and improved transit times are prioritized. A lower sales tax is preferred to minimize the impact on overall consumption. The community would benefit from a slight increase in driver fees if it leads to reduced congestion and better transit services, as many residents rely on public transit."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

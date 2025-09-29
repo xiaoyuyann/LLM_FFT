@@ -1,0 +1,16 @@
+{
+  "community_area": "Englewood",
+  "thinking": {
+    "disposable_income": "Englewood is a low-income community with a significant portion of residents living below the poverty line. Disposable income is limited, making affordability a key concern.",
+    "discretionary_consumption": "Due to limited disposable income, discretionary consumption is low. Residents prioritize essential goods and services, so any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Englewood has moderate access to public transit, but many residents rely on it due to low car ownership rates. Improving transit service and reducing travel time is crucial for better access to jobs and services.",
+    "decision_rationale": "Given the low disposable income and reliance on public transit, policies with lower transit fares and minimal tax increases are preferred. Reducing travel time is also important to improve access to opportunities. Therefore, policies with a $0.75 fare and a 0.5% or 1% tax rate are prioritized, especially those that also reduce car travel time, as they may encourage a shift from driving to transit, reducing congestion and emissions."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

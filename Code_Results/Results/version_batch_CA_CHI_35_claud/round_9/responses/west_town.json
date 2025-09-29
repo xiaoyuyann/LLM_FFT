@@ -1,0 +1,16 @@
+{
+  "community_area": "West Town",
+  "thinking": {
+    "disposable_income": "West Town has a relatively high median household income around $95,000, with many young professionals and families. Residents have moderate to high disposable income and can generally afford transportation costs",
+    "discretionary_consumption": "Area has high discretionary spending capacity with numerous restaurants, shops, and entertainment venues. Residents frequently make discretionary trips for dining, shopping, and recreation",
+    "accessibility": "Well-served by CTA Blue Line, multiple bus routes, bike lanes, and major arterial roads. Mixed-use development pattern with good walkability. Many residents use multiple transportation modes regularly",
+    "decision_rationale": "1. Prioritize balanced policies that improve both transit and driving times without excessive costs given the multi-modal nature of the area. 2. Higher income means some tolerance for fees/taxes if they improve service. 3. Focus on proposals that reduce transit travel times to support the area's mixed-use character. 4. Consider moderate driver fees to manage congestion while maintaining accessibility. 5. Selected proposals 14, 23, 5, 13, and 11 as they offer significant transit time improvements with manageable cost increases, matching the area's demographics and travel patterns"
+  },
+  "vote": [
+    14,
+    23,
+    5,
+    13,
+    11
+  ]
+}

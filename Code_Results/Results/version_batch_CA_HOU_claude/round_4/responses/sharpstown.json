@@ -1,0 +1,16 @@
+{
+  "community_area": "Sharpstown",
+  "thinking": {
+    "disposable_income": "Sharpstown has a median household income of approximately $38,000, which is below Houston's median, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With a significant portion of residents being lower-middle income, discretionary spending is constrained and residents are sensitive to additional transportation costs and taxes.",
+    "accessibility": "The area has moderate car dependency with some bus service, located near major highways like Southwest Freeway, and about 70% of residents commute by car while 30% rely on transit or other modes.",
+    "decision_rationale": "1) Given the income constraints, prioritized proposals with lower transit fares and moderate taxes to help transit-dependent residents 2) Selected options with moderate driving fees to improve transit service without overly burdening drivers 3) Balanced travel time improvements against cost impacts 4) Considered the area's mixed transit-driving mode split 5) Focused on proposals that reduce transit travel times to improve accessibility for non-car households"
+  },
+  "vote": [
+    17,
+    8,
+    1,
+    16,
+    7
+  ]
+}

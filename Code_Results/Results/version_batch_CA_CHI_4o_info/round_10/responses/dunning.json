@@ -1,0 +1,16 @@
+{
+  "community_area": "Dunning",
+  "thinking": {
+    "disposable_income": "Dunning has a relatively high percentage of households earning over $100,000, with 41.1% of households in this bracket. This suggests a moderate to high level of disposable income, allowing for some flexibility in absorbing additional costs from taxes, fares, or fees.",
+    "discretionary_consumption": "With a significant portion of the population earning above $100,000, discretionary consumption is likely to be robust. However, the community still has a notable percentage of lower-income households (29.3% earning below $50,000), which means that any increase in costs could disproportionately affect these residents.",
+    "accessibility": "The majority of Dunning residents drive alone (72.1%), indicating a strong reliance on personal vehicles. Only 7.3% use transit, suggesting that improvements in transit could benefit a small but significant portion of the community. The low percentage of households without a vehicle (6.3%) indicates that most residents have access to personal transportation.",
+    "decision_rationale": "Given the high reliance on driving, policies that reduce driving time and improve transit times without significantly increasing costs are preferred. A lower sales tax is favored to minimize the impact on discretionary spending, especially for lower-income households. Proposals with moderate driving fees are considered to encourage a shift to transit, potentially reducing congestion and emissions. The top-ranked proposals balance these factors by offering reduced travel times and moderate costs, supporting both drivers and transit users."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

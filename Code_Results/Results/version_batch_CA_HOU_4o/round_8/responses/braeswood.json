@@ -1,0 +1,16 @@
+{
+  "community_area": "Braeswood",
+  "thinking": {
+    "disposable_income": "Braeswood is a middle to upper-middle-income neighborhood with a relatively high disposable income compared to other areas in Houston.",
+    "discretionary_consumption": "Residents in Braeswood have a moderate to high level of discretionary consumption, often spending on dining, entertainment, and leisure activities.",
+    "accessibility": "Braeswood has good accessibility to resources and services, with a mix of transit options and a high rate of car ownership, making driving a common mode of transportation.",
+    "decision_rationale": "Given the higher disposable income and discretionary consumption, Braeswood residents can afford slightly higher costs if it results in better services. The neighborhood values reduced travel times and improved transit services, but also wants to maintain reasonable costs. Therefore, proposals with moderate taxes and fees that significantly improve transit times are prioritized. Proposals with the highest taxes are deprioritized due to the impact on discretionary spending, despite potential transit improvements."
+  },
+  "vote": [
+    1,
+    3,
+    8,
+    11,
+    19
+  ]
+}

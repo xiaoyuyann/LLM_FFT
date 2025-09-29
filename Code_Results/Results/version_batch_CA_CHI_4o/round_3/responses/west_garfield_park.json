@@ -1,0 +1,16 @@
+{
+  "community_area": "West Garfield Park",
+  "thinking": {
+    "disposable_income": "West Garfield Park has a relatively low median household income compared to other areas in Chicago, which means residents have limited disposable income.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is limited, and residents are likely to prioritize essential goods and services over luxury items.",
+    "accessibility": "Public transit is a crucial mode of transportation for many residents in West Garfield Park due to lower car ownership rates. Accessibility to jobs, education, and services is heavily reliant on efficient and affordable public transit options.",
+    "decision_rationale": "Given the limited disposable income, it is important to minimize costs associated with transportation. Lower transit fares and driver fees are preferred to ensure affordability. However, improving transit times is also crucial for accessibility. A balance between cost and improved transit service is necessary. Therefore, proposals with lower fares and moderate driver fees that significantly reduce transit times are prioritized. A lower sales tax is also preferred to minimize the impact on discretionary consumption."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

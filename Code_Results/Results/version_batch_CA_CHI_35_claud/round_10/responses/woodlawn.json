@@ -1,0 +1,16 @@
+{
+  "community_area": "Woodlawn",
+  "thinking": {
+    "disposable_income": "Woodlawn has a median household income of approximately $27,000, significantly below Chicago's average. About 39% of residents live below the poverty line, indicating limited disposable income for most residents",
+    "discretionary_consumption": "Given the low income levels, residents have very limited discretionary spending capacity. Many households struggle with basic necessities, making them highly sensitive to any additional transportation costs or taxes",
+    "accessibility": "The area is served by CTA Green Line stations and several bus routes. About 42% of households don't own vehicles and rely heavily on public transit. The community has relatively good transit access but faces longer travel times compared to driving",
+    "decision_rationale": "1. Given low income levels, prioritize proposals with lower transit fares and taxes to preserve disposable income. 2. High transit dependency means better transit service is crucial. 3. Lower driving fees are preferred as many residents can't afford additional costs. 4. Proposals with 0.5% tax rate preferred to minimize impact on limited discretionary spending. 5. Balance between improved transit times and affordability is key for the community"
+  },
+  "vote": [
+    0,
+    9,
+    3,
+    1,
+    10
+  ]
+}

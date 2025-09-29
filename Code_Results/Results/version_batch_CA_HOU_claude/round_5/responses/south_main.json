@@ -1,0 +1,16 @@
+{
+  "community_area": "South Main",
+  "thinking": {
+    "disposable_income": "South Main residents have relatively high disposable income with a median household income above Houston's average, as it includes affluent areas near Rice University and the Medical Center.",
+    "discretionary_consumption": "The area has high discretionary spending capacity with numerous upscale retail establishments and restaurants, indicating residents can generally absorb moderate increases in transportation costs.",
+    "accessibility": "The area has good accessibility with multiple transit options including light rail, bus routes, and proximity to major employment centers, while also having good road infrastructure for driving.",
+    "decision_rationale": "1) Given high income levels, prioritize time savings over cost sensitivity 2) Support policies that improve both transit and driving times since area residents use both modes 3) Can accept higher taxes/fees due to higher disposable income 4) Prefer balanced approaches that don't extremely penalize either mode 5) Value policies that reduce congestion given the area's density 6) Selected proposals 23, 20, 17, 14, and 11 as they offer the best overall time savings while having acceptable cost increases for this affluent area"
+  },
+  "vote": [
+    23,
+    20,
+    17,
+    14,
+    11
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "community_area": "North Center",
+  "thinking": {
+    "disposable_income": "North Center is a relatively affluent community with a higher median household income compared to the city average. Residents generally have more disposable income, which allows for some flexibility in absorbing additional costs from taxes or fees.",
+    "discretionary_consumption": "Given the higher income levels, residents in North Center likely have higher discretionary spending on non-essential goods and services. However, they may still be sensitive to significant increases in costs that could impact their lifestyle.",
+    "accessibility": "North Center has good access to public transportation, with several CTA bus and train lines serving the area. The community is also car-friendly, with many residents owning vehicles. Therefore, both transit and driving options are important for residents.",
+    "decision_rationale": "Considering the community's higher disposable income, a moderate increase in sales tax and driving fees could be acceptable if it leads to improved transit services and reduced congestion. Lower transit fares would benefit those who rely on public transportation, while moderate driving fees could encourage a shift from driving to transit, reducing congestion. Proposals with a 1% sales tax strike a balance between funding transit improvements and maintaining discretionary spending. A driving fee of $0.50 is reasonable to encourage transit use without overly burdening drivers. Transit fares at $0.75 or $1.25 are preferred to keep public transportation affordable."
+  },
+  "vote": [
+    10,
+    11,
+    13,
+    14,
+    19,
+    20,
+    22,
+    23
+  ]
+}

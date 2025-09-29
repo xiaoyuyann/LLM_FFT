@@ -1,0 +1,16 @@
+{
+  "community_area": "Loop",
+  "thinking": {
+    "disposable_income": "The Loop is a central business district with a mix of high-income professionals and lower-income service workers. Disposable income varies significantly, but there is a substantial portion of residents with higher disposable income.",
+    "discretionary_consumption": "Given the higher average income levels, discretionary consumption is relatively high, with spending on dining, entertainment, and retail being significant.",
+    "accessibility": "The Loop has excellent accessibility to resources and services, with extensive public transit options including buses and trains, as well as walkability to many amenities.",
+    "decision_rationale": "The Loop's residents benefit from efficient public transit and have a higher tolerance for increased costs due to higher disposable incomes. The focus is on reducing travel times and improving transit services, even if it means higher fares and taxes. Proposals with higher driver fees are preferred to reduce congestion and emissions, aligning with the community's environmental goals. The balance is struck by selecting options that improve transit times significantly while maintaining reasonable costs for both transit users and drivers."
+  },
+  "vote": [
+    11,
+    14,
+    17,
+    23,
+    26
+  ]
+}

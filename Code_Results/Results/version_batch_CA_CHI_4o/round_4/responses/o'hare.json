@@ -1,0 +1,16 @@
+{
+  "community_area": "O'Hare",
+  "thinking": {
+    "disposable_income": "O'Hare is a middle-income area with a mix of residential and commercial zones. The disposable income is moderate, allowing for some flexibility in spending but with a need to manage costs effectively.",
+    "discretionary_consumption": "Residents in O'Hare have moderate discretionary spending, with a focus on essential goods and services. Any increase in transportation costs could impact their ability to spend on non-essential items.",
+    "accessibility": "O'Hare has good access to public transportation, including the Blue Line and bus services, but also relies heavily on car travel due to its proximity to the airport and major highways. Reducing travel time and improving transit services are important for the community.",
+    "decision_rationale": "Given the moderate disposable income and reliance on both transit and driving, the community would benefit from policies that balance cost with improved service. Lower fares and moderate driver fees can encourage transit use, reduce congestion, and improve air quality. A moderate sales tax is acceptable if it significantly enhances transit services. The focus is on reducing travel time and maintaining affordability."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    14
+  ]
+}

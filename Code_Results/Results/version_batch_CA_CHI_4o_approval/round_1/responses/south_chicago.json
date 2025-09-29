@@ -1,0 +1,16 @@
+{
+  "community_area": "South Chicago",
+  "thinking": {
+    "disposable_income": "South Chicago has a relatively lower median household income compared to the city average, which means residents have less disposable income to spend on transportation costs.",
+    "discretionary_consumption": "Given the lower income levels, discretionary spending is limited, and residents are likely to prioritize essential goods and services over higher transportation costs.",
+    "accessibility": "South Chicago has moderate access to public transit, but improvements in transit services could significantly benefit the community by reducing travel times and increasing accessibility to jobs and services.",
+    "decision_rationale": "Considering the lower disposable income and limited discretionary spending, policies with lower transit fares and moderate driver fees are preferred to minimize the financial burden on residents. A lower sales tax is also favored to avoid reducing disposable income further. However, improving transit times is crucial, so a balance between cost and service improvement is necessary. Policies that offer reduced travel times without significantly increasing costs are prioritized."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

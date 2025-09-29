@@ -1,0 +1,16 @@
+{
+  "community_area": "West Englewood",
+  "thinking": {
+    "disposable_income": "Very limited disposable income with median household income of $29,234, and 42.1% of households earning less than $25,000. This indicates high sensitivity to any cost increases from taxes, fares, or fees.",
+    "discretionary_consumption": "Given the low income levels, discretionary consumption is minimal. Any additional transportation costs would significantly impact ability to afford basic necessities. The 1.5% tax would be particularly burdensome on limited household budgets.",
+    "accessibility": "32.7% of households have no vehicle, making transit essential. 25.9% use transit for commuting while 55.6% drive alone. Good transit service is crucial but must remain affordable. Current transit time of 58.8 minutes indicates poor service levels.",
+    "decision_rationale": "1. Prioritize lowest combined costs (tax + fare + fees) given very low incomes. 2. Need improved transit times for the significant transit-dependent population. 3. Keep driving costs moderate for working households that rely on cars. 4. Selected policies that balance service improvements with affordability. 5. Avoided highest tax rates that would burden limited discretionary spending."
+  },
+  "vote": [
+    1,
+    10,
+    4,
+    13,
+    3
+  ]
+}

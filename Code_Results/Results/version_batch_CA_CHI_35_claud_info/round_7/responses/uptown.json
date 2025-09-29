@@ -1,0 +1,16 @@
+{
+  "community_area": "Uptown",
+  "thinking": {
+    "disposable_income": "Mixed income levels with 38.6% earning under $50k and 31% earning over $100k. Median income of $66,871 suggests moderate disposable income, but significant income disparity exists",
+    "discretionary_consumption": "Given the high percentage of lower-income households (23.2% under $25k) and high cost of living in Chicago, many residents have limited discretionary spending capacity. Higher taxes and fees would significantly impact these households",
+    "accessibility": "Strong transit orientation with 34.9% using transit for work commute. 42.1% of households have no vehicle, indicating high transit dependency. Good existing transit access with multiple L lines and bus routes",
+    "decision_rationale": "1. Prioritized lower transit fares due to high transit dependency and large low-income population. 2. Moderate tax rates to maintain service quality while not overly burdening residents. 3. Supported some driving fees to improve transit service and reduce congestion. 4. Balanced travel time improvements with cost impacts. 5. Considered high percentage of no-car households needing affordable transit access"
+  },
+  "vote": [
+    11,
+    10,
+    13,
+    19,
+    4
+  ]
+}

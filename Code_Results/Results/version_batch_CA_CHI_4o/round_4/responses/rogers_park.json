@@ -1,0 +1,16 @@
+{
+  "community_area": "Rogers Park",
+  "thinking": {
+    "disposable_income": "Rogers Park has a diverse population with varying income levels. The area includes both low-income and middle-income households, with a significant portion of residents relying on public transportation.",
+    "discretionary_consumption": "Residents in Rogers Park have moderate discretionary spending. Many households prioritize essential expenses, and any increase in transportation costs could impact their ability to spend on non-essential goods and services.",
+    "accessibility": "Rogers Park is well-served by public transportation, including the CTA Red Line and several bus routes. However, travel times can be long, and improvements in transit efficiency would benefit the community.",
+    "decision_rationale": "Given the reliance on public transportation and the moderate income levels, the community would benefit from policies that reduce transit fares and improve travel times. A lower sales tax is preferred to minimize the impact on discretionary spending. Driver fees are acceptable if they lead to significant reductions in travel time and congestion. The selected policies aim to balance affordability with improved transit service."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

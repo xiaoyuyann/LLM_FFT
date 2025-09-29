@@ -1,0 +1,16 @@
+{
+  "community_area": "Hyde Park",
+  "thinking": {
+    "disposable_income": "Hyde Park has a mixed income profile with a significant student population from University of Chicago. Median household income is around $45,000, with considerable variation. Many residents are price-sensitive due to student budgets and moderate incomes.",
+    "discretionary_consumption": "Significant portion of income goes to housing and education costs. Many residents have limited discretionary spending. Local businesses and amenities create substantial local consumption patterns.",
+    "accessibility": "Well-served by public transit with multiple bus routes and Metra. High walkability score. Good bicycle infrastructure. Many residents rely on public transit for commuting to downtown and accessing other areas. Strong transit orientation due to student population and urban density.",
+    "decision_rationale": "1. Prioritize lower transit fares due to high transit dependency and student population. 2. Moderate tax rates to balance service funding with cost burden. 3. Support driving fees to improve transit service while managing congestion. 4. Focus on proposals that reduce transit travel times. 5. Consider proposals that maintain reasonable driving access for mixed-use needs. Selected proposals balance affordability with service improvements, particularly benefiting transit users while maintaining reasonable costs for all modes."
+  },
+  "vote": [
+    11,
+    10,
+    20,
+    19,
+    2
+  ]
+}

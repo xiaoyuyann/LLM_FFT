@@ -1,0 +1,16 @@
+{
+  "community_area": "Langwood",
+  "thinking": {
+    "disposable_income": "Langwood is a working-class neighborhood with relatively low to moderate disposable income levels.",
+    "discretionary_consumption": "Residents in Langwood have limited discretionary spending, focusing primarily on essential goods and services.",
+    "accessibility": "Langwood has moderate access to public transit, but many residents rely on driving due to the limited reach and frequency of transit services.",
+    "decision_rationale": "Given the limited disposable income and discretionary spending in Langwood, it is crucial to minimize additional financial burdens on residents. Therefore, lower transit fares and driving fees are prioritized to ensure affordability. Additionally, reducing travel times is important to improve accessibility and convenience. The selected policies aim to balance affordability with improved transit services, considering the neighborhood's reliance on both driving and public transit. A moderate sales tax is acceptable if it significantly enhances transit services, as long as it does not overly burden residents' consumption of essential goods."
+  },
+  "vote": [
+    0,
+    7,
+    10,
+    2,
+    13
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "North Center",
+  "thinking": {
+    "disposable_income": "North Center has a high median income of $148,585 and a per capita income of $88,926, indicating a relatively affluent community with significant disposable income.",
+    "discretionary_consumption": "With 49.5% of households earning $150,000 and over, the community has a high capacity for discretionary spending. However, a significant portion of income is likely allocated to housing and other fixed expenses, typical of affluent urban areas.",
+    "accessibility": "38.6% of residents drive alone, and 20% use transit, indicating a balanced reliance on both modes. The community has a high rate of car ownership, with 87.4% of households owning at least one vehicle, suggesting good accessibility by car. However, the presence of a significant transit-using population highlights the importance of maintaining and improving transit services.",
+    "decision_rationale": "Given the high disposable income, the community can absorb moderate increases in taxes and fees. However, maintaining or improving transit service is crucial due to the 20% transit ridership. Proposals with lower transit fares and moderate driver fees are preferred to encourage transit use and reduce congestion. A moderate sales tax is acceptable to support transit improvements. The top-ranked proposals balance these factors by offering reduced travel times and costs for both transit and driving, while ensuring sufficient funding for transit services."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

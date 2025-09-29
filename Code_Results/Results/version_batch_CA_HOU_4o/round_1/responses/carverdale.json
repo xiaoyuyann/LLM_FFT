@@ -1,0 +1,16 @@
+{
+  "community_area": "Carverdale",
+  "thinking": {
+    "disposable_income": "Carverdale has a moderate disposable income level, with many residents working in blue-collar jobs.",
+    "discretionary_consumption": "The community tends to prioritize essential spending, with limited discretionary consumption due to moderate income levels.",
+    "accessibility": "Carverdale has limited public transit options, making car travel a primary mode of transportation for many residents.",
+    "decision_rationale": "Given the moderate disposable income, it is important to keep costs low for both transit and driving. A lower transit fare and driving fee are preferred to minimize the financial burden on residents. Additionally, reducing travel time is crucial to improve accessibility and quality of life. Therefore, proposals with lower fares and fees, and reduced travel times are prioritized. A moderate sales tax is acceptable if it significantly improves transit services, but a high sales tax would be burdensome given the community's income level."
+  },
+  "vote": [
+    1,
+    8,
+    3,
+    10,
+    19
+  ]
+}

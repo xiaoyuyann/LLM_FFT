@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Heights",
+  "thinking": {
+    "disposable_income": "The median income in Washington Heights is $66,797, with a per capita income of $29,673. A significant portion of the population earns less than $50,000, indicating limited disposable income for many households.",
+    "discretionary_consumption": "With a substantial portion of the population earning less than $50,000, discretionary spending is likely constrained. The community must balance transportation costs with other essential expenses.",
+    "accessibility": "58.2% of residents drive alone, while 22.3% use transit. Car ownership is relatively high, with 83.2% of households owning at least one vehicle. However, 16.8% of households have no vehicle, indicating a reliance on public transit for a portion of the community.",
+    "decision_rationale": "Given the community's income distribution and reliance on both driving and transit, policies that reduce travel time and cost for both modes are prioritized. Lower fares and moderate driver fees can encourage transit use, reducing congestion and emissions. A moderate sales tax is acceptable if it significantly improves transit services. The top-ranked proposals balance these factors, aiming to enhance accessibility while considering the community's financial constraints."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    10,
+    19
+  ]
+}

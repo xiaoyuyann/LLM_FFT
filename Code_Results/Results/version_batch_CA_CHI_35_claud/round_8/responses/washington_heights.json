@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Heights",
+  "thinking": {
+    "disposable_income": "Washington Heights has a median household income of approximately $41,000, which is below Chicago's median. Many residents face economic constraints, making them sensitive to transportation costs and taxes",
+    "discretionary_consumption": "Limited discretionary spending capacity due to lower income levels. Residents need to carefully balance essential expenses with transportation costs. Higher sales taxes would significantly impact household budgets",
+    "accessibility": "The community has access to Metra Rail (95th Street station) and several bus routes, but many residents rely on personal vehicles. Transit travel times are significantly longer than driving. The area is relatively far from downtown employment centers",
+    "decision_rationale": "1. Prioritize lower transit fares and sales tax due to limited household incomes. 2. Consider moderate driving fees to improve transit service without overly burdening drivers. 3. Balance between transit improvement and cost burden. 4. Focus on proposals that reduce transit travel time while keeping costs affordable. 5. Selected proposals that maintain reasonable driving costs for car-dependent residents while funding transit improvements"
+  },
+  "vote": [
+    0,
+    9,
+    1,
+    3,
+    10
+  ]
+}

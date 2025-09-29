@@ -1,0 +1,16 @@
+{
+  "community_area": "Irving Park",
+  "thinking": {
+    "disposable_income": "Irving Park has a median household income of approximately $71,000, which is above Chicago's median. About 10% of residents live below poverty level. The community has a mix of middle-class and working-class households with moderate disposable income.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity. The area has a significant number of homeowners with mortgage payments. Households spend considerably on transportation, with many owning cars but also using public transit for work commutes.",
+    "accessibility": "The area has good transit access with Blue Line stations, Metra stops, and multiple bus routes. Many residents commute to downtown and other employment centers. Car ownership is high, but there's significant transit usage. The area has a Walk Score of 78, indicating most errands can be accomplished on foot.",
+    "decision_rationale": "1. Prioritize balanced policies that don't overly burden middle-class households with high taxes while maintaining transit service\n2. Consider the mixed-mode transportation needs as many residents use both cars and transit\n3. Look for policies that reduce transit travel times without excessive costs\n4. Favor moderate driver fees to reduce congestion while not overly penalizing car-dependent trips\n5. Select policies that maintain reasonable transit fares for regular commuters"
+  },
+  "vote": [
+    13,
+    4,
+    10,
+    22,
+    16
+  ]
+}

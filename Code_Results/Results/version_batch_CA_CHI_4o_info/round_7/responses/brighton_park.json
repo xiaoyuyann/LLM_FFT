@@ -1,0 +1,16 @@
+{
+  "community_area": "Brighton Park",
+  "thinking": {
+    "disposable_income": "The median income in Brighton Park is $52,145, with a per capita income of $22,361. A significant portion of the population earns less than $50,000, indicating limited disposable income for many households.",
+    "discretionary_consumption": "With a large percentage of households earning below $50,000, discretionary spending is likely constrained. Any increase in transportation costs could significantly impact the ability to spend on other necessities.",
+    "accessibility": "58.8% of residents drive alone, while 15.1% use transit. Car ownership is relatively high, with 84.6% of households owning at least one vehicle. However, 15.4% of households do not own a vehicle, making affordable transit crucial for accessibility.",
+    "decision_rationale": "Given the limited disposable income and the need for affordable transportation, proposals with lower transit fares and moderate driver fees are prioritized. A lower sales tax is preferred to minimize the impact on discretionary spending. Reducing travel time is also important, but not at the expense of significantly higher costs. The selected proposals balance affordability, accessibility, and improved transit services."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

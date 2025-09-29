@@ -1,0 +1,16 @@
+{
+  "community_area": "Chatham",
+  "thinking": {
+    "disposable_income": "Chatham has a median income of $39,348 and a per capita income of $28,801. A significant portion of the population earns less than $50,000, indicating limited disposable income.",
+    "discretionary_consumption": "With 32.8% of households earning less than $25,000, discretionary spending is likely constrained. Any increase in transportation costs could significantly impact these households.",
+    "accessibility": "Chatham has a high reliance on transit (27.3%) and a significant portion of households without vehicles (31.8%). Improving transit accessibility and affordability is crucial for this community.",
+    "decision_rationale": "Given the limited disposable income and high reliance on public transit, proposals with lower transit fares and moderate sales taxes are prioritized. Reducing transit times is also important to improve accessibility. Proposals with higher driver fees are considered to encourage a shift from driving to transit, potentially reducing congestion and emissions. Balancing these factors, the selected proposals aim to enhance transit service while minimizing financial burdens on residents."
+  },
+  "vote": [
+    10,
+    11,
+    19,
+    20,
+    13
+  ]
+}

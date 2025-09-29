@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Grand Crossing",
+  "thinking": {
+    "disposable_income": "Greater Grand Crossing has a median household income of approximately $31,000, significantly below Chicago's median. About 35% of residents live below poverty level, indicating limited disposable income for most residents",
+    "discretionary_consumption": "Given the low income levels, residents have very limited discretionary spending capacity. Many households spend a large portion of income on basic necessities like housing, food, and transportation",
+    "accessibility": "The area has good access to public transit with multiple bus routes and the Red and Green Line stations. About 35% of households don't own vehicles and rely heavily on public transit. The community has relatively high transit dependency",
+    "decision_rationale": "1. Given low incomes, prioritize proposals with lower transit fares and taxes to preserve disposable income. 2. Many residents are transit-dependent, so transit service quality is crucial. 3. Lower driving fees are less impactful since car ownership is lower. 4. Policy 0 ranks first with lowest tax and fare burden while maintaining service. 5. Policy 9 second as it maintains low fares with moderate tax. 6. Policy 3 third as it keeps low tax with moderate fare. 7. Policy 1 fourth as it maintains low costs with improved transit times. 8. Policy 10 fifth as it balances moderate tax with low fares and better service"
+  },
+  "vote": [
+    0,
+    9,
+    3,
+    1,
+    10
+  ]
+}

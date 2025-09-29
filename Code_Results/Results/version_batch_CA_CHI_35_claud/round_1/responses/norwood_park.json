@@ -1,0 +1,16 @@
+{
+  "community_area": "Norwood Park",
+  "thinking": {
+    "disposable_income": "Norwood Park is an upper-middle-class area with median household income around $82,000. Residents have relatively high disposable income and car ownership rates. Many households can afford higher transportation costs without severe budget constraints.",
+    "discretionary_consumption": "The area has significant discretionary spending capacity. Residents generally prioritize convenience and time savings over minor cost increases. The community has high retail spending and many residents commute to work by car.",
+    "accessibility": "The area has good road access but limited transit options compared to more central neighborhoods. The Blue Line serves parts of the area but many residents rely on cars. The community is more car-dependent due to its location and suburban character.",
+    "decision_rationale": "1. Prioritize policies that improve driving times since most residents drive. 2. Can tolerate moderate driving fees and taxes given income levels. 3. Transit improvements still valuable as secondary option. 4. Balance between travel time savings and cost increases. 5. Selected policies that reduce congestion through driving fees while maintaining reasonable transit fares. Ranked proposals that offer best driving time improvements while keeping combined tax/fee burden moderate."
+  },
+  "vote": [
+    14,
+    23,
+    5,
+    11,
+    20
+  ]
+}

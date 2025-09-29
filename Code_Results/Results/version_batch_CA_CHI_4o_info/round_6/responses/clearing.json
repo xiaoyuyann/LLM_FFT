@@ -1,0 +1,16 @@
+{
+  "community_area": "Clearing",
+  "thinking": {
+    "disposable_income": "Clearing has a median household income of $73,778 and a per capita income of $33,089. A significant portion of the population earns between $50,000 and $149,999, indicating a moderate level of disposable income.",
+    "discretionary_consumption": "With a substantial portion of the population earning above $50,000, there is a reasonable level of discretionary consumption. However, the community must balance transportation costs with other living expenses.",
+    "accessibility": "The majority of residents (74.1%) drive alone, indicating a reliance on personal vehicles. Only 6.9% use transit, suggesting that improvements in transit could benefit a small but significant portion of the community. The mean commute time is 31.9 minutes, which is relatively high.",
+    "decision_rationale": "Given the high reliance on driving, policies that reduce driving time and costs are prioritized. However, improving transit is also important to provide alternatives and reduce congestion. A balance between low transit fares and moderate driver fees is ideal to encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it significantly improves transit services. The selected policies aim to reduce travel time for both drivers and transit users while maintaining affordability."
+  },
+  "vote": [
+    13,
+    10,
+    14,
+    4,
+    19
+  ]
+}

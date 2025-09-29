@@ -1,0 +1,16 @@
+{
+  "community_area": "Briar Forest",
+  "thinking": {
+    "disposable_income": "Briar Forest is a middle to upper-middle-income neighborhood, with residents having a moderate to high level of disposable income.",
+    "discretionary_consumption": "Residents in Briar Forest have a relatively high level of discretionary consumption, often spending on leisure, dining, and other non-essential goods and services.",
+    "accessibility": "Briar Forest has moderate accessibility to resources and services, with a reliance on both personal vehicles and public transit, though transit options are less frequent and slower compared to driving.",
+    "decision_rationale": "Given the moderate to high disposable income, residents can afford a slight increase in transit fares and driver fees if it results in significantly improved transit services and reduced travel times. The community values efficient transportation, so proposals that reduce travel time for both driving and transit are prioritized. A moderate sales tax is acceptable if it leads to better transit services, but a high sales tax would be less favorable due to its impact on discretionary spending. Therefore, proposals with a balance of moderate costs and significant improvements in travel times are ranked higher."
+  },
+  "vote": [
+    1,
+    3,
+    8,
+    11,
+    19
+  ]
+}

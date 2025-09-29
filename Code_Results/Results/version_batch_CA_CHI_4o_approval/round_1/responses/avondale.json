@@ -1,0 +1,16 @@
+{
+  "community_area": "Avondale",
+  "thinking": {
+    "disposable_income": "Avondale is a diverse community with a mix of income levels. The median household income is moderate, suggesting that residents are sensitive to increases in costs, whether through taxes, fares, or fees.",
+    "discretionary_consumption": "Residents in Avondale have a moderate level of discretionary spending. They are likely to be cautious about policies that significantly increase their cost of living, such as higher sales taxes or transit fares.",
+    "accessibility": "Avondale has decent access to public transit, with several bus and train lines serving the area. However, travel times by transit are longer compared to driving, which may influence residents' preferences for policies that improve transit efficiency.",
+    "decision_rationale": "Given the moderate income levels and sensitivity to cost increases, Avondale would likely favor policies that minimize additional financial burdens while improving transit efficiency. Lower fares and moderate driver fees could encourage transit use without significantly impacting disposable income. A moderate sales tax could be acceptable if it leads to noticeable improvements in transit service. Therefore, policies with lower fares and moderate driver fees, combined with a moderate sales tax, are preferred."
+  },
+  "vote": [
+    1,
+    4,
+    10,
+    13,
+    19
+  ]
+}

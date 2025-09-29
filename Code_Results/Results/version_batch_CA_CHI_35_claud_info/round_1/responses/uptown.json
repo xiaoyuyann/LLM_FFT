@@ -1,0 +1,16 @@
+{
+  "community_area": "Uptown",
+  "thinking": {
+    "disposable_income": "Mixed income levels with 38.6% earning under $50k and 31% earning over $100k. Median income of $66,871 suggests moderate disposable income, but significant income disparity exists",
+    "discretionary_consumption": "Given the high percentage of lower-income households (23.2% under $25k), many residents are sensitive to additional taxes and fees. Higher-income households have more flexibility with transportation costs",
+    "accessibility": "Strong transit usage (34.9% commute by transit) and high percentage of car-free households (42.1%). Good transit access with multiple bus and rail options. Only 32.5% drive alone to work",
+    "decision_rationale": "1. Prioritize lower transit fares due to high transit dependency and lower-income population. 2. Moderate tax rate to maintain service quality without overly burdening residents. 3. Support driving fees to improve transit service and reduce congestion. 4. Balance travel time improvements with cost impacts. 5. Consider equity impacts on mixed-income population"
+  },
+  "vote": [
+    11,
+    10,
+    13,
+    19,
+    20
+  ]
+}

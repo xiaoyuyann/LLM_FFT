@@ -1,0 +1,16 @@
+{
+  "community_area": "Edison Park",
+  "thinking": {
+    "disposable_income": "Edison Park is an affluent community with median household income around $87,000, significantly higher than Chicago's average. Most residents are middle to upper-middle class with good disposable income",
+    "discretionary_consumption": "Residents have substantial discretionary spending power, with higher than average retail spending. The community can generally absorb moderate increases in transportation costs without severe impact on quality of life",
+    "accessibility": "Located on far northwest side, heavily car-dependent area with longer commute times to downtown. Has Metra access but limited CTA coverage. Over 90% of households own cars, with many being two-car households. Most residents drive for daily activities",
+    "decision_rationale": "1. Given high car ownership and dependency, policies that improve driving times are important but community can afford some driving fees. 2. Higher income means sales tax impact is manageable. 3. Transit improvements still valuable as secondary option. 4. Selected policies balance driving efficiency with sustainable funding for transit. 5. Ranked proposals that maintain reasonable driving costs while improving both car and transit times. 6. Prioritized options with moderate rather than highest fees given car-dependency"
+  },
+  "vote": [
+    14,
+    5,
+    23,
+    13,
+    4
+  ]
+}

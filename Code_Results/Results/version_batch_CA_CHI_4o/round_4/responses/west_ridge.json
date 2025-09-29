@@ -1,0 +1,16 @@
+{
+  "community_area": "West Ridge",
+  "thinking": {
+    "disposable_income": "West Ridge has a moderate level of disposable income, with a diverse population including middle-income families and a significant number of low-income households. The community is sensitive to changes in transportation costs that could impact their overall budget.",
+    "discretionary_consumption": "Residents in West Ridge have a moderate level of discretionary consumption. They prioritize essential goods and services, but also value affordable transportation options to access employment, education, and leisure activities.",
+    "accessibility": "West Ridge has decent access to public transportation, with several bus routes and proximity to the CTA Red Line. However, travel times can be long, and improvements in transit efficiency would be beneficial. Car ownership is common, but many residents rely on public transit for daily commutes.",
+    "decision_rationale": "Given the moderate disposable income and the need for affordable transportation, proposals with lower transit fares and moderate driver fees are preferred. A lower sales tax is also favored to minimize the impact on discretionary spending. Reducing travel times for both transit and driving is important to improve accessibility and quality of life. Therefore, proposals that balance lower costs with improved travel times are prioritized. The community would benefit from a slight increase in driver fees to encourage transit use and reduce congestion, but not at the expense of significantly higher costs for drivers."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    4,
+    22
+  ]
+}

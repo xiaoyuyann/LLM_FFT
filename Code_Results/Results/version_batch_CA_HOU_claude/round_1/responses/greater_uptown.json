@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Uptown",
+  "thinking": {
+    "disposable_income": "Greater Uptown residents have relatively high disposable incomes with a median household income well above Houston's average, indicating greater ability to absorb transportation costs.",
+    "discretionary_consumption": "The area has high discretionary spending power with numerous luxury retail establishments and high-end restaurants, suggesting residents can manage higher transportation costs without significant lifestyle impacts.",
+    "accessibility": "The area has good road infrastructure, significant parking availability, and moderate transit access with multiple bus routes, though most residents rely primarily on personal vehicles.",
+    "decision_rationale": "1) Given high car dependency and income levels, policies with moderate driving fees are acceptable if they improve transit; 2) Higher sales tax is less impactful due to high incomes; 3) Transit improvements should focus on reducing travel times; 4) Moderate transit fares are acceptable to fund service improvements; 5) Selected policies balance driving convenience with gradual transit enhancement while avoiding extreme cost increases in any category."
+  },
+  "vote": [
+    19,
+    10,
+    13,
+    20,
+    11
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Montclare",
+  "thinking": {
+    "disposable_income": "Montclare is a middle-income community with a moderate level of disposable income. Residents are sensitive to changes in transportation costs, but they can absorb slight increases if it leads to better services.",
+    "discretionary_consumption": "The community has a balanced discretionary consumption pattern, with residents spending on a mix of necessities and leisure activities. They are likely to be cautious about policies that significantly reduce their disposable income.",
+    "accessibility": "Montclare has moderate accessibility to resources and services. Public transit is used by a portion of the community, but many residents rely on driving. Improvements in transit times could encourage more transit use.",
+    "decision_rationale": "Given Montclare's moderate income and balanced consumption, policies with lower fares and moderate taxes are preferred to maintain affordability. A slight increase in driving fees is acceptable if it significantly reduces travel times and improves transit services. Policies that offer a good balance between cost and improved transit times are prioritized. Therefore, proposals with a $0.75 fare and moderate driving fees are favored, as they offer improved transit times without significantly increasing costs. A 1% tax is acceptable if it leads to better transit services, as it aligns with the current tax rate and maintains service quality."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

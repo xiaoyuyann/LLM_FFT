@@ -1,0 +1,16 @@
+{
+  "community_area": "Meyerland",
+  "thinking": {
+    "disposable_income": "Meyerland is a middle to upper-middle-class neighborhood with relatively high disposable income levels.",
+    "discretionary_consumption": "Residents in Meyerland have a moderate to high level of discretionary consumption, often spending on dining, leisure, and education.",
+    "accessibility": "Meyerland has decent accessibility to resources and services, but public transit options are limited compared to driving, which is the preferred mode of transportation for many residents.",
+    "decision_rationale": "Given the higher disposable income and preference for driving, Meyerland residents would likely prefer policies that minimize additional costs while improving transit options to reduce congestion. A lower sales tax is preferred to maintain discretionary spending. A moderate driving fee is acceptable if it significantly reduces travel time and congestion. Therefore, policies with a 0.5% sales tax, moderate driving fees, and reduced transit times are prioritized. The top choice is option 1, which offers the lowest transit fare and driving fee combination with significant reductions in travel time. Option 3 is next, balancing a moderate fare with a higher driving fee for better transit times. Option 5 is chosen for its balance of costs and reduced travel times. Option 8 is selected for its low fare and moderate driving fee, offering good transit time reductions. Finally, option 11 is chosen for its balance of moderate fare and driving fee with significant transit time improvements."
+  },
+  "vote": [
+    1,
+    3,
+    5,
+    8,
+    11
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Afton Oaks / River Oaks",
+  "thinking": {
+    "disposable_income": "Afton Oaks/River Oaks is one of Houston's most affluent neighborhoods with very high median household incomes well above $200,000, indicating high disposable income and lower sensitivity to transportation costs.",
+    "discretionary_consumption": "Residents have significant discretionary spending power and typically engage in high-end retail, dining, and services, with transportation costs representing a small portion of their overall budget.",
+    "accessibility": "The area has excellent road infrastructure, high car ownership rates, and while transit service exists, most residents rely primarily on personal vehicles for transportation.",
+    "decision_rationale": "1) Given high income levels, prioritize time savings over cost considerations 2) Focus on proposals that reduce car travel times since most residents drive 3) Higher taxes and fees are less burdensome for this wealthy area 4) Consider moderate transit improvements to support service workers 5) Selected proposals balance maximum driving time reduction with reasonable tax rates 6) Ranked proposals 23, 20, 17, 14, and 11 in order of decreasing effectiveness at reducing car travel times while maintaining good transit service"
+  },
+  "vote": [
+    23,
+    20,
+    17,
+    14,
+    11
+  ]
+}

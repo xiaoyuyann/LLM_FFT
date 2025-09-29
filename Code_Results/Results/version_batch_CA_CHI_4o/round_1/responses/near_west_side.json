@@ -1,0 +1,16 @@
+{
+  "community_area": "Near West Side",
+  "thinking": {
+    "disposable_income": "The Near West Side has a diverse population with varying income levels, but generally, it includes a mix of middle-income and some higher-income residents due to its proximity to downtown Chicago.",
+    "discretionary_consumption": "Residents in the Near West Side have moderate to high discretionary spending, with access to a variety of dining, entertainment, and shopping options. The community values affordability in transportation to maintain their lifestyle.",
+    "accessibility": "The Near West Side is well-served by public transit, including several CTA train lines and bus routes, making it convenient for residents to use public transportation. However, driving is also common due to the area's proximity to major highways.",
+    "decision_rationale": "Given the community's reliance on both public transit and driving, proposals that balance lower transit fares and moderate driving fees are preferred. A lower sales tax is also favorable to maintain discretionary spending. The goal is to improve transit times without significantly increasing costs for residents. Proposals with a $0.75 fare and moderate driving fees are prioritized to encourage transit use while reducing congestion. A 1% sales tax is acceptable if it results in better transit services, but a 1.5% tax is less desirable due to its impact on disposable income."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    11,
+    14
+  ]
+}

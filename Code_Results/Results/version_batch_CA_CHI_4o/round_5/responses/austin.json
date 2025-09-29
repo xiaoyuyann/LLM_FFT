@@ -1,0 +1,16 @@
+{
+  "community_area": "Austin",
+  "thinking": {
+    "disposable_income": "Austin has a median household income lower than the city average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With limited disposable income, residents prioritize essential spending, leaving less room for discretionary consumption.",
+    "accessibility": "Austin has moderate access to public transit, but many residents rely on cars due to longer transit times and limited service coverage.",
+    "decision_rationale": "Given the limited disposable income, lower transit fares and driver fees are prioritized to minimize financial burden. A moderate sales tax is acceptable if it significantly improves transit service, as better transit can reduce reliance on cars and improve accessibility. Proposals with lower fares and fees, and moderate travel times are preferred to balance cost and service improvement."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

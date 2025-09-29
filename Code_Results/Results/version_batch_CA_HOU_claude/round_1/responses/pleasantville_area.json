@@ -1,0 +1,16 @@
+{
+  "community_area": "Pleasantville Area",
+  "thinking": {
+    "disposable_income": "Pleasantville Area has a median household income of around $35,000, which is lower than Houston's average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "With modest income levels and high cost of living, residents have limited discretionary spending capacity and are sensitive to additional taxes and fees.",
+    "accessibility": "The neighborhood has decent bus service but limited rail access, with many residents relying on both public transit and personal vehicles for commuting and daily activities.",
+    "decision_rationale": "1. Prioritized lower transit fares ($0.75) to help cost-burdened residents who rely on transit. 2. Selected moderate tax rates (0.5-1.0%) to balance service improvements with household budget impacts. 3. Considered moderate driving fees ($0.50) to improve transit without overly burdening car-dependent trips. 4. Focused on proposals that reduce transit travel times to under 57 minutes. 5. Balanced overall household costs across transit fares, sales tax, and driving fees given limited disposable incomes."
+  },
+  "vote": [
+    7,
+    0,
+    16,
+    10,
+    2
+  ]
+}

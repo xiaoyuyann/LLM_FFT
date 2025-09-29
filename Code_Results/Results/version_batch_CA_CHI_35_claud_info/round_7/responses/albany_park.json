@@ -1,0 +1,16 @@
+{
+  "community_area": "Albany Park",
+  "thinking": {
+    "disposable_income": "Mixed-income community with 31.3% earning under $50k, 29.3% middle income ($50k-$100k), and 39.3% earning over $100k. This suggests varying levels of sensitivity to transportation costs and taxes",
+    "discretionary_consumption": "Given the income distribution, about one-third of residents may have limited discretionary spending power and would be sensitive to fare increases and sales tax. Higher-income households have more flexibility with transportation costs",
+    "accessibility": "Good mix of transportation options with 23.7% using transit and 45.5% driving alone. 19.1% have no vehicle, indicating strong transit dependency. Located along CTA Brown Line with bus connections",
+    "decision_rationale": "1. Prioritize balanced policies that don't overly burden lower-income residents while improving transit service. 2. Consider the significant transit-dependent population (19.1% no vehicle). 3. Look for moderate fare/fee combinations that improve transit times without excessive costs. 4. Account for 45.5% drive-alone commuters who need reasonable driving options. 5. Selected policies that maintain transit affordability while adding modest driving fees to fund improvements"
+  },
+  "vote": [
+    10,
+    13,
+    4,
+    19,
+    22
+  ]
+}

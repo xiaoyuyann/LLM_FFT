@@ -1,0 +1,16 @@
+{
+  "community_area": "Jefferson Park",
+  "thinking": {
+    "disposable_income": "Jefferson Park has a relatively high median household income of $90,740 and a per capita income of $42,024. A significant portion of households earn over $100,000, indicating a good level of disposable income.",
+    "discretionary_consumption": "With a high median income, residents likely have a moderate to high level of discretionary consumption. However, a notable portion of the population earns less than $50,000, which means that cost increases in transportation could impact these households more significantly.",
+    "accessibility": "The majority of residents drive alone (61.7%), with a smaller percentage using transit (13.4%). Car ownership is high, with only 9.8% of households without a vehicle. This suggests that while transit improvements are beneficial, policies should not overly burden drivers.",
+    "decision_rationale": "Given the high car ownership and the significant number of residents who drive alone, policies that increase driving fees should be balanced with improvements in transit to encourage a shift without imposing excessive costs. A lower sales tax is preferable to maintain discretionary spending, especially for lower-income households. The focus should be on reducing travel times and costs for both drivers and transit users. Therefore, proposals with moderate driving fees and transit fares, coupled with lower sales taxes, are prioritized to balance the needs of both drivers and transit users while maintaining affordability."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

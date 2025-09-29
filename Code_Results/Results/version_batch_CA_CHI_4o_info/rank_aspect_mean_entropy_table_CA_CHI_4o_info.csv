@@ -1,0 +1,16 @@
+Rank,Aspect,Mean,Entropy
+rank1,tax,0.999,0.02
+rank1,transit,0.772,0.25
+rank1,driver,0.721,0.98
+rank2,tax,0.999,0.01
+rank2,transit,1.023,0.99
+rank2,driver,0.796,0.97
+rank3,tax,1.273,1.09
+rank3,transit,0.949,0.98
+rank3,driver,0.510,0.14
+rank4,tax,1.203,1.22
+rank4,transit,0.975,1.00
+rank4,driver,0.662,0.90
+rank5,tax,1.262,1.07
+rank5,transit,1.061,1.26
+rank5,driver,0.624,0.80

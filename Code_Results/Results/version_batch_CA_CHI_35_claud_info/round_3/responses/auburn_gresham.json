@@ -1,0 +1,16 @@
+{
+  "community_area": "Auburn Gresham",
+  "thinking": {
+    "disposable_income": "Auburn Gresham is a lower-income community with median income of $41,000 and 56.8% of households making less than $50,000. This suggests residents are particularly sensitive to cost increases from taxes, fares, and fees",
+    "discretionary_consumption": "With high percentage of low-income households, discretionary spending is likely limited. Additional transportation costs would significantly impact household budgets and reduce spending on other essential needs",
+    "accessibility": "29.9% of households have no vehicle, and 21.1% use transit for commuting. While 57.5% drive alone, the high transit dependency suggests need for affordable and efficient transit service",
+    "decision_rationale": "1. Prioritized policies with lower transit fares ($0.75) given income constraints and transit dependency. 2. Favored lower sales tax (0.5-1.0%) to minimize impact on limited discretionary spending. 3. Moderate driving fees ($0.50) acceptable to improve transit service while not overly burdening drivers. 4. Balanced travel time improvements with cost sensitivity. 5. Considered high proportion of both transit users and drivers in community"
+  },
+  "vote": [
+    1,
+    10,
+    4,
+    13,
+    19
+  ]
+}

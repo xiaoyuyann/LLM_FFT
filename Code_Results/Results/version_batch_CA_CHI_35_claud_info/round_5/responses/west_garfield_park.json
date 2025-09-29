@@ -1,0 +1,16 @@
+{
+  "community_area": "West Garfield Park",
+  "thinking": {
+    "disposable_income": "The community has relatively low income levels with 42.2% households earning less than $25,000 and median income of $36,360. This suggests high sensitivity to any additional transportation costs or taxes.",
+    "discretionary_consumption": "With low per capita income ($18,503) and high percentage of low-income households, discretionary spending is likely very limited. Additional transportation costs would significantly impact other essential spending.",
+    "accessibility": "38.7% of households have no vehicle available, and 27.9% rely on transit for commuting. The mean commute time is 36.1 minutes, suggesting significant dependence on public transportation despite longer travel times.",
+    "decision_rationale": "1. Given low income levels, prioritize proposals with lower transit fares and taxes. 2. High transit dependency means better transit service is important. 3. Lower driving fees are preferred since 54% drive alone and many households have limited income. 4. Selected proposals balance improved transit service while minimizing cost burden. 5. Ranked based on combination of lowest costs and best transit times for the community."
+  },
+  "vote": [
+    9,
+    0,
+    3,
+    18,
+    21
+  ]
+}

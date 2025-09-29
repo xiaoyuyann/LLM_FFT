@@ -1,0 +1,16 @@
+{
+  "community_area": "West Englewood",
+  "thinking": {
+    "disposable_income": "West Englewood has a relatively low median household income compared to other areas in Chicago, which means residents have limited disposable income.",
+    "discretionary_consumption": "Due to lower income levels, discretionary spending is limited, and residents are likely to prioritize essential goods and services.",
+    "accessibility": "Public transit is a crucial mode of transportation for many residents in West Englewood, as car ownership rates are lower than the city average. Accessibility to jobs, education, and healthcare via transit is vital.",
+    "decision_rationale": "Given the limited disposable income, lower transit fares and driver fees are preferred to minimize the financial burden on residents. A lower sales tax is also favored to preserve discretionary spending. However, improving transit service is important for accessibility, so some trade-off with slightly higher taxes or fees might be acceptable if it significantly reduces travel time. The selected proposals balance these considerations by prioritizing lower costs while still aiming for improved transit times."
+  },
+  "vote": [
+    1,
+    10,
+    4,
+    13,
+    19
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Willowbrook",
+  "thinking": {
+    "disposable_income": "Willowbrook has a moderate disposable income level, with residents having some flexibility in their spending but still sensitive to significant increases in costs.",
+    "discretionary_consumption": "Residents in Willowbrook tend to have moderate discretionary consumption, balancing between essential needs and some luxury spending.",
+    "accessibility": "Willowbrook has decent accessibility to resources and services, with a reliance on both driving and transit, though transit times are currently longer than driving times.",
+    "decision_rationale": "Given the moderate disposable income and discretionary consumption, it is important to balance cost increases with improvements in service. Lower transit fares and moderate driver fees can encourage transit use, reducing congestion and emissions. A moderate sales tax is acceptable if it significantly improves transit times. Therefore, proposals with lower fares and moderate driver fees, which also reduce travel times, are prioritized. The top choice is proposal 1, which offers the lowest transit fare and a moderate driver fee, significantly reducing transit time. Proposal 8 is next, with a low fare and moderate driver fee, further reducing transit time. Proposal 11 offers a balance with a moderate fare and driver fee, achieving the shortest transit time. Proposal 19 provides a moderate fare and driver fee with a good reduction in transit time. Finally, proposal 22 offers a higher fare but achieves a significant reduction in transit time, which may be acceptable for some residents."
+  },
+  "vote": [
+    1,
+    8,
+    11,
+    19,
+    22
+  ]
+}

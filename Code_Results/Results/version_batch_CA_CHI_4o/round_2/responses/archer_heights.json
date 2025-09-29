@@ -1,0 +1,16 @@
+{
+  "community_area": "Archer Heights",
+  "thinking": {
+    "disposable_income": "Archer Heights is a middle-income community with a significant portion of residents working in blue-collar jobs. The community has a moderate level of disposable income, which means that any increase in transportation costs could impact their budget for other essential expenses.",
+    "discretionary_consumption": "Residents in Archer Heights have moderate discretionary spending. They prioritize essential goods and services, and any additional costs from transportation policies could reduce their ability to spend on non-essential items.",
+    "accessibility": "Archer Heights has decent access to public transit, but many residents rely on driving due to the nature of their jobs and the need for flexibility. Reducing travel time and improving transit services could benefit the community, but not at the expense of significantly higher costs.",
+    "decision_rationale": "Given the community's moderate income and reliance on both driving and transit, the ideal policy would balance lower costs with improved transit times. A lower fare and moderate driver fee could encourage transit use without overly burdening drivers. A moderate sales tax is acceptable if it significantly improves transit services. The selected policies aim to reduce travel time for both modes while keeping costs manageable for residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    4,
+    22
+  ]
+}

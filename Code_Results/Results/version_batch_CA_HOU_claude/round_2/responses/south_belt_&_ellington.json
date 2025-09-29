@@ -1,0 +1,16 @@
+{
+  "community_area": "South Belt / Ellington",
+  "thinking": {
+    "disposable_income": "South Belt / Ellington has a median household income around $65,000, placing it in the middle-income range for Houston, with many working-class and middle-class families.",
+    "discretionary_consumption": "Residents have moderate discretionary spending capacity but are price-sensitive to additional taxes and fees, with typical suburban consumption patterns focused on retail and services.",
+    "accessibility": "The area is primarily car-dependent with limited transit options, longer commute times to major employment centers, and most households own at least one vehicle.",
+    "decision_rationale": "1) Given car dependency, prefer lower driving fees and moderate taxes to balance impact on household budgets. 2) Lower transit fares less critical since transit usage is limited. 3) Moderate improvements in transit times valuable but not primary concern. 4) Focus on options that minimize combined impact of taxes and driving fees. 5) Selected proposals 6, 9, 0, 15, 18 in order of increasing total cost burden while maintaining reasonable travel times."
+  },
+  "vote": [
+    6,
+    9,
+    0,
+    15,
+    18
+  ]
+}

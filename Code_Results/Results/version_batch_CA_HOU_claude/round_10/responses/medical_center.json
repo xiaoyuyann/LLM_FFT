@@ -1,0 +1,16 @@
+{
+  "community_area": "Medical Center",
+  "thinking": {
+    "disposable_income": "The Medical Center area has relatively high median household income with many medical professionals and healthcare workers, indicating higher disposable income levels compared to other Houston neighborhoods.",
+    "discretionary_consumption": "Residents have significant discretionary spending power but face high costs of living due to the area's desirability and proximity to major medical institutions.",
+    "accessibility": "The area has excellent transit connectivity with multiple bus routes and METRORail Red Line, high walkability scores, and good road access, though traffic congestion is a major concern during peak hours.",
+    "decision_rationale": "1) Prioritized policies that reduce congestion given the high traffic volume from medical facilities 2) Favored moderate transit fares to maintain accessibility for medical workers and patients 3) Supported higher driving fees to encourage transit use and reduce parking pressure 4) Considered moderate tax rates to fund transit improvements without overly burdening residents 5) Selected options that balance travel time improvements with reasonable costs for both transit and driving"
+  },
+  "vote": [
+    20,
+    11,
+    17,
+    8,
+    3
+  ]
+}

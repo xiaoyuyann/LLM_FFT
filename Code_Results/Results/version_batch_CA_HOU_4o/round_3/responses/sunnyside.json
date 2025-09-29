@@ -1,0 +1,16 @@
+{
+  "community_area": "Sunnyside",
+  "thinking": {
+    "disposable_income": "Sunnyside has a relatively low average disposable income compared to other Houston neighborhoods.",
+    "discretionary_consumption": "Residents in Sunnyside have limited discretionary spending, prioritizing essential goods and services.",
+    "accessibility": "Sunnyside has moderate access to public transit, but many residents rely on personal vehicles due to limited transit options.",
+    "decision_rationale": "Given the low disposable income, minimizing costs for both transit and driving is crucial. A lower fare and driving fee are prioritized to ensure affordability. A moderate sales tax is acceptable if it significantly improves transit times, as this could benefit residents who rely on public transportation. The selected policies aim to balance cost savings with improved transit efficiency, considering the community's reliance on both modes of transportation."
+  },
+  "vote": [
+    0,
+    7,
+    10,
+    1,
+    16
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "community_area": "Washington Heights",
+  "thinking": {
+    "disposable_income": "Washington Heights has a median household income that is lower than the city average, indicating limited disposable income for many residents.",
+    "discretionary_consumption": "Residents in Washington Heights may prioritize essential spending over discretionary consumption due to lower income levels, making cost-sensitive policies more appealing.",
+    "accessibility": "Public transit is a crucial mode of transportation for many residents in Washington Heights, with a significant portion relying on it for commuting and accessing services. Car ownership is lower compared to other areas, emphasizing the need for affordable and efficient transit options.",
+    "decision_rationale": "Given the lower disposable income and reliance on public transit, policies with lower transit fares and moderate sales taxes are prioritized. Reducing travel time is also important, but not at the expense of significantly higher costs. Therefore, proposals with a balance of lower fares, moderate taxes, and reasonable driving fees are preferred. The community would benefit from improved transit services funded by moderate taxes and driver fees, which could also reduce congestion and emissions. The selected proposals aim to enhance transit accessibility while minimizing financial burdens on residents."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    1
+  ]
+}

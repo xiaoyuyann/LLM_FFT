@@ -1,0 +1,16 @@
+{
+  "community_area": "Irving Park",
+  "thinking": {
+    "disposable_income": "Irving Park has a median household income of $86,849, with 43.1% of households earning over $100,000. However, 28.6% earn less than $50,000, indicating a mixed-income community that needs to balance transit affordability with service quality.",
+    "discretionary_consumption": "With a per capita income of $48,320, residents have moderate discretionary spending power. Higher sales taxes would impact consumption, particularly for the 28.6% lower-income households. The community needs to balance revenue generation with maintaining purchasing power.",
+    "accessibility": "86.1% of households own at least one vehicle, with driving alone (49.6%) being the primary commute mode. However, significant transit usage (18.5%) and work-from-home (18.6%) populations suggest need for balanced transportation options.",
+    "decision_rationale": "1. Prioritize moderate tax burden (1%) to maintain service quality while preserving discretionary spending. 2. Lower transit fares ($0.75-$1.25) to support transit-dependent population and encourage ridership. 3. Implement moderate driving fees ($0.50-$1.00) to reduce congestion and fund transit improvements. 4. Balance travel time improvements with cost impacts. 5. Consider mixed-income nature of community when evaluating fare/fee structures."
+  },
+  "vote": [
+    11,
+    13,
+    10,
+    14,
+    20
+  ]
+}

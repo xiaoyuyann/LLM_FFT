@@ -1,0 +1,16 @@
+{
+  "community_area": "East Garfield Park",
+  "thinking": {
+    "disposable_income": "East Garfield Park is a community with relatively low disposable income. Many residents may rely on public transportation due to limited financial resources for car ownership and maintenance.",
+    "discretionary_consumption": "Given the lower disposable income, discretionary consumption is limited. Residents prioritize essential expenses, and any increase in transportation costs could significantly impact their budget.",
+    "accessibility": "Public transportation is crucial for residents to access jobs, education, and services. Improving transit times and maintaining affordable fares are important for the community's accessibility.",
+    "decision_rationale": "Considering the low disposable income and limited discretionary consumption, policies with lower transit fares and minimal sales tax increases are preferred. A moderate driver fee could be acceptable if it significantly improves transit times, as many residents rely on public transportation. The goal is to enhance transit accessibility without imposing a heavy financial burden on residents."
+  },
+  "vote": [
+    1,
+    2,
+    10,
+    11,
+    19
+  ]
+}

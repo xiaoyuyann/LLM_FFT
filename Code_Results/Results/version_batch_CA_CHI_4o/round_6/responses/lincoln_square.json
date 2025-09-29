@@ -1,0 +1,16 @@
+{
+  "community_area": "Lincoln Square",
+  "thinking": {
+    "disposable_income": "Lincoln Square is a middle-income neighborhood with a mix of families and young professionals. The community has a moderate level of disposable income, which means that residents are sensitive to changes in transportation costs but can absorb moderate increases if they lead to significant benefits.",
+    "discretionary_consumption": "Residents in Lincoln Square enjoy a variety of local amenities, dining, and cultural activities. Discretionary spending is important for the local economy, so policies that significantly reduce disposable income could negatively impact local businesses.",
+    "accessibility": "Lincoln Square has good access to public transit, including the Brown Line and several bus routes. However, transit times are relatively long compared to driving, so improvements in transit efficiency could be beneficial. Car ownership is moderate, and many residents rely on a mix of driving and public transit.",
+    "decision_rationale": "Given the community's moderate disposable income and reliance on both transit and driving, the ideal policy would balance lower costs with improved transit times. A lower fare and moderate driver fee could encourage more transit use, reducing congestion and emissions. A moderate sales tax is acceptable if it leads to better transit services. Therefore, policies with a $0.75 fare and a $0.5 driver fee are prioritized, as they offer a good balance of cost and improved transit times. A 1% sales tax is preferred to ensure adequate funding for transit improvements without overly burdening residents."
+  },
+  "vote": [
+    10,
+    1,
+    19,
+    11,
+    13
+  ]
+}

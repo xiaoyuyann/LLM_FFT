@@ -1,0 +1,16 @@
+{
+  "community_area": "Roseland",
+  "thinking": {
+    "disposable_income": "Roseland has relatively low income levels with median income of $49,808 and 50.1% households earning less than $50,000. This suggests residents are price-sensitive to transportation costs and sales tax increases would significantly impact discretionary spending.",
+    "discretionary_consumption": "With 26.3% households earning less than $25,000 and a per capita income of $24,754, discretionary consumption is limited. Transportation costs represent a significant portion of household budgets, making fare and fee increases particularly burdensome.",
+    "accessibility": "20.1% use transit for work commute while 25.9% have no vehicle access. 66.1% drive alone or carpool. The community needs balanced policies that maintain both transit and driving affordability while improving service quality.",
+    "decision_rationale": "1. Prioritized proposals with lower transit fares ($0.75) given high transit dependency and low incomes. 2. Favored moderate tax rates (0.5-1.0%) to limit impact on discretionary spending. 3. Selected moderate driving fees ($0.50) to improve transit service without overly burdening the 66.1% who drive. 4. Balanced travel time improvements with cost impacts. 5. Considered high proportion of no-vehicle households needing reliable transit."
+  },
+  "vote": [
+    1,
+    10,
+    4,
+    13,
+    19
+  ]
+}

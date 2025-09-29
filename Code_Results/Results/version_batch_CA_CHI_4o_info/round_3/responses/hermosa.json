@@ -1,0 +1,16 @@
+{
+  "community_area": "Hermosa",
+  "thinking": {
+    "disposable_income": "The median income in Hermosa is $66,073, with a per capita income of $27,053. A significant portion of the population earns between $25,000 and $74,999, indicating moderate disposable income levels.",
+    "discretionary_consumption": "With 23.1% of households earning between $25,000 and $49,999 and 19.8% earning between $50,000 and $74,999, discretionary spending is likely limited. The community needs to balance transportation costs with other essential expenses.",
+    "accessibility": "60.9% of residents drive alone, while 17.7% use transit. Car ownership is high, with only 12.5% of households without a vehicle. This suggests a reliance on both driving and transit, with a need for efficient and affordable options.",
+    "decision_rationale": "Given the moderate income levels and reliance on both driving and transit, Hermosa would benefit from policies that reduce travel time and cost without significantly increasing the tax burden. Lower fares and moderate driver fees can encourage transit use, reducing congestion and emissions. A balance between fare, tax, and driver fees is crucial to maintain affordability and improve service quality. The selected policies aim to optimize travel time and cost for both drivers and transit users, while considering the community's income constraints and transportation habits."
+  },
+  "vote": [
+    10,
+    13,
+    19,
+    22,
+    25
+  ]
+}

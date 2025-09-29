@@ -1,0 +1,16 @@
+{
+  "community_area": "Greater Eastwood",
+  "thinking": {
+    "disposable_income": "Greater Eastwood has a median household income around $53,000, which is below Houston's median, suggesting residents are price-sensitive to transportation costs.",
+    "discretionary_consumption": "With moderate income levels and a significant working-class population, residents have limited discretionary spending capacity and are sensitive to both sales tax increases and transportation fees.",
+    "accessibility": "The neighborhood has good access to downtown via multiple bus routes and light rail, with about 20% of residents using public transit for commuting, while most households own at least one car.",
+    "decision_rationale": "1) Prioritized policies with lower transit fares ($0.75) to support transit-dependent residents while maintaining service quality. 2) Favored moderate sales tax (1.0%) to balance transit funding with household budget impacts. 3) Supported moderate driving fees ($0.50) to encourage transit use without overly burdening car-dependent households. 4) Selected policies that achieve significant transit time improvements while keeping costs manageable. 5) Considered the mixed-mode transportation needs of the working population."
+  },
+  "vote": [
+    7,
+    8,
+    16,
+    0,
+    1
+  ]
+}

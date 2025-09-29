@@ -1,0 +1,16 @@
+{
+  "community_area": "Pullman",
+  "thinking": {
+    "disposable_income": "The median income in Pullman is $54,755, with a significant portion of households earning less than $50,000. This suggests a moderate level of disposable income, with a need to be cautious about additional expenses.",
+    "discretionary_consumption": "Given the income distribution, a substantial portion of the community may have limited discretionary spending. Policies that increase costs significantly could strain budgets, especially for those earning less than $25,000.",
+    "accessibility": "With 64% of residents driving alone and 17.6% using transit, both modes are important. However, a notable 16.1% of households have no vehicle, indicating a reliance on public transit. Improving transit times and affordability could benefit these residents.",
+    "decision_rationale": "The decision prioritizes policies that balance affordability with improved transit services. Lower fares and moderate taxes are preferred to minimize financial strain while enhancing transit accessibility. Reducing car travel time is also considered, as a majority drive alone. The chosen policies aim to support those with lower incomes and limited vehicle access, while also considering the overall community's reliance on both driving and transit."
+  },
+  "vote": [
+    10,
+    11,
+    13,
+    14,
+    19
+  ]
+}

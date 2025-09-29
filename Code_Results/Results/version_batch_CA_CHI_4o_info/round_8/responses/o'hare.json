@@ -1,0 +1,16 @@
+{
+  "community_area": "O'Hare",
+  "thinking": {
+    "disposable_income": "O'Hare is a mixed-income area with a range of income levels, but generally has a moderate to high disposable income due to its proximity to the airport and associated employment opportunities.",
+    "discretionary_consumption": "Residents in O'Hare likely have moderate discretionary spending, with a focus on housing, transportation, and leisure activities. The community's proximity to the airport may also influence spending on travel and related services.",
+    "accessibility": "O'Hare has good accessibility to resources and services, with strong transit connections due to the airport and major highways. However, transit times can be long, and driving is a common mode of transportation.",
+    "decision_rationale": "Given the moderate to high disposable income, the community can handle a slight increase in sales tax if it significantly improves transit times. Reducing transit times is crucial due to the current long travel times. A balance between fare, tax, and driving fees is needed to ensure affordability while improving service. Proposals with lower fares and moderate taxes are preferred to maintain affordability for transit users, while moderate driving fees can help reduce congestion and improve transit times."
+  },
+  "vote": [
+    11,
+    14,
+    13,
+    19,
+    22
+  ]
+}

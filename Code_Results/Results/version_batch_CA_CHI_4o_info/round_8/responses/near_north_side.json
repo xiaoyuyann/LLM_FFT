@@ -1,0 +1,16 @@
+{
+  "community_area": "Near North Side",
+  "thinking": {
+    "disposable_income": "The Near North Side has a high median income of $121,562 and a per capita income of $118,674, indicating a relatively affluent community with significant disposable income.",
+    "discretionary_consumption": "With 41.4% of households earning $150,000 and over, the community has a high capacity for discretionary spending. However, 12.3% earn less than $25,000, suggesting some income diversity.",
+    "accessibility": "The community has a high percentage of residents who walk or bike (27.6%) and use transit (18.9%), with 45.6% of households not owning a vehicle. This suggests a strong reliance on public transit and non-motorized transport.",
+    "decision_rationale": "Given the high income levels, the community can absorb higher transit fares and taxes if it results in better services. The focus should be on reducing travel times and improving transit efficiency. Proposals with higher driver fees could reduce congestion, benefiting transit users. The community's reliance on transit and non-vehicle modes suggests prioritizing policies that enhance transit service quality and reduce travel times, even if it means higher costs."
+  },
+  "vote": [
+    11,
+    14,
+    17,
+    23,
+    26
+  ]
+}
