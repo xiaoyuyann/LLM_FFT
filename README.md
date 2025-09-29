@@ -1,5 +1,4 @@
-# LLM_FFT
-## Addressing the alignment problem in transportation policy making: an LLM approach
+# Addressing the alignment problem in transportation policy making: an LLM approach
 Author: Xiaoyu Yan, Tianxing Dai, Yu (Marco) Nie 
 
 
